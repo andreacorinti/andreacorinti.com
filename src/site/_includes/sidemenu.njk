@@ -1,0 +1,11 @@
+<div class="tags tags-rail">
+	<span class="tags-bigger">
+		<a href="/home/" class="tag tag-borderless{% if page.url == '/home/' %} active{% endif %}">Home</a>
+		<a href="/about/" class="tag tag-borderless{% if page.url == '/about/' %} active{% endif %}">About</a>
+	</span>
+	<a href="/projects/" class="tag{% if page.url == '/projects/' %} active{% endif %}"><del>Projects</del></a>
+	<a href="/articles/" class="tag{% if page.url == '/articles/' %} active{% endif %}">Articles</a>
+	<a href="/contact/" class="tag{% if page.url == '/contact/' %} active{% endif %}"><del>Contact</del></a>
+	<a href="/bookmarks/" class="tag{% if page.url == '/bookmarks/' %} active{% endif %}">Bookmarks</a>
+	<a href="/search/" id="search-link" class="tag{% if page.url == '/search' %} active{% endif %}">Search</a>
+</div>

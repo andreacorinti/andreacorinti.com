@@ -1,2 +1,5 @@
 # andreacorinti.com
-source files for my website
+
+Source files for my (future) website.
+
+Readme work in progress!

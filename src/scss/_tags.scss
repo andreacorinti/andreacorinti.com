@@ -1,0 +1,109 @@
+/* Tags */
+.tags {
+	display: inline-block;
+	white-space: nowrap;
+	vertical-align: middle;
+	margin-top: -10px;
+}
+.tags:empty {
+	display: none;
+}
+.tag-inline,
+.tags .tag {
+	border: 1px solid rgba(0, 0, 0, .08);
+	font-size: 10.5px;
+	line-height: 18px;
+	height: auto;
+	text-transform: uppercase;
+	color: #666;
+	padding: 0 4px;
+	margin: 0 5px;
+	vertical-align: middle;
+	display: inline-block;
+	text-decoration: none;
+}
+.tag-inline {
+	font-size: 12px;
+	margin-left: 0;
+}
+.tags .tag:first-child {
+	margin-left: 0;
+}
+.tags .tag:last-child {
+	margin-right: 0;
+}
+.tags .tag:visited {
+	color: rgb(156, 156, 156);
+	text-decoration: none;
+}
+.tags .tag-borderless,
+.tags .tag-borderless:visited {
+	border-color: transparent;
+}
+.tags .tag-cased {
+	text-transform: none;
+}
+.tags .tag-event {
+	border-color: transparent;
+	text-decoration: none;
+	text-transform: none;
+}
+.tags .tag.active,
+.tags .tag.active:visited,
+.tags a[href].tag:hover,
+.tags a[href].tag:visited:hover {
+	background-color: $evidenziatag;
+	color: #fff;
+	border-color: $evidenziatag;
+}
+
+.tags .tag.video,
+.tags .tag.audio {
+	text-transform: lowercase;
+	border-color: transparent;
+}
+.tags .tag.tweet {
+	color: #00c9ff;
+}
+.tags .tag.timeago,
+.tags .tag.postrank,
+.tags .tag.highlight {
+	border-color: transparent;
+}
+.tags .tag.timeago {
+	text-transform: none;
+	margin-left: -15px;
+	border-left: none;
+	border-right: none;
+	color: #777;
+}
+.tags .tag:hover + .tag.timeago {
+	background-image: linear-gradient(90deg, $evidenziatag, #777);
+	background-color: $evidenziatag;
+	color: #fff;
+}
+
+.tags .tag .highlight-star {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+.tags .tag.font-loading {
+	background-color: #f1f1f1;
+}
+.tags .tag + .tag {
+	margin-left: -6px;
+}
+
+.tags.tags-rail {
+	white-space: normal;
+	margin-top: .5em;
+
+	@media (max-width: $bp-narrow) {
+		text-align: center;
+	}
+}
+.tags.tags-rail .tag {
+	margin-right: 0;
+	margin-left: 1px;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,59 @@
+.data-archivio {
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.img-archivio {
+    display: block;
+    border: 0;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.116);
+    margin-bottom: 2em;
+}
+
+.card a:hover {
+    box-shadow: 3px 3px 8px hsl(0, 0%, 80%);
+}
+
+.card-content {
+    padding: 1.4em;
+}
+
+.card-content h2 {
+    margin-top: 0;
+    margin-bottom: .5em;
+    font-weight: bold;
+}
+
+.card-content p {
+    font-size: 80%;
+}
+
+.card-content a {
+    color: $text-color;
+}
+
+/* Flexbox stuff */
+
+/*@media screen and (min-width: 40em) {
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .card {
+        flex: 0 1 calc(50% - 1em);
+    }
+}*/
+
+@media screen and (min-width: 60em) {
+
+    .card {
+        flex: 0 1 calc(25% - 1em);
+    }
+}

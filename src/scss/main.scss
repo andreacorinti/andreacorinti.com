@@ -1,0 +1,262 @@
+@import '_variables';
+@import '_mixins';
+@import url('https://fonts.googleapis.com/css?family=Teko');
+@import '_tags';
+@import '_jumbo'; // index
+@import '_syntax'; // code
+@import '_archivio';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+::-moz-selection {
+  background-color: $accent-color;
+  color: $page-color;
+}
+
+::selection {
+  background-color: $accent-color;
+  color: $page-color;
+}
+
+body {
+  text-align: center;
+  text-rendering: optimizeLegibility;
+  background-color: $page-color;
+  color: mix($text-color, $page-color, 80%);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+
+  img {
+    width: 100%;
+    height: auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+}
+
+.container {
+  padding-bottom: 4em;
+}
+
+// tipografia
+
+h1,
+h2,
+h3 {
+  color: $text-color;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  line-height: 1em;
+  font-family: Teko;
+}
+
+h1 {
+  margin-top: 0.4em;
+  font-size: 3em;
+  line-height: 1em;
+  font-weight: 100;
+  font-family: Teko;
+  text-transform: uppercase;
+  @include bp(mid) {
+    font-size: 4em;
+  }
+  @include bp(wide) {
+    font-size: 4em;
+  }
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.subtitle {
+  margin-top: -3em;
+  padding-bottom: 1em;
+}
+
+ul,
+ol {
+  padding-left: 1em;
+}
+
+a {
+  color: $accent-color;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: $text-color;
+  border-bottom: solid 1px $accent-color;
+}
+
+blockquote {
+  background: #E8E8E8;
+}
+
+blockquote p {
+  font-style: italic;
+}
+
+// tabelle
+
+table {
+  margin-bottom: 1em;
+  width: 100%;
+  font-size: 15px;
+  border-collapse: collapse;
+
+  & + table {
+    margin-top: 1em;
+  }
+}
+
+thead {
+  color: $page-color;
+  background-color: $text-color;
+  border-bottom: 2px solid mix($page-color, $text-color, 25%);
+}
+
+th {
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em;
+  border-bottom: 1px solid mix($page-color, $text-color, 55%);
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}
+
+
+// footer
+footer {
+
+  .solid-footer {
+    font-size: 0.7em;
+    line-height: 1.5;
+    padding: 3em 0;
+  }
+
+  .container {
+    padding: 0;
+  }
+}
+
+// menù
+
+.sidebar {
+
+  background: $text-color;
+  color: $page-color;
+
+  a:link,
+  a:visited,
+  h1 {
+    color: $page-color;
+  }
+
+  header {
+    position: sticky;
+    top: 0;
+  }
+}
+
+.container,
+.sidebar-container {
+  width: 50%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-container {
+  padding-bottom: 4em;
+
+}
+
+// ricerca
+
+.search-ui,
+.teaser {
+  font-size: 1.4em;
+  //margin: 0 0 2em 0;
+  padding: 0.5em 0.5em;
+  border-radius: 3px;
+  background-color: rgba(255, 255, 255, 0.05);
+
+  span {
+    display: block;
+  }
+
+  a {
+    color: #fff;
+  }
+
+}
+
+.search-str {
+  min-width: 80%;
+}
+
+.invisible {
+  display: none;
+}
+
+.search-ui {
+  margin: 1em -1em;
+  padding-top: 1em;
+}
+
+.search-results {
+  font-size: 0.8em;
+  margin-top: 0.5em;
+  a:link {
+    border-bottom: 0;
+  }
+  a:hover {
+    color: $evidenziatag;
+  }
+}
+
+pre {
+  overflow: auto;
+  font-size: 0.8em;
+}
+
+.social {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.medium {
+  background-color: $evidenziatag;
+  border: none;
+  color: $page-color;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  a {
+    color: $text-color;
+    font-weight: bold;
+  }
+}

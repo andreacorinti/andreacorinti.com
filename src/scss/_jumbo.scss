@@ -1,0 +1,117 @@
+.jumbo-container {
+  background-color: $text-color;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+
+  .jumbo-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .jumbo {
+    text-align: left;
+    width: $bp-narrow;
+    height: auto;
+    background: rgb(0, 0, 0);
+    margin-left: 1em;
+    margin-right: 1em;
+
+    @include bp(mid) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    @include bp(wide) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .avatar {
+    flex: 1;
+    flex-direction: row-reverse;
+    width: 100%; //50px
+    height: auto;
+
+    img {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+    }
+
+    @include bp(mid) {
+      width: 100%; //150px
+    }
+
+    @include bp(wide) {
+      width: 100%; //150px
+    }
+  }
+
+  #mit {
+    text-align: right;
+    margin-top: 1.5%;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: $page-color;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    text-align: center;
+  }
+
+  p {
+    color: $page-color;
+    font-size: 2em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  h1 {
+    font-size: 3em;
+    padding-bottom: 0px;
+    margin-bottom: 1%;
+    text-align: center;
+  }
+
+  a:link {
+    text-decoration: none;
+    border-bottom: 0px;
+  }
+
+  a:hover {
+    color: $evidenziatag;
+  }
+
+  .typed {
+    border-bottom: 2px solid #ffffff;
+  }
+
+  .typed-cursor {
+    opacity: 1;
+    animation: blink 0.7s infinite;
+  }
+
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+
+    50% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
+}
