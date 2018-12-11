@@ -1,5 +1,5 @@
 ---
-title: Andrea Corinti
+title: Home
 subtitle: Freelance Developer
 layout: layouts/base.njk
 ---
