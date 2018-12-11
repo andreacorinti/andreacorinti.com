@@ -1,9 +1,9 @@
 ---
 title: Why Facebook is bad
 subtitle: some reasons
-immagine: https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png
+immagine: https://media.wired.com/photos/59265ab9cfe0d93c4742fe78/master/w_2400,c_limit/FacebookNotificationTA.jpg
 date: 2018-12-11
-sommario: "By looking at the situation in Ventimiglia, on the French-Italian border, I instinctively thought of a 2013 indie game..."
+sommario: "I hop that Zucks will not read this..."
 medium: https://medium.com/@Xab/why-all-of-europe-should-play-paper-please-7d2903123bbf
 ---
 

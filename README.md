@@ -6,6 +6,7 @@ Readme work in progress!
 
 - [ ] Implement multilanguage (i18n)
 - [ ] Fix search
+- [ ] Font in site
 - [ ] Post tags (eleventy shortcodes)
 - [ ] Better archive page
 - [ ] CSS for footnotes

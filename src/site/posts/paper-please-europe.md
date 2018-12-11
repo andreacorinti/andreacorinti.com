@@ -3,7 +3,7 @@ title: On Paper Please
 subtitle: and why all of Europe should play it
 immagine: https://cdn-images-1.medium.com/max/800/1*Q18RvDpSLNHpr8LyCqNK2Q.jpeg
 date: 2018-10-23
-sommario: "By looking at the situation in Ventimiglia, on the French-Italian border, I instinctively thought of a 2013 indie game..."
+sommario: "By looking at the situation in Ventimiglia..."
 medium: https://medium.com/@Xab/why-all-of-europe-should-play-paper-please-7d2903123bbf
 ---
 
