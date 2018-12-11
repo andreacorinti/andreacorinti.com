@@ -22,7 +22,7 @@ Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.gith
 
 ## Facebook
 
-I've a profile but I use it only for managing pages, connected account and stuff like that, so I think that it's pointless to link it here.
+I've a profile but I use it only for managing pages, connected account and stuff like that, so I think that it's pointless to link it here since I really don't like Facebook.
 
 ## Babel
 
