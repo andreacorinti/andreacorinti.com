@@ -1,7 +1,7 @@
 ---
 title: English is the language of freedom
 subtitle: but I'm pretty bad at writing in it
-immagine: http://www.foreignstudents.com/sites/default/files/imagecache/blog_515/english_key_on_keyboard_blog_comp.jpg
+immagine: https://www.to.camcom.it/sites/default/files/styles/immagine_grande/public/sito_testata_languagesenglish.png?itok=f6PrJinO
 sommario: "Yep, my English it's not so great awright."
 date: 2018-12-07
 ---
@@ -26,4 +26,3 @@ Easy you, my friend. [^friend]
 Or at least that's what I _feel_.
 
 I mean, it's not like that I can't write some tweets or small sentences...Hell, I can even make a decent amount of pages writing in English and, if I'm not too bored, do a nice grammar revision to correct the eventual mistakes.
-
