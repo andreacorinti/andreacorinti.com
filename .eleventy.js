@@ -14,7 +14,22 @@ module.exports = function (config) {
   // collections
   config.addCollection("articles", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/*.md").reverse();
-});
+  });
+
+  config.addCollection("articoli", function(collection) {
+    return collection.getFilteredByGlob("src/site/posts/ita/*.md").reverse();
+  });
+
+  // note
+  let markdownIt = require("markdown-it");
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true
+  };
+  config.setLibrary("md", markdownIt(options));
+  let markdownItFootnote = require("markdown-it-footnote");
+  let markdownLib = markdownIt(options).use(markdownItFootnote);
 
   return {
     dir: {

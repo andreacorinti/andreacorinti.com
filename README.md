@@ -9,4 +9,7 @@ Readme work in progress!
 - [ ] Post tags (eleventy shortcodes)
 - [ ] Better archive page
 - [ ] CSS for footnotes
+- [ ] Contact page
+- [ ] HTML cv
+- [ ] Project page
 - [x] Launch on Netlify

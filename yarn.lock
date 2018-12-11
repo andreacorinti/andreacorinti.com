@@ -4168,6 +4168,11 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+markdown-it-footnote@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/markdown-it-footnote/-/markdown-it-footnote-3.0.1.tgz#7f3730747cacc86e2fe0bf8a17a710f34791517a"
+  integrity sha1-fzcwdHysyG4v4L+KF6cQ80eRUXo=
+
 markdown-it@^8.4.1:
   version "8.4.1"
   resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-8.4.1.tgz#206fe59b0e4e1b78a7c73250af9b34a4ad0aaf44"
