@@ -34,7 +34,7 @@ public class englishIsCrucial {
 
         if (englishKnowledge == true) {
           System.out.println("Wonderful!");
-        } else if {
+        } else {
           System.out.println("mamma mia!");
         }
     }
