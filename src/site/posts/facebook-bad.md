@@ -1,7 +1,7 @@
 ---
 title: Why Facebook is bad
 subtitle: some reasons
-immagine: https://it.wikipedia.org/wiki/Facebook#/media/File:Facebook_New_Logo_(2015).svg
+immagine: https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png
 date: 2018-12-11
 sommario: "By looking at the situation in Ventimiglia, on the French-Italian border, I instinctively thought of a 2013 indie game..."
 medium: https://medium.com/@Xab/why-all-of-europe-should-play-paper-please-7d2903123bbf
