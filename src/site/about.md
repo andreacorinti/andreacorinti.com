@@ -23,3 +23,14 @@ Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.gith
 ## Facebook
 
 I've a profile but I use it only for managing pages, connected account and stuff like that, so I think that it's pointless to link it here.
+
+## Babel
+
+| Language       | Level                                                                   |
+|----------------|-------------------------------------------------------------------------|
+| it             | Andrea è di madrelingua italiana.                                       |
+| en-3           | Andrea is able to communicate in an advanced level of English.          |
+| es-2           | Andrea puede comunicar en un nivel intermedio de español (rioplatense). |
+| lmo-2          | Andrea a l'è bun de comunicà cunt un Lumbard da nivèll intermedi.       |
+| scn-1          | 'Ndria pò cummunicari c'un sicilianu ôn liveddu vasciu.                 |
+| Lingue Romanze | Andrea può leggere abbastanza bene tutte le lingue romanze.              |
