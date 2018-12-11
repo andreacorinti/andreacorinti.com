@@ -14,7 +14,7 @@ Not only for school, work, travel, or hear the original voices in your favorite 
 
 But because english is **the language of freedom**.
 
-## Don't give me the "America f*ck yeah!" thing please..
+## Spare me the _America f*ck yeah!_ thing please..
 
 Easy you, my friend. [^friend]
 
