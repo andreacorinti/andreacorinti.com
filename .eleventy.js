@@ -30,6 +30,7 @@ module.exports = function (config) {
   config.setLibrary("md", markdownIt(options));
   let markdownItFootnote = require("markdown-it-footnote");
   let markdownLib = markdownIt(options).use(markdownItFootnote);
+  config.setLibrary("md", markdownLib);
 
   return {
     dir: {
