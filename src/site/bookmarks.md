@@ -9,7 +9,7 @@ layout: layouts/base.njk
 | [**11ty**](http://www.11ty.io) | Wonderful static site generator that I've used to make this site |
 | [**Hawksworx**](https://www.hawksworx.com/) | Phil Hawksworth digital home, pure web-dev inspiration |
 | [**The Cutting Room Floor**](https://tcrf.net/) | The world's Debug Room, and game hackers paradise |
-| [**Stallman**](https://stallman.org/) | Digital home of the GNU master wizard |
+| [**EFF**](https://www.eff.org/) |  The leading nonprofit defending digital privacy, free speech, and innovation. |
 | [**FFVII Citadel**](http://www.ff7citadel.com) | One of my all-time favorite Final Fantasy VII sites |
 | [**Radio Garden**](https://radio.garden/) | World's radio station in a gorgeous web page. After discovering it, I was moved by happiness |
 | [**Netwars**](http://www.netwars-project.com/) | Astonishing website (and project) |

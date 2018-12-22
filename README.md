@@ -14,7 +14,7 @@ To do:
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
-- [ ] Fix bare domain
+- [x] Fix bare domain
 - [x] Google Verification
 - [x] Contact page
 - [x] Better archive page
