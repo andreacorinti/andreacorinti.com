@@ -12,7 +12,7 @@ On the web:
 
 Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/cv-eng.pdf) ?
 
-<del>If you want, there's a **HTML** version too!</del>
+<del>If you want, there's a **HTML** version too!</del> -> work in progress
 
 And, even if I don't like the site very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
 
