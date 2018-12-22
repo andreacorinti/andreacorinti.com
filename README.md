@@ -13,6 +13,7 @@ To do:
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
+- [ ] Image Preview on social media
 - [x] Font in site
 - [x] favicon
 - [x] Fix search

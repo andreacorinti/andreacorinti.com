@@ -14,7 +14,7 @@ Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/
 
 <del>If you want, there's a **HTML** version too!</del> -> work in progress
 
-And, even if I don't like the site very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
+And, even if I don't like it very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
 
 🇮🇹 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
@@ -22,7 +22,7 @@ Want to ask me something else ? By all means! [Click here](/contact/) for the co
 
 ## Facebook
 
-I've a profile but I use it only for managing pages, connected account and stuff like that, so I think that it's pointless to link it here since I really don't like Facebook.
+I really don't like Facebook: I've a profile that I use for managing pages, connected account, keep photos and stuff like that, so it's pointless to link it here.
 
 ## Babel
 

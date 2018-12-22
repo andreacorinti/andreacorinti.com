@@ -2,7 +2,7 @@
 title: "Undertale"
 subtitle: "Recensione"
 sommario: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava avere come missione lo starmi sulle balle."
-immagine: https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif
+immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/undertale.jpg
 date: 2018-02-15
 ---
 
@@ -123,7 +123,7 @@ Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogam
 
 ## Letteralmente Profondo
 
-![undertale sans](https://vignette.wikia.nocookie.net/undertale/images/4/44/Sansanimated.gif){: .align-left}
+![undertale sans](https://vignette.wikia.nocookie.net/undertale/images/4/44/Sansanimated.gif)
 
 Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin troppi osanna dal pubblico** [^discorso], dall'altro parliamo di **un gioco cucito su misura dal suo creatore** e che, in quanto tale, risulta impregnato dal gusto _"fatto in casa"_.
 
@@ -135,7 +135,7 @@ La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**
 
 ## Tempistica
 
-![papyrus](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif){: .align-right}
+![papyrus](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif)
 
 Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver individuato **il perfetto momento storico in cui uscire**:
 
