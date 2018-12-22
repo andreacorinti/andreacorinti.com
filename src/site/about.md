@@ -18,7 +18,7 @@ And, even if I don't like the site very much, I'm also on [Linkedin](https://www
 
 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
-<del>Want to ask me something else ? By all means! [Click here](/contact/) for the contact form.</del>
+Want to ask me something else ? By all means! [Click here](/contact/) for the contact form.
 
 ## Facebook
 
