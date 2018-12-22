@@ -11,7 +11,6 @@
   padding: 0;
 }
 
-
 ::-moz-selection {
   background-color: $accent-color;
   color: $page-color;
@@ -264,4 +263,9 @@ pre {
     color: $text-color;
     font-weight: bold;
   }
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
 }
