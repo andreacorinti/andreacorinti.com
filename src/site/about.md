@@ -16,7 +16,7 @@ Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/
 
 And, even if I don't like the site very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
 
-Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
+🇮🇹 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
 Want to ask me something else ? By all means! [Click here](/contact/) for the contact form.
 
