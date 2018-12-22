@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Work in Progress!
+subtitle: For work, comments or anything!
 layout: layouts/base.njk
 ---
 
