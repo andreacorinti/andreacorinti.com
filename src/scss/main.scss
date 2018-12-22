@@ -1,6 +1,6 @@
 @import '_variables';
 @import '_mixins';
-@import url('https://fonts.googleapis.com/css?family=Teko');
+//@import url('https://fonts.googleapis.com/css?family=Teko');
 @import '_tags';
 @import '_jumbo'; // index
 @import '_syntax'; // code
@@ -43,6 +43,13 @@ body {
 
 .container {
   padding-bottom: 4em;
+}
+
+// font
+
+@font-face {
+  font-family: "Teko";
+  src: url("/assets/fonts/teko.woff") format("woff");
 }
 
 // tipografia
