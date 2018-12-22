@@ -4,6 +4,7 @@ Source files for my website.
 
 To do:
 
+- [ ] autoresize code block
 - [ ] social icons
 - [ ] Implement multilanguage (i18n)
 - [ ] Post tags (eleventy shortcodes)

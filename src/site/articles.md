@@ -1,10 +1,8 @@
 ---
 title: Articles
-subtitle: Work in Progress!
+subtitle: Stuff I wrote
 layout: layouts/base.njk
 ---
-
-### [🇮🇹 Clicca qui per gli articoli in Italiano](/articoli)
 
 <div class="flex-container">
 {%- for page in collections.articles -%}
@@ -19,3 +17,5 @@ layout: layouts/base.njk
 </div>
 {%- endfor -%}
 </div>
+
+### [🇮🇹 Clicca qui per gli articoli in Italiano](/articoli)
