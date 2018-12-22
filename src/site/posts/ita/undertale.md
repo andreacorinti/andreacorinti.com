@@ -28,7 +28,7 @@ Dalla sua uscita, **Undertale sembrava avere come missione lo starmi sulle balle
 
 Anche, ma non solo:
 
-C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che [**ho già affrontato un paio d'anni fa**](/2016/jessica-nigri/#infantilismo-maturo) parlando del successo di **Jessica Nigri** allargando il discorso oltre le sue tette. <small>(e sì, è stato faticoso)</small>
+C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che **ho già affrontato un paio d'anni fa** parlando del successo di **Jessica Nigri** allargando il discorso oltre le sue tette. <small>(e sì, è stato faticoso)</small>
 
 ## 'Sto gioco pare partorito da 4chan
 
