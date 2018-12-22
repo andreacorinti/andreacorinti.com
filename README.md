@@ -13,7 +13,7 @@ To do:
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
-- [ ] favicon
+- [x] favicon
 - [x] Fix search
 - [x] Fix bare domain
 - [x] Google Verification

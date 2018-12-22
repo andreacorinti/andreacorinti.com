@@ -11,6 +11,8 @@ module.exports = function (config) {
   config.addPlugin(syntaxHighlight);
   //config.addPlugin(pluginRss);
 
+   config.addPassthroughCopy('assets') // file esterni
+
   // collections
   config.addCollection("articles", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/*.md").reverse();
