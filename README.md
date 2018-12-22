@@ -1,16 +1,21 @@
 # andreacorinti.com
 
-Source files for my (future) website.
+Source files for my website.
 
-Readme work in progress!
+To do:
 
+- [ ] social icons
 - [ ] Implement multilanguage (i18n)
 - [ ] Fix search
 - [ ] Font in site
 - [ ] Post tags (eleventy shortcodes)
-- [ ] Better archive page
-- [ ] CSS for footnotes
-- [ ] Contact page
+- [ ] better CSS for contact form
+- [ ] better CSS for footnotes
 - [ ] HTML cv
+- [ ] Update PDF cv
 - [ ] Project page
+- [ ] Fix bare domain
+- [ ] Google Verification
+- [x] Contact page
+- [x] Better archive page
 - [x] Launch on Netlify
