@@ -15,7 +15,7 @@ To do:
 - [ ] Update PDF cv
 - [ ] Project page
 - [ ] Fix bare domain
-- [ ] Google Verification
+- [x] Google Verification
 - [x] Contact page
 - [x] Better archive page
 - [x] Launch on Netlify
