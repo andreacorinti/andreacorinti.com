@@ -9,8 +9,10 @@ layout: layouts/base.njk
     <label>Name <input type="text" name="name" /></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>Email <input type="email" name="email" required /></label>
   </p>
+  <textarea placeholder="Type your Message Here...." tabindex="5" required>
+  </textarea>
   <p>
     <button type="submit">Send</button>
   </p>
