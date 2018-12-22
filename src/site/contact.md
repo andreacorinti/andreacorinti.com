@@ -12,7 +12,9 @@ layout: layouts/base.njk
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>
+    <textarea name="message" placeholder="Write here your message / Scrivi qui il tuo messaggio"></textarea>
+    </label>
   </p>
   <p>
     <button type="submit">Send</button>
