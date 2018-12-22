@@ -6,7 +6,6 @@ To do:
 
 - [ ] social icons
 - [ ] Implement multilanguage (i18n)
-- [ ] Fix search
 - [ ] Font in site
 - [ ] Post tags (eleventy shortcodes)
 - [ ] better CSS for contact form
@@ -14,6 +13,8 @@ To do:
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
+- [ ] favicon
+- [x] Fix search
 - [x] Fix bare domain
 - [x] Google Verification
 - [x] Contact page
