@@ -8,7 +8,7 @@ layout: layouts/base.njk
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**11ty**](http://www.11ty.io) | Wonderful static site generator that I've used to make this site |
 | [**Hawksworx**](https://www.hawksworx.com/) | Phil Hawksworth digital home, pure web-dev inspiration |
-| [**Internet Archive**](https://archive.org/) | My home. | 
+| [**Internet Archive**](https://archive.org/) | My home. |
 | [**The Cutting Room Floor**](https://tcrf.net/) | The world's Debug Room, and game hackers paradise |
 | [**EFF**](https://www.eff.org/) |  The leading nonprofit defending digital privacy, free speech, and innovation. |
 | [**FFVII Citadel**](http://www.ff7citadel.com) | One of my all-time favorite Final Fantasy VII sites |
@@ -16,6 +16,8 @@ layout: layouts/base.njk
 | [**Netwars**](http://www.netwars-project.com/) | Astonishing website (and project) |
 | [**Shmuplations**](https://shmuplations.com/) | English translations of many interviews featuring A LOT of Japanese game developers |
 | [**Grumpy Gamer**](https://grumpygamer.com/)|Look behind you! a three-headed Ron Gilbert's blog!|
+
+<div lang="it-IT" xml:lang="it-IT">
 
 ## 🇮🇹 In Italiano
 
@@ -30,3 +32,5 @@ layout: layouts/base.njk
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
 | [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
 | [**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|
+
+</div>
