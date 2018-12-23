@@ -9,7 +9,7 @@ excludeFromSitemap: true
   {% set absoluteUrl %}{{ page.url }}{% endset %}
   <url>
     <loc>https://andreacorinti.com{{ page.url }}</loc>
-    <lastmod>{{ page.date | dateDisplay }}</lastmod>
+    <lastmod>{{ post.date | rssDate }}</lastmod>
   </url>
 {%- endif %}
 {%- endfor %}

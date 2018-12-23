@@ -1,5 +1,5 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight"); // syntax
-//const pluginRss = require("@11ty/eleventy-plugin-rss"); // rss
+const pluginRss = require("@11ty/eleventy-plugin-rss"); // rss
 
 module.exports = function (config) {
 
@@ -11,7 +11,9 @@ module.exports = function (config) {
   config.addPlugin(syntaxHighlight);
   //config.addPlugin(pluginRss);
 
-   config.addPassthroughCopy('assets') // file esterni
+  config.addPlugin(pluginRss); // rss
+
+  config.addPassthroughCopy('assets') // file esterni
 
   // collections
   config.addCollection("articles", function(collection) {
