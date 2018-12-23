@@ -9,6 +9,13 @@
   <title>{{ title }} | Andrea Corinti</title>
   <meta name="google-site-verification" content="kbpfaezJ3UNwphwLZGewT45QLGWrZ5x2lgkokNokCN0" />
   {% include "favicons.njk" %}
+  <!--social-meta-->
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ sommario }}">
+  <meta property="og:image" content="{{ immagine }}">
+  <meta property="og:url" content="https://andreacorinti.com{{ page.url }}">
+  <meta name="twitter:card" content="{{ immagine }}">
+
 </head>
 
 <body class="{{ bodyClass }}">
