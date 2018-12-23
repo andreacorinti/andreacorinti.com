@@ -44,7 +44,7 @@ For less "official" communications, you can easily find me on [@AndreaCorinti](h
 
 I really don't like Facebook: I've a profile that I'm only using for managing pages, connected accounts, old photos and stuff like that, so I find it's pointless to link it here...
 
-If you need it for **_business reasons_** however: [contact me]((/contact/)), send me your info and I'll happily meet you in the Zuckerberg lands!
+If you need it for **_business reasons_** however: [contact me](/contact/), send me your info and I'll happily meet you in the Zuckerberg lands!
 
 ## 🗺️ Babel
 
