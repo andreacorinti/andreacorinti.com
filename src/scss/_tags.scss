@@ -32,10 +32,7 @@
 .tags .tag:last-child {
 	margin-right: 0;
 }
-.tags .tag:visited {
-	color: rgb(156, 156, 156);
-	text-decoration: none;
-}
+
 .tags .tag-borderless,
 .tags .tag-borderless:visited {
 	border-color: transparent;
@@ -49,7 +46,6 @@
 	text-transform: none;
 }
 .tags .tag.active,
-.tags .tag.active:visited,
 .tags a[href].tag:hover,
 .tags a[href].tag:visited:hover {
 	background-color: $evidenziatag;
