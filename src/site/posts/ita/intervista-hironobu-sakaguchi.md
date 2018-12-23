@@ -140,7 +140,7 @@ Questo probabilmente conta per i giochi che ho realizzato in passato e realizzer
 
 Ma quello che spero che la gente tragga dai miei videogame è un'energia positiva alla fine di ciascun gioco, la sensazione che si siano trovati di fronte ad una bella storia. Un altro aspetto chiave per me è la "densità", come i vari contenuti sono distribuiti durante l'esperienza di gioco. Non voglio che le persone percepiscano la sensazione di fare la stessa cosa a ripetizione. Voglio che vivano un esperienza interamente appassionante dall'inizio alla fine. [^densita]
 
-[^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](/2016/final-fantasy-ix-remastered/)
+[^densita]: Questo discorso lo rapporto bene con un concetto che ho eposto di recente parlando di [Final Fantasy IX](/posts/ita/final-fantasy-ix-remastered/)
 
 **Pensa che il lieto fine rappresenti una sorta di obbligo in un videogame ?**
 

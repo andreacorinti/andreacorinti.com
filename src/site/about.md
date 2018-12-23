@@ -8,7 +8,7 @@ On the web:
 
 {% include "social.njk" %}
 
-## Resume
+## 📄 Resume
 
 Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/cv-eng.pdf) ?
 
@@ -16,15 +16,18 @@ Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/
 
 And, even if I don't like it very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
 
+Want to hire me, or ask something in particular? By all means!
+[**Click here**](/contact/) for the contact form.
+
+For less "official" communications, you can easily find me on [@AndreaCorinti](https://twitter.com/AndreaCorinti).
+
 🇮🇹 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
-Want to ask me something else ? By all means! [Click here](/contact/) for the contact form.
+## ☠️ Facebook
 
-## Facebook
+I really don't like Facebook: I've a profile that I'm only using for connected accounts, old photos and stuff like that, so it's pointless to link it here.
 
-I really don't like Facebook: I've a profile that I use for managing pages, connected account, keep photos and stuff like that, so it's pointless to link it here.
-
-## Babel
+## 🗺️ Babel
 
 | Language       | Level                                                                   |
 |----------------|-------------------------------------------------------------------------|
