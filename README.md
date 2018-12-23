@@ -18,7 +18,7 @@ To do:
 - [ ] Update PDF cv
 - [ ] Project page
 - [ ] <div lang="it-IT" xml:lang="it-IT"> for post
-- [ ] Image Preview on social media
+- [x] Image Preview on social media
 - [x] mobile margin size
 - [x] fix card archivio
 - [x] Font in site
