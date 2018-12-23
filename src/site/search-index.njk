@@ -3,7 +3,7 @@ permalink: search.json
 excludeFromSitemap: true
 ---
 {"search" : [
-{%- for item in collections.all -%}
+{%- for item in collections.articles -%}
   {
     "url" : "{{ item.url }}",
     "title" : "{{ item.data.title }}",
