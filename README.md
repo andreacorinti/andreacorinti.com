@@ -1,3 +1,7 @@
+---
+excludeFromSitemap: true
+---
+
 # andreacorinti.com
 
 Source files for my website.
@@ -6,7 +10,6 @@ To do:
 
 - [ ] mobile iframe
 - [ ] broken link control
-- [ ] sitemap
 - [ ] custom nav in home
 - [ ] autoresize code block
 - [ ] social icons
@@ -18,6 +21,9 @@ To do:
 - [ ] Update PDF cv
 - [ ] Project page
 - [ ] <div lang="it-IT" xml:lang="it-IT"> for post
+- [ ] check rss
+- [x] rss
+- [x] sitemap
 - [x] Image Preview on social media
 - [x] mobile margin size
 - [x] fix card archivio
