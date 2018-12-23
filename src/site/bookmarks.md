@@ -8,6 +8,7 @@ layout: layouts/base.njk
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**11ty**](http://www.11ty.io) | Wonderful static site generator that I've used to make this site |
 | [**Hawksworx**](https://www.hawksworx.com/) | Phil Hawksworth digital home, pure web-dev inspiration |
+| [**Internet Archive**](https://archive.org/) | My home. | 
 | [**The Cutting Room Floor**](https://tcrf.net/) | The world's Debug Room, and game hackers paradise |
 | [**EFF**](https://www.eff.org/) |  The leading nonprofit defending digital privacy, free speech, and innovation. |
 | [**FFVII Citadel**](http://www.ff7citadel.com) | One of my all-time favorite Final Fantasy VII sites |
@@ -24,7 +25,8 @@ layout: layouts/base.njk
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
-| [**Retroedicola**](https://www.retroedicola.it/) | Anche qui, da _pasionario_ dell'archeologia videoludica non posso non consigliarla |
+| [**Retroedicola**](http://www.retroedicola.it/) | Anche qui, da _pasionario_ dell'archeologia videoludica non posso non consigliarla |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
 | [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
+| [**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|

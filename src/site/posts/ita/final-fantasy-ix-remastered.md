@@ -1,6 +1,7 @@
 ---
 title: "Esplorando Final Fantasy IX"
 subtitle: "Il mio ritorno a Gaia in FFIX Remastered"
+sommario: "Molto spesso mi ritrovo a fare un discorso che suona più o meno così: I Final Fantasy dell'era Playstation..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images//esplorando-final-fantasy-ix.jpg
 date: 2016-12-24
 ---

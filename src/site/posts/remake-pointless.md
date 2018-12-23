@@ -1,8 +1,8 @@
 ---
 title: Why remake are pointless
-subtitle: not always, but close
+subtitle: If you're not the one selling them
 immagine: https://www.fortressofdoors.com/content/images/2015/12/ffvi_figaro_castle_compare.png
-sommario: "My god did the FFVI Steam version sucks or WHAT"
+sommario: "If you're not the one selling them"
 date: 2018-12-07
 ---
 
@@ -16,7 +16,7 @@ Well, you've got two option:
 
 ![monkey island special edition](https://cdns.kinguin.net/media/category/s/s/ss_469e2ea77efb4f87e7f9bbc58f58adf9570e5274.1920x1080-1024.jpg)
 
-or 
+or
 
 ## The Original
 
@@ -40,4 +40,6 @@ Generally speaking, **remastered tend to be a good thing** for all the parties i
 
 - **To the devs**: realize a "polished" version of a game usually cost a lot less than start blank with an all new project (and with the fielity issue)
 - **To gamers**: you don't have to worry about **compatibility issues**, or find an old still-working console
-- **First timers**: wonderful games like _Xenogears_ never got officialy released in Europe (can you belive it? Come on Square Enix do something!), _Final Fantasy Tactics_ come the first time with the PSP porting 
+- **First timers**: wonderful games like _Xenogears_ never got officialy released in Europe (can you belive it? Come on Square Enix do something!), _Final Fantasy Tactics_ come the first time with the PSP porting
+
+(wip)

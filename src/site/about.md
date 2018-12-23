@@ -8,6 +8,18 @@ On the web:
 
 {% include "social.njk" %}
 
+## Ciao!
+
+```java
+public class javaWelcome {
+
+    public static void main(String[] args) {
+        System.out.println("And welcome chez Andrea Corinti's");
+    }
+
+}
+```
+
 ## 📄 Resume
 
 Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/cv-eng.pdf) ?
@@ -23,9 +35,16 @@ For less "official" communications, you can easily find me on [@AndreaCorinti](h
 
 🇮🇹 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
+## Certifications
+
+![google](/assets/cv/google1.jpg)
+![freecodecamp responsive webdesign](/assets/cv/freecodecamp1.png)
+
 ## ☠️ Facebook
 
-I really don't like Facebook: I've a profile that I'm only using for connected accounts, old photos and stuff like that, so it's pointless to link it here.
+I really don't like Facebook: I've a profile that I'm only using for managing pages, connected accounts, old photos and stuff like that, so I find it's pointless to link it here...
+
+If you need it for **_business reasons_** however: [contact me]((/contact/)), send me your info and I'll happily meet you in the Zuckerberg lands!
 
 ## 🗺️ Babel
 

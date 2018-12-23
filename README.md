@@ -4,6 +4,10 @@ Source files for my website.
 
 To do:
 
+- [ ] mobile iframe
+- [ ] broken link control
+- [ ] sitemap
+- [ ] custom nav in home
 - [ ] autoresize code block
 - [ ] social icons
 - [ ] Implement multilanguage (i18n)
@@ -13,7 +17,10 @@ To do:
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
+- [ ] <div lang="it-IT" xml:lang="it-IT"> for post
 - [ ] Image Preview on social media
+- [x] mobile margin size
+- [x] fix card archivio
 - [x] Font in site
 - [x] favicon
 - [x] Fix search

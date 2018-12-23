@@ -1,11 +1,12 @@
 ---
 title: "Loveless e Final Fantasy VIII"
 subtitle: Esplorando Squaresoft
+sommario: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/loveless.jpg
 date: 2016-01-02
 ---
 
-**Attenzione:** anche se non dovrebbero esserci spoiler particolari, per sicurezza la lettura è sconsigliata a chi non dovesse aver terminato Final Fantasy VII e Final Fantasy VIII.
+_**Attenzione:** anche se non dovrebbero esserci spoiler particolari, per sicurezza la lettura è sconsigliata a chi non dovesse aver terminato Final Fantasy VII e Final Fantasy VIII._
 
 Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire:
 

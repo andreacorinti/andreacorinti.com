@@ -1,6 +1,7 @@
 ---
 title: "Akira e Final Fantasy VII"
 subtitle: "Di moto, bombe atomiche e teppismo. Ma non solo"
+sommario: Penso a questo post da circa un annetto, da quando cioè lessi per la prima volta il manga del capolavoro di Katsuhiro Otomo...
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/akira-ff7.jpg
 date: 2017-03-14
 ---

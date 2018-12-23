@@ -4,6 +4,12 @@ pageClass: posts
 templateEngineOverride: njk, md
 ---
 
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ sommario }}">
+<meta property="og:image" content="{{ immagine }}">
+<meta property="og:url" content="https://andreacorinti.com{{ page.url }}">
+<meta name="twitter:card" content="{{ immagine }}">
+
 <p class="date">
   🕑 <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>

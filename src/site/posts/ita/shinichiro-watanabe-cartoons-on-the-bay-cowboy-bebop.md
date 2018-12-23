@@ -1,6 +1,7 @@
 ---
 title: "Incontro con Shin'ichiro Watanabe"
 subtitle: Cartoons on the Bay - Torino 2017
+sommario: "Reportage sull'evento organizzato da Rai Com con ospite Shin'ichirō Watanabe, il regista di Cowboy Bebob! Preciso che il post sarà suddiviso in due parti..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/shinichiro-watanabe-cartoons-on-the-bay.jpg
 date: 2017-04-09
 ---
@@ -21,7 +22,7 @@ Manco a farlo apposta, nel 2015 io scrissi un post che analizzava **il rapporto 
 
 ## Adattamenti Occidentali
 
-La domanda prendeva esplicitamente in causa il recente live-action di _Ghost in the Shell_ ([qui la mia recensione](/ghost-in-the-shell-film-2017-recensione/)), e la risposta di Sensei Watanabe è stata garbatamente lapidaria:
+La domanda prendeva esplicitamente in causa il recente live-action di _Ghost in the Shell_ ([qui la mia recensione](/posts/ita/ghost-in-the-shell-film-2017-recensione/)), e la risposta di Sensei Watanabe è stata garbatamente lapidaria:
 
 > Io penso che gli adattamenti dovrebbero rispettare le intenzioni dell'autore originale.
 
