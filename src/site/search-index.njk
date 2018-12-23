@@ -2,7 +2,7 @@
 permalink: search.json
 ---
 {"search" : [
-{%- for item in collections.articles -%}
+{%- for item in collections.all -%}
   {
     "url" : "{{ item.url }}",
     "title" : "{{ item.data.title }}",
