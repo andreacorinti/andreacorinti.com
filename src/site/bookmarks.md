@@ -7,10 +7,10 @@ layout: layouts/base.njk
 | Website | Description |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**11ty**](http://www.11ty.io) | Wonderful static site generator that I've used to make this site |
-| [**Hawksworx**](https://www.hawksworx.com/) | Phil Hawksworth digital home, pure web-dev inspiration |
 | [**Internet Archive**](https://archive.org/) | My home. |
 | [**The Cutting Room Floor**](https://tcrf.net/) | The world's Debug Room, and game hackers paradise |
 | [**EFF**](https://www.eff.org/) |  The leading nonprofit defending digital privacy, free speech, and innovation. |
+| [**Hawksworx**](https://www.hawksworx.com/) | Phil Hawksworth digital home, pure web-dev inspiration |
 | [**FFVII Citadel**](http://www.ff7citadel.com) | One of my all-time favorite Final Fantasy VII sites |
 | [**Radio Garden**](https://radio.garden/) | World's radio station in a gorgeous web page. After discovering it, I was moved by happiness |
 | [**Netwars**](http://www.netwars-project.com/) | Astonishing website (and project) |
@@ -31,6 +31,7 @@ layout: layouts/base.njk
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
 | [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
+|[**Come Non Detto**](https://leortola.wordpress.com/)|il blog dove Leo Ortolani flette i muscoli|
 | [**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|
 
 </div>

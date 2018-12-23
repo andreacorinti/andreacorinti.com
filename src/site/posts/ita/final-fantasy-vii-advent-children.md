@@ -21,11 +21,12 @@ Inizio portando un po' d'esperienza personale.
 Nel **2005**, mentre alcuni fortunelli poterono godere della proiezione in quel di Mestre, io vivevo ancora in Argentina e stavo allegramente impazzendo.
 
 <figure>
-	<img src="/gallery/advent-children/mar-del-plata.jpg" alt="Mar del plata">
-	<figcaption>Buscando Locutorios en Mar del Plata. Presa da google maps perché non trovo foto decenti della zona urbana</figcaption>
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/mar-del-plata.jpg" alt="Mar del plata">
 </figure>
 
-Ricordo ancora come se fosse ieri le mie spedizioni quotidiane negli Internet Point, scaricando **trailer su trailer** da siti come [_Phoenix Down_](https://www.phoenixdown.it/) per poi masterizzarmeli su dvd e rivedermeli nel mio vecchio portatile, fantasticando su quello che all'epoca risultava, per le mie disponibilità, un film introvabile.
+_Buscando Locutorios en Mar del Plata. Presa da google maps perché non trovo foto decenti della zona urbana_
+
+Ricordo ancora come se fosse ieri le mie spedizioni quotidiane negli Internet Point, scaricando **trailer su trailer** da siti come _Phoenix Down_ e _Your Final Fantasy Community_ per poi masterizzarmeli su dvd e rivedermeli nel mio vecchio portatile, fantasticando su quello che all'epoca risultava, per le mie disponibilità, un film introvabile.
 
 E onestamente, **non credo di aver mai voluto vedere un film così tanto.**
 
@@ -113,8 +114,9 @@ Gli anni erano passati tanto per me quanto per Cloud e soci.
 
 <figure>
 	<img src="https://i.ytimg.com/vi/np3gh2qnXqQ/hqdefault.jpg" alt="Final Fantasy VII finale">
-	<figcaption>Ok, prima di questo, vabbè come siete pignoli pure voi oh...</figcaption>
 </figure>
+
+_Ok, prima di questo, vabbè come siete pignoli pure voi oh..._
 
 ## Comprensione
 
@@ -123,18 +125,20 @@ Averlo amato in quel modo lì **non significa certo che il film mi fosse _piaciu
 Intanto c'avevo capito molto poco, e **molte scene già m'irritavano terribilmente.**
 
 <figure>
-	<img src="/gallery/advent-children/sephirothpaff.jpg" alt="Sephiroth Paff">
-<figcaption>Soprattutto questa...</figcaption>
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/sephirothpaff.jpg" alt="Sephiroth Paff">
 </figure>
+
+_Soprattutto questa..._
 
 Poi, il fatto che tale **Denzel** avesse più spazio del gruppo originale, che **Reno e Rude** fossero ridotti a mere macchiette e che tutto trasparisse così mestamente serio, buio e desaturato mi diede subito da pensare.[^reno]
 
 <figure>
-	<img src="/gallery/advent-children/reno.jpg" alt="Reno">
-<figcaption>Oh certo, simpaticissimo sogno bagnato delle ragazzine. Un Jack Sparrow giappo. ANDATE A DIRLO A WEDGE, JESSE, BIGGS E TUTTI GLI ABITANTI DEL SETTORE 7, STRONZI</figcaption>
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/reno.jpg" alt="Reno">
 </figure>
 
-[^reno]: a scanso di equivoci: io Reno lo adoro eh, ma proprio quello stronzo e bastardo del gioco originale.
+_Oh certo, simpaticissimo sogno bagnato delle ragazzine. Un Jack Sparrow giappo. ANDATE A DIRLO A WEDGE, JESSE, BIGGS E TUTTI GLI ABITANTI DEL SETTORE 7, STRONZI_
+
+[^reno]: a scanso di equivoci: io Reno lo adoro eh, ma quello stronzo e bastardo del gioco originale.
 
 C'era qualcosa che non andava...
 
@@ -143,14 +147,15 @@ C'era qualcosa che non andava...
 Ma questa scena, effettivamente splendida (forse l'unica che salvo ancora oggi) ti faceva dimenticare di tutto.
 
 <figure>
-	<img src="/gallery/advent-children/bahamut.jpg" alt="Bahamut">
-<figcaption>Meno il fatto che questo al massimo è il Bahamut di FFX, INFAMI BASTARDI! </figcaption>
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/bahamut.jpg" alt="Bahamut">
 </figure>
+
+_Meno il fatto che questo al massimo è il Bahamut di FFX, INFAMI BASTARDI!_
 
 Giocava col tuo cuore, questo Advent Children.
 
 <figure>
-	<img src="/gallery/advent-children/Aerith.png" alt="Aerith">
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/Aerith.png" alt="Aerith">
 </figure>
 
 E il guaio è che, beh, **non lo faceva manco tanto bene.**
@@ -162,7 +167,7 @@ Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilati
 Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialoghi nebulosi e le spiegazioni farlocche.**
 
 <figure>
-	<img src="/gallery/advent-children/seph.png" alt="Sephiroth">
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/seph.png" alt="Sephiroth">
 </figure>
 
 È allora che ti senti ingannato e tradito, rivedendolo.
@@ -174,7 +179,7 @@ Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero 
 Ma anche che, con un regista diverso da **Tetsuya Nomura** ed un insostenibile passaggio di testimone in meno, **forse forse Advent Children avrebbe pure potuto tenere botta.**
 
 <figure>
-	<img src="/gallery/advent-children/cloudtelefonocasa.jpg" alt="Cloud telefono casa">
+	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/cloudtelefonocasa.jpg" alt="Cloud telefono casa">
 </figure>
 
 (Forse.)
