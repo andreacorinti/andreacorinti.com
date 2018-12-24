@@ -20,7 +20,7 @@ To do:
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
-- [ ] <div lang="it-IT" xml:lang="it-IT"> for post
+- [ ] div lang="it-IT" xml:lang="it-IT" for post
 - [ ] check rss
 - [x] rss
 - [x] sitemap

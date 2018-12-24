@@ -18,9 +18,9 @@ Benvenuti nell' **angolo italiano**, dove tenterò di raccogliere le varie cosac
   <div class="card-main">
     <a href="{{ page.url }}">
     <img src="{{ page.data.immagine }}" alt="{{ page.data.title }}" title="{{ page.data.title }}" class="img-archivio"></a>
+      <div class="card-date">{{ page.data.date | dateDisplay }}</div>
     <div class="main-description">{{ page.data.sommario }}</div>
   </div>
-  <div class="card-date">{{ page.data.date | dateDisplay }}</div>
 </div>
 {%- endfor -%}
 </div>

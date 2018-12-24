@@ -8,30 +8,31 @@
   width: 150px;                 /* Set width of cards */
   display: flex;                /* Children use Flexbox */
   flex-direction: column;       /* Rotate Axis */
-  border: 1px solid $evidenziatag;    /* Set up Border */
-  border-radius: 4px;           /* Slightly Curve edges */
+  //border: 1px solid $evidenziatag;    /* Set up Border */
+  //border-radius: 4px;           /* Slightly Curve edges */
   overflow: hidden;             /* Fixes the corners */
-  margin: 5px;                  /* Add space between cards */
+  margin: 4px;                  /* Add space between cards */
 }
 
 .card-header {
-  color: $accent-color;
+  color: $page-color;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
-  border-bottom: 1px solid $accent-color;
-  background-color: rgba( $evidenziatag, .3);
-  padding: 15px 5px;
-  min-height: 40px;
+  //border: 3px solid $accent-color;
+  background-color: $evidenziatag;
+  padding: 10px 5px;
+  height: 50px;
+	text-shadow: 2px 2px 2px #000000;
 }
 
 .card-date {
   color: $evidenziatag;
   text-align: center;
   font-size: 10px;
-  border-top: 1px solid $evidenziatag;
-  padding-top: 1px;
-  padding-bottom: 5px;
+  //border-top: 1px solid $evidenziatag;
+  padding-top: 5px;
+  //padding-bottom: 5px;
 }
 
 .card-main {
@@ -48,17 +49,20 @@
 .img-archivio {
   height: 150px;
   width: auto;
+	padding: 0;
 }
 
 .img-archivio:hover {
   opacity: 0.5;
+	   box-shadow: 0 0 2px 1px $accent-color;
 }
 
 .main-description {
   color: $accent-color;
   font-size: 12px;
-  text-align: center;
-  padding-bottom: 10px;
+  text-align: left;
+  //padding-bottom: 10px;
+	padding: 5px;
 	max-height: 150px;
 	min-height: 150px;
 }
