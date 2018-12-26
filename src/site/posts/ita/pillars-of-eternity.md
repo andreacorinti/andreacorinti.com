@@ -65,7 +65,7 @@ Per carità, all'inizio può anche far salire la lacrimuccia rivedere le care ma
 ## Spunti da Master
 
 <figure>
-	<img src="https://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/b/ba/Scripted-interaction-climbing-rope-screen.jpg" alt="pillars of eternity recensione">
+	<img src="https://i.ytimg.com/vi/9yw8mfdqIeQ/maxresdefault.jpg" alt="pillars of eternity recensione">
 </figure>
 
 O anche da Libro Game:
@@ -129,10 +129,6 @@ Gli 8 personaggi _precotti_ per formare il nostro gruppo sono scritti tutti medi
 - **Durance** è probabilmente il personaggio più riuscito, originale ed interessante del party...anche se per molti giocatori non risulterà proprio proprio quel che si dice un fenomeno di simpatia (io personalmente lo adoro, ma vabbè)
 
 ## Ambientazione
-
-<figure>
-	<img src="https://hydra-media.cursecdn.com/pillarsofeternity.gamepedia.com/d/d8/WorldMap.jpg" alt="pillars of eternity recensione">
-</figure>
 
 Che _Eora_ riprenda a piene mani dai Forgotten Realms e la Foresta di Dyr risulti una pittoresca discendente della Costa della Spada è chiaro come il sole, ma l'idea di mischiare le carte in tavola del fantasy classico inserendoci una connotazione prossima all'era rinascimentale, con rimandi all'epoca coloniale, ma anche preistorica (!) funziona parecchio:
 
