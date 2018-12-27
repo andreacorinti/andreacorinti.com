@@ -6,6 +6,19 @@
   top: 0px;
   left: 0px;
 
+  #homelink {
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Teko;
+    a:link, a:visited {
+      color: $evidenziatag;
+    }
+    a:hover {
+      color: $accent-color;
+    }
+  }
+
   .jumbo-wrap {
     display: flex;
     align-items: center;
@@ -94,10 +107,11 @@
   a:link {
     text-decoration: none;
     border-bottom: 0px;
+    color: $evidenziatag;
   }
 
   a:hover {
-    color: $evidenziatag;
+    color: $accent-color;
   }
 
   .typed {
