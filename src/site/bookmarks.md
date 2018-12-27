@@ -25,6 +25,7 @@ layout: layouts/base.njk
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Valigia blu**](https://www.valigiablu.it/) | Uno dei pochi siti d'informazione italiana che apprezzo |
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
+| [**In bianco e nerd**](https://inbiancoenerd.com/) | Blog e progetto meraviglioso di Francesco Mugnai |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
 | [**Retroedicola**](http://www.retroedicola.it/) | Anche qui, da _pasionario_ dell'archeologia videoludica non posso non consigliarla |
