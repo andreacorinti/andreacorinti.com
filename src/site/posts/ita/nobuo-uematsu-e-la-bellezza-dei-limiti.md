@@ -61,6 +61,7 @@ Non è certo un caso se i videogiochi più originali e creativi del nostro perio
 <figure>
 <img src='https://1.bp.blogspot.com/-GO_4c5R54R4/Vf_DfZV4mkI/AAAAAAAAMlQ/SKYX2Xq9NmI/s1600/ac-edge-gel_180011.jpg' alt='assasin-creed'>
 </figure>
+
 _Assassin's Creed e quel che si dice "mercificazione coatta"_
 
 La verità è che **oggi una major delle softwarehouse può benissimo permettersi di rilasciare un titolo di prima fascia anche se buggato e finito a metà**, oltre che (soprattutto) dalla tracotante banalità videogiocosa...questo perché, altrettanto banalmente, **massima parte dell'investimento legato ad un videogioco finisce in pubblicità.**

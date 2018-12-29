@@ -18,9 +18,10 @@ templateEngineOverride: njk, md
     🖊️ Any thougts? Let me now on <a href="{{ medium }}" target="blank">medium</a>!
     </p>
     {%- endif -%}-->
+
     <!--commento-->
-    <div id="commento"></div>
-    <script src="https://cdn.commento.io/js/commento.js"></script>
+    <!--<div id="commento"></div>
+    <script src="https://cdn.commento.io/js/commento.js"></script>-->
 
   </div>
 </main>
