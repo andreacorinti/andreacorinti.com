@@ -13,11 +13,11 @@ templateEngineOverride: njk, md
 <main>
   {{ content | safe }}
   <div class="footnote">
-    {%- if medium -%}
+    <!--{%- if medium -%}
     <p class="medium">
     🖊️ Any thougts? Let me now on <a href="{{ medium }}" target="blank">medium</a>!
     </p>
-    {%- endif -%}
+    {%- endif -%}-->
     <!--commento-->
     <div id="commento"></div>
     <script src="https://cdn.commento.io/js/commento.js"></script>
