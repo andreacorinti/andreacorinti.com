@@ -287,8 +287,19 @@ textarea {
   height: 150px;
 }
 
-iframe {
-  max-width: 100vw;
-  max-height: 56.25vw;
-  /* 315/560 = .5625 */
+/* Iframe */
+
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+}
+
+.iframe-responsive {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }

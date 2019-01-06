@@ -24,6 +24,12 @@ module.exports = function (config) {
     return collection.getFilteredByGlob("src/site/posts/ita/*.md").reverse();
   });
 
+// iframe
+
+  eleventyConfig.addLiquidShortcode("youtube", function(slug) {
+  return `<div class="iframe-container"><div class="fluid-width-video-wrapper"><iframe class="iframe-responsive" src="https://www.youtube.com/embed/${slug}/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>`;
+});
+
   // note
   let markdownIt = require("markdown-it");
   let options = {
