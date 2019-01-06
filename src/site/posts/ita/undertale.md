@@ -68,7 +68,7 @@ E in questo senso sono stato piacevolmete sorpreso:
 
 **La creatività ed il "gusto artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto:
 
-{% youtube "tz82xbLvK_k" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tz82xbLvK_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Tanto trama quanto gameplay, grafica e sonoro risultano strumenti perfettamente accordati nel medesimo concerto.
 
