@@ -4,13 +4,18 @@ pageClass: posts
 templateEngineOverride: njk, md
 ---
 
-<p class="date">
+<main itemscope itemtype="http://schema.org/Article">
+<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Andrea Corinti</span></span>
+
+<p class="date" itemprop="datePublished" content="{{ date }}">
   🕑 <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>
 
-<img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}">
+<span itemprop="headline">{{ sommario }}</span>
 
-<main>
+<img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
+
+<main itemprop="articleBody">
   {{ content | safe }}
   <div class="footnote">
     <!--{%- if medium -%}
