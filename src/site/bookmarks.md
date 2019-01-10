@@ -14,6 +14,7 @@ layout: layouts/base.njk
 | [**FFVII Citadel**](http://www.ff7citadel.com) | One of my all-time favorite Final Fantasy VII sites |
 | [**Radio Garden**](https://radio.garden/) | World's radio station in a gorgeous web page. After discovering it, I was moved by happiness |
 |[**It's FOSS**](https://itsfoss.com/)|It’s FOSS is an award-winning web-portal that focuses on Open Source in general and Linux in particular.|
+|[freeCodeCamp](https://www.freecodecamp.org/)|Learn to code in one of the most wonderful places on the internet|
 | [**Netwars**](http://www.netwars-project.com/) | Astonishing website (and project) |
 | [**Shmuplations**](https://shmuplations.com/) | English translations of many interviews featuring A LOT of Japanese game developers |
 | [**Grumpy Gamer**](https://grumpygamer.com/)|Look behind you! a three-headed Ron Gilbert's blog!|
