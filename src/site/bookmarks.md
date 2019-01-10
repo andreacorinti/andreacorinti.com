@@ -18,6 +18,8 @@ layout: layouts/base.njk
 | [**Shmuplations**](https://shmuplations.com/) | English translations of many interviews featuring A LOT of Japanese game developers |
 | [**Grumpy Gamer**](https://grumpygamer.com/)|Look behind you! a three-headed Ron Gilbert's blog!|
 |[**The Eye**](https://the-eye.eu/)|Sápere aude!|
+|[**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
+|[**Retroachievements**](https://retroachievements.org/)| Retrogaming trophies paradise. I'm [xabacadabra](https://retroachievements.org/user/xabacadabra) btw!|
 
 <div lang="it-IT" xml:lang="it-IT">
 
