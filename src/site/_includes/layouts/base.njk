@@ -12,7 +12,7 @@
   {% include "favicons.njk" %}
   <!--social-meta-->
   <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ sommario }}">
+  <meta property="og:description" content="{%- if sommario -%}{{ sommario }}{%- else -%}Andrea Corinti website, blog and web-home of an italian web world citizen and Developer. Some articles on web, videogames, societ and techstuff.">
   <meta property="og:image" content="{{ immagine }}">
   <meta property="og:url" content="https://andreacorinti.com{{ page.url }}">
   <meta name="twitter:card" content="{{ immagine }}">
