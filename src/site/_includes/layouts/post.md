@@ -7,7 +7,7 @@ templateEngineOverride: njk, md
 <main itemscope itemtype="http://schema.org/Article">
 
 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <span itemprop="name">Andrea Corinti</span>
+  <meta itemprop="name" content="Andrea Corinti">
 </span>
 
 <span itemprop="publisher" itemscope itemtype="https://schema.org/Person">
