@@ -11,12 +11,12 @@ templateEngineOverride: njk, md
 </span>
 
 <span itemprop="publisher" itemscope itemtype="https://schema.org/Person">
-    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <!--<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
       <img src="/images/logo.jpg"/>
       <meta itemprop="url" content="/images/logo.jpg">
       <meta itemprop="width" content="600">
       <meta itemprop="height" content="60">
-    </span>
+    </span> /*logo*/--> 
     <meta itemprop="name" content="Andrea Corinti">
 </span>
 
