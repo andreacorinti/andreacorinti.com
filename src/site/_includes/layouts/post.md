@@ -5,7 +5,19 @@ templateEngineOverride: njk, md
 ---
 
 <main itemscope itemtype="http://schema.org/Article">
-<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Andrea Corinti</span></span>
+
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <span itemprop="name">Andrea Corinti</span>
+</span>
+
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Person">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <img src="/images/logo.jpg"/>
+      <meta itemprop="url" content="/images/logo.jpg">
+      <meta itemprop="width" content="600">
+      <meta itemprop="height" content="60">
+    </div>
+    <meta itemprop="name" content="Andrea Corinti">
 
 <p class="date" itemprop="datePublished" content="{{ date }}">
   🕑 <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
