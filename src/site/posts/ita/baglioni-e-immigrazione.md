@@ -6,7 +6,7 @@ sommario: Baglioni si mostra più coerente di buona parte della nostra classe di
 immagine: https://andreacorinti.com/images/baglioni.jpg
 ---
 
-Baglioni è uno che ha conquistato il suo pubblico (prevalentemente femminile di varie generazioni negli 'anta) con classiche, celeberrime **canzoni d'amore**. 
+**Claudio Baglioni** è uno che ha conquistato il suo pubblico (prevalentemente femminile di varie generazioni negli 'anta) con classiche, celeberrime **canzoni d'amore**. 
 
 E ok: 
 
