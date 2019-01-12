@@ -11,7 +11,6 @@ To do:
 - [ ] mobile iframe
 - [ ] broken link control
 - [ ] custom nav in home
-- [ ] autoresize code block
 - [ ] social icons
 - [ ] Implement multilanguage (i18n)
 - [ ] Post tags (eleventy shortcodes)
