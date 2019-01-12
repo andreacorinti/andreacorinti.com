@@ -40,5 +40,6 @@ layout: layouts/base.njk
 | [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
 |[**Come Non Detto**](https://leortola.wordpress.com/)|il blog dove Leo Ortolani flette i muscoli|
 | [**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|
+| [**Wu Ming**](https://www.wumingfoundation.com/giap/che-cose-la-wu-ming-foundation/) | Col giap non mi trovo sempre d'accordo, ma apprezzo sempre la qualità dello scritto |
 
 </div>
