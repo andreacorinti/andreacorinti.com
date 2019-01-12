@@ -26,7 +26,7 @@ Senza citare la beneficenza, basta concentrarsi un minimo sulla sua produzione a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aNMdU0gdETc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Le Mani e l'Anima_, che vede la partecipazione del grande **Yussun N'Dur**, è un brano molto significativo e dice molto sulla sensibilità di Baglioni riguardo il tema dell'immigrazione.
+_Le Mani e l'Anima_, che vede la partecipazione del grande **Youssou N'Dour**, è un brano molto significativo e dice molto sulla sensibilità di Baglioni riguardo il tema dell'immigrazione.
 
 Prego notare: parliamo di un brano di _Oltre_ [^oltre], **album del 1990**, quando Salvini era un bimbo, Berlusconi non ancora sceso in campo e Grillo un comico fresco di Sanremo:
 
