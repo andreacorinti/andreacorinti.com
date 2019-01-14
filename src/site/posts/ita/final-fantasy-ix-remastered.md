@@ -101,6 +101,7 @@ In generale, **se notiamo qualcosa di curioso difficilmente passerà inosservato
 <figure>
 	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cargo.jpg" alt="final-fantasy-ix">
 </figure>
+
 _Oh, siamo in due_
 
 E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre letteralmente un turista in visita** al pari di Vivi o Steiner:
