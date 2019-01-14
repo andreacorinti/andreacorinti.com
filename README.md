@@ -8,6 +8,7 @@ Source files for my website.
 
 To do:
 
+- [ ] staticman, import old comments
 - [ ] mobile iframe
 - [ ] broken link control
 - [ ] social icons
