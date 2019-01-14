@@ -39,3 +39,5 @@ templateEngineOverride: njk, md
 
   </div>
 </main>
+
+{% include "commenti.njk" %}
