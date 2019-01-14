@@ -115,6 +115,7 @@ Si verifica cioè un tipo di "sospensione dell'incredulità" molto particolare, 
 <figure>
 	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/manolo.jpg" alt="final-fantasy-ix">
 </figure>
+
 _Uhm..._
 
 Il motivo principale ?
