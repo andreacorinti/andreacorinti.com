@@ -4,6 +4,7 @@ subtitle: Nice guy after all
 sommario: "Non è facile. Continuo a scrivere frasi su frasi solo per poi massacrare il tasto backspace e cancellarle."
 date: 2015-12-29
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/lemmy.jpg
+lang: it-IT
 ---
 
 Non è facile.
@@ -16,7 +17,7 @@ E dire che io in linea teorica non dovrei postare quaggiù almeno per un mesetto
 
 beh, **è che è morto Lemmy.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GlecTBevmzc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFo0-Zb_p_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sembra quasi una bestemmia articolare una frase del genere.
 

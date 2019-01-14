@@ -4,6 +4,7 @@ subtitle: "recensione"
 sommario: "Bene. è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/pillars-of-eternity.jpg
 date: 2016-01-31
+lang: it-IT
 ---
 
 Bene.

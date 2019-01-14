@@ -4,6 +4,7 @@ subtitle: Recensione del Live Action del 2017
 sommario: "Io non amo quelli che rigirano la frittata per ore prima di cacciare numeri e pagelle, quindi vi do subito il mio verdetto: Il live action di Ghost in the Shell è na fetenzia..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ghost-in-the-shell-film-2017.jpg
 date: 2017-04-01
+lang: it-IT
 ---
 
 Allora.

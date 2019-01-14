@@ -1,7 +1,7 @@
 ---
 title: English is the language of freedom
 subtitle: but I'm pretty bad at writing in it
-immagine: https://www.to.camcom.it/sites/default/files/styles/immagine_grande/public/sito_testata_languagesenglish.png?itok=f6PrJinO
+immagine: /images/english.jpg
 sommario: "Yep, my English it's not so great awright. But I must improve and, if you're a fella non-native speaker, so should you."
 date: 2018-12-07
 ---

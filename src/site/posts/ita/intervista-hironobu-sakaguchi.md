@@ -4,6 +4,7 @@ subtitle: "Traduzione in italiano dell'intervista di James Mielke"
 sommario: "A proposito di Final Fantasy XV, Remake, il rapporto con Akira Toriyama e molto altro. Traduzione in italiano dell'intervista di James Mielke"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/intervista-sakaguchi.jpg
 date: 2017-01-01
+lang: it-IT
 ---
 
 Il papà di Final Fantasy racconta un bel po' di cose riguardo il suo processo creativo, quelle che sono state le sue influenze, il rapporto con Akira Toriyama, Final Fantasy XV e (soprattutto) il venturo **Remake di _Final Fantasy VII_**.

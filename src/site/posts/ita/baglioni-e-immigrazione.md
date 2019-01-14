@@ -4,6 +4,7 @@ subtitle: "Canta che ti resta"
 date: 2019-01-12
 sommario: Baglioni si mostra più coerente di buona parte della nostra classe dirigente
 immagine: https://andreacorinti.com/images/baglioni.jpg
+lang: it-IT
 ---
 
 **Claudio Baglioni** è uno che ha conquistato il suo pubblico (prevalentemente femminile di varie generazioni negli 'anta) con classiche, celeberrime **canzoni d'amore**. 

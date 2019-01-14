@@ -4,6 +4,7 @@ subtitle: "Qualche parola a braccio"
 sommario: "Qualche parola a braccio."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/chris-cornell.jpg
 date: 2017-05-18
+lang: it-IT
 ---
 
 Da bambino ascoltavo moltissimo "_grunge_", definizione che in realtà ho sempre malsopportato perchè poco musicale in senso stretto e legata ad aspetti prevealentemente cultural-geografici.

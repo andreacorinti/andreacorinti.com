@@ -4,6 +4,7 @@ subtitle: "E di come fu la rabbia del 2000"
 date: 2018-03-24
 sommario: Tra queste pagine digitali ho trattato alcuni lutti importanti, compreso quello di Chris Cornell...
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/chester-bennington.jpg
+lang: it-IT
 ---
 
 Tra queste pagine digitali ho trattato alcuni lutti importanti, compreso quello di **Chris Cornell**, che cito solo in quanto estremamente connesso a quello di cui parlo oggi.

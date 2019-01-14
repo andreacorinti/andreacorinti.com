@@ -4,6 +4,7 @@ subtitle: Resoconto del primo concerto in Italia
 sommario: Anticipo da subito che questo resoconto è una faccenda parecchio personale...
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/distant-worlds.jpg
 date: 2017-05-13
+lang: it-IT
 ---
 
 Anticipo da subito che questo resoconto **è una faccenda parecchio personale**, quindi se state cercando un riepilogo dell'evento scritto in maniera più formale e un minimo più "giornalistica" mi spiace ma questa volta cascate male...

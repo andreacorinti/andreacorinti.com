@@ -1,9 +1,9 @@
 ---
-title: 🇮🇹 Archivio
-subtitle: in italiano
+title: Archivio
+subtitle: in italiano 🇮🇹 
 layout: layouts/base.njk
+lang: it-IT
 ---
-<div lang="it-IT" xml:lang="it-IT">
 
 ## Mamma mia!
 

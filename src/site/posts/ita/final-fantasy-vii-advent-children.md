@@ -4,6 +4,7 @@ subtitle: "Storia di un amore deluso"
 sommario: "Prima di tutto la verità: Advent Children è un pessimo film. Ma questa, intendiamoci, è la verità del senno di poi."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images//final-fantasy-vii-advent-children.jpg
 date: 2016-11-08
+lang: it-IT
 ---
 
 Prima di tutto la verità:

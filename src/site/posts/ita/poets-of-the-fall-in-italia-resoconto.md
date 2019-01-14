@@ -4,6 +4,7 @@ subtitle: "Resoconto del concerto a Trezzo"
 sommario: "L'acustica forse forse non delle migliori, il pubblico poco (ma buono, diciamocelo da soli: di quelli che sanno farsi sentire)..."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/poetsofthefallitalia.jpg
 date: 2015-05-29
+lang: it-IT
 ---
 
 ## Il concerto

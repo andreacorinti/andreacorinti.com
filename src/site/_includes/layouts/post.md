@@ -24,7 +24,7 @@ templateEngineOverride: njk, md
   🕑 <time datetime="{{ date }}">{{ date | dateDisplay }}</time>
 </p>
 
-<span itemprop="headline">{{ sommario }}</span>
+<span itemprop="headline" content="{{ sommario }}"></span>
 
 <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
 
