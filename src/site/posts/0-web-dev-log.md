@@ -18,7 +18,7 @@ Originally I was considering doing something with [i18n libraries](https://www.n
 
 ## The problem
 
-The [default layout](https://github.com/andreacorinti/andreacorinti.com/blob/0e906216d41b7c31803a01fd0abd830efcab1269/src/site/_includes/layouts/base.njk) is at the base <small>(surprise!)</small> of all the website's pages, including the [post layout](https://github.com/andreacorinti/andreacorinti.com/blob/master/src/site/_includes/layouts/post.md) (which applies to both English and Italian articles) was set with _lang="eng"_.
+The [default layout](https://github.com/andreacorinti/andreacorinti.com/blob/0e906216d41b7c31803a01fd0abd830efcab1269/src/site/_includes/layouts/base.njk) is at the base <small>(surprise!)</small> of all the website's pages, including the [post layout](https://github.com/andreacorinti/andreacorinti.com/blob/master/src/site/_includes/layouts/post.md) (which applies to both English and Italian articles) and was set with _lang="eng"_.
 
 ## A custom Italian layout ?
 

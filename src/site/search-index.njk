@@ -8,6 +8,7 @@ excludeFromSitemap: true
     "url" : "{{ item.url }}",
     "title" : "{{ item.data.title }}",
     "text" : "{{ (item.data.title + " " + item.templateContent) | squash }}"
-  }{% if not loop.last %},{% else %}{%- endif -%}
+  }{% if not loop.last %},{% else %}
+  {%- endif -%}
 {%- endfor -%}
 ]}
