@@ -14,6 +14,8 @@ module.exports = function (config) {
   config.addPlugin(pluginRss); // rss
 
   config.addPassthroughCopy('assets') // file esterni
+  
+  config.addPassthroughCopy('_data') // staticman
 
   // collections
   config.addCollection("articles", function(collection) {
