@@ -10,9 +10,7 @@ To do:
 
 - [ ] mobile iframe
 - [ ] broken link control
-- [ ] custom nav in home
 - [ ] social icons
-- [ ] Implement multilanguage (i18n)
 - [ ] Post tags (eleventy shortcodes)
 - [ ] better CSS for contact form
 - [ ] better CSS for footnotes
