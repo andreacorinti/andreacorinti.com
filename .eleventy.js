@@ -15,7 +15,7 @@ module.exports = function (config) {
 
   config.addPassthroughCopy('assets') // file esterni
   
-  config.addPassthroughCopy('_data') // staticman
+  config.addPassthroughCopy('comments') // staticman
 
   // collections
   config.addCollection("articles", function(collection) {
