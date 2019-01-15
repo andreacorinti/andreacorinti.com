@@ -19,6 +19,7 @@ layout: layouts/base.njk
 | [**Netwars**](http://www.netwars-project.com/) | Astonishing website (and project) |
 | [**Shmuplations**](https://shmuplations.com/) | English translations of many interviews featuring A LOT of Japanese game developers |
 | [**Grumpy Gamer**](https://grumpygamer.com/)|Look behind you! a three-headed Ron Gilbert's blog!|
+|[**Nanda Okitavera**](https://okitavera.me/)|The great website of Nada, also made with 11ty! |
 |[**The Eye**](https://the-eye.eu/)|Sápere aude!|
 |[**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
 |[**Retroachievements**](https://retroachievements.org/)| Retrogaming trophies paradise. I'm [xabacadabra](https://retroachievements.org/user/xabacadabra) btw!|
@@ -40,6 +41,5 @@ layout: layouts/base.njk
 | [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
 |[**Come Non Detto**](https://leortola.wordpress.com/)|il blog dove Leo Ortolani flette i muscoli|
 | [**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|
-| [**Wu Ming**](https://www.wumingfoundation.com/giap/che-cose-la-wu-ming-foundation/) | Col giap non mi trovo sempre d'accordo, ma apprezzo sempre la qualità dello scritto |
 
 </div>

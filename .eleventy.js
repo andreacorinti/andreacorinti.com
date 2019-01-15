@@ -1,5 +1,5 @@
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight"); // syntax
-const pluginRss = require("@11ty/eleventy-plugin-rss"); // rss
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (config) {
 
@@ -9,22 +9,25 @@ module.exports = function (config) {
   config.addFilter("squash", require("./filters/squash.js"));
   // syntax & rss
   config.addPlugin(syntaxHighlight);
-  //config.addPlugin(pluginRss);
-
-  config.addPlugin(pluginRss); // rss
+  config.addPlugin(pluginRss);
 
   config.addPassthroughCopy('assets') // file esterni
   
-  // collections
+  /* Collezioni */
+
+  config.addCollection("tutto", function(collection) {
+    return collection.getFilteredByGlob(["src/site/posts/*.md","src/site/posts/ita/*.md"]); // array!
+    // to add: "src/site/posts/projects/*.md"
+  });
   config.addCollection("articles", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/*.md").reverse();
   });
-
   config.addCollection("articoli", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/ita/*.md").reverse();
   });
 
-  // note
+  /* Markdown */
+
   let markdownIt = require("markdown-it");
   let options = {
     html: true,
@@ -35,6 +38,8 @@ module.exports = function (config) {
   let markdownItFootnote = require("markdown-it-footnote");
   let markdownLib = markdownIt(options).use(markdownItFootnote);
   config.setLibrary("md", markdownLib);
+
+  /* Return */
 
   return {
     dir: {

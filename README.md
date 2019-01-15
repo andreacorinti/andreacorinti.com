@@ -8,18 +8,19 @@ Source files for my website.
 
 To do:
 
+- [ ] path aliases (post/ita & post/)
 - [ ] staticman, import old comments
 - [ ] mobile iframe
 - [ ] broken link control
 - [ ] social icons
 - [ ] Post tags (eleventy shortcodes)
 - [ ] better CSS for contact form
-- [ ] better CSS for footnotes
 - [ ] HTML cv
 - [ ] Update PDF cv
 - [ ] Project page
-- [ ] div lang="it-IT" xml:lang="it-IT" for post
 - [ ] check rss
+- [ ] search global
+- [x] lang="it-IT"
 - [x] rss
 - [x] sitemap
 - [x] Image Preview on social media
