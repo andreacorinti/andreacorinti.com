@@ -5,13 +5,11 @@
 }
 
 .card {
-  width: 150px;                 /* Set width of cards */
-  display: flex;                /* Children use Flexbox */
-  flex-direction: column;       /* Rotate Axis */
-  //border: 1px solid $evidenziatag;    /* Set up Border */
-  //border-radius: 4px;           /* Slightly Curve edges */
-  overflow: hidden;             /* Fixes the corners */
-  margin: 4px;                  /* Add space between cards */
+  width: 150px;                 
+  display: flex; // Children use Flexbox
+  flex-direction: column; // Rotate Axis
+  overflow: hidden; // fix corners 
+  margin: 4px; // space between cards 
 }
 
 .card-header {
@@ -36,11 +34,10 @@
 }
 
 .card-main {
-  display: flex;              /* Children use Flexbox */
-  flex-direction: column;     /* Rotate Axis to Vertical */
-  justify-content: center;    /* Group Children in Center */
-  align-items: center;        /* Group Children in Center (on cross axis) */
-  //padding: 5px 0;            /* Add padding to the top/bottom */
+  display: flex;           
+  flex-direction: column;     
+  justify-content: center; /* Group Children in Center */
+  align-items: center; /* Group Children in Center (on cross axis) */
   a:hover {
     border-bottom: 0px;
   }
@@ -61,7 +58,6 @@
   color: $accent-color;
   font-size: 12px;
   text-align: left;
-  //padding-bottom: 10px;
 	padding: 5px;
 	max-height: 150px;
 	min-height: 150px;
