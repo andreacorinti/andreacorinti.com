@@ -15,8 +15,6 @@ module.exports = function (config) {
 
   config.addPassthroughCopy('assets') // file esterni
   
-  config.addPassthroughCopy('comments') // staticman
-
   // collections
   config.addCollection("articles", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/*.md").reverse();
