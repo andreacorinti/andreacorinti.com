@@ -2,7 +2,7 @@
 title: "Metal Gear Solid 5 - The Phantom Pain"
 subtitle: "recensione"
 sommario: "Il mio personale diario di viaggio nelle lande dell'ultimo capitolo di Metal Gear Solid."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsvrecensione.jpg
+immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsv1.jpg
 date: 2015-09-02
 lang: it-IT
 ---
@@ -157,7 +157,7 @@ Siamo d'accordo, tanto più che **il comportamento di Konami si è dimostrato al
 
 In ogni caso, ci risentiamo dopo il finale (sperando che Hideo mi smentisca alla grandissima)
 
-![metal-gear-solid-5-recensione](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsv1.jpg)
+![metal-gear-solid-5-recensione](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsvrecensione.jpg)
 
 ## Metal Gear Solid 5: The Phantom Pain - Recensione
 
