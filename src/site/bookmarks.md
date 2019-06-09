@@ -13,6 +13,7 @@ layout: layouts/base.njk
 | [**EFF**](https://www.eff.org/) |  The leading nonprofit defending digital privacy, free speech, and innovation. |
 | [**Hawksworx**](https://www.hawksworx.com/) | Phil Hawksworth digital home, pure web-dev inspiration |
 | [**FFVII Citadel**](http://www.ff7citadel.com) | One of my all-time favorite Final Fantasy VII sites |
+| [**GB Studio**](https://www.gbstudio.dev/) | Awesome project by [Chris Maltby](https://www.chrismaltby.com/). |
 | [**Radio Garden**](https://radio.garden/) | World's radio station in a gorgeous web page. After discovering it, I was moved by happiness |
 |[**It's FOSS**](https://itsfoss.com/)|It’s FOSS is an award-winning web-portal that focuses on Open Source in general and Linux in particular.|
 |[**freeCodeCamp**](https://www.freecodecamp.org/)|Learn to code in one of the most wonderful places on the internet|

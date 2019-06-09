@@ -31,7 +31,7 @@ And, even if I don't like it very much, I'm also on [Linkedin](https://www.linke
 Want to hire me, or ask something in particular? By all means!
 [**Click here**](/contact/) for the contact form.
 
-For less "official" communications, you can easily find me on [@AndreaCorinti](https://twitter.com/AndreaCorinti).
+For less "official" communications, you can easily find me on [@XabCorinti](https://twitter.com/XabCorinti).
 
 🇮🇹 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
