@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate"
 subtitle: "La morale"
-sommario: "Bene. è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve."
+sommario: "Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di Baldur's Gate"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/baldur.jpg
 date: 2018-01-04
 lang: it-IT
@@ -12,7 +12,7 @@ Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire 
 **le _Enhanced Edition_ ad opera di Beamdog**.
 
 <figure>
-<img src="https://www.gatheryourparty.com/wp-content/uploads/2012/12/Baldurs-Gate-Enhanced-Edition.jpg" alt="Baldur's Gate Enhanced Edition">
+<img src="https://images.gog.com/90ba7463dae94110fd495957a6311648a6e1999bab1a0fcc2d5176b3f46141e8_product_card_v2_mobile_slider_639.jpg" alt="Baldur's Gate Enhanced Edition">
 </figure>
 
 Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perdermi in svariate fregnacce, capitemi) ergo la strutturerò in punti salienti, in modo che ognuno possa concentrarsi sul determinato argomento d'interesse.
@@ -27,34 +27,28 @@ Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti leg
 
 <figure>
 <img src="https://www.baldursgate.com/img/screenshots/thumbs/screen01.jpg" alt="Baldur's Gate Enhanced Edition">
-<figcaption>Baldur's Gate 1
-</figcaption>
 </figure>
 
-Non si può parlare in modo preciso di "un" gameplay di Baldur's Gate, poiché fondamentalmente relativo alle precise scelte del giocatore: 
+Non si può parlare in modo preciso di "un" gameplay di Baldur's Gate, poiché fondamentalmente **relativo alle precise scelte del giocatore**: 
 
-Uno smaliziato ladro/guerriero picchiatore da mischia, equipaggiato a dovere e con qualche "buff" magico a disposizione può tranquillamente terminare il gioco senza l'ausilio di un party giocando a ritmo serrato (ai limiti dell'action) senza pianificare praticamente nulla...posto che sappia muoversi abbastanza bene in un RPG della "vecchia scuola".
+Uno smaliziato **ladro/guerriero** picchiatore da mischia, equipaggiato a dovere e con qualche "buff" magico a disposizione può tranquillamente terminare il gioco senza l'ausilio di un party giocando a ritmo serrato (ai limiti dell'action) senza pianificare praticamente nulla...posto che sappia muoversi abbastanza bene in un RPG della _vecchia scuola_.
 
-Viceversa, un più canonico ed eterogeneo gruppo d'avventurieri (Protagonista + splendidi NPC Made in BlackIsle) paradossalmente spesso e volentieri necessita più impegno...o meglio, lo necessita se siete interessati a far portare a casa la pelle a tutti quanti.
+Viceversa, un più canonico ed eterogeneo gruppo d'avventurieri (Protagonista + splendidi NPC Made in BlackIsle) paradossalmente spesso e volentieri necessita più impegno...almeno, se siete vi frega di far portare a casa la pelle a tutti.
 
 ## Vecchiaia
 
 <figure>
 <img src="https://www.baldursgateii.com/images/screens/screen14.jpg" alt="Baldur's Gate Enhanced Edition">
-<figcaption>Baldur's Gate 2
-</figcaption>
 </figure>
 
-Già all'epoca della sua uscita ho sempre sostenuto come uno dei difetti fondamentali di Baldur's Gate stesse nella mole di incessanti combattimenti, spesso più _"intoppi spezza-ritmo"_ più volti a far sprecare incantesimi a Maghi e Stregoni che nel rappresentare vere e proprie sfide appaganti (che ohi, non mancano: chiedete alla Fortezza dell'Osservatore, certi Lich o qualche Drago a caso).
+Già all'epoca della sua uscita ho sempre sostenuto come uno dei difetti fondamentali di Baldur's Gate stesse **nella mole di incessanti combattimenti**, spesso più _"intoppi spezza-ritmo"_ più volti a far sprecare incantesimi a Maghi e Stregoni che nel rappresentare vere e proprie sfide appaganti (che ohi, non mancano: chiedete alla Fortezza dell'Osservatore, certi Lich o qualche Drago a caso).
 
-In questo senso, **le meccaniche di D&D in questo aiutano poco**, idem l'aspetto "ruoloso" decisionistico mai davvero portato fino infondo dalla serie (ma per quello esiste _Planescape: Torment_)
+In questo senso, **le meccaniche di D&D aiutano poco**, idem l'aspetto "ruoloso" decisionistico mai davvero portato fino infondo dalla serie (ma per quello esiste _Planescape: Torment_)
 
 ## Tempo e Immensità
 
 <figure>
 <img src="https://www.baldursgateii.com/images/screens/wallpapers/wallpaper01_hd.jpg" alt="Baldur's Gate Enhanced Edition">
-<figcaption>Baldur's Gate 2
-</figcaption>
 </figure>
 
 D'altro canto, traghettare il proprio protagonista dalle quattro mura di Candlekeep per portarlo a scenari degni dell'Epica del miglior fantasy è una di quelle cose che ha effettivamente pochi eguali nel mondo dei videogiochi, e di cui nessun esponente moderno ha davvero saputo cogliere l'eredità:
@@ -67,8 +61,6 @@ Lo sanno i membri del gruppo, i nostri vari nemici, perfino le fugaci comparse c
 
 <figure>
 <img src="https://www.baldursgateii.com/images/screens/concept02.jpg" alt="Baldur's Gate Enhanced Edition">
-<figcaption>Uno dei nuovi NPC
-</figcaption>
 </figure>
 
 Le nuove edizioni Beamdog fanno **un lavoro certosino per quanto riguarda compatibilità, ottimizzazione del vecchio Infinity Engine e resa su macchine moderne**... <small>(tanto che non si capisce come mai dalle parti dell'Obsidian si ostinino ad utilizzare quel mattone dello Unity, ma vabbè)</small>
@@ -88,6 +80,7 @@ La main quest di Hexxat, in particolare, rappresentava potenzialmente **un'occas
 ## Morale
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0YRPiygI2Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 <small>L'EPICITÀ</small>
 
 Ultimamente sto provando il recente _Tyranny_ e le mie memorie di <a href="https://xabacadabra.github.io/2016/pillars-of-eternity-recensione/">Pillars of Eternity</a> sono ancora abbastanza fresche, quindi lo posso dire senza mezzi termini:
