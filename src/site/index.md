@@ -1,6 +1,6 @@
 ---
 title: Andrea Corinti
-subtitle: An Italian Web World citizen.
+subtitle: Xab, an Italian Web World citizen.
 layout: layouts/base.njk
 ---
 
