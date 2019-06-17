@@ -64,5 +64,3 @@ If you need it for **_business reasons_** however: [contact me](/contact/), send
 | **lmo-2**          | Andrea a l'è bun de comunicà cunt un Lumbard da nivèll intermedi.       |
 | **scn-1**          | 'Ndria pò cummunicari c'un sicilianu ôn liveddu vasciu.                 |
 | **Lingue Romanze** | Andrea può leggere abbastanza bene tutte le lingue romanze.              |
-
-<!--{% include "travelmap.njk" %}-->
