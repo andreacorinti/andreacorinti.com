@@ -54,6 +54,11 @@ body {
 
 // tipografia
 
+small {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 h1,
 h2,
 h3 {
@@ -84,8 +89,51 @@ p {
   margin-bottom: 1em;
 }
 
+.avatar {
+  vertical-align: middle;
+  margin-top: -0.4em;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 15px;
+
+  @include bp(mid) {
+    width: 150px;
+    height: 150px;
+  }
+  @include bp(wide) {
+    width: 150px;
+    height: 150px;
+  }
+
+}
+
+.title {
+
+  font-size: 35px;
+
+  @include bp(mid) {
+    font-size: 50px;
+  }
+
+  @include bp(wide) {
+    font-size: 50px;
+  }
+}
+
 .subtitle {
-  margin-top: -3em;
+
+  font-size: 16px;
+
+  @include bp(mid) {
+    font-size: 20px;
+  }
+
+  @include bp(wide) {
+    font-size: 20px;
+  }
+
+  margin-top: -2em;
   padding-bottom: 1em;
 }
 

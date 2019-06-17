@@ -1,8 +1,16 @@
 ---
+avatar: images/avatar2.jpg
 title: Andrea Corinti
-subtitle: Xab, an Italian Web World citizen.
 layout: layouts/base.njk
 ---
+
+## Xab, an Italian Web World citizen.
+
+_Bio is a Poison-elemental attack that can inflict the Poison status._
+
+IT Support | Developer | Slytherin | (Retro) Gamer | SeeD バラムガーデン.
+
+<!--Italian Customer Care and Technical Support Services at Teleperformance Greece.-->
 
 On the web:
 
@@ -56,3 +64,5 @@ If you need it for **_business reasons_** however: [contact me](/contact/), send
 | **lmo-2**          | Andrea a l'è bun de comunicà cunt un Lumbard da nivèll intermedi.       |
 | **scn-1**          | 'Ndria pò cummunicari c'un sicilianu ôn liveddu vasciu.                 |
 | **Lingue Romanze** | Andrea può leggere abbastanza bene tutte le lingue romanze.              |
+
+<!--{% include "travelmap.njk" %}-->
