@@ -10,7 +10,7 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._
 
 IT Support | Developer | Slytherin | (Retro) Gamer | SeeD バラムガーデン.
 
-<!--Italian Customer Care and Technical Support Services at Teleperformance Greece.-->
+Italian Customer Care and Technical Support Services at Teleperformance Greece.
 
 On the web:
 
@@ -53,6 +53,8 @@ For less "official" communications, you can easily find me on [@XabCorinti](http
 I really don't like Facebook: I've a profile that I'm only using for managing pages, connected accounts, old photos and stuff like that, so I find it's pointless to link it here.
 
 If you need it for **_business reasons_** however: [contact me](/contact/), send me your info and I'll happily meet you in the Zuckerberg lands!
+
+{% include "travelmap.njk" %}
 
 ## 🗺️ Babel
 
