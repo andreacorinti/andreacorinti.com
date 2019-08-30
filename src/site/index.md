@@ -1,5 +1,5 @@
 ---
-avatar: images/avatar2.jpg
+avatar: images/avatar3.jpg
 title: Andrea Corinti
 layout: layouts/base.njk
 ---
@@ -8,9 +8,9 @@ layout: layouts/base.njk
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-IT Support | Developer | Slytherin | (Retro) Gamer | SeeD バラムガーデン.
+**Italian Customer Care and Technical Support Services at Teleperformance Greece, Athens.**
 
-Italian Customer Care and Technical Support Services at Teleperformance Greece.
+IT Support | Developer | Slytherin | (Retro) Gamer | SeeD バラムガーデン.
 
 On the web:
 
