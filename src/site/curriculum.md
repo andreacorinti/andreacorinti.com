@@ -93,12 +93,16 @@ avatar: ../images/avatar2.jpg
   </tr>
   <tr>  
     <td>2017</td>
-    <td>Google Digital Garage Certificate.</td>
+    <td><a href="https://learndigital.withgoogle.com/eccellenzeindigitale/certificate.pdf">Google Digital Garage Certificate.</a></td>
   </tr>
   <tr>  
     <td>2018</td>
-    <td>freeCodeCamp Responsive Web Design Certificate.</td>
+    <td><a href="https://www.freecodecamp.org/certification/xabacadabra/responsive-web-design">freeCodeCamp Responsive Web Design Certificate.</a></td>
   </tr>
+  <tr>  
+    <td>2020</td>
+    <td><a href="https://tmc.mooc.fi/certificates/1907">University of Helsinki Object-Oriented Programming with Java, part I.</a></td>
+  </tr>  
 </table>
 
 <table>

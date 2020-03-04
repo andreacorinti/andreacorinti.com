@@ -47,6 +47,7 @@ For less "official" communications, you can easily find me on [@XabCorinti](http
 
 ![google](/assets/cv/google1.jpg)
 ![freecodecamp responsive webdesign](/assets/cv/freecodecamp1.png)
+![mooc](/assets/cv/mooc.jpg)
 
 ## ☠️ Facebook
 
