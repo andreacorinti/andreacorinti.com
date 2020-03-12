@@ -30,7 +30,7 @@ public class javaWelcome {
 
 ## 📄 Resume
 
-Looking for my [**professional resume** in PDF](/curriculum) ?
+Looking for my [**professional resume**](/curriculum) ?
 
 And, even if I don't like it very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
 
