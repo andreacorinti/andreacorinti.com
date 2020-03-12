@@ -1,6 +1,6 @@
 {
   "name": "andrea-corinti-site",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Andrea Corinti Personal Website",
   "author": "Andrea Corinti",
   "license": "MIT",
@@ -17,10 +17,10 @@
     "url": "https://github.com/andreacorinti/andreacorinti.com"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.7.1",
+    "@11ty/eleventy": "0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.3",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "concurrent-transform": "^1.0.0",
     "gravatar": "^1.6.0",
     "gulp": "^4.0.0",

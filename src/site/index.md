@@ -30,9 +30,7 @@ public class javaWelcome {
 
 ## 📄 Resume
 
-Looking for my [**professional resume** in PDF](https://andreacorinti.github.io/cv-eng.pdf) ?
-
-<del>[If you want, there's a **HTML** version too!](/curriculum)</del> -> work in progress
+Looking for my [**professional resume** in PDF](/curriculum) ?
 
 And, even if I don't like it very much, I'm also on [Linkedin](https://www.linkedin.com/in/andrea-corinti/).
 
@@ -40,8 +38,6 @@ Want to hire me, or ask something in particular? By all means!
 [**Click here**](/contact/) for the contact form.
 
 For less "official" communications, you can easily find me on [@XabCorinti](https://twitter.com/XabCorinti).
-
-🇮🇹 Per il [**curriculum vitae in Italiano, clicca qui**](https://andreacorinti.github.io/cv-it.pdf)
 
 ## Certifications
 
