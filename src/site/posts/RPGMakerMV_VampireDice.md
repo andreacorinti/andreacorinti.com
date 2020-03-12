@@ -6,11 +6,13 @@ sommario: "Now, as you may have noticed, I'm developing my site in a strange mix
 date: 2020-03-20
 ---
 
-In this days I've been experimenting with **RPG Maker MV** since I've only recently found out that is based on **JavaScript** and no longer Ruby like back in the days.
+In this days I've been experimenting with **RPG Maker MV** since I've only recently found out that is based on **JavaScript** and no longer Ruby like back in the RPG Maker XP days.
 
 ## Vampire the Masquerade
 
-VtM is my favorite Pen & Paper RPG by far (and boasts two of the best CRPG adaptaption ever: _Redemption_ and _Bloodlines_) and, even if the [old Storyteller D10 System had a lot of issues](https://forum.rpg.net/index.php?threads/exalted-why-do-people-say-its-the-storyteller-system-thats-the-problem.594575/), I'm still fond with it.
+VtM is my favorite Pen & Paper RPG by _far_ (and boasts two of the best CRPG adaptaption ever: _Redemption_ and _Bloodlines_) and, even if the [old Storyteller D10 System had a lot of issues](https://forum.rpg.net/index.php?threads/exalted-why-do-people-say-its-the-storyteller-system-thats-the-problem.594575/), I'm still fond of it.
+
+If you're not familiar with the system, [you can read pretty much everything here](https://whitewolf.fandom.com/wiki/Storyteller_System) or in any World of Darkness core manual.
 
 So, in order to try out the tool and learn something in the middle, I've started this weird implementation for a little experimental project.
 
@@ -33,52 +35,52 @@ Bear in mind that I've yet to study the MV engine properly, so it's all pretty r
  * 
  * //
  * vampireDice (number or rolls, difficulty)
- * $gameMessage.add("Your rolls: " + tiri + " and your successes: " + successi);
- * tiri = [];
- * successi = 0;
+ * $gameMessage.add("Your rolls: " + rolls + " and your successes: " + success);
+ * rolls = [];
+ * success = 0;
  * //
  * 
  * don't forget to resetting the variables (see the last two lines above)
  * 
  * == USING PARAMETRES ==
  * 
- * Using 
+ * With 
  * 
- * vampireDice ($gameActors.actor(1).param[7], 6)
+ * vampireDice ($gameActors.actor(1).agi, 6)
  *  
- * you'll get a number of dice rolls equivalent to first character's agility value, 
+ * You'll get a number of dice rolls equivalent to first character's agility value, 
  * with a difficulty of six.
  * 
  * == USING IF ==
  * 
- *  if (successi == 0) {
- *      $gameMessage.add("Combattimento casuale");
- *  } else if (successi == 1) {
- *      $gameMessage.add("Riesci a nutrirti un pochino");
- *  } else if (successi == 2) {
- *      $gameMessage.add("Riesci a nutrirti a metà");
+ *  if (success == 0) {
+ *      $gameMessage.add("You where discovered by your victim and must fight!");
+ *  } else if (success == 1) {
+ *      $gameMessage.add("You managed to feed a little");
+ *  } else if (success == 2) {
+ *      $gameMessage.add("You managed to feed");
  *  } else {
- *      $gameMessage.add("I punti sangue tornano al massimo!");
+ *      $gameMessage.add("Your blood lust is satisfied.");
  *  }
  * 
  * 
  */
 
-let successi = 0;
-let tiri = [];
+let success = 0;
+let rolls = [];
 
-function vampireDice (dadi, diff) {
+function vampireDice (pool, diff) {
 
-    for (i=0; i < dadi; i++) {
-        let tiro = Math.ceil(Math.random()*10);
-        tiri.push(tiro);
-        if (tiro >= diff) {
-            successi++;
+    for (i=0; i < pool; i++) {
+        let roll = Math.ceil(Math.random()*10);
+        rolls.push(roll);
+        if (roll >= diff) {
+            success++;
         }
 
     }
 
-    return "Hai fatto questi tiri: " + tiri + " e totalizzato " + successi + " successi.";
+    return "You've done this rolls: " + rolls + " with " + success + " successes.";
 
 };
 
