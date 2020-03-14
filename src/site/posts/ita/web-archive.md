@@ -37,7 +37,7 @@ la famosa storia del costosissimo computer _ultrauber next-gen_ che, esattamente
 
 **Web Archive** è un sito bellissimo e colmo di becero sadismo nostalgico: 
   
-Detta papale papale permette di vedere **com'erano i siti web in un determinato anno**, raccogliendo tutti i "residui" riesumabili dalla rete, anche quando** quei siti magari non esistono più da un pezzo** e i server hanno fatto kaputt  
+Detta papale papale permette di vedere **com'erano i siti web in un determinato anno**, raccogliendo tutti i "residui" riesumabili dalla rete, anche quando **quei siti magari non esistono più da un pezzo** e i server hanno fatto kaputt  
   
 Una sorta di macchina del tempo internettiana, ma più indicativamente il cuore pulsante di quella che noi (e per noi intendo dire io) amiamo definire _**Cyberarcheologia**_.  
   
