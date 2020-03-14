@@ -1,6 +1,6 @@
 ---
 title: "VampireMV Devlog 01" 
-subtitle: A journey on a path made of blood. and JavaScript.
+subtitle: A journey on a path made of blood. And JavaScript.
 immagine: https://www.gry-online.pl/i/h/1/240887640.jpg
 sommario: "While the world is in the middle of the worst pandemic ever, I've started playing around with RPG Maker MV and my spasmodic passion for Vampire The Masquerade"
 date: 2020-03-15

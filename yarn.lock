@@ -3676,7 +3676,7 @@ glogg@^1.0.0:
   dependencies:
     sparkles "^1.0.0"
 
-gm@^1.14.2:
+gm@^1.14.2, gm@^1.23.1:
   version "1.23.1"
   resolved "https://registry.yarnpkg.com/gm/-/gm-1.23.1.tgz#2edeeb958084d0f8ea7988e5d995b1c7dfc14777"
   integrity sha1-Lt7rlYCE0PjqeYjl2ZWxx9/BR3c=
