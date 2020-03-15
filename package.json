@@ -6,11 +6,12 @@
   "license": "MIT",
   "scripts": {
     "gen": "gulp generate",
-    "start": "yarn run build && yarn run serve",
-    "build": "gulp build && yarn run build:functions",
-    "build:local": "gulp build:local",
-    "build:functions": "netlify-lambda build src/lambda",
-    "serve": "gulp watch & gulp serve & netlify-lambda serve src/lambda"
+    "start": "gulp build & gulp watch & ELEVENTY_ENV=dev eleventy --serve & yarn run start:lambda",
+    "prime": "gulp build & ELEVENTY_ENV=prime eleventy",
+    "build": "gulp build & ELEVENTY_ENV=prod eleventy && yarn run build:lambda",
+    "dryrun": "gulp build & ELEVENTY_ENV=dev eleventy",
+    "build:lambda": "netlify-lambda build src/lambda",
+    "start:lambda": "netlify-lambda serve src/lambda"
   },
   "repository": {
     "type": "git",
