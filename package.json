@@ -34,6 +34,7 @@
     "gulp-shell": "^0.6.5",
     "gulp-uglify": "^3.0.1",
     "install": "^0.12.2",
+    "lazysizes": "^5.2.0",
     "markdown-it-footnote": "^3.0.1",
     "netlify-lambda": "^1.1.0",
     "pump": "^3.0.0",
