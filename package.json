@@ -48,7 +48,5 @@
       }
     }
   },
-  "devDependencies": {
-    "eleventy-plugin-lazyimages": "^1.0.5"
-  }
+  "devDependencies": {}
 }

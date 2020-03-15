@@ -12,7 +12,6 @@ module.exports = function (config) {
   config.addPlugin(syntaxHighlight);
   config.addPlugin(pluginRss);
   // lazyimages
-  config.addPlugin(lazyImagesPlugin);
 
   config.addPassthroughCopy('assets') // file esterni
   

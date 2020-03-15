@@ -41,9 +41,9 @@ For less "official" communications, you can easily find me on [@XabCorinti](http
 
 ## Certifications
 
-<img data-src="/assets/cv/google1.jpg" class="lazyload" alt="google">
-<img data-src="/assets/cv/freecodecamp1.png" class="lazyload" alt="freecodecamp">
-<img data-src="/assets/cv/mooc.jpg" class="lazyload" alt="freecodecamp">
+<img src="/assets/cv/google1.jpg" alt="google">
+<img src="/assets/cv/freecodecamp1.png" alt="freecodecamp">
+<img src="/assets/cv/mooc.jpg" alt="freecodecamp">
 
 ## ☠️ Facebook
 
