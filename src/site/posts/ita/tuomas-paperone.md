@@ -7,6 +7,8 @@ date: 2014-04-12
 lang: it-IT
 ---
 
+## Tuomas
+
 <figure>
 	<img src="https://2.bp.blogspot.com/-POLjBpy87SQ/U0h6USlO1BI/AAAAAAAAHw4/68vDT7ljWdI/s1600/tuomas-holopainen--large-msg-124924191476.jpg" alt="Tuomas Holopainen">
 </figure>
@@ -18,6 +20,8 @@ Trovandosi di fronte **al suo primo album da solista**, nella fattispecie un con
 Il buon Tuomas invece si è spinto molto, molto più in alto:
 
 ha fatto un concept album su **Zio Paperone.**
+
+## Don
 
 <figure>
 	<img src="https://4.bp.blogspot.com/-sAVkYAF_NkA/U0h7IgAM2ZI/AAAAAAAAHxI/A8FLQtl5SiI/s1600/DonRosa-2.jpg" alt="Don Rosa">
