@@ -15,11 +15,11 @@ Chi _vive_ internet, o meglio chi _ha vissuto_ un certo tipo di **internet**, pe
   
 _Perché ?_  
   
-Perché **ha dovuto adattarsi a rivoluzioni e cambiamenti rapidissimi**, concepire realtà tra loro ben distinte e impietose qual'erano i primi siti, arcaici, e passando per** le chat **(e le varie forme di messaggistica istantanea, come **msn**) **i forum** e quelle gigantesche **community** che incorporavano un po' tutto questo  
+Perché **ha dovuto adattarsi a rivoluzioni e cambiamenti rapidissimi**, concepire realtà tra loro ben distinte e impietose qual'erano i primi siti, arcaici, e passando per **le chat** (e le varie forme di messaggistica istantanea, come **msn**) **i forum** e quelle gigantesche **community** che incorporavano un po' tutto questo  
 
 ## Il Tempo del Web
   
-Chi naviga assiduamente da più di una decina d'anni forse se ne è accorto: a percezione** un anno su internet ha una durata estremamente diversa da quella di un anno reale**.  
+Chi naviga assiduamente da più di una decina d'anni forse se ne è accorto: a percezione **un anno su internet ha una durata estremamente diversa da quella di un anno reale**.  
   
 Un po' come per i cani va.  
   
