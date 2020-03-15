@@ -1,6 +1,6 @@
 ---
-title: "Xenogears"
-subtitle: "Recensione"
+title: "Xenogears - Recensione"
+subtitle: "Il capolavoro nascosto di Squaresoft"
 sommario: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/xenogearsrecensione.jpg
 date: 2016-01-01
