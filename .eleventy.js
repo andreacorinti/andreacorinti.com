@@ -1,6 +1,5 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const lazyImagesPlugin = require('eleventy-plugin-lazyimages');
 
 module.exports = function (config) {
 
@@ -11,7 +10,6 @@ module.exports = function (config) {
   // syntax & rss
   config.addPlugin(syntaxHighlight);
   config.addPlugin(pluginRss);
-  // lazyimages
 
   config.addPassthroughCopy('assets') // file esterni
   
