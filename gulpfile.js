@@ -1,49 +1,46 @@
+var gulp  = require('gulp');
+var shell = require('gulp-shell');
 
-const gulp      = require("gulp");
-const sass      = require("gulp-sass");
-const uglify    = require('gulp-uglify');
-const concat    = require('gulp-concat');
+
+/**
+  Our gulp tasks live in their own files,
+  for the sake of clarity.
+ */
+require('require-dir')('./gulp-tasks');
+
+
+/*
+ Run our static site generator to build the pages
+*/
+gulp.task('generate', shell.task('eleventy'));
 
 
 
 /*
-  generate the css with sass
+  compile the assets to the correct destination
 */
-gulp.task('css', function() {
-  return gulp.src('./src/scss/*.scss')
-    .pipe(sass({
-      outputStyle: 'compressed'
-    })
-    .on('error', sass.logError))
-    .pipe(gulp.dest('./src/site/_includes/css'));
-});
+gulp.task('assets', gulp.parallel(
+  'images',
+  'styles',
+  'scripts'
+));
 
 
 /*
- Uglify our javascript files into one.
- Use pump to expose errors more usefully.
+  Let's build this sucker, without getting data from online sources
 */
-gulp.task('js', function() {
-  return gulp.src("./src/js/**/*.js")
-    .pipe(concat('hawksworx.js'))
-    .pipe(uglify())
-    .pipe(gulp.dest('./src/site/_includes/js'));
-});
+gulp.task('build:local', gulp.series(
+  'clean-build',
+  'generate',
+  'assets'
+));
 
 
 /*
-  Watch folders for changess
+  Let's gwt the data we need and then build this sucker.
 */
-gulp.task("watch", function() {
-  gulp.watch('./src/scss/**/*.scss', gulp.parallel('css'));
-  gulp.watch('./src/js/**/*.js', gulp.parallel('js'));
-});
-
-
-/*
-  Let's build this sucker.
-*/
-gulp.task('build', gulp.parallel(
-  'css',
-  'js'
+gulp.task('build', gulp.series(
+  // 'get:data',
+  'generate',
+  'assets'
 ));
