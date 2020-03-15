@@ -1,7 +1,7 @@
 ---
 title: "Gazebo"
-subtitle: "e il Tempo di Internet"
-sommario: "Come chi ha avuto l'ardire di seguire questo blog saprà, spesso ho scritto qualcosina in merito alla..."
+subtitle: "We like Chopin"
+sommario: "Perché Gazebo è in una botta sola la salvezza di TV, twitter, satira e approfondimento politico in Italia."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/gazebo.jpg
 date: 2013-11-19
 lang: it-IT
