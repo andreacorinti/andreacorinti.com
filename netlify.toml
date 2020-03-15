@@ -1,10 +1,20 @@
 [build]
-Functions = "functions"
-command = "yarn run build"
-publish = "dist"
-NODE_ENV = "8.9.0"
+  command = "yarn run build"
+  functions = "functions"
 
+[build.environment]
+  NODE_VERSION = "10.15.3"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy= "no-referrer-when-downgrade"
+
+# 404s
 [[redirects]]
-from = "*"
-to = "/404"
-status = 404
+  from = "*"
+  to = "/404"
+  status = 404
