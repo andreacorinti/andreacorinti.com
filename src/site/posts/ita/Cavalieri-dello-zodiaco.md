@@ -13,7 +13,7 @@ Ossia Malessere, tanto malessere.
 
 ## Pimp my Cloth
 
-Ora, a quanto mi risulta, io sono uno dei pochi che ha parlato bene del film di Capitan Harlock 3D (a sua volta Made in Toei), quindi non mi si può tacciare di troppo _girellismo_.
+Ora, a quanto mi risulta, sono uno dei pochi che ha parlato bene del film di Capitan Harlock 3D (a sua volta Made in Toei), quindi non mi si può tacciare di troppo _girellismo_.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5SIAIae1l_o" frameborder="0" allowfullscreen></iframe>
 
