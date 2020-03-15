@@ -17,7 +17,6 @@
     "type": "git",
     "url": "https://github.com/andreacorinti/andreacorinti.com"
   },
-
   "dependencies": {
     "@11ty/eleventy": "0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.3",
@@ -29,9 +28,9 @@
     "gulp-sass": "^4.0.1",
     "gulp-uglify": "^3.0.1",
     "html-minifier": "^3.5.20",
+    "markdown-it-footnote": "^3.0.2",
     "netlify-lambda": "^1.1.0"
   },
-
   "proxy": {
     "/.netlify/functions": {
       "target": "http://localhost:9000",

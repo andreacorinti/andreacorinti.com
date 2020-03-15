@@ -1,28 +1,35 @@
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+var env = process.env.ELEVENTY_ENV;
 
-module.exports = function (config) {
+module.exports = function(eleventyConfig) {
+
+// syntax highlighting plugin
+const syntaxHighlightPlugin = require("@11ty/eleventy-plugin-syntaxhighlight");
+eleventyConfig.addPlugin(syntaxHighlightPlugin, {
+  templateFormats: "md"
+});
+
+// RSS plugin
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+eleventyConfig.addPlugin(pluginRss);
 
   // Add a date formatter filter to Nunjucks
-  config.addFilter("dateDisplay", require("./filters/dates.js"));
-  config.addFilter("timestamp", require("./filters/timestamp.js"));
-  config.addFilter("squash", require("./filters/squash.js"));
-  // syntax & rss
-  config.addPlugin(syntaxHighlight);
-  config.addPlugin(pluginRss);
+  eleventyConfig.addFilter("dateDisplay", require("./src/site/_filters/dates.js") );
+  eleventyConfig.addFilter("section", require("./src/site/_filters/section.js") );
+  eleventyConfig.addFilter("squash", require("./src/site/_filters/squash.js") );
+  eleventyConfig.addFilter("kebab", require("./src/site/_filters/kebab.js") );
 
-  config.addPassthroughCopy('assets') // file esterni
+  eleventyConfig.addPassthroughCopy('assets') // file esterni
   
   /* Collezioni */
 
-  config.addCollection("tutto", function(collection) {
+  eleventyConfig.addCollection("tutto", function(collection) {
     return collection.getFilteredByGlob(["src/site/posts/*.md","src/site/posts/ita/*.md"]); // array!
     // to add: "src/site/posts/projects/*.md"
   });
-  config.addCollection("articles", function(collection) {
+  eleventyConfig.addCollection("articles", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/*.md").reverse();
   });
-  config.addCollection("articoli", function(collection) {
+  eleventyConfig.addCollection("articoli", function(collection) {
     return collection.getFilteredByGlob("src/site/posts/ita/*.md").reverse();
   });
 
@@ -34,10 +41,30 @@ module.exports = function (config) {
     breaks: true,
     linkify: true
   };
-  config.setLibrary("md", markdownIt(options));
+  eleventyConfig.setLibrary("md", markdownIt(options));
   let markdownItFootnote = require("markdown-it-footnote");
   let markdownLib = markdownIt(options).use(markdownItFootnote);
-  config.setLibrary("md", markdownLib);
+  eleventyConfig.setLibrary("md", markdownLib);
+
+  // static passthroughs
+  eleventyConfig.addPassthroughCopy("src/site/fonts");
+  eleventyConfig.addPassthroughCopy("src/site/images");
+  eleventyConfig.addPassthroughCopy("src/site/manifest.json");
+  eleventyConfig.addPassthroughCopy("src/site/browserconfig.xml");
+
+  // minify the html output
+  const htmlmin = require("html-minifier");
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if( outputPath.endsWith(".html") ) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: false, // we need comments to identify the expcerpt split marker.
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+    return content;
+  });
 
   /* Return */
 
@@ -49,7 +76,8 @@ module.exports = function (config) {
     },
     templateFormats: ["njk", "md"],
     htmlTemplateEngine: "njk",
-    markdownTemplateEngine: "njk"
+    markdownTemplateEngine: "njk",
+    passthroughFileCopy: true
   };
 
 };
