@@ -9,12 +9,7 @@ lang: it-IT
 
 È un periodo terribile e molto strano, di cui credo avremo la giusta misura solo quando l'emergenza sarà terminata e ci ritroveremo a raccogliere i cocci di una società in macerie.
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v6.0&appId=300551680541522&autoLogAppEvents=1"></script>
-
-<div class="fb-post" data-href="https://www.facebook.com/galbadia/posts/3058992084165240" data-width="500" data-show-text="true"><blockquote cite="https://developers.facebook.com/galbadia/posts/3058992084165240" class="fb-xfbml-parse-ignore"><p>Viviamo in tempi straordinari, ovviamente nell’accezione negativa del termine.
-
-Nella regione dove sono nato solo oggi...</p>Pubblicato da <a href="https://www.facebook.com/galbadia">Andrea Corinti</a> su&nbsp;<a href="https://developers.facebook.com/galbadia/posts/3058992084165240">Mercoledì 18 marzo 2020</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fgalbadia%2Fposts%2F3058992084165240&width=500&show_text=true&appId=300551680541522&height=313" width="500" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 È dura essere italiani (per giunta lombardi) vivere all'estero in perpetua ansia per la propria famiglia, gli amici e più in generale il nostro Paese.
 
