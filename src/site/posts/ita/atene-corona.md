@@ -19,7 +19,7 @@ Cose che avrei scritto e scriverei.
 
 Che forse un giorno scriverò.
 
-Non fosse che, di punto in bianco, mi sono ritrovato nel preludio di un romanzo di Hemingway:
+Ma non in questi giorni dove, di punto in bianco, siamo stati catapultati nel preludio di un romanzo di Hemingway:
 
 L'incombenza del **Corona Virus**, la pandemia _mentale_ prima ancor che fisica, le **minacce turche** con un fronte orientale, i terremoti, **l'immigrazione usata come arma** e gestita in Dio solo sa come dalle forze greche, la mancanza di posti letto negli ospedali, l'isolamento forzato in solitudine, **lo smartworking**, l'ansia per la famiglia e per gli amici in Italia mentre nella mia **Lombardia** contano migliaia di morti.
 
