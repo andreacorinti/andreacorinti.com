@@ -43,7 +43,7 @@ L'Italia, **che storicamente gode di quello che è tutt'ora uno dei migliori sis
 
 <img src="https://images.wired.it/wp-content/uploads/2020/03/12120132/Schermata-2020-03-12-alle-11.01.04.png" alt="tagli alla sanità in Italia">
 
-Una vocazione al mercato, complice la vocazione liberista di stampo anglosassone dell'Unione Europea, ha portato la bussola italiana a **puntare più sul PIL ed il privato che sulla salvaguardia del pubblico**.
+Questa santificazione del mercato, figlia della vocazione liberista di stampo anglosassone dell'Unione Europea, ha portato la bussola italiana a **puntare più sul PIL ed il privato che sulla salvaguardia del pubblico**.
 
 ## Corona e Futuro
 
