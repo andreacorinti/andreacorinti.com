@@ -23,33 +23,35 @@ Il contenuto ben evidenzia alcuni aspetti che mi sento di confermare:
 
 Non voglio certo tessere le lodi del regime o improvvisarmi in un'agiografia alla Gianni Minà (che per inciso adoro, ma vabbè): 
 
-Non ho particolari simpatie per il comunismo e per i regimi totalitari in generale, al massimo una laica stima per Gramsci o Berlinguer, ma insomma: **io vengo da Bakunin, non certo da Marx** <small>(di cui più che altro malsopporto il suo fanclub, tipo Vasco)</small>, quindi capitemi.
+Non ho particolari simpatie per il comunismo e per i regimi totalitari in generale, al massimo una laica stima per Gramsci o Berlinguer, ma insomma: **io vengo da Bakunin, non certo da Marx** <small>(più che altro malsopporto il suo fanclub, come con Vasco)</small>, quindi capitemi.
 
-Eppure chi conosce un po' il mondo latinoamericano, sa bene che da quelle parti i pochi esempi di governi virtuosi si contano sulle dita di una mano monca a tutte le latitudini più o meno <small>(e spesso parliamo del meno)</small> democratiche.
+Eppure, come chi conosce un po' il mondo latinoamericano sa bene, da quelle parti i pochi esempi di governi virtuosi si contano sulle dita di una mano monca ad ogni latitudine politica, sia essa più o meno <small>(e spesso parliamo del meno)</small> democratica.
 
 ## La sanità Cubana
 
->"Il lavoro che oggi è affidata al Ministero della Salute e organizzazioni simili è quello di fornire servizi di sanità pubblica per il più grande numero possibile di persone, istituire un programma di di medicina preventiva, e orientare il pubblico alle performance di pratiche igieniche " 
+>"Il lavoro che oggi è affidata al Ministero della Salute e organizzazioni simili è quello di fornire servizi di sanità pubblica per il più grande numero possibile di persone, istituire un programma di di medicina preventiva, e orientare il pubblico alle performance di pratiche igieniche " - Che Guevara
 
-_Che Guevara_
+Nel 1965 Cuba fu il primo paese dell'America Latina a legalizzare l'aborto (in Italia ci arrivammo 13 anni dopo), un paese dove **la privatizzazione della sanità è illegale**, dove dagli anni '60 vige il principio della **vaccinazione universale**, nonché un sistema solidale di aiuti a paesi meno fortunati sia a livello accademico che a livello d'emergenze: e ovviamente quello che sta succedendo ora in Italia con il Corona Virus rientra tra quest'ultime.
 
-Nel 1965 Cuba fu il primo paese dell'America Latina a legalizzare l'aborto (in Italia ci arrivammo 13 anni dopo) e **la privatizzazione della sanità è illegale**, oltre che di fatto inutile essendo quella cubana eccellente.
+Certo non è un paradiso: **i medici cubani sono pagati poco e lavorano in strutture non proprio all'avanguardia** e il mio quinto senso e mezzo mi dice che **un membro del partito / governo gode con ogni probabilità  di un trattamento di favore rispetto al cittadino medio**.
 
-Da anni a Cuba vige il principio della **vaccinazione universale**, nonché un sistema solidale di aiuti a paesi meno fortunati sia a livello accademico che a livello d'emergenze...quello che sta insomma succedendo ora in Italia con il Corona Virus.
-
-Certo non è un paradiso: **i medici cubani sono pagati poco e lavorano in strutture non certo all'avanguardia** e quasi certamente un membro del partito / governo gode di un trattamento di favore rispetto al cittadino medio, che tuttavia non è lasciato in balia di situazioni apocalittiche similmente a quanto accade in Messico, Honduras, Nicaragua eccetera.
+Allo stesso tempo, **quello stesso cittadino medio viene comunque curato in modo mediamente eccellente** senza il rischio di finire in balia di situazioni apocalittiche similmente a quanto accade nei vicini Honduras, Haiti, Nicaragua eccetera.
 
 ## L'Italia
 
-Parallelamente l'Italia, **che storicamente gode di quello che è tutt'ora uno dei migliori sistemi sanitari del mondo**, vede da anni un progressivo taglio dei fondi alla sanità come riporta bene [Wired](https://www.wired.it/attualita/politica/2020/03/12/tagli-sanita-italia-storia/) citando a sua volta la [Fondazione Gimbe](https://www.gimbe.org/osservatorio/Report_Osservatorio_GIMBE_2019.07_Definanziamento_SSN.pdf#page=13):
+L'Italia, **che storicamente gode di quello che è tutt'ora uno dei migliori sistemi sanitari del mondo**, vede da anni un progressivo taglio dei fondi alla sanità come riporta bene [Wired](https://www.wired.it/attualita/politica/2020/03/12/tagli-sanita-italia-storia/) citando a sua volta la [Fondazione Gimbe](https://www.gimbe.org/osservatorio/Report_Osservatorio_GIMBE_2019.07_Definanziamento_SSN.pdf#page=13):
 
 <img src="https://images.wired.it/wp-content/uploads/2020/03/12120132/Schermata-2020-03-12-alle-11.01.04.png" alt="tagli alla sanità in Italia">
 
+Una vocazione al mercato, complice la vocazione liberista di stampo anglosassone dell'Unione Europea, ha portato la bussola italiana a **puntare più sul PIL ed il privato che sulla salvaguardia del pubblico**.
+
 ## Corona e Futuro
 
-Ovviamente **non credo che anche una Sanità tre volte più potente della nostra avremmo potuto arginare il disastro Corona Virus**.
+Intendiamoci: 
 
-Credo avremmo certamente potuto farlo mostrando più decisione nel **chiudere tutto** in tempi più stretti, ma come possiamo vedere questa ritrosia a porre uno stop all'economia è tipica di tutto il mondo occidentale, dove anzi **noi ci mostriamo tra i più virtuosi** (specie se confrontati con l'Inghilterra).
+ovviamente **non credo che anche una Sanità tre volte più potente della nostra avremmo potuto arginare il disastro Corona Virus**.
+
+Credo però che avremmo certamente potuto farlo meglio **se avessimo mostrato più decisione nel chiudere tutto in tempi più stretti**, ma come possiamo vedere questa ritrosia a porre uno stop all'economia è tipica di tutto il mondo occidentale, dove anzi **noi ci mostriamo tra i più virtuosi** (specie se confrontati con l'Inghilterra).
 
 L'esempio Cubano dovrebbe farci riflettere in questo senso:
 
