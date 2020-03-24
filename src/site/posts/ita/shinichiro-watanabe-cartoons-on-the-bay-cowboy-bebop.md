@@ -95,7 +95,7 @@ seguito da una poderosa stretta di mano, si chiude la parte del post dedicata al
 
 <figure>
 <img src='https://i.imgur.com/aUrI8iI.jpg' alt='See You Space Cowboy...'>
-<figcaption>Ovviamente non potevo non chiuderla così</figcaption>
+<small>Ovviamente non potevo non chiuderla così</small>
 </figure>
 
 ## Parte II - Il viaggio, Emanuela Pacotto, Giorgio Vanni e Manuel Schedl  

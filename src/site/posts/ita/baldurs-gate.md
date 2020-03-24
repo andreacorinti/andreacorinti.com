@@ -11,23 +11,17 @@ Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire 
 
 **le _Enhanced Edition_ ad opera di Beamdog**.
 
-<figure>
 <img src="https://images.gog.com/90ba7463dae94110fd495957a6311648a6e1999bab1a0fcc2d5176b3f46141e8_product_card_v2_mobile_slider_639.jpg" alt="Baldur's Gate Enhanced Edition">
-</figure>
 
 Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perdermi in svariate fregnacce, capitemi) ergo la strutturerò in punti salienti, in modo che ognuno possa concentrarsi sul determinato argomento d'interesse.
 
-<figure>
 <img src="https://www.nohighscores.com/wp-content/uploads/2012/07/baldursgate_ee_newstuff.png" alt="NPC Baldur's Gate Enhanced Edition">
-</figure>
 
 Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica.
 
 ## Il variabile ritmo lento di Baldur's Gate
 
-<figure>
 <img src="https://www.baldursgate.com/img/screenshots/thumbs/screen01.jpg" alt="Baldur's Gate Enhanced Edition">
-</figure>
 
 Non si può parlare in modo preciso di "un" gameplay di Baldur's Gate, poiché fondamentalmente **relativo alle precise scelte del giocatore**: 
 
@@ -37,9 +31,7 @@ Viceversa, un più canonico ed eterogeneo gruppo d'avventurieri (Protagonista + 
 
 ## Vecchiaia
 
-<figure>
 <img src="https://www.baldursgateii.com/images/screens/screen14.jpg" alt="Baldur's Gate Enhanced Edition">
-</figure>
 
 Già all'epoca della sua uscita ho sempre sostenuto come uno dei difetti fondamentali di Baldur's Gate stesse **nella mole di incessanti combattimenti**, spesso più _"intoppi spezza-ritmo"_ più volti a far sprecare incantesimi a Maghi e Stregoni che nel rappresentare vere e proprie sfide appaganti (che ohi, non mancano: chiedete alla Fortezza dell'Osservatore, certi Lich o qualche Drago a caso).
 
@@ -47,9 +39,7 @@ In questo senso, **le meccaniche di D&D aiutano poco**, idem l'aspetto "ruoloso"
 
 ## Tempo e Immensità
 
-<figure>
 <img src="https://www.baldursgateii.com/images/screens/wallpapers/wallpaper01_hd.jpg" alt="Baldur's Gate Enhanced Edition">
-</figure>
 
 D'altro canto, traghettare il proprio protagonista dalle quattro mura di Candlekeep per portarlo a scenari degni dell'Epica del miglior fantasy è una di quelle cose che ha effettivamente pochi eguali nel mondo dei videogiochi, e di cui nessun esponente moderno ha davvero saputo cogliere l'eredità:
 
@@ -59,9 +49,7 @@ Lo sanno i membri del gruppo, i nostri vari nemici, perfino le fugaci comparse c
 
 ## Enhanced Edition
 
-<figure>
 <img src="https://www.baldursgateii.com/images/screens/concept02.jpg" alt="Baldur's Gate Enhanced Edition">
-</figure>
 
 Le nuove edizioni Beamdog fanno **un lavoro certosino per quanto riguarda compatibilità, ottimizzazione del vecchio Infinity Engine e resa su macchine moderne**... <small>(tanto che non si capisce come mai dalle parti dell'Obsidian si ostinino ad utilizzare quel mattone dello Unity, ma vabbè)</small>
 

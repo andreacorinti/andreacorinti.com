@@ -18,9 +18,8 @@ Ora, sicomme:
 
 Ho pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella galleria di screenshot parte di questo ragionamento, anche perché a rigiocarlo mi rendo conto di quanto il nono esponente della saga, in questo senso, fosse uno dei più emblematici.
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/buttalesca.jpg" alt="final-fantasy-ix">
-</figure>
+
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/buttalesca.jpg" alt="final-fantasy-ix">
 
 ## Antecedenti
 
@@ -36,71 +35,43 @@ Ma è in Final Fantasy IX, dicevamo, che le cose si spingono pure oltre:
 
 ## Perdersi in un Mondo
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/listinoprezzi.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/listinoprezzi.jpg" alt="final-fantasy-ix">
 
 A Lindblum (e non solo) _tutti_ pensano un po' ai fatti propri: chi vende sottaceti, chi dipinge, chi fangirleggia, chi va a messa....
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/prete.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/prete.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/fangirl1.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/fangirl1.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/fangirl2.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/fangirl2.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/caffe.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/caffe.jpg" alt="final-fantasy-ix">
 
 _BUONGIORNISSIMO!!!!!!!!!!_
 
 **Quasi tutti hanno un nome e un relativo soprannome** (spesso meravigliosi), hanno faccende da sbrigare da qualche parte, aspettano qualcuno e magari posseggono piccole ma significative scenette.
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/ryo.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/ryo.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/torres1.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/torres1.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/torres2.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/torres2.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/sam.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/sam.jpg" alt="final-fantasy-ix">
 
 **I negozi hanno le loro pubblicità, ed i monumenti le relative targhe commemorative tutte da leggere**:
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/pescheria.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/pescheria.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/peppe.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/peppe.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cliente.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cliente.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cid8.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cid8.jpg" alt="final-fantasy-ix">
 
 In generale, **se notiamo qualcosa di curioso difficilmente passerà inosservato agli occhi di Gidan.**
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cargo.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/cargo.jpg" alt="final-fantasy-ix">
 
 _Oh, siamo in due_
 
@@ -108,13 +79,9 @@ E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre le
 
 Si verifica cioè un tipo di "sospensione dell'incredulità" molto particolare, che temo la serie abbia un po' perso per sempre già dal decimo capitolo in poi.
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/scigu.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/scigu.jpg" alt="final-fantasy-ix">
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/manolo.jpg" alt="final-fantasy-ix">
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/final-fantasy-ix/manolo.jpg" alt="final-fantasy-ix">
 
 _Uhm..._
 

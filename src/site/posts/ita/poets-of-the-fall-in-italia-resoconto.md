@@ -63,7 +63,7 @@ E poi....eppoi vabbè, ci sono cose che non si possono descrivere e si sentono e
 
 <figure>
 	<img src="https://2.bp.blogspot.com/-AlEFPeWWIko/VWhAwhxMTTI/AAAAAAAAME8/B_icZpmCU0U/s1600/batterista.jpg" alt="Jari Salminen">
-	<figcaption>Anche quando c'è Alessandro Borghese alla batteria.</figcaption>
+	<small>Anche quando c'è Alessandro Borghese alla batteria.</small>
 </figure>
 
 Inutile anche solo provare a comunicare cosa possa significare per un fan sentirsi finalmente _**Carnival of Rust, Roses, Daze e Dreaming Wide Awake**_ eseguite dal vivo, a due passi da lui.
@@ -92,7 +92,7 @@ Per il resto, basta un generico e timido _Grazie._
 
 <figure>
 	<img src="https://1.bp.blogspot.com/-5GjoMV5w4iM/VWhDq0jFS4I/AAAAAAAAMF0/6lxFJoPb3GY/s1600/vlcsnap-2015-05-29-12h46m34s925.png" alt="poets of the fall in italia">
-	<figcaption>strabismo delle 2 di notte (l'ora in cui più o meno sei tornato a casa)</figcaption>
+	<small>strabismo delle 2 di notte (l'ora in cui più o meno sei tornato a casa)</small>
 </figure>
 
 Ti dici: "sei fortunato, ora abiti in Brianza, in linea d'aria questo beneamato Trezzo sull'Adda dovrebbe essere vicino!"

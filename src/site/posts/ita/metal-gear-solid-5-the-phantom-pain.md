@@ -181,7 +181,7 @@ E anzi, se vogliamo dirla tutta, il vero finale di Peace Walker, con il relativo
 
 <figure>
  <img src="https://4.bp.blogspot.com/-2vIlvBngqv8/Vk6Q2WyBD1I/AAAAAAAANWA/TsDyzjmXyhc/s320/QuietStare.jpg" alt="Quiet">
- <figcaption>Oh, ma certo che ho una backstory. Ma sei proprio sicuro che non preferiresti vedere qualche altro tipo di back?</figcaption>
+ <small>Oh, ma certo che ho una backstory. Ma sei proprio sicuro che non preferiresti vedere qualche altro tipo di back?</small>
 </figure>
 
 Per inciso, **non sono tra quei fan che si ostinano a dire _"la cosa più importante dei Metal Gear è la trama"_**, non l'ho mai pensato, l'ho sempre trovato un concetto parecchio approssimativo e sono del resto tra quelli che lamentarono l'eccessivo sproloquiare di Metal Gear Solid 4...
@@ -192,8 +192,8 @@ E in The Phantom Pain, 'sta cosa non esiste.
 
 <figure>
  <img src="https://1.bp.blogspot.com/-FS7KxO9QtYM/Vk6SmHdOWYI/AAAAAAAANWQ/n9oGeFL7iQw/s200/ocelot%2Bddog.jpg" alt="Quiet" alt="Ocelot e D-Dog">
- <figcaption>Ehilà, siamo i due personaggi più carismatici del gioco!
-Includerei anche Miller, ma il suo essere esagitato alla lunga scassa.</figcaption>
+ <small>Ehilà, siamo i due personaggi più carismatici del gioco!
+Includerei anche Miller, ma il suo essere esagitato alla lunga scassa.</small>
 </figure>
 
 Non saprei dire se è tutta una questione di soldi, se la Konami non c'ha creduto fino infondo e ha messo una data-ultimatum per fare uscire un gioco che a molti saprà d'incompleto, ma sono speculazioni che sinceramente non m'interessano:
@@ -209,8 +209,8 @@ Quello su cui mi concentro, tuttavia, è il risultato, **la somma di quello che 
 
 <figure>
  <img src="https://4.bp.blogspot.com/-JoYoXmPG1Q8/Vk6R0jnLkdI/AAAAAAAANWI/GqUEvbpMHRM/s320/MGSV_Code_Talker.png" alt="Quiet" alt="Code Talker">
- <figcaption>Vorresti una trama..eh..dinè...e invece...ti becchi...
-quattrocentosessanta ore di mie audiocassette autografate e parassitate.</figcaption>
+ <small>Vorresti una trama..eh..dinè...e invece...ti becchi...
+quattrocentosessanta ore di mie audiocassette autografate e parassitate.</small>
 </figure>
 
 Sostanzialmente, parliamo **del più bell'esponente della saga in termini di longevità, tecnica e gioco giocato**, quindi la mia opinione risulterà fuori dal coro. Lo comprendo bene.

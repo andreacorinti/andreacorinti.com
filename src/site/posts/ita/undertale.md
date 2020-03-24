@@ -87,7 +87,7 @@ In questo senso, Undertale porta in seno **una genuina anima da _"hack-rom fusa 
 
 <figure>
 <img src="https://i.ytimg.com/vi/_4OBUhLu5jQ/maxresdefault.jpg" alt="Radiation's Halloween">
-<figcaption>Cioè quello che fu nei fatti Radiation's Halloween, hack realizzata dallo stesso Toby Fox nel 2009</figcaption>
+<small>Cioè quello che fu nei fatti Radiation's Halloween, hack realizzata dallo stesso Toby Fox nel 2009</small>
 </figure>
 
 Nonostante questo potesse rappresentare un limite spaventoso, nell'economia del gioco **finisce per diventare un vero e proprio valore aggiunto.**
@@ -144,8 +144,8 @@ Sono abbastanza certo che, fosse stato realizzato nel 2009, **Undertale sarebbe 
 
 <figure>
 <img src="https://vignette.wikia.nocookie.net/yumenikki/images/7/7d/Thenexus.jpg" alt="yume nikki">
-<figcaption>Sì, tipo Yume Nikki
-</figcaption>
+<small>Sì, tipo Yume Nikki
+</small>
 </figure>
 
 E intendiamoci: sarebbe stato **un gran peccato.**

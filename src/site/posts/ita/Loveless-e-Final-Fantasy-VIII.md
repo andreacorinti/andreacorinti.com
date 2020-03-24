@@ -45,13 +45,13 @@ Se si fa attenzione, si può anche intravedere il nome della band in uno dei pos
 
 <figure>
 	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/loveless/sector8loveless.jpg" alt="Sector 8 Loveless">
-		<figcaption>Il Settore 8</figcaption>
+		<small>Il Settore 8</small>
 
 </figure>
 
 <figure>
 	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/loveless/mybloodyvalentine.jpg" alt="My Bloody Valentine">
-	<figcaption>close-up</figcaption>
+	<small>close-up</small>
 </figure>
 
 Infine, la ragazza raffigurata nel suddetto poster sarebbe ispirata a nient'altri che Bilinda Butcher, cantante del gruppo.

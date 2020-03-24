@@ -27,9 +27,7 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 
 ## Pro
 
-<figure>
 <img src='https://4.bp.blogspot.com/-qSEZBiis85o/VLVe-HPjLMI/AAAAAAAALTQ/5KEEIReCYvA/s1600/4281.jpg' alt='pro'>
-</figure>
 
 1. I Cavalieri dello Zodiaco al Cinema!!
 2. **Il Doppiaggio Storico!!!!!** Con tanto di KIAAAAAIIIIIIIIIII di **Ivo De Palma**! Certo, c'è sempre il fatto che i nomi dell'adattamento nostrano a suo tempo sono stati messi a babbo, generando buffe incongruenze...ma è senz'altro tardi per lamentarsene, e oramai il grosso del nostro pubblico (me compreso) i Cavalieri li conosce principalmente così, quindi nulla da imputare alla scelta di proseguire la tradizione, anche perché **le voci della versione italiana sono un vero e proprio valore aggiunto tanto per l'anime classico quanto per questo film.**
@@ -38,9 +36,7 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 
 ## Contro
 
-<figure>
 <img src='https://2.bp.blogspot.com/-4XKRcIqHBf4/VLVfGXvVJNI/AAAAAAAALTY/QuIWJnQcFzk/s1600/4282.jpg' alt='contro'>
-</figure>
 
 1. **Frettolosa tempistica.** Siccome vuole ricoprire la celeberrima saga delle 12 case in un'ora e mezza, **il film finisce inevitabilmente per premere sull'acceleratore.** Il che, mi fa sorgere una domanda spontanea: **non si poteva creare un soggetto nuovo**, che coinvolgesse sempre i cavalieri d'oro, ma **nei tempi giusti per il cinema ?** Cioè hai fatto un reboot, a quel punto rebootta tutto quanto senza mezze misure
 2. **Struttura debole.** Legata alla fretta di cui sopra, è una specie di contraddizione interna del film: tema, personaggi e scopi sono del tutto chiari ai vecchi fan di serie/manga classico, ma per un pubblico nuovo (che è quello a cui il film non fa mistero di puntare) vengono introdotti in modo abbozzato ed approssimativo
@@ -51,9 +47,7 @@ Premesso questo, **che non è certo un tratto negativo del film ma una mera facc
 
 ## Concludendo
 
-<figure>
 <img src='https://2.bp.blogspot.com/-rUBT9ci7olM/VLVfOto11vI/AAAAAAAALTg/45BOPy32zD0/s1600/grande%2Btempio.jpg' alt='I Cavalieri dello Zodiaco: La Leggenda del Grande Tempio'>
-</figure>
 
  ..._Legend of the Sanctuary_, in breve, è questo.
 

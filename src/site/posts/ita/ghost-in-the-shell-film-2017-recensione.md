@@ -42,41 +42,29 @@ Nel manga originale e (parzialmente) nell'adattamento di Mamoru Oshii **il rappo
 
 <small>Nota: si legge tutto in stile manga, cioè da destra verso sinistra</small>
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-1.jpg" alt='ghost-in-the-shell-manga'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-1.jpg" alt='ghost-in-the-shell-manga'>
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-2.jpg" alt='ghost-in-the-shell-manga'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-2.jpg" alt='ghost-in-the-shell-manga'>
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-3.jpg" alt='ghost-in-the-shell-manga'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-3.jpg" alt='ghost-in-the-shell-manga'>
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-4.jpg" alt='ghost-in-the-shell-manga'>
-<figcaption>(se inizia a scoppiarvi la testa non fateci caso, è normale)</figcaption>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-4.jpg" alt='ghost-in-the-shell-manga'>
+<small>(se inizia a scoppiarvi la testa non fateci caso, è normale)</small>
+</br></br>
 
 Bel casino, eh? <small>(sono solo sprazzi perché sennò facciamo notte, compratevi il manga)</small>
 
 **Quello del film pareva uscito tuttalpiù da _Age of Ultron_**, col più scontato e classico dei discorsi sulla falsa riga del _"vendichiamoci del nostro creatore"_ (una sorta di Blade Runner / Frankenstein dei poverissimi) scritto da un bonobo particolarmente ispirato.
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/c17-c18.jpg" alt='ghost-in-the-shell'>
-<figcaption>Il livello è quello, con tutto il rispetto per la saga dei cyborg di Dragon Ball che era molto carina</figcaption>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/c17-c18.jpg" alt='ghost-in-the-shell'>
+<small>Il livello è quello, con tutto il rispetto per la saga dei cyborg di Dragon Ball che era molto carina</small>
+</br></br>
 
 **La stessa Motoko/Mira/Maggiore, unico vero epicentro del film, risulta una specie d'incrocio perverso tra Pinocchio e Puffetta.**
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/puffetta.jpg" alt='ghost-in-the-shell'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/puffetta.jpg" alt='ghost-in-the-shell'>
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/geppetta.jpg" alt='ghost-in-the-shell'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/geppetta.jpg" alt='ghost-in-the-shell'>
 
 _"Non m'interessa per cosa mi avete creato Geppetta, anche se sono una puffa artificiale io non farò del male a dei puffi innocenti!"_
 
@@ -84,28 +72,22 @@ Seguendo la linearità 'mericana poi, **si sentiva il _fondamentale_ bisogno di 
 
 [^passato]: nel manga e negli altri adattamenti il passato di Motoko è a malapena accennato, in generale importa poco e offre un fascinoso alone di mistero a quella che resta una storia dal respiro decisamente meno personale
 
-Salta fuori che **Motoko era una No-Tav mazzualata male dal Governo Matusa**, esattamente come il suo amico/nemico/ex-fidanzato Kuze, lo pseudo-Marionettista altrimenti detto HIDEO (o SuperGiovane)
-
-<figure>
-	<img src="https://static2.fjcdn.com/comments/I+was+scared+of+all+system+start+up+screensfor+some+reason+_49e55a9eb9d4364ae3568f72a694dc75.jpg" alt='hideo'>
-</figure>
+Salta fuori che **Motoko era una No-Tav mazzualata male dal Governo Matusa**, esattamente come il suo amico/nemico/ex-fidanzato Kuze, lo pseudo-Marionettista altrimenti detto [HIDEO](https://i.pinimg.com/originals/53/27/1a/53271a94795fa70f96881a0b7a3d0ad0.jpg) (o SuperGiovane)
 
 E fu così che la Motoko dei Centri Sociali anti-tech divenne ciò che ha sempre odiato: **un _celerino robocoppo_!**
 
 _ah, l'ironia!_
 
-<figure>
-	<img src="https://static.giantbomb.com/uploads/scale_small/0/3661/402647-raziel_poster.jpg" alt='raziel'>
-	<figcaption>ma che ne sapete voi che non avete fatto le scuole Sarafan </figcaption>
-</figure>
+<img src="https://static.giantbomb.com/uploads/scale_small/0/3661/402647-raziel_poster.jpg" alt='raziel'>
+<small>ma che ne sapete voi che non avete fatto le scuole Sarafan </small>
+</br></br>
 
 ## Aramaki Eastwood
 
 Intanto Aramaki (un dignitoso **Takeshi Kitano**), noto a tutti i fan di Ghost in the Shell per il proprio senso diplomatico e la sua abilità nel risolvere le situazioni senza mai sporcarsi direttamente le mani...
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/aramaki.jpg" alt='ghost-in-the-shell'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/aramaki.jpg" alt='ghost-in-the-shell'>
+</br></br>
 
 **Decide di sbroccare diventando un cosplayer di _Revolver Ocelot_.**
 
@@ -117,16 +99,14 @@ Che è bella si sapeva, che è brava pure <small>(grazie a Woody Allen più che 
 
 Salta fuori che, invece, sebbene in una versione scritta da uno struzzo dotato di metalcoperta, **Scarlettuzza porta casa una buona interpretazione**, rivelandosi convincente in un ruolo che forse resta non suo per mere ragioni fisiche.
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/scarlett-johansson.jpg" alt='ghost-in-the-shell'>
-	<figcaption>che poi il fisico di Scarlett per il mio gusto è meglio di Motoko la Pertica eh</figcaption>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/scarlett-johansson.jpg" alt='ghost-in-the-shell'>
+<small>che poi il fisico di Scarlett per il mio gusto è meglio di Motoko la Pertica eh</small>
+</br></br>
 
 ## Batou
 
-<figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/batou.jpg" alt='ghost-in-the-shell'>
-</figure>
+<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/batou.jpg" alt='ghost-in-the-shell'>
+</br></br>
 
 **Decente**, tolto il fatto che _ovviamente_ gli americani dovevano spiegare pure i suoi cyberocchietti tra una scena e l'altra _(SPIEGONI! ORIGINI! PASSATO PRESENTE FUTURO!)_ ma vabbè.
 

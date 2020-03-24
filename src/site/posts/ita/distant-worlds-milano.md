@@ -27,9 +27,7 @@ Senza divagare, giovando dell'esperienza del grandissimo [**William Kage**](http
 
 _sample_ da una manciata di kilobyte, mirabili salti mortali con i sintetizzatori e le _Roland SC-55 e SC-88_  sommati ad un lavoro a stretto contatto con i programmatori, **Sakaguchi** in primis.
 
-<figure>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Roland_SC-88Pro.jpg/1024px-Roland_SC-88Pro.jpg' alt='roland sc-88'>
-</figure>
 
 ## Il Concerto
 
