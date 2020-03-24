@@ -91,9 +91,6 @@ Oltretutto essendo lo xenofranchise al suo debutto pretendere che il titolo pote
 
 Altro cruccio: se i due battle system risultano superbi, avvincenti nel corpo-a-corpo tanto quanto nel proverbiale scontro robottonico (che di mio non ho mai sopportato per la mia antipatia nei confronti dei mecha, ma soprassediamo)...
 
-<img src="https://www.time4rpgs.net/wp-content/uploads/2010/04/xenogears_battle.png" alt="combattimenti xenogears">
-<small>Il Battle System "fisico", molto classico e dinamico</small>
-
 **...le parte esplorative e (soprattutto) il dungeon design fanno invece immensamente schifo.**
 
 Il binomio grafico sprite 2D + ambienti 3D (curioso opposto allo stile usato all'epoca da Final Fantasy e Parasite Eve) in questo senso temo non abbia aiutato.
