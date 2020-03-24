@@ -29,7 +29,7 @@ Eppure, come chi conosce un po' il mondo latinoamericano sa bene, da quelle part
 
 ## La sanità Cubana
 
->"Il lavoro che oggi è affidata al Ministero della Salute e organizzazioni simili è quello di fornire servizi di sanità pubblica per il più grande numero possibile di persone, istituire un programma di di medicina preventiva, e orientare il pubblico alle performance di pratiche igieniche " - Che Guevara
+>"Il lavoro che oggi è affidato al Ministero della Salute e organizzazioni simili è quello di fornire servizi di sanità pubblica per il più grande numero possibile di persone, istituire un programma di di medicina preventiva, e orientare il pubblico alle performance di pratiche igieniche " - Che Guevara
 
 Nel 1965 Cuba fu il primo paese dell'America Latina a legalizzare l'aborto (in Italia ci arrivammo 13 anni dopo), un paese dove **la privatizzazione della sanità è illegale**, dove dagli anni '60 vige il principio della **vaccinazione universale**, nonché un sistema solidale di aiuti a paesi meno fortunati sia a livello accademico che a livello d'emergenze: e ovviamente quello che sta succedendo ora in Italia con il Corona Virus rientra tra quest'ultime.
 
