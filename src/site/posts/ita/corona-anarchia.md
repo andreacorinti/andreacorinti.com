@@ -43,9 +43,9 @@ Anche perché questo **è un tipo di deterrenza che si basa esclusivamente sulla
 
 È come il famigerato: _una volta i ragazzini prendevano due schiaffi, così sì che imparavano_
 
-Ecco, direi che in proporzione non imparavano un cazzo salvo che delinquere e abusare va bene fino a quando non incontri qualcuno o qualcosa più abusatore di te.
+Ecco, direi che in proporzione non imparavano un cazzo salvo che **delinquere e abusare va bene fino a quando non incontri qualcuno o qualcosa in grado di abusare meglio di te.**
 
-**Non ti comporti bene perché è la cosa giusta da fare, lo fai perché hai paura di quello che potrebbe succedere altrimenti.**
+In buona sostanza, **non ti comporti bene perché è la cosa giusta da fare, lo fai perché hai paura di quello che ti potrebbe succedere altrimenti.**
 
 Ma questa non è educazione, questo è addomesticare un animale.
 
@@ -53,4 +53,6 @@ Ma questa non è educazione, questo è addomesticare un animale.
 
 Scrivevo poco fa.
 
-Ma per ora servono, me ne rendo conto.
+Non dovrebbero, ma per ora servono, me ne rendo conto.
+
+Ma in cuor mio spero che anche questo ci porti a riflettere un po'.
