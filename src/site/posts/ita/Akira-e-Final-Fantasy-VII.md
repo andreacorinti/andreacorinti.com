@@ -50,9 +50,9 @@ Su questo punto, a mio avviso **cruciale per comprendere tutta l'industria dell'
 
 ## Spiritualità e Scienza
 
-Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un sapore ai limiti del mistico** <small>(congratulazioni Shinji!)</small>, una sorta di <i>"religiosità laica"</i> spesso e volentieri pesantemente influenzata tanto dalle visioni post-apocalittiche del _Mad Max_ di **George Miller** quanto dal cyberpunk di **William Gibson** o da film come _Blade Runner_ <small>[(vi ricordate che diceva Hironobu Sakaguchi a tal proposito, sì?)](http://127.0.0.1:8008/posts/ita/intervista-hironobu-sakaguchi/)</small>.
+Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un sapore ai limiti del mistico** <small>(congratulazioni Shinji!)</small>, una sorta di <i>"religiosità laica"</i> spesso e volentieri pesantemente influenzata tanto dalle visioni post-apocalittiche del _Mad Max_ di **George Miller** quanto dal cyberpunk di **William Gibson** o da film come _Blade Runner_ <small>[(vi ricordate che diceva Hironobu Sakaguchi a tal proposito, sì?)](/posts/ita/intervista-hironobu-sakaguchi/)</small>.
 
-**Probabilmente _Ghost in the Shell_ ha rappresentato il summa di tutto questo discorso**, ma questa è un'altra storia, già brevemente accennata su Xaba Cadabra [in altra sede](http:/xabacadabra.github.io/2016/ghost-in-the-shell/).
+**Probabilmente _Ghost in the Shell_ ha rappresentato il summa di tutto questo discorso**, ma questa è un'altra storia, già brevemente accennata su Xaba Cadabra a suo tempo.
 
 ## Moto!
 
