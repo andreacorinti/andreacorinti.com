@@ -25,6 +25,8 @@ Siccome immagino che l'algoritmo di Google sia molto confuso al momento (sperand
 
 ## Recap
 
+<img src="https://upload.wikimedia.org/wikipedia/en/8/8c/FFVIInomuracastdesigns.JPG" alt="Final_Fantasy_VII">
+
 Come ne scrissi tempo fa rapportandolo ad [Akira](/posts/ita/akira-e-final-fantasy-vii/), **il Final Fantasy VII originale rappresentò uno sforzo economico devastante**, con ogni probabilità non più replicabile:
 
 [**Final Fantasy VII è l'unico videogioco uscito prima del 2000 a rientrare saldamente tra le produzioni più costose della storia**](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop), ovvero ben prima che l'industria videoludica surclassasse ogni altro settore dell'intrattenimento. [^soldi]
@@ -39,6 +41,8 @@ Un vero e proprio _all in_, una scommessa che avrebbe potuto benissimo risolvers
 
 ## Epoca
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PSX-Console-wController.jpg/1280px-PSX-Console-wController.jpg" alt="PlayStation">
+
 In tutto questo, **il mondo del videogame è agli albori del fenomeno PlayStation e alla vivace scoperta del 3D** che, tornando alle mie metafore musicali, possiamo benissimo rapportare all'avvento della Fender Stratocaster nel 1954.
 
 Come se tutto questo non bastasse, **Final Fantasy VII fu rivoluzionario per come intercettò cyberpunk, ambientalismo e le atmosfere futuristiche del Giappone degli anni '90**, abiurando al fantasy medievale che rappresentava praticamente lo standard per Squaresoft e non solo.
@@ -48,6 +52,8 @@ Se ci pensiamo, **l'idea stessa che l'Avalanche fosse un gruppo di eco-terrorist
 Un cuore figlio di tutto il suo illustre passato, i piedi ben piantati nel presente, lo sguardo proiettato verso il futuro.
 
 ## Remake 
+
+<img src="https://upload.wikimedia.org/wikipedia/en/0/00/Final_Fantasy_VII_Remake_gameplay_screenshot.png" alt="Final_Fantasy_VII_Remake_gameplay_screenshot">
 
 Ora: nei fatti il Remake non è nemmeno la stessa identica canzone, ma una bella cover.
 
