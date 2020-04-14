@@ -17,7 +17,7 @@ Sarebbe certamente una _rock ballad_ meravigliosa, ma non LA rock ballad per ant
 
 Stairway to Heaven esce nel 1971, gemma del quarto album che segna la piena maturità artistica dei Led Zeppelin, quando l'hard-blues rock più o meno progressivo sta esplodendo lasciandosi alle spalle la psichedelia hippie degli anni '60.
 
-Stairway to Heaven è un monumento, pure se Jimmy Page non è quel che si dice un guitar hero e andando a vivisezionarla con criteri più o meno tecnici possiamo trovare motivi per cui non è una canzone perfetta <small>(posto che credere nella perfezione fa di noi persone orribili)</small>, ma certamente **_È_ la canzone giusta al momento giusto per fare da chiave di volta**, per cambiare il mondo.
+Stairway to Heaven è un monumento, pure se Jimmy Page non è quel che si dice un guitar hero e andando a vivisezionarla con criteri più o meno tecnici possiamo trovare motivi per cui non è una canzone perfetta <small>(posto che credere nella perfezione farebbe di noi persone orribili)</small>, ma certamente **_È_ la canzone giusta al momento giusto per fare da chiave di volta**, per cambiare il mondo.
 
 Siccome immagino che l'algoritmo di Google sia molto confuso al momento (sperando che per voi non valga lo stesso) chiariamo che _sì_, questo post parla di Final Fantasy VII.
 
