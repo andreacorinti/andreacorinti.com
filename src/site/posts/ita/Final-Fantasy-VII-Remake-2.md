@@ -69,7 +69,7 @@ E intendiamoci: **non è una colpa, ma una condizione inevitabile**.
 
 Anche se Square Enix fosse disposta a correre i _folli_ rischi di Squaresoft nel 1997 <small>(e quindi rimettere praticamente tutto il proprio capitale umano, prima ancora che economico, ai destini di un singolo titolo)</small> **non sarebbbe mai riuscita a creare un videogioco tanto immenso in tempi utili con l'ambizione di rivoluzionare il videogame**.
 
-A causa di ciò, **Final Fantasy VII - Remake non porta nulla di nuovo o scoinvolgente**, non cambia il suo mercato di riferimento, non è il titolo con cui tutti dovranno misurarsi d'ora in avanti.
+A causa di ciò, **Final Fantasy VII - Remake non porta nulla di nuovo o sconvolgente**, non cambia il suo mercato di riferimento, non è il titolo con cui tutti dovranno misurarsi d'ora in avanti.
 
 Non è, ne sarà mai, _Stairway to Heaven_.
 
