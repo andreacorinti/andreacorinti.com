@@ -17,7 +17,9 @@ Sarebbe certamente una _rock ballad_ meravigliosa, ma non LA rock ballad per ant
 
 Stairway to Heaven esce nel 1971, gemma del quarto album che segna la piena maturità artistica dei Led Zeppelin, quando l'hard-blues rock più o meno progressivo sta esplodendo lasciandosi alle spalle la psichedelia hippie degli anni '60.
 
-Stairway to Heaven è un monumento, pure se Jimmy Page non è quel che si dice un guitar hero e andando a vivisezionarla con criteri più o meno tecnici possiamo trovare motivi per cui non è una canzone perfetta <small>(posto che credere nella perfezione farebbe di noi persone orribili)</small>, ma certamente **_È_ la canzone giusta al momento giusto per fare da chiave di volta**, per cambiare il mondo.
+Stairway to Heaven è un monumento, pure se Jimmy Page non è quel che si dice un guitar hero e andando a vivisezionarla con criteri più o meno tecnici possiamo trovare motivi per cui non è una canzone perfetta <small>(posto che credere nella perfezione farebbe di noi persone orribili)</small>, ma certamente **_È_ la canzone giusta al momento giusto per fare da chiave di volta**.
+
+_Per cambiare il mondo._
 
 Siccome immagino che l'algoritmo di Google sia molto confuso al momento (sperando che per voi non valga lo stesso) chiariamo che _sì_, questo post parla di Final Fantasy VII.
 
@@ -33,33 +35,37 @@ Come ne scrissi tempo fa rapportandolo ad [Akira](/posts/ita/akira-e-final-fanta
 
 [^spese]: Senza contare ovviamente un altro bel centone in marketing
 
-Un vero e proprio _all in_, una scommessa che avrebbe potuto benissimo risolversi in un fallimento totale, la sfida creativa della vita.
+Un vero e proprio _all in_, una scommessa che avrebbe potuto benissimo risolversi in un fallimento totale, la sfida creativa della vita per tutti quelli che ci lavoravano.
+
+## Epoca
 
 In tutto questo, **il mondo del videogame è agli albori del fenomeno PlayStation e alla vivace scoperta del 3D** che, tornando alle mie metafore musicali, possiamo benissimo rapportare all'avvento della Fender Stratocaster nel 1954.
 
-Come se tutto questo non bastasse, ***Final Fantasy VII fu rivoluzionario per come intercettò cyberpunk, ambientalismo e le atmosfere futuristiche del Giappone degli anni '90**, abiurando al fantasy medievale che rappresentava praticamente lo standard per Squaresoft e non solo.
+Come se tutto questo non bastasse, **Final Fantasy VII fu rivoluzionario per come intercettò cyberpunk, ambientalismo e le atmosfere futuristiche del Giappone degli anni '90**, abiurando al fantasy medievale che rappresentava praticamente lo standard per Squaresoft e non solo.
 
-Se ci pensiamo, **l'idea stessa che l'Avalanche fosse un gruppo di eco-terroristi in lotta per la salvezza del pianeta** ci porta a capire quanto Final Fantasy VII fosse contemporaneamente avveniristico e figlio del suo tempo.
+Se ci pensiamo, **l'idea stessa che l'Avalanche fosse un gruppo di eco-terroristi in lotta per la salvezza del pianeta** ci porta a capire quanto Final Fantasy VII fosse contemporaneamente avveniristico ma anche figlio del suo tempo:
+
+Un cuore figlio di tutto il suo illustre passato, i piedi ben piantati nel presente, lo sguardo proiettato verso il futuro.
 
 ## Remake 
 
 Ora: nei fatti il Remake non è nemmeno la stessa identica canzone, ma una bella cover.
 
-Visivamente splendida, certo, ma **con standard di qualche anno fa**.
+Visivamente splendida, certo.
 
-E se consideriamo che il fulcro di tutta l'operazione è proprio la "sverniciata" grafica, abbiamo un po' di problemi. 
+**Ma con standard di qualche anno fa** e un gameplay che non porta nulla di rivoluzionario:
 
-La tecnologia alle spalle di questo remake è infatti **vecchia di almeno cinque anni**, vale a dire totalmente vetusta per quando uscirà la sua ultima parte in un non meglio precisato futuro.
+La tecnologia alle spalle di questo remake è infatti **vecchia di almeno cinque anni**, e sarà totalmente vetusta per quando uscirà la sua ultima parte in un ancora non meglio precisato futuro.
 
-**Final Fantasy VII usciva agli albori della prima PlayStation, il suo remake nasce esattamente al canto del cigno della PS4.**
+**Final Fantasy VII usciva agli albori della prima PlayStation, il suo remake nasce al canto del cigno della PS4.**
 
-Intendiamoci: **non è una colpa, ma una condizione inevitabile**.
+E intendiamoci: **non è una colpa, ma una condizione inevitabile**.
 
-Anche se Square Enix fosse disposta a correre i _folli_ rischi di Squaresoft nel 1997 (e quindi investire praticamente tutto il proprio capitale umano, prima ancora che economico, ai destini di un singolo titolo) **non sarebbbe mai riuscita a creare un videogioco tanto immenso in tempi utili e con uno sguardo verso il futuro**.
+Anche se Square Enix fosse disposta a correre i _folli_ rischi di Squaresoft nel 1997 <small>(e quindi rimettere praticamente tutto il proprio capitale umano, prima ancora che economico, ai destini di un singolo titolo)</small> **non sarebbbe mai riuscita a creare un videogioco tanto immenso in tempi utili e con uno sguardo verso il futuro**.
 
 A causa di ciò, **Final Fantasy VII - Remake non porta nulla di nuovo, rivoluzionario o scoinvolgente**, non cambia il suo mercato di riferimento, non è il titolo con cui tutti dovranno misurarsi d'ora in poi.
 
 Non è, ne sarà mai, _Stairway to Heaven_.
 
-<small>E può solo sperare di non diventare i Greta Van Fleet.</small>
+<small>Può solo sperare di non diventare i Greta Van Fleet.</small>
 
