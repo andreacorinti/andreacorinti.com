@@ -13,7 +13,7 @@ No.
 
 Sarebbe certamente una _rock ballad_ meravigliosa, ma non LA rock ballad per antonomasia, quella che ti proibiscono di strimpellare nei negozi di musica perché a una certa basta.
 
-[[!Stairway to heaven]](https://qph.fs.quoracdn.net/main-qimg-9aa17375c26431ba78580e4cf4408c1c)
+<img src="https://qph.fs.quoracdn.net/main-qimg-9aa17375c26431ba78580e4cf4408c1c" alt="Stairway to Heaven">
 
 Stairway to Heaven esce nel 1971, gemma del quarto album che segna la piena maturità artistica dei Led Zeppelin, quando l'hard-blues rock più o meno progressivo sta esplodendo lasciandosi alle spalle la psichedelia hippie degli anni '60.
 
