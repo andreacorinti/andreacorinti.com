@@ -76,7 +76,7 @@ avatar: ../images/avatar2.jpg
     <td>IA Conversational Speech Quality Analizer</td>
   </tr>
   <tr>
-    <td>7.2019 – CURRENT<br>TELEPERFORMANCE HELLAS</td>
+    <td>7.2019 – 5.2020<br>TELEPERFORMANCE HELLAS</td>
     <td>Senior IT Support & Financial Customer Care Advisor</td>
   </tr>
 </table>
