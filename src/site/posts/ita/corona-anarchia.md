@@ -2,7 +2,7 @@
 title: "Anarchia e Corona Virus"
 subtitle: "Diari della Quarantena #4"
 sommario: "Potevo attraversare litri e litri di corallo per raggiungere un posto che si chiamasse Anarchia"
-immagine: https://upload.wikimedia.org/wikipedia/commons/9/9b/Bakunin.png
+immagine: https://upload.wikimedia.org/wikipedia/commons/6/6c/Bakunin_Nadar.jpg
 date: 2020-03-24
 lang: it-IT
 ---
