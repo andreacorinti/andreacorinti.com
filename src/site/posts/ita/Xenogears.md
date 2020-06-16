@@ -1,7 +1,7 @@
 ---
 title: "Xenogears - Recensione"
 subtitle: "Il capolavoro nascosto di Squaresoft"
-sommario: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che sembra quasi una presa per il di dietro..."
+sommario: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/xenogearsrecensione.jpg
 date: 2016-01-01
 lang: it-IT
@@ -55,8 +55,8 @@ Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, re
 
 <img src="https://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="cast xenogears">
 <small>Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato</small>
-
-**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler essere ottimisti, eh)
+<br/><br/>
+**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler essere ottimisti, eh).
 
 Quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel: roba che un momento ti pare di star guardando _Escaflowne_, ed un secondo dopo ti ritrovi a _Ballarò_).
 
@@ -71,7 +71,7 @@ Tutto ciò incide anche nella memoria: non avete idea di quante volte mi è capi
 
 <img src="https://lparchive.org/Xenogears/Update%2018/31-SLUS_006.64_08072007_050210_0546.jpg" alt="chu-chu xenogears">
 <small>l'unico vero ABNORME difetto del gioco.</small>
-
+<br/><br/>
 Se a tutto questo discorso ci uniamo il fatto che **il secondo disco di gioco è praticamente una visual novel che si risolve da sola**, si capisce che la situazione va precipitando.
 
 Certo è facile attaccarsi a tutti i costi agli ovvi tagli al budget ad opera di Squaresoft come dei bravi complottisti della domenica, ma se ci si ragiona un attimo **è lecito rendersi conto che le ambizioni di Xenogears superavano qualsiasi budget sensato un'azienda quale la Square dell'epoca (non certo prodiga in termini di spese) avrebbe potuto concedergli**:
@@ -97,14 +97,14 @@ Il binomio grafico sprite 2D + ambienti 3D (curioso opposto allo stile usato all
 
 <img src="https://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
 <small>Esplorare un Dungeon in Xenogears può seriamente provocare il mal di mare...</small>
-
+<br/><br/>
 Per contrasto bisogna considerare come **il livello grafico del gioco risulti pregevole:**, curatissimo tanto nella pixel art quanto nel :**character design delle sequenze animate:** onore al merito agli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
 
 ## Chi dovrebbe giocare a Xenogears
 
 <img src="https://lparchive.org/Xenogears-(by-The-Dark-Id)/Update%2076/9-babel14.jpg" alt="combattimenti xenogears">
 <small>il Battle System "robottonico", non lontano anni luce dal primo ma decisamente profondo e appagante</small>
-
+<br/><br/>
 Nonostante sia con ogni probabilità **uno dei videogames migliori mai realizzati e un vero e proprio metro di paragone per il suo genere di riferimento**, non consiglierei mai e poi mai Xenogears a chiunque.
 
 Anzitutto **bisogna avere una certa storia (possibilmente d'amore) coi JRPG.**
