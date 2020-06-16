@@ -171,3 +171,9 @@ avatar: ../images/avatar2.jpg
     <br>- Spanish (as a second foreign language, good spoken)</td>
   </tr>
 </table>
+
+## Certifications
+
+<img src="/assets/cv/google1.jpg" alt="google">
+<img src="/assets/cv/freecodecamp1.png" alt="freecodecamp">
+<img src="/assets/cv/mooc.jpg" alt="freecodecamp">

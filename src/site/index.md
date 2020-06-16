@@ -39,19 +39,11 @@ Want to hire me, or ask something in particular? By all means!
 
 For less "official" communications, you can easily find me on [@XabCorinti](https://twitter.com/XabCorinti).
 
-## Certifications
-
-<img src="/assets/cv/google1.jpg" alt="google">
-<img src="/assets/cv/freecodecamp1.png" alt="freecodecamp">
-<img src="/assets/cv/mooc.jpg" alt="freecodecamp">
-
 ## ☠️ Facebook
 
 I really don't like Facebook: I've a profile that I'm only using for managing pages, connected accounts, old photos and stuff like that, so I find it's pointless to link it here.
 
 If you need it for **_business reasons_** however: [contact me](/contact/), send me your info and I'll happily meet you in the Zuckerberg lands!
-
-{% include "travelmap.njk" %}
 
 ## 🗺️ Babel
 
