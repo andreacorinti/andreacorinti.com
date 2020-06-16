@@ -1,5 +1,5 @@
 ---
-title: Archivio
+title: Blog
 subtitle: in italiano 🇮🇹 
 layout: layouts/base.njk
 lang: it-IT
