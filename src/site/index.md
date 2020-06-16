@@ -45,7 +45,7 @@ I really don't like Facebook: I've a profile that I'm only using for managing pa
 
 If you need it for **_business reasons_** however: [contact me](/contact/), send me your info and I'll happily meet you in the Zuckerberg lands!
 
-## 🗺️ Babel
+<!--## 🗺️ Babel
 
 | Language       | Level                                                                   |
 |----------------|-------------------------------------------------------------------------|
@@ -54,4 +54,4 @@ If you need it for **_business reasons_** however: [contact me](/contact/), send
 | **es-2**           | Andrea puede comunicar en un nivel intermedio de español (rioplatense). |
 | **lmo-2**          | Andrea a l'è bun de comunicà cunt un Lumbard da nivèll intermedi.       |
 | **scn-1**          | 'Ndria pò cummunicari c'un sicilianu ôn liveddu vasciu.                 |
-| **Lingue Romanze** | Andrea può leggere abbastanza bene tutte le lingue romanze.              |
+| **Lingue Romanze** | Andrea può leggere abbastanza bene tutte le lingue romanze.              |-->
