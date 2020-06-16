@@ -1,10 +1,11 @@
-
+---
 title: "Albavilla"
 subtitle: "Provincia di Como"
 sommario: "Le mie città #1"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Albavilla-vista_chiesa.JPG/800px-Albavilla-vista_chiesa.JPG
-date: 2020-06-17
+date: 2020-06-16
 lang: it-IT
+---
 
 Ho deciso di scrivere qualche riga sui luoghi dove ho vissuto, una sorta di _origin story_ da personaggio dei fumetti.
 
