@@ -8,9 +8,9 @@ layout: layouts/base.njk
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-**Italian Customer Care and Technical Support Services at Teleperformance Greece, Athens.**
+Italiano in Ελλάδα 🇮🇹 🇬🇷
 
-IT Support | Developer | Slytherin | (Retro) Gamer | SeeD バラムガーデン.
+Customer Care Advisor | IT Support | GameDeveloper | Slytherin | (Retro) Gamer | SeeD バラムガーデン.
 
 On the web:
 

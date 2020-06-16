@@ -79,6 +79,10 @@ avatar: ../images/avatar2.jpg
     <td>7.2019 – 5.2020<br>TELEPERFORMANCE HELLAS</td>
     <td>Senior IT Support & Financial Customer Care Advisor</td>
   </tr>
+  <tr>
+    <td>6.2020 – Current<br>WEBHELP HELLAS</td>
+    <td>Italian Customer Care Advisor</td>
+  </tr>  
 </table>
 
 <table>

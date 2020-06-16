@@ -2,7 +2,7 @@
 title: "I Medici Cubani"
 subtitle: "Diari della Quarantena #3"
 sommario: "A Cuba ci sono stato quand'ero solo un pischelletto, perciò tutto quello che ricordo ha i connotati della cartolina sbiadita"
-immagine: https://scontent.fath7-1.fna.fbcdn.net/v/t1.0-9/90517805_10159083111224796_2315036189142286336_n.jpg?_nc_cat=1&_nc_sid=730e14&_nc_ohc=Tf6Ybcf_BK8AX9DCeYF&_nc_ht=scontent.fath7-1.fna&oh=86df27ea078b27977b7396d354718d7b&oe=5E9F0D23
+immagine: https://www.repstatic.it/content/localirep/img/rep-milano/2020/03/22/203028487-3dc53d51-0492-45c6-838d-1bd4db64d571.jpg
 date: 2020-03-22
 lang: it-IT
 ---
