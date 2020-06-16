@@ -72,10 +72,9 @@ Per quanto precari sul piano narrativo, **i titoli della serie di punta della Be
 
 ## Cosa ci perdiamo, creando un personaggio ?
 
-<img src='https://1.bp.blogspot.com/--zSZP-RaczE/UlxY0bnkeNI/AAAAAAAAEq8/D8cdmBjuRg8/s1600/baldur's+gate.png' alt='Baldurs-gate'>
+<img src="https://1.bp.blogspot.com/--zSZP-RaczE/UlxY0bnkeNI/AAAAAAAAEq8/D8cdmBjuRg8/s1600/baldur's+gate.png" alt='Baldurs-gate'>
 <small>Baldur's Gate e seguito sono, sin dalla loro uscita, uno degli elementi di paragone per tutti i  Giochi di Ruolo 
 </small> </br> </br>
-
 Da prendere con le pinze, perché alcuni giochi hanno egregiamente dimostrato il contrario (uno su tutti, [_Vampire: Bloodlines_](/2013/vampire-masquerade-bloodlines-recensione/)) ma **è innegabile che con un protagonista "non pervenuto" costruire una storia avvincente è un compito estremamente gravoso**, specie se si parla di **una storia che va a toccare il profilo più personale dei personaggi** piuttosto che i suoi elementi più macroscopici (che non a caso sono il pane quotidiano degli _Elder Scrolls_)
 
 <img src='https://1.bp.blogspot.com/-GSL7XmqMVL8/UlxdSoP75jI/AAAAAAAAErI/WkETL0TLOyY/s1600/geneprojector.png' alt='Fallout-3'>
@@ -96,7 +95,7 @@ Questo è da sempre **uno dei drammi della pur brava Bioware**, che ha fatto di 
 ## Japan! 
 
 <img src='https://1.bp.blogspot.com/-vXc2PtgjCBc/Ulxe2QQIoWI/AAAAAAAAErU/d26YoeMGH0Y/s1600/pp0084-wrpg-vs-jrpg.jpg' alt='RPG VS JRPG'>
-<small>by [Tim Carillet](https://www.shutterstock.com/g/distantshore)
+<small>by <a href="https://www.shutterstock.com/g/distantshore">Tim Carillet</a>
 </small> </br> </br>
 
 L'esigenza narrativa è stata poi la causa che ha portato a quella è **una sorta di scissione luterana dei videogiochisti**, ovvero la nascita del distinguo tra **Giochi di Ruolo Occidentali (RPG) e Giochi di Ruolo Giapponesi (JRPG)**:
@@ -120,16 +119,15 @@ Semplicemente **quel _Role Playing Game_ nella definizione "JRPG" non ha più un
 ## Conclusioni
 
 <img src='https://1.bp.blogspot.com/-5R362Fzm9f8/Ul0Nr252GcI/AAAAAAAAEsc/KFU2O--tlMI/s1600/nwn.jpg' alt='Neverwinter Nights'>
-<small>Neverwinter Nights (2002)
-</small> </br> </br>
+<small>Neverwinter Nights (2002)</small> </br> </br>
 
 Ergo:
 
 ### Per un RPG è fondamentale la creazione del personaggio ?
 
-Io direi di no: 
+Io direi di **no**.
 
-tutto è relativo a cosa s'intende per RPG, quanto delle origini cartacee passano per il videogame di riferimento, e quindi quanto quest'ultimo vuole far leva sull'interpretazione del giocatore.
+Tutto è relativo a cosa s'intende per RPG, quanto delle origini cartacee passano per il videogame di riferimento, e quindi quanto quest'ultimo vuole far leva sull'interpretazione del giocatore.
 
 ### E allora perché hai scritto tutte ste pippe mentali ?
 
