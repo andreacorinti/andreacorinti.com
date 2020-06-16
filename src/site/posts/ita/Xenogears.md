@@ -145,4 +145,4 @@ Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede 
 I braccobaldi non possono che essere **5 su 5** !
 
 <div class="hreview" style="display: none;">
-<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Xenogears</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">2016-01-01<br /> </span> Voto: <span class="rating">5</span></span></span></div>
+<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Xenogears</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">2016-01-01<br /> </span><span class="dateModified">2020-06-16<br /></span> Voto: <span class="rating">5</span></span></span></div>
