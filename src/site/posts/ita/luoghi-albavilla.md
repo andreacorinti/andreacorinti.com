@@ -1,9 +1,9 @@
 ---
 title: "Albavilla"
-subtitle: "Provincia di Como"
-sommario: "Le mie città #1"
+subtitle: "Le mie città #1"
+sommario: "Ho deciso di scrivere qualche riga sui luoghi dove ho vissuto, una sorta di origin story da personaggio dei fumetti"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Albavilla-vista_chiesa.JPG/800px-Albavilla-vista_chiesa.JPG
-date: 2020-06-16
+date: 2020-06-17
 lang: it-IT
 ---
 
@@ -22,3 +22,13 @@ Anzi, a voler essere sinceri, il Canton Ticino (che estero lo è per davvero) mi
 **Nella mia carriera di videogiocatore ho sempre associato Albavilla a Nibelheim di Final Fantasy VII**, con cui in effetti non mancano i paralleli:
 
 l'Alpe del Vicerè alle spalle di Albavilla era il cuore di un villaggio fascista finito sotto le bombe che, per molti aspetti, fa scopa con il reattore Shinra del Mt. Nibel alle spalle del paesino di Cloud.
+
+## Gente di paese
+
+Nascere e crescere in un contesto simile è complicato da descrivere, specie per chi viene da città veramente grandi ed è abituato a tutt'altro mondo:
+
+Per dirne una, da bambini si è inevitabilmente sempre assieme dall'asilo alla terza media e, coi prodromi dell'adolescenza, ci si sente naturalmente in gabbia quando manca il motorino e la bicicletta non può portarti troppo in là.
+
+Oggi è tutto molto diverso grazie a internet ed amazon, ma all'epoca comprare determinati giochi-videogiochi o recuperare qualche libro poteva essere davvero un'impresa, quindi ***per reazione si consumavano all'osso i pochi svaghi a disposizione, si alimentava molto la fantasia e si _abusava_ di televisione.**
+
+Viaggiando ed invecchiando il mio amore per il paesaggio bucolico di Albavilla è andato aumentando, credo per via del naturale cerchio che mi ha portato ad anelare alle grandi città (dove nei fatti ho vissuto per il grosso della mia vita) salvo poi esserne un po' usurato
