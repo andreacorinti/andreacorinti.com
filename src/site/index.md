@@ -8,7 +8,7 @@ layout: layouts/base.njk
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-Italiano in Ελλάδα 🇮🇹 🇬🇷
+**Italiano in Ελλάδα 🇮🇹 🇬🇷**
 
 Customer Care Advisor | IT Support | GameDev | (Retro) Gamer | SeeD バラムガーデン.
 
