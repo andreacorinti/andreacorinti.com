@@ -138,7 +138,7 @@ So che da come ne ho parlato può sembrà che sia na specie d'agonia, ma in real
 Se sembro esagerato nel "mettere in guardia" chi ci si avvicina è principalmente perché:
 
 1. Conosco abbastanza bene Xenogears
-2. Conosco (ahimé) il pubblico videogiocatore odierno
+2. Conosco le tendenze del videogioco odierno
 
 E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tanto, si corre il rischio di creare aspettative fuorivanti, soprattutto per le persone "sbagliate"
 
@@ -148,7 +148,7 @@ Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede 
 
 I braccobaldi non possono che essere **5 su 5** !
 
-<div class="hreview" style="display: none;">
+<div class="hreview" style="display: none;" itemscope itemtype="http://schema.org/VideoGame">
 
 <span itemprop="name">Xenogears</span>
 <span itemprop="playMode">SinglePlayer</span>
@@ -174,6 +174,6 @@ I braccobaldi non possono che essere **5 su 5** !
 <span itemprop="gamePlatform"> PlayStation</span>
 <span class="reviewer">Andrea Corinti</span>
 <span class="dtreviewed">2016-01-01</span>
-<span class="dateModified">2020-06-16</span>
+<span class="dateModified">2020-06-19</span>
 <span class="rating">5</span>
 </div>
