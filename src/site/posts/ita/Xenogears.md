@@ -147,9 +147,7 @@ E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tan
 
 Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede **realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), che saprà abbondantemente ripagare, donando una delle massime esperienze videoludiche a chiunque avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
 
-I braccobaldi non possono che essere **5 su 5** !
-
-<div class="hreview" style="display: none;" itemscope itemtype="http://schema.org/VideoGame">
+<div style="display: none;" itemscope itemtype="http://schema.org/VideoGame">
 
 <span itemprop="name">Xenogears</span>
 <span itemprop="playMode">SinglePlayer</span>
