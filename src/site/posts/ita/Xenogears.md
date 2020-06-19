@@ -109,6 +109,7 @@ Curatissimo tanto nella pixel art quanto nel **character design delle sequenze a
 <img src="https://lparchive.org/Xenogears-(by-The-Dark-Id)/Update%2076/9-babel14.jpg" alt="combattimenti xenogears">
 <small>il Battle System "robottonico", non lontano anni luce dal primo ma decisamente profondo e appagante</small>
 <br/><br/>
+
 Nonostante sia con ogni probabilità **uno dei videogames migliori mai realizzati e un vero e proprio metro di paragone per il suo genere di riferimento**, non consiglierei mai e poi mai Xenogears a chiunque.
 
 Anzitutto **bisogna avere una certa storia (possibilmente d'amore) coi JRPG.**
@@ -172,8 +173,9 @@ I braccobaldi non possono che essere **5 su 5** !
 <span itemprop="publisher">Squaresoft</span>
 <span itemprop="genre">Role-playing game</span>
 <span itemprop="gamePlatform"> PlayStation</span>
-<span class="reviewer">Andrea Corinti</span>
+</div>
+
+<!--<span class="reviewer">Andrea Corinti</span>
 <span class="dtreviewed">2016-01-01</span>
 <span class="dateModified">2020-06-19</span>
-<span class="rating">5</span>
-</div>
+<span class="rating">5</span>-->
