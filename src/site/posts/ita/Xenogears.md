@@ -145,4 +145,31 @@ Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede 
 I braccobaldi non possono che essere **5 su 5** !
 
 <div class="hreview" style="display: none;">
-<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Xenogears</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">2016-01-01<br /> </span><span class="dateModified">2020-06-16<br /></span> Voto: <span class="rating">5</span></span></span></div>
+
+<span itemprop="name">Xenogears</span>
+<span itemprop="playMode">SinglePlayer</span>
+<div itemprop="author" itemscope itemtype="http://schema.org/Organization">
+    <p> Author<a itemprop="url" href="https://www.square-enix.com/"><span itemprop="name">Squaresoft</span></a></p>
+    <p>Founded in <span itemprop="foundingDate">1975</span></p>
+    <P> Persons</p>
+    <ul>
+      <li>Founder: <span itemprop="founder">Yasuhiro Fukushima</span></li>
+      <li itemprop="employee">Tetsuya Takahashi</li>
+      <li itemprop="employee">Hiromichi Tanaka</li>
+      <li itemprop="employee">Kiyoshi Yoshii</li>
+      <li itemprop="employee">Kunihiko Tanaka</li>
+      <li itemprop="employee">Yasunori Mitsuda</li>
+      <li itemprop="employee">Kaori Tanaka</li>
+      <li itemprop="employee">Masato Kato</li>
+      <li itemprop="employee">Yasuyuki Honne</li>
+    </ul>
+</div>
+
+<span itemprop="publisher">Squaresoft</span>
+<span itemprop="genre">Role-playing game</span>
+<span itemprop="gamePlatform"> PlayStation</span>
+<span class="reviewer">Andrea Corinti</span>
+<span class="dtreviewed">2016-01-01</span>
+<span class="dateModified">2020-06-16</span>
+<span class="rating">5</span>
+</div>
