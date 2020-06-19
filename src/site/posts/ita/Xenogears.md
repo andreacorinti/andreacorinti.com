@@ -56,12 +56,12 @@ Sconvolgerlo sì con fior di colpi di scena, ma orchestrati in modo sapiente, re
 <img src="https://cdn.wikimg.net/strategywiki/images/8/85/Xenogears_characters.gif" alt="cast xenogears">
 <small>Come da tradizione Squaresoft, il cast di personaggi è stupendamente caratterizzato</small>
 <br/><br/>
-**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler essere ottimisti, eh).
 
-Quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** (in questo senso palma d'oro agli Anziani del Ministero di Gazel: roba che un momento ti pare di star guardando _Escaflowne_, ed un secondo dopo ti ritrovi a _Ballarò_).
+**Xeno viceversa infarcisce di chili e chili d'informazioni trasmesse in termini non proprio facilissimi da tenere a mente**, specie se qualche criptico monologo avrà un senso giusto giusto **dopo 40 ore buone di gioco** (a voler essere ottimisti, eh) ovvero quando, con ogni probabilità, **il giocatore medio si sarà bello che scordato tutto** 
 
-<small>A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](https://www.sadnescity.it/traduzioni/xeno/xeno.php) !
-</small>
+<small>(in questo senso palma d'oro agli Anziani del Ministero di Gazel: roba che un momento ti pare di star guardando _Escaflowne_, ed un secondo dopo ti ritrovi a _Ballarò_).</small>
+
+>A proposito di dialoghi: se v'interessa **Xenogears in italiano** annate a fare un saluto ai SadNES [qui](https://www.sadnescity.it/traduzioni/xeno/xeno.php) !
 
 Chiaro: **c'è il fattore rigiocabilità**, ma trattandosi di un JRPG non proprio brevissimo e con altri problemi di cui parliamo tra poco, **non credo sia il caso di farci troppo affidamento.**
 
@@ -72,6 +72,7 @@ Tutto ciò incide anche nella memoria: non avete idea di quante volte mi è capi
 <img src="https://lparchive.org/Xenogears/Update%2018/31-SLUS_006.64_08072007_050210_0546.jpg" alt="chu-chu xenogears">
 <small>l'unico vero ABNORME difetto del gioco.</small>
 <br/><br/>
+
 Se a tutto questo discorso ci uniamo il fatto che **il secondo disco di gioco è praticamente una visual novel che si risolve da sola**, si capisce che la situazione va precipitando.
 
 Certo è facile attaccarsi a tutti i costi agli ovvi tagli al budget ad opera di Squaresoft come dei bravi complottisti della domenica, ma se ci si ragiona un attimo **è lecito rendersi conto che le ambizioni di Xenogears superavano qualsiasi budget sensato un'azienda quale la Square dell'epoca (non certo prodiga in termini di spese) avrebbe potuto concedergli**:
@@ -98,7 +99,10 @@ Il binomio grafico sprite 2D + ambienti 3D (curioso opposto allo stile usato all
 <img src="https://lparchive.org/Xenogears/Update%2029/4-SLUS_006.69_30072007_184131_0828.jpg" alt="dungeon xenogears">
 <small>Esplorare un Dungeon in Xenogears può seriamente provocare il mal di mare...</small>
 <br/><br/>
-Per contrasto bisogna considerare come **il livello grafico del gioco risulti pregevole:**, curatissimo tanto nella pixel art quanto nel :**character design delle sequenze animate:** onore al merito agli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
+
+Per contrasto bisogna considerare quanto **il livello grafico del gioco risulti pregevole:**
+
+Curatissimo tanto nella pixel art quanto nel **character design delle sequenze animate**, è un vero e proprio fiore all'occhiello per gli artisti **Kunihiko Tanaka** e **Yasuyuki Honne**.
 
 ## Chi dovrebbe giocare a Xenogears
 
