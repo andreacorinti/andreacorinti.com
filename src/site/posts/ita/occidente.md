@@ -23,7 +23,7 @@ La Tunisia è nel Maghreb, eppure ha una marea di cose in comune con il nostro s
 
 Vogliamo parlare dell'influenza romana? 
 
-C'è un sacco di Roma in Libia, Siria, Turchia e chi più ne ha più ne metta, molto più di quanto la si può trovare in un qualsiasi paese Scandinavo, per dirne una.
+C'è un sacco di Roma in Libia, Siria, Turchia e chi più ne ha più ne metta, molto più di quanto la si possa trovare in un qualsiasi paese Scandinavo, per dirne una.
 
 Vogliamo trovare un significato a quell'Occidente?
 
