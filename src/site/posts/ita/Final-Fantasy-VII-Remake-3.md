@@ -31,7 +31,7 @@ Come ho sempre ribadito, **non avrebbe avuto senso raccontarmi una storia che co
 
 Il guaio è che, **se uno la storia originale non la conosce, di tutta sta roba metanarrativa non può capirci molto** poiché non ha ovviamente mai attraversato il binario da dove ora stiamo deviando.
 
-Viveversa, chi su quel binario ci ha viaggiato più e più volte, può prendere questa deviazione come una deragliata bella e buona.
+Viceversa, chi su quel binario ci ha viaggiato più e più volte, può prendere questa deviazione come una deragliata bella e buona.
 
 ## I due difetti principali
 
