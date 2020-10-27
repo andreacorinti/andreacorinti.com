@@ -1,7 +1,7 @@
 ---
 title: "Dark Mode"
-subtitle: "A volte ritornano"
-sommario: ""
+subtitle: "Diari della Seconda Ondata #1"
+sommario: "In un impeto di crisi da pseudo-secondo lockdown, nel cuore della notte con sveglia presto per lavoro"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GNOME_Shell%2C_GNOME_Clocks%2C_Evince%2C_gThumb%2C_GNOME_Files_at_version_3.30_%282018-09%29_in_Dark_theme.png/1024px-GNOME_Shell%2C_GNOME_Clocks%2C_Evince%2C_gThumb%2C_GNOME_Files_at_version_3.30_%282018-09%29_in_Dark_theme.png
 date: 2020-10-10
 lang: it-IT
