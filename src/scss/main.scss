@@ -181,9 +181,9 @@ table {
 }
 
 thead {
-  color: $page-color;
-  background-color: $text-color;
-  border-bottom: 2px solid mix($page-color, $text-color, 25%);
+  color: white;
+  background-color: black; // $text-color
+  border-bottom: 2px solid mix(white, black, 25%);
 }
 
 th {
@@ -222,13 +222,13 @@ footer {
 
 .sidebar {
 
-  background: $text-color;
-  color: $page-color;
+  background: $page-color; // background: $text-color;
+  color: $text-color; // color: $page-color;
 
   a:link,
   a:visited,
   h1 {
-    color: $page-color;
+    color: $text-color; // $page-color;
   }
 
   header {
