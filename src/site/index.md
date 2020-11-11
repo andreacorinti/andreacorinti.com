@@ -10,7 +10,9 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._
 
 **Italiano in Ελλάδα 🇮🇹 🇬🇷**
 
-Customer Relationship Specialist | IT Support | GameDev | (Retro) Gamer | SeeD バラムガーデン.
+Web Editor for Edilingua.
+
+Web Dev | Customer Care Specialist | IT Support | GameDev | (Retro) Gamer | SeeD バラムガーデン.
 
 On the web:
 

@@ -80,9 +80,13 @@ avatar: ../images/avatar2.jpg
     <td>Senior IT Support & Financial Customer Care Advisor</td>
   </tr>
   <tr>
-    <td>6.2020 – Current<br>WEBHELP HELLAS</td>
+    <td>6.2020 – 11.2020<br>WEBHELP HELLAS</td>
     <td>Italian Customer Care Advisor</td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>11.2020 – Current<br>EDIZIONI EDILINGUA</td>
+    <td>Web Editor</td>
+  </tr>    
 </table>
 
 <table>
