@@ -1,6 +1,6 @@
 ---
 title: Andrea Corinti
-subtitle: Senior Technical & Billing Support Advisor
+subtitle: Web Editor, Senior Technical & Billing Support Advisor
 layout: layouts/cv.njk
 avatar: ../images/avatar2.jpg
 ---
