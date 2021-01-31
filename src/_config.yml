@@ -8,4 +8,4 @@
 #
 # for me, this line reads:
 # https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
-staticman_url: https://${bridge_app_name}.herokuapp.com/v2/entry/${github-username}/${blog-repo}/master/comments
+staticman_url: https://staticman-andreacorinti.herokuapp.com/v2/connect/andreacorinti/andreacorinti.com/master/comments
