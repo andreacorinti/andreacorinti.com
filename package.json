@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreacorinti/andreacorinti.com"
+    "url": "https://github.com/andreacorinti/andreacorinti.com"
   },
   "keywords": [],
   "author": "5t3ph",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/5t3ph/11ty-netlify-jumpstart/issues"
+    "url": "https://github.com/andreacorinti/andreacorinti.com/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
