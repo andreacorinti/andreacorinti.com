@@ -1,6 +1,6 @@
 {
   "name": "andreacorinti.com",
-  "version": "2.5.0",
+  "version": "2.5",
   "description": "Andrea Corinti website",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/andreacorinti/andreacorinti.com"
   },
   "keywords": [],
-  "author": "5t3ph",
+  "author": "andreacorinti",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andreacorinti/andreacorinti.com/issues"
