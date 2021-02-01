@@ -1,5 +1,5 @@
 module.exports = {
-  url: process.env.URL || "https://andreacorinti.com", //http://localhost:8080",
+  url: process.env.URL || "http://localhost:8080",
   siteName: "Andrea Corinti",
   siteDescription:
     "Xab, an Italian Web World citizen.",
