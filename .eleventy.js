@@ -1,55 +1,87 @@
+const socialImages = require("@11tyrocks/eleventy-plugin-social-images");
+const emojiRegex = require("emoji-regex");
+const slugify = require("slugify");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+const packageVersion = require("./package.json").version;
+const pluginTOC = require('eleventy-plugin-toc');
 
-module.exports = function (config) {
 
-  // Add a date formatter filter to Nunjucks
-  config.addFilter("dateDisplay", require("./filters/dates.js"));
-  config.addFilter("timestamp", require("./filters/timestamp.js"));
-  config.addFilter("squash", require("./filters/squash.js"));
-  // syntax & rss
-  config.addPlugin(syntaxHighlight);
-  config.addPlugin(pluginRss);
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(socialImages);
+  eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginTOC);
 
-  config.addPassthroughCopy('assets') // file esterni
-  
+  eleventyConfig.addWatchTarget("./src/sass/");
+
+  /* Date */
+
+  eleventyConfig.addFilter("dateDisplay", require("./src/filters/dates.js"));
+  eleventyConfig.addFilter("timestamp", require("./src/filters/timestamp.js"));
+
   /* Collezioni */
-
-  config.addCollection("tutto", function(collection) {
-    return collection.getFilteredByGlob(["src/site/posts/*.md","src/site/posts/ita/*.md"]); // array!
-    // to add: "src/site/posts/projects/*.md"
+  
+  eleventyConfig.addCollection("blogita", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/ita/*.md").reverse();
   });
-  config.addCollection("articles", function(collection) {
-    return collection.getFilteredByGlob("src/site/posts/*.md").reverse();
-  });
-  config.addCollection("articoli", function(collection) {
-    return collection.getFilteredByGlob("src/site/posts/ita/*.md").reverse();
+  eleventyConfig.addCollection("blogeng", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/*.md").reverse();
   });
 
-  /* Markdown */
+  eleventyConfig.addPassthroughCopy("./src/css");
+  eleventyConfig.addPassthroughCopy("./src/fonts");
+  eleventyConfig.addPassthroughCopy("./src/img");
+  eleventyConfig.addPassthroughCopy("./src/favicon.png");
 
-  let markdownIt = require("markdown-it");
-  let options = {
-    html: true,
-    breaks: true,
-    linkify: true
-  };
-  config.setLibrary("md", markdownIt(options));
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
+
+  eleventyConfig.addFilter("slug", (str) => {
+    if (!str) {
+      return;
+    }
+
+    const regex = emojiRegex();
+    // Remove Emoji first
+    let string = str.replace(regex, "");
+
+    return slugify(string, {
+      lower: true,
+      replacement: "-",
+      remove: /[*+~·,()'"`´%!?¿:@\/]/g,
+    });
+  });
+
+  /* Note */
+
   let markdownItFootnote = require("markdown-it-footnote");
-  let markdownLib = markdownIt(options).use(markdownItFootnote);
-  config.setLibrary("md", markdownLib);
 
-  /* Return */
+  /* Markdown Overrides */
+  let markdownLibrary = markdownIt({
+    html: true,
+  }).use(markdownItAnchor, {
+    permalink: true,
+    permalinkClass: "tdbc-anchor",
+    permalinkSymbol: "",
+    permalinkSpace: false,
+    level: [1, 2, 3],
+    slugify: (s) =>
+      s
+        .trim()
+        .toLowerCase()
+        .replace(/[\s+~\/]/g, "-")
+        .replace(/[().`,%·'"!?¿:@*]/g, ""),
+  }).use(markdownItFootnote);
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
   return {
+    passthroughFileCopy: true,
     dir: {
-      input: "src/site",
-      output: "dist",
-      includes: "_includes"
+      input: "src",
+      output: "public",
     },
-    templateFormats: ["njk", "md"],
-    htmlTemplateEngine: "njk",
-    markdownTemplateEngine: "njk"
   };
-
 };

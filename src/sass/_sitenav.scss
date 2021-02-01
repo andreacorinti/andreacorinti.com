@@ -1,0 +1,54 @@
+// stylelint-disable-next-line selector-max-id, selector-max-specificity
+#tdbc-siteid {
+  font-size: $tdbc-h3-font-size;
+  font-family: Teko;
+  text-decoration: none;
+}
+
+// stylelint-disable selector-max-type
+.tdbc-sitenav {
+  background-color: black;
+  font-family: Teko;
+
+  &__container,
+  &__navlist {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  &__container {
+    justify-content: space-between;
+    width: 100%;
+    max-width: 120ch;
+    margin: 0 auto;
+    padding: 0.25rem 0.5rem;
+  }
+
+  &__navlist {
+    li + li {
+      margin-left: 0.5rem;
+    }
+  }
+
+  &,
+  a:not(.tdbc-button) {
+    color: tdbc-color("light");
+  }
+
+  a:not(.tdbc-button):focus {
+    border-radius: $tdbc-border-radius/2;
+    outline-color: transparent;
+    outline-style: solid;
+    box-shadow: 0 0 1px 2px tdbc-color("light");
+  }
+  a {
+    text-decoration: none;
+    padding: 0.2vh;
+  };
+  a:hover {
+    background-color: white;
+    color: black;
+  }
+}
+// stylelint-enable
