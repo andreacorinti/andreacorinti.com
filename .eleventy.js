@@ -5,8 +5,8 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
-const packageVersion = require("./package.json").version;
 const pluginTOC = require('eleventy-plugin-toc');
+const packageVersion = require("./package.json").version;
 
 
 module.exports = function (eleventyConfig) {

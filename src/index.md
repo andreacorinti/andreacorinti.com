@@ -52,3 +52,5 @@ Other than where specified, the content on this site is published under a <a hre
 Feel free to take a peak at the source on <a href="https://github.com/andreacorinti/andreacorinti.com" target="blank">Github</a>.
 
 Build with <a href="https://www.11ty.io/" target="blank">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="blank">11ty Jumpstart</a>, <a href="https://github.com/" target="blank">Github</a> and <a href="https://www.netlify.com/" target="blank">Netlify</a>.</p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2ce83520-1a8d-4e99-b17c-84de26b48a13/deploy-status)](https://app.netlify.com/sites/andreacorinti/deploys)

@@ -16,7 +16,8 @@
     "lint": "stylelint 'src/sass/**/*.scss' 'src/sass/**/**/*.scss' 'src/sass/**/**/**/*.scss'",
     "lint:fix": "stylelint --fix 'src/sass/**/*.scss' 'src/sass/**/**/*.scss' 'src/sass/**/**/**/*.scss'",
     "social-images": "eleventy-social-images --outputDir public --dataFile social/pages.json --templatePath social/template.html",
-    "bump": "npm --no-git-tag-version version"
+    "bump": "npm --no-git-tag-version version",
+    "debug": "set DEBUG=Eleventy* & npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
