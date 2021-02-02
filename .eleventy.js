@@ -7,6 +7,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require('eleventy-plugin-toc');
 const packageVersion = require("./package.json").version;
+const filters = require('./src/_11ty/filters');
 
 
 module.exports = function (eleventyConfig) {
@@ -16,6 +17,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginTOC);
 
   eleventyConfig.addWatchTarget("./src/sass/");
+
+  // Filters
+  Object.keys(filters).forEach(filterName => {
+    eleventyConfig.addFilter(filterName, filters[filterName])
+  })
 
   /* Date */
 
