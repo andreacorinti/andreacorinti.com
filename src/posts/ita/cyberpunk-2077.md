@@ -1,9 +1,9 @@
 ---
 title: "Cyberpunk 2077 è la fiera dei rimpianti"
 subtitle: "Una pseudo recensione spassionata"
-sommario: "Si è già detto tutto, il suo contrario ed in generale troppo, salvo (inevitabilmente) del gioco in quanto tale, ovvero l'unico argomento che tratterò in queste righe."
+sommario: "Si è già detto tutto, il suo contrario ed in generale troppo, salvo (inevitabilmente) ritrovarsi a parlare poco del gioco in quanto tale, ovvero ciò che proverò a trattare in queste righe."
 immagine: https://lh3.googleusercontent.com/cloudcast/AGY_3L-JeUknmF77snzdVpN9uk28602Vka4gnv85EYITeNbyC7YPJTh1TN32Cw=w2400-h1350-rw-no
-date: 2021-02-03
+date: 2021-02-02
 lang: it-IT
 ---
 
@@ -51,7 +51,7 @@ Di Night City invece non ho punti di riferimento o memorie, proprio perché l'ho
 
 Cyberpunk 2077 non offre quasi nulla in termini d'interpretazione e una libertà di scelta ridotta all'osso: 
 
-**V, al netto dei suoi 3 diversi background e qualche scelta variabile, è più o meno lo stesso V per tutti**, un personaggio all'apparenza giusto un meno precotto di un Geralt di Rivia o un JC Denton... 
+**V, al netto dei suoi 3 diversi background e qualche scelta variabile, è più o meno lo stesso V per tutti**, un personaggio all'apparenza giusto un po' meno precotto di un Geralt di Rivia o un JC Denton... 
 
 in realtà siamo lì.
 
@@ -79,7 +79,9 @@ Mass Effect 2 ha più di 10 anni eppure sembra molto più raffinato di Cyberpunk
 
 ![cyberpunk2077-judy](https://lh3.googleusercontent.com/cloudcast/AGY_3L9h_X2Wlcd8CwiNwrRr0HT_pGWWYxJOenvFLTExDNxGvI7KZs-RYxWqaw=w2400-h1350-rw-no)
 
-Chi ha scritto e curato la sceneggiatura di Cyberpunk 2077 conosce e ama il genere: è qualcuno che ha divortato William Gibson, Akira, Ghost in the Shell, Blade Runner e chi più ne ha più ne metta.
+Chi ha scritto e curato la sceneggiatura di Cyberpunk 2077 conosce e ama il genere: 
+
+**è qualcuno che ha divortato William Gibson**, _Akira, Ghost in the Shell, Blade Runner_ e chi più ne ha più ne metta.
 
 In particolare il debito più evidente è proprio con la narrativa di Gibson, che non per niente ha praticamente inventato il genere: un ritorno alle origini se vogliamo, qualcosa di decisamente suggestivo e potente:
 
@@ -89,26 +91,28 @@ Senza spoilerare nulla, tutto il prologo con Jackie, il finale (io ho scelto "Il
 
 **Johnny Silverhand**, il personaggio di Keanu Reeves, è proprio il contrario dei personaggi che il buon Keanu interpreta solitamente e a cui ci ha abituato: 
 
-In breve, è un narciso pezzo di stronzo che sotto sotto nasconde un cuore d'oro, e che personalmente ho apprezzato moltissimo (del resto, è praticamente una rockstar anni '80) anche quando avrei voluto prendere a schiaffi.
+In breve, è un narciso pezzo di stronzo che sotto sotto nasconde un cuore d'oro, e che personalmente ho apprezzato moltissimo (del resto, è praticamente una rockstar anni '80) anche se spesso avrei voluto prenderlo a schiaffi.
 
 ## Meccaniche
 
 ![cyberpunk2077-demolition-man](https://lh3.googleusercontent.com/cloudcast/AGY_3L88fRDreIxJOihyNO7MlIu_QepOxNDGMzmX6VmMl39R2lNyGgNYF3gpUQ=w2400-h1350-rw-no)
 
-Personalmente l'ho giocato molto sull'hacking, con un po' di stealth e combattimenti all'arma bianca (katane): non male davvero, di certo più intrigante che come sparatutto - almeno per il mio gusto - ma niente di particolarmente memorabile.
+Personalmente **l'ho giocato molto sull'hacking, con un po' di stealth e combattimenti all'arma bianca (katane)**: 
 
-Menzione di (de)merito per la quantità spasmodica di oggetti, iconcine, segnalini, equipaggiamenti e via discorrendo: **una matranga di robaccia inutile che più che invogliare al collezionismo a me ha letteralmente asfissiato**.
+Non male davvero, di certo più intrigante che come sparatutto (piuttosto deludente, almeno per il mio gusto) anche se niente di particolarmente memorabile.
 
-Abbastanza tristi anche le pressoché inutili auto/moto (il fast travel è accessibile più o meno ovunque), anche se ammetto che farmi delle derapate in una città cyberpunk è stato molto evocativo, prima di scoprire che quella città, come detto sopra, era un bellissimo pacco regalo senza il regalo.
+Menzione di (de)merito per la quantità spasmodica di oggetti, iconcine, segnalini, equipaggiamenti e via discorrendo: **una matranga di robaccia inutile che più che invogliare al collezionismo a me ha letteralmente asfissiato spingendomi a ignorare quasi tutto**.
+
+Abbastanza tristi anche **le pressoché inutili auto/moto** (il fast travel è accessibile più o meno ovunque), anche se ammetto che farmi delle derapate in una città cyberpunk è stato molto evocativo, prima di scoprire che quella città, come detto sopra, era un bellissimo pacco regalo senza il regalo.
 
 ## Conclusioni 
 
 ![cyberpunk2077-river](https://lh3.googleusercontent.com/cloudcast/AGY_3L-DYpRxjPJAPgXHsLCXbk67FzIwsuuHkIYB3vVUv4TFpMseCKBPb6zfiQ=w2400-h1350-rw-no)
 
-Preso nella sua essenza (trama, personaggi, ambientazione e amore per il genere) Cyberpunk 2077 è un bel gioco con tanti problemi ma con momenti godibilissimi.
+Preso nella sua essenza (trama, personaggi, ambientazione e amore per il genere) **Cyberpunk 2077 è un bel gioco con tanti problemi, una bella scrittura soffocata in un'insipida melassa ma comunque non priva di momenti godibilissimi**.
 
-Preso nella sua interezza, una grossa delusione e un titolo completamente diverso da ciò che ci era stato promesso.
+Preso nella sua interezza, **resta una grossa delusione per ciò che sarebbe potuto essere**, poiché parliamo comunque di un titolo decisamente diverso da ciò che ci era stato promesso.
+
+PS: 
 
 Avendolo giocato su Google Stadia, non ho rilevato particolari problemi / bug quindi non posso pronunciarmi nel merito "truffa".
-
-Per il resto, personalmente sono rimasto molto più deluso da _Metal Gear Solid V_ e tutto sommato Cyberpunk 2077 me lo sono pure goduto.
