@@ -26,7 +26,6 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._
 ```js
 // Benvenuti!
 console.log("And welcome chez Andrea Corinti's");
-};
 ```
 
 ## Resume 
@@ -49,7 +48,7 @@ Some of my favorite sites in the web are [here](/bookmarks/).
 
 Other than where specified, the content on this site is published under a <a href="https://creativecommons.org/licenses/by/4.0/" target="blank">Creative Commons Attribution license</a>.
 
-Feel free to take a peak at the source on <a href="https://github.com/andreacorinti/andreacorinti.com" target="blank">Github</a>.
+Feel free to take a peek at the source on <a href="https://github.com/andreacorinti/andreacorinti.com" target="blank">Github</a>.
 
 Build with <a href="https://www.11ty.io/" target="blank">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="blank">11ty Jumpstart</a>, <a href="https://github.com/" target="blank">Github</a> and <a href="https://www.netlify.com/" target="blank">Netlify</a>.</p>
 
