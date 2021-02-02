@@ -1,51 +1,74 @@
-<!-- _includes/webmentions.njk -->
-  <!-- Filter the cached mentions to only include ones matching the post's url -->
+<div class="webmentions" id="webmentions">
+
   {% set mentions = webmentions | getWebmentionsForUrl(metadata.url + webmentionUrl) %}
-  <!-- Set reposts as mentions that are `repost-of`  -->
   {% set reposts = mentions | webmentionsByType('repost-of') %}
-  <!-- Count the total reposts -->
   {% set repostsSize = reposts | size %}
-  <!-- Set likes as mentions that are `like-of`  -->
   {% set likes = mentions | webmentionsByType('like-of') %}
-  <!-- Count the total likes -->
   {% set likesSize = likes | size %}
-  <!-- Set replies as mentions that are `in-reply-to`  -->
   {% set replies = mentions | webmentionsByType('in-reply-to')  %}
-  <!-- Count the total replies -->
   {% set repliesSize = replies | size  %}
 
-  {% if repliesSize > 0 %}
+{% if likesSize > 0 %}
+<div class="webmentions__facepile">
+  <h3{% if repostsSize > 11 or likesSize > 11 %} class="webmentions__facepile__squish" {% endif %}>{{ likesSize }}
+    Like{% if likesSize != 1 %}s{% endif %}</h3>
+
+    {% for webmention in likes %}
+
+      {% if webmention.url != "" %}
+        <a class="h-card u-url link-u-exempt" href="{{ webmention.url }}" target="_blank" rel="noopener noreferrer">
+      {% endif %}
+
+      {% if webmention.author.photo %}
+      <img src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}" width="48" height="48" loading="lazy">
+      {% else %}
+      <img src="{{ '/img/avatar.svg' | url }}" alt="" width="48" height="48">
+      {% endif %}
+
+      {% if webmention.url != "" %}
+        </a>
+      {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if repostsSize > 0 %}
+<div class="webmentions__facepile">
+  <h3{% if repostsSize > 11 or likesSize > 11 %} class="webmentions__facepile__squish" {% endif %}>{{ repostsSize }} Retweet{% if repostsSize != 1 %}s{% endif %}</h3>
+
+    {% for webmention in reposts %}
+      {% if webmention.url != "" %}
+      <a class="h-card u-url link-u-exempt" href="{{ webmention.url }}" target="_blank" rel="noopener noreferrer">
+      {% endif %}
+
+      {% if webmention.author.photo %}
+      <img src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}" width="48" height="48" loading="lazy">
+      {% else %}
+      <img src="{{ '/img/avatar.svg' | url }}" alt="" width="48" height="48">
+      {% endif %}
+      {% if webmention.url != "" %}
+      </a>
+      {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if repliesSize > 0 %}
 <div class="webmention-replies">
   <h3>{{ repliesSize }} {% if repliesSize == "1" %}Reply{% else %}Replies{% endif %}</h3>
+
   {% for webmention in replies %}
     {% include 'webmention.njk' %}
   {% endfor %}
 </div>
 {% endif %}
 
-<article class="webmention" id="webmention-{{ webmention['wm-id'] }}">
-  <div class="webmention__meta">
-    {% if webmention.author %}
-      {% if webmention.author.photo %}
-      <img src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}" width="48" height="48" loading="lazy">
-      {% else %}
-      <img src="{{ '/img/avatar.svg' | url }}" alt="" width="48" height="48">
-      {% endif %}
-      <span>
-        <a class="h-card u-url" {% if webmention.url %}href="{{ webmention.url }}" {% endif %} target="_blank" rel="noopener noreferrer"><strong class="p-name">{{ webmention.author.name }}</strong></a>
-      </span>
-    {% else %}
-      <span>
-        <strong>Anonymous</strong>
-      </span>
-    {% endif %}
-    {% if webmention.published %}
-        <time class="postlist-date" datetime="{{ webmention.published }}">
-            {{ webmention.published | readableDateFromISO }}
-        </time>
-    {% endif %}
-  </div>
-  <div>
-      {{ webmention.content.text }}
-  </div>
-</article>
+<p>These are <a href="https://indieweb.org/Webmention">webmentions</a> via the <a href="https://indieweb.org/">IndieWeb</a> and <a href="https://webmention.io/">webmention.io</a>. Mention this post from your site:</p>
+
+<form action="https://webmention.io/andreacorinti.com/webmention" method="post" class="form-webmention">
+    <label for="form-webmention-source">URL</label><br>
+    <input id="form-webmention-source" type="url" name="source" placeholder="https://example.com" required>
+    <input type="hidden" name="target" value="https://andreacorinti.com{{ page.url }}">
+    <input type="submit" class="button button-small" value="Send Webmention">
+  </form>
+</div>
