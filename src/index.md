@@ -2,7 +2,9 @@
 layout: home.njk
 ---
 
-<p class="p-note">**Italiano in Ελλάδα 🇮🇹 🇬🇷**
+<p class="p-note">
+
+**Italiano in Ελλάδα 🇮🇹 🇬🇷**
 
 Web Editor for Edilingua Edizioni.
 
