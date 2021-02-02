@@ -23,18 +23,18 @@ layout: base.njk
 <header class="tdbc-hero">
   <div class="tdbc-container">
     <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
-    <time itemprop="datePublished" content="{{ date }}">{{ date | dateDisplay }}</time>
+    <time itemprop="datePublished" class="dt-published" content="{{ date }}">{{ date | dateDisplay }}</time>
     <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ subtitle }}
     </h2>
   </div>
 </header>
-<main class="tdbc-container">
+<main class="tdbc-container h-entry">
   <aside class="tdbc-mx-auto">
     {{ content | toc | safe }}
   </aside>
-  <article class="tdbc-mx-auto">
+  <article class="tdbc-mx-auto e-content p-name">
     {{ content | safe }}
   <section>
     <h2>Webmentions Test</h2>

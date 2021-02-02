@@ -2,11 +2,11 @@
 layout: home.njk
 ---
 
-**Italiano in Ελλάδα 🇮🇹 🇬🇷**
+<p class="p-note">**Italiano in Ελλάδα 🇮🇹 🇬🇷**
 
 Web Editor for Edilingua Edizioni.
 
-_Bio is a Poison-elemental attack that can inflict the Poison status._
+_Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 
 <p class="social">
 <a href="http://github.com/andreacorinti/" target="blank" rel="me">GITHUB</a> |
