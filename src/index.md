@@ -18,7 +18,6 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a> |
 <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> |
 <a href="https://www.instagram.com/xabacadabra/" target="blank" rel="me">INSTAGRAM</a> |
-<a href="https://www.facebook.com/galbadia/" target="blank" rel="me">FACEBOOK</a> |
 <a href="https://www.last.fm/user/XabarasFF" target="blank" rel="me">LAST.FM</a> |
 <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">TVTIME</a>
 </p>

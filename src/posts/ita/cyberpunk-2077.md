@@ -5,6 +5,7 @@ sommario: "Si è già detto tutto, il suo contrario ed in generale troppo, salvo
 immagine: https://lh3.googleusercontent.com/cloudcast/AGY_3L-JeUknmF77snzdVpN9uk28602Vka4gnv85EYITeNbyC7YPJTh1TN32Cw=w2400-h1350-rw-no
 date: 2021-02-02
 lang: it-IT
+tweetId: "1356630907373912068"
 ---
 
 ## Una premessa

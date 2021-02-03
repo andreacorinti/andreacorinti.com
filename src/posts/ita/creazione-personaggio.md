@@ -136,3 +136,138 @@ Perché è un elemento potenzialmente interessantissimo in qualsiasi videogioco,
 Io sotto sotto spero di vedere questa funzione, magari trainata dal successo di Skyrim, in un sacco di contesti diversi: 
 
 **Mi piacerebbe un sacco creare personaggi nelle ambientazioni e generi più variegati**, e trovo che sia un fattore limitante notare che, quando la possibilità esiste, è contemplata quasi esclusivamente nei soliti giochi di ruolo fantasy.
+
+### Commenti Archiviati
+
+<article id="f76f3c21-2226-43a9-b9c0-1233d105303d">
+    <div class="comment__avatar-wrapper">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/2651CABF9ECC6DA044DD906613E70598?d=mm&s=80" alt="Gengis Khan Drogo">
+    </div>
+    <div class="comment__author">
+        Gengis Khan Drogo
+        <span class="comment__date">
+        2013-10-15T13:08:17Z
+        </span>
+    </div>
+    <p class="comment__body">
+    quoto sopratutto su Vampire Bloodlines non ho mai invece apprezzato skyrim, mi è sempre sembrato un parco giochi fine a se stesso, ma forse perchè mi piace interagire con la trama e un party di personaggi.
+    </p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-15T13:10:08Z
+    </span>
+  </div>
+    <p class="comment__body">
+Eh si parla di cose diverse, io personalmente le apprezzo entrambe: con gli Elder Scrolls do senz'altro più sfogo alla mia fantasia, proprio perché privo di vincoli particolari, mentre in giochi \"a la bioware\" mi appassiono certamente di più in modo classico, e i personaggi e le storie (se meritevoli) mi restano nel cuore :)</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+</div>
+<div class="comment__author">
+    Lollo
+    <span class="comment__date">
+        2013-10-16T09:52:08Z
+    </span>
+</div>
+<p class="comment__body">
+    devo ancora finire di leggermi tutto perchè qua hai scritto n'infinità di roba (molto bella comunque), di base comunque da vecchio amante del gioco di ruolo vero e proprio ovvero cartaceo non posso che essere d'accordo, e tra l'altro visto che parli di JRPG dico da subito che uno dei motivi se non sono mai stato troppo loro fanatico è proprio l'impossibilità di crearmi un mio pg e fare le mie scelte personali.
+</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="Claudio Palumbo">
+</div>
+<div class="comment__author">
+    Claudio Palumbo
+    <span class="comment__date">
+        2013-10-17T18:17:46Z
+    </span>
+</div>
+<p class="comment__body">
+    Su Ultima mi premetto di fare una piccola \"correzione\".Definire la saga proto Bioware lo trovo riduttivo.La saga nasce realmente col 4(lasciamo perdere i primi 3 XD)che introdusse il concetto d'avatar+virtu' e di scelta morale attiva.Non solo ha creato il gdr ma lo ha ricreato continuamente.Anche i 2 titoli peggiori della serie U8 e U9(colpa di Ea e d'origin stessa)furono innovativi(da un lato abbiamo la nascita' degli hack and slash dall'altro i gdr in 3 persona)E' da U9 che il genere non vede innovazioni.Anche se i due citati titoli sono pessimi(U8 gameplay a parte si salva come trama e atmosfera)col senno' di poi ne apprezzo almeno lo spirito coerente della saga di non rimanere uguale a se stessa ma avere il coraggio di cambiarsi rischiando,anche il fallimento.Mi manca tutto cio' specie in un mercato dominato da titoli fotocopia e seguiti di seguiti.Ultima e' da sempre stato un gdr Story driven open world free roaming.Infatti Bioware ne ha preso l'elemento story driven+rapporto con i pg del party mentre bethseda l'aspetto free roaming.E direi che è piu' Bethseda ad offrire l'esperienza + vicina a Ultima,che non Bioware,testimoniato anche dalle parole dello stesso tom howard(Non a caso U7 è il suo gioco preferito che ha ispirato il suo lavoro)<br>In 20 anni di gaming,Ultima per me rimane il top proprio perche' ad oggi è l'unica saga ad aver unito Storia,scelte morali e Free roaming,Ora l'aspetto per me importante dei gdr sono storia e scelte morali ed è per questo motivo che preferisco Bioware/Blackisle(a cui riconosco la superiorita' nel genere per quanto riguarda il combat system..vabbe' che è D&amp;D) a Bethseda.Ma anche i giochi di tale software house rimangono chiusi e limitati.Manca appunto la senzazione di trovarsi in un mondo vivo coerente ed indipendente dalle nostre vicende come player.Anche se Bioware a malincuore oggigiorno se dimenticata come fare gdr ed offre' piu esperienze cinematografiche dove le scelte morali si riducono al semplice A=buono B=cattivo. <br>Ho difficolta' ad accettare i titoli bethseda come gdr.Al mio occhio sembrano piu' dei Gta medievali.La storia e le scelte morali sono assent(puoi affiliarti a chiunque senza conseguenze) e la ruolistica tarata verso il basso.Il mondo se pur aperto e sicuramente piu' vivo rispetto a b&amp;b non é convincente come quello di Ultima(molti npc sembrano messi li a caso)La presunta' liberta io non c'e la vedo.La customizzazione del pg è piu' meno quella del genere e per quanto riguarda il gioco,la presunta liberta' è solo un illusione e si è solamente chiusi in una gabbia piu' grande.I Tes hanno una trama e quest come tutti gli altri titoli e finiti quelli finisce il gioco proprio come un GTA .Se finite quest e trama il gioco prosegue è dovuto alla presenza delle mod vero valore aggiunto e li si che rendono l'esperienza infinita.Ma di base Tes è chiuso negli stessi limiti che tutti i giochi hanno,Ottimo Articolo cmq.<br>Ecco la mia scala di preferenza per software house:<br>1 Origin <br>2 Black Isle<br>3 Cdproject<br>4 Bioware
+</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-17T22:14:38Z
+    </span>
+  </div>
+    <p class="comment__body">
+beh ora dando a cesare quel che di cesare (e mi costa perché odio la blizzard) l'hack &amp; slash nasce quasi certamente con il primo diablo, che è uscito 3 anni prima di ultima 9 :D <b>EDIT:</b> pardon ho letto male, noto ora che parlavi di ULTIMA 8! in questo caso non ti questiono perché non avendolo giocato può essere effettivamente come dici tuil punto di assoluta libertà degli elder scrolls, invece, è quello che pur avendo una trama, non è importante seguirla, neanche per \"sbloccare le isole\" come usava nei vecchi GTA di una volta, per farti un esempio io potrei creare in modo molto coerente un personaggio la cui \"main quest\" è legata alla sola gilda dei ladri e nient'altro, è chiaro che comunque tutto questo presuppone un lavoro d'immaginazione del giocatore: la narrativa nei TES non esiste o quasi, è un po' come anche i vecchi giochi stile rogue se vogliamo. Il che è una forza, ma certamente allo stesso tempo anche un limite per i motivi che hai elencato!</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="Claudio Palumbo">
+</div>
+<div class="comment__author">
+    Claudio Palumbo
+    <span class="comment__date">
+        2013-10-18T00:50:16Z
+    </span>
+</div>
+<p class="comment__body">
+    Ovviamente è chiaro che la cosa va  a gusti come sempre.Come hack and slash ovviamente Diablo è migliore è piu' affinato a livello gameplay di Ultima 8(minato da scelte di design discutibili e non complete causa Dead Lines imposte da EA).Titolo che non boccio completamente per trama(nonostante i tagli)e atmosfera(a differenza di U9 che a parte la bella grafica per i tempi è uno sputo in faccia a tutta la fanbase date le enormi e troppe incorenze..Grazie EA)Ultima purtoppo è stata anche pecursore di quello che L'EA sta facendo con Bioware(Rendiamo action i gdr per un pubblico piu' ampio)<br>Ah non sei il solo che odia Blizzard.Diablo come qualsiasi hack and slash mi fa spruzzare dietro a raffica.Devo anche dire che non  sono molto fan dei gdr dove il main focus è il combattimento(es i dungeon crawler)Infatti temo che gli ultima underworld recuperati su gog(che ancora debbo fare) possano non piacermi(sto rigiocando  tutta la serie appositamente anche per loro e i 2 spin off worlds of ultima) P.S.Se non l'hai fatto/finito fatti Ultima 7 e sopratutto Serpent isle che è frutto di Warren Spector
+</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-18T14:29:20Z
+    </span>
+  </div>
+    <p class="comment__body">
+eh ultima 7 l'ho solo iniziato, mai finito :( purtroppo soffro molto la tipologia d'isometrico diciamo, paradossalmente la \"non-grafica\" di ultima 1, siccome era tutta bianco&amp;nero, mi dava meno fastidio</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="Claudio Palumbo">
+</div>
+<div class="comment__author">
+    Claudio Palumbo
+    <span class="comment__date">
+        2013-10-18T14:45:36Z
+    </span>
+</div>
+<p class="comment__body">
+    eh in effetti Ultima 7 è un po confusionario.Con Exult se non ricordo male è possibile allargare il campo visivo e recentemente ruotare la visuale in stile UO.<br>Beh se riesci ad andare oltre il consiglio rimane per di piu' entrambi  sono tradotti in ita(&lt;3 Oldgamesitalia)Ultima 1 rifinito qualche mese fa devo dire che superato l'iniziale scoglio del passato,l'ho trovato tutt'ora godibile
+</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-18T14:55:32Z
+    </span>
+  </div>
+    <p class="comment__body">
+uh già quello è una funzione mica da poco, mi metti pure voglia di rispolverare Ultima Online che a suo modo era davvero bellissimo :')</p>
+
+
+</article>

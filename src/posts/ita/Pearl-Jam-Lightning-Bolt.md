@@ -80,3 +80,185 @@ I Pearl Jam si sono da un lato concessi **qualche sprazzo di punk "badreliginoso
 **Un disco che brutto non è, per carità, ma ahimè abbastanza dimenticabile**, specie considerando che è il frutto di un gruppone di questa risma
 
 <small>PS: L'ultima canzone del lotto, la ballad _**Future Days**_, è invece tutt'altra storia: struggente, ispirata, **classicissima ma sinceramente bella:** può stagliarsi benissimo da sola senza il resto dell'album sul groppone, da ascoltarsela attraversando l'Arizona in un tramonto infinito.</small>  
+
+### Commenti Archiviati
+
+<article id="38e045a6-91b0-4c92-bc34-ee512f6a42c5">
+    <div class="comment__avatar-wrapper">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    </div>
+    <div class="comment__author">
+        Lollo
+        <span class="comment__date">
+        2013-10-16T07:16:48Z
+        </span>
+    </div>
+    <div class="comment__body">
+    da vero metallaro nudo e crudo come sai io non impazzisco per il grunge, anzi diciamo pure che se togliamo gli Alice in Chains e qualche canzone sparsa mi fa immensamente cagare, però mi è sempre piaciuto il tipo di voce di eddie vedder...peccato che come dici questo sia un album moscio, solo che io non salvo proprio niente, mi sembra una commercialata schifosa fatta imitando i generi che in questo periodo risultano più radiofonici
+    </div>
+
+  <hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-16T07:21:22Z
+    </span>
+  </div>
+    <div class="comment__body">
+    Secondo me invece no, cioè indubbiamente si parla di un album più fruibile per radio e televisioni, essendo appunto un disco complessivamente parecchio \"soft\", ma non penso lo abbiano realizzato presupponendosi quest'obbiettivo in testa. Poi magari sbaglio eh, ma i Pearl Jam non mi sono mai sembrati quel tipo di gruppo che fa simili ragionamenti, e anzi penso che da un lato <b>la vera commercialità sarebbe stata quella di fare un album hard rock vecchio stampo</b> anche se controvoglia, giusto per sedurre i vecchi fan (quello che intendevo quando parlavo di <i>viagra musicale</i>
+  </div>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+</div>
+<div class="comment__author">
+    Lollo
+    <span class="comment__date">
+        2013-10-16T09:06:49Z
+    </span>
+</div>
+<p class="comment__body">
+    tu ti fidi troppo, io non sarei tanto ottimista!</>
+</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/DF2797D9038C659BC484693951718CFE?d=mm&s=80" alt="Enzo">
+</div>
+<div class="comment__author">
+    Enzo
+    <span class="comment__date">
+        2013-10-16T09:11:22Z
+    </span>
+</div>
+<p class="comment__body">
+    scusa ma se ascolto su spotify si paga? grz
+</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-16T09:13:18Z
+    </span>
+  </div>
+    <p class="comment__body">
+si sono 22 euro iva esclusa, vuole lo scontrino? Scherzi a parte, di base spotify è gratuito con un limite d'ascolto di 10 ore dopo un periodo di prova illimitato, leggi di più qui [no url]</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-16T09:15:48Z
+    </span>
+  </div>
+    <p class="comment__body">
+Probabilmente è che ho più stima della band di te a prescindere, barbün! :D</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+</div>
+<div class="comment__author">
+    Lollo
+    <span class="comment__date">
+        2013-10-16T09:18:51Z
+    </span>
+</div>
+<p class="comment__body">
+    ahaha si ma sai che a me tutti questi rocker rivoluzionari antisistema generazione x e quello che vuoi non son mi mai piaciuti visto che poi a conti fatti son pieni di milioni e non aspettano altro che mtv venga li a riprenderli mentre fanno un comizio :P</>
+</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-16T09:20:47Z
+    </span>
+  </div>
+    <p class="comment__body">
+no non hai capito, quel <i>generazione x</i> stava per Generazione <b>Xab</b>, mica per altro, che te credi. Io mi facevo sponsorizzare già quando avevo 6 anni, sono una mente imprenditoriale</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-16T09:26:56Z
+    </span>
+  </div>
+    <p class="comment__body">
+Comunque su quel che dici ci sarebbe da scrivere effettivamente, ma poi ho paura che si cadrebbe nel pseudo-grillismo e non ho voglia di fare polemica gratuita...alla fine è un sistema fatto così, cioè è un discorso tipo quello <i>\"la litizzetto e saviano si fanno pubblicare dalla mondadori e poi stanno sempre a sfottere berlusconi, bell'ipocrisia!\"</i> è che secondo me ci sono dietro molte più sfumature di così, alla fine nelle case editrici, radio, televisioni e quant'altro ci lavora una marea di gente \"invisibile\" (e competente!) con cui un autore si trova felicissimo di lavorare...e alla fine per un autore/musicista/quelchevuoi riuscire ad essere pubblicato è un successo impagabile Poi se uno dovesse stare sempre sul \"duri&amp;puri\" per la coerenza antisistema dovrebbe vivere da frate domenicano, praticamente: niente nutella perché la fa la ferrero e blabla, niente prosciutto perché quelli che lo producono invadono i paesi con i carciofi eccetera eccetera... è un discorso ben più ampio, dovrei davvero scriverci su qualcosa</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+</div>
+<div class="comment__author">
+    Lollo
+    <span class="comment__date">
+        2013-10-16T09:32:49Z
+    </span>
+</div>
+<p class="comment__body">
+    si si però c'è una differenza secondo me cioè se tu fai proprio  più leva sulla tua protesta che sulla tua musica e poi vendi il culo così, anche se giustifricabile per quello che hai detto io la vedo come una gigantesca ipocrisia preferisco allora i gruppi cazzari degli anni '80 che almeno parlavano solo di ciulare e spassarsela senza chissà quale pretesa rivoluzionaria e per giunta suonavano pure meglio....
+</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2013-10-16T09:20:47Z
+    </span>
+  </div>
+    <p class="comment__body">
+Beh però considera che tu stai parlando dei Pearl Jam di vent'anni fa, oramai è da un pezzo che hanno appeso le loro velleità rivoluzionarie al chiodo...sul suonare meglio vabbè, se andiamo nel merito della tecnica musicale sai meglio di me che entriamo nell'insondabile: è un presupposto che fa passare Gigi D'Alessio meglio dei Ramones, e nel dire che sarebbe un atto criminale spero che ci troviamo abbastanza d'accordo :D</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+</div>
+<div class="comment__author">
+    Lollo
+    <span class="comment__date">
+        2013-10-16T09:41:52Z
+    </span>
+</div>
+<p class="comment__body">
+    pur non amando i Ramones....ok si, hai ragione ^^
+</p>
+
+
+
+
+
+</article>

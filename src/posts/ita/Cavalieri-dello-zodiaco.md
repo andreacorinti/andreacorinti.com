@@ -72,3 +72,50 @@ Non vedo come un fan della serie classica lo possa apprezzare, aldilà di un eve
 Personalmente, vedo il bene della disgrazia nel notare [quanto abbia floppato questa pellicola in Giappone](https://myanimelist.net/forum/?topicid=1216595), facendomi riappacificare un minimo col pubblico odierno del Sol Levante (dove però, ricordiamolo, Saint Seiya non ha mai riscosso un successo paragonabile a quello avuto in Italia e Sud America).
 
 PS: Il fatto che **il Cavaliere dello Scorpione qui sia una donna** personalmente non mi ha disturbato: certo è la solita questione delle "quote rosa" inserite giusto per ammiccare a determinati tipi di target, ma oh, quello del reboot è un universo originale a se stante, quindi ci può stare che le regole misogine della serie classica lì non vengano applicate.
+
+<h3> Commenti Archiviati </h3>
+
+<article id="fc8825da-7fce-4333-abc2-f7721cc547ea">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="Emerson Edmilson">
+</div>
+<div class="comment__author">
+    Emerson Edmilson
+    <span class="comment__date">
+        2015-01-14T14:06:23Z
+    </span>
+</div>
+<p class="comment__body">
+visto subbato in lingua originale. Quanto mai...sono anche io affezionato al doppiaggio italiano, ma francamente il cinema me lo evito sapendo già a quello a cui vado incontro. Peccato, c'erano i presupposti per fare meglio</p>
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/F708122C6D287B1094D41FADE19018AF?d=mm&s=80" alt="Davion">
+</div>
+<div class="comment__author">
+    Davion
+    <span class="comment__date">
+        2015-01-15T11:52:59Z
+    </span>
+</div>
+<p class="comment__body">
+sono assolutamente d'accordo con la recensione. Tra l'altro ho notato che un sacco di gente si lamenta del cambio di sesso per Scorpio, quando invece i problemi del film sono ben altri... davvero, magari fosse questo il problema. Cancer è davvero improponibile. Ioria con il piercing e Mur con gli occhiali anche. Non sopporto tutto questo volersi adattare per forza ai (discutibili) gusti dei ragazzini di oggi. Trovo assurda la scelta di voler rendere assolutamente ritardato Pegasus, che sì anche nella serie classica ha sempre avuto la battuta facile, ma in maniera FIGA. Come ad esempio l'epica battuta \"con le tue rose addobbati la casa, cavaliere!\" Non come in questo film dove il massimo che sa dire è \"Toro sei un tardone\". E a proposito di rose, meglio non parlare del trattamento riservato a Fish, vero e proprio insulto ai fan di questo personaggio. Non salvo praticamente niente del film, tranne forse il combattimento finale, ma anche sul piano prettamente tecnico non è che sia proprio lo stato dell'arte. Delusione, non mi aspettavo certo un filmone ma nemmeno un'opera di così basso livello.</p>
+
+<hr class="comment__hr">
+
+  <div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+  </div>
+    <div class="comment__author">
+    Xab
+    <span class="comment__date">
+        2015-01-16T17:03:55Z
+    </span>
+  </div>
+    <p class="comment__body">
+    ti ringrazio! e si, concordo in toto con il tuo commento. probabilmente la Toei ha ascoltato troppo i \"trend\" che sembrano girare in questo periodo e troppo poco le idee che stavano alla base di manga e anime originali, c'è poco da dire :(
+    </p>
+
+</article>

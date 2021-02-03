@@ -1,0 +1,39 @@
+.comment__avatar-wrapper {
+    float: left;
+    width: 60px;
+    height: 60px;
+  }
+  
+  .comment__avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .comment__content-wrapper {
+    float: right;
+    width: calc(100% - 60px);
+  }
+  
+  .comment__author {
+    margin: 0;
+  
+    a {
+      text-decoration: none;
+    }
+    font-style: bold;
+  }
+
+  .comment__date {
+    font-size: 0.7em;
+    font-style: italic;
+  }
+
+  .comment__hr {
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+
+  .comment__body {
+    font-size: 0.9em;
+  }

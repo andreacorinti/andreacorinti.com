@@ -3,7 +3,7 @@ title: "Baglioni e gli Immigrati"
 subtitle: "Canta che ti resta"
 date: 2019-01-12
 sommario: Baglioni si mostra più coerente di buona parte della nostra classe dirigente
-immagine: https://andreacorinti.com/images/baglioni.jpg
+immagine: https://www.corriere.it/methode_image/2019/01/10/Interni/Foto%20Interni%20-%20Trattate/765e66444f0659dc397e7b1645025a05-kkv-U3090481018186ZQG-656x492@Corriere-Web-Sezioni.jpg
 lang: it-IT
 ---
 

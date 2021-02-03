@@ -44,3 +44,23 @@ Una sorta di macchina del tempo internettiana, ma più indicativamente il cuore 
 E si, in questo momento dovete immaginarmi come se fossi una specie di **Indiana Jones Cyberpunk** (insomma, [così](https://cdn.blogosfere.it/pellicolerovinate/images/1982_blade_runner_the_final_cut_001.jpg))  
   
 Se vi sentite pronti, [cliccate qui](https://archive.org/web/)...
+
+<h3> Commenti Archiviati </h3>
+
+<article id="504a6373-fae6-44ff-8997-4393a0f6d0be">
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+</div>
+<div class="comment__author">
+    Lollo
+    <span class="comment__date">
+        2013-11-06T21:29:40Z
+    </span>
+</div>
+<p class="comment__body">
+mh, sono cambi graduali che effettivamente non vengono recepiti mentre accadono e vanno analizzati poi...certo che è vero, pensando ai periodi che dicevi tu e andandosi a vedere i vecchi siti che si frequentavano sembra di stare sui libri di storia
+</p>
+</article>

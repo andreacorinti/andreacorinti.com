@@ -120,3 +120,23 @@ Il consiglio? Fatevi un favore e compratevelo, senza se e senza ma!
 <figure>
 	<img src="https://2.bp.blogspot.com/-ow2i7ZZ3OOs/U0kOZ833-HI/AAAAAAAAHyc/EakkfdJwJXI/s1600/doretta.png" alt="The Life and Times of Scrooge">
 </figure>
+
+<h3> Commenti Archiviati </h3>
+
+<article id="504a6373-fae6-44ff-8997-4393a0f6d0be">
+
+<hr class="comment__hr">
+
+<div class="comment__avatar-wrapper">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/13356f966e36b37391a952d6e8986fb2?d=mm&s=80" alt="Marco Bortone">
+</div>
+<div class="comment__author">
+    Marco Bortone
+    <span class="comment__date">
+        2014-04-12T14:02:49Z
+    </span>
+</div>
+<p class="comment__body">
+Mi ha DECISAMENTE convinto ad ascoltarlo
+</p>
+</article>
