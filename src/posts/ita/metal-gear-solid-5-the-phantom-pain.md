@@ -139,10 +139,6 @@ Come se non bastasse, **compensare la marea di cutscene assenti tramite monotone
 
 sono dei documenti estemporanei, freddi, privi della benché minima tensione narrativa.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/JX3_1YIu550" frameborder="0" allowfullscreen></iframe>
-
-Per intenderci, scene così non le puoi mica fare, con le audiocassette.
-
 ### Il Troppo stroppia
 
 Non è un caso se qualche giorno fa me ne sono uscito con un post che, citando Nobuo Uematsu, parlava della grandezza dei limiti:
