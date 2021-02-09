@@ -72,7 +72,7 @@ Decisamente calzante, **ma non quello che è stato reclamizzato in tutti questi 
 
 Il parente più prossimo a cui credo si sarebbe potuto guardare è la prima trilogia di _Mass Effect_:
 
-Come Cyberpunk, è un GDR molto per modo di dire (Shepard è sempre Shepard, anche se può avere un paio di alineamenti diversi) ha personaggi scritti splendidamente e una bella trama di fondo.
+Come Cyberpunk, è un GDR molto per modo di dire (Shepard è sempre Shepard, anche se può avere un paio di allineamenti diversi) ha personaggi scritti splendidamente e una bella trama di fondo.
 
 Il problema è che i vecchi Mass Effect...beh, intanto sono _vecchi_: 
 
