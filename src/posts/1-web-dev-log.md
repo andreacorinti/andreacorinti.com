@@ -6,6 +6,8 @@ sommario: "Since I've upgraded pretty much everything here, I'm going back to on
 date: 2021-02-03
 ---
 
+_This post is a work in progress!_
+
 Since I've upgraded pretty much everything here, I'm going back to one of the fundamental problems of my website:
 
 **Comments & Interactions**
@@ -19,15 +21,19 @@ Back in the day, when I was writing for my Blog-Webzine **Xabacadabra**, I was u
 Sadly, it appears that Staticman wasn’t updated for a while and still has a couple of issues with spam & stuff.
 Furthermore, it requires a lot of work to be configured ([Dimitrii Kabardinov explained]( https://kabardinovd.com/posts/eleventy-staticman/) everything in detail, if you’re interested.  
 
+## Utterances
+
+[**Utterances**](https://utteranc.es/) works really well: looks nice, it's easy, light, cool and all, but...
+
+Needs a Github account in order to comment something.
+
+Fine if you have a dev blog in english I guess, not so fine if you've a generic webiste in another language I'm afraid.
+
 ## Bridgy 
 
-More the Webmentions per se, I'm pretty intrigued with [**Bridgy**](https://brid.gy/): 
+More the Webmentions per se, I'm pretty intrigued with [**Bridgy**](https://brid.gy/).
 
-<cite class="h-cite u-quotation-of">
-  <a class="u-url" href="https://twitter.com/XabCorinti/status/1356995865773297670">
-    Test!
-  </a>
-</cite>
+I'll try to set up things and, if happy, stick with only Webmentions + Bridgy.
 
 ## Web Dev Log Series:
 
