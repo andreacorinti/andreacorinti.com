@@ -1,0 +1,80 @@
+/* Webmentions */
+.webmentions img {
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+  object-fit: cover;
+  display: inline;
+}
+.webmentions h3 {margin-top: 40px;}
+.webmentions__facepile a {
+  border: none;
+  box-shadow: none;}
+.webmentions__facepile a:hover {background: none;}
+.webmentions a:hover img { filter: drop-shadow(3px 5px 10px var(--pink-20));}
+.form-webmention {margin: 16px 0; width: 100%;}
+.webmention-replies img {
+  height: 24px;
+  width: 24px;}
+.webmention-replies article {margin-bottom: 32px;}
+.webmention-replies .webmention__meta {margin-bottom: 8px;}
+.webmention-replies .webmention__meta time {display: block; margin-top: 8px;}
+.webmention-text {font-size: 16px; margin-top: 0;}
+.webmention-text a {font-size: 14px; margin-left: 4px;}
+article.webmention {
+  background-color: var(--grey-05);
+  padding: 16px 16px 12px;
+}
+form input[type="url"] {
+  display: block;
+  height: 2rem;
+  margin: 4px 0;
+  width: 100%;}
+.form-webmention .button {height: 2rem; width: 150px;}
+form label {
+  font-weight: 700;
+  margin: 4px 0 0 0;}
+.form {
+  background-color: var(--grey-05);
+  margin: 40px auto;
+  padding: 16px;
+  position: relative;}
+.form > * {position: relative;}
+.form svg {
+  position: absolute;
+  top: 5px;
+  right: 10px;}
+.form button, .form label {
+  display: block;
+  margin: 24px auto;
+  width: 90%;}
+.form input {
+  height: 2rem;}
+.form input, .form textarea {
+  border: 1px solid var(--grey-20);
+  color: var(--grey-80);
+  display: block;
+  font-family: 'Recursive', Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 4px 0;
+  padding: 4px;
+  width: 100%;}
+#honey {display: none;}
+.well {
+  background-color: rgba(222,221,227,0.4);
+  margin-top: 40px;
+  overflow: hidden;
+  padding: 32px;
+  position: relative;}
+.well > * {position: relative;}
+.well svg {
+  bottom: 0;
+  right: 100px;
+  position: absolute;
+  transform: rotate(45deg);}
+.share {
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  grid-gap: 16px;}
+.share p {font-size: 14px;margin: 0;}
+.share svg {margin: auto;}

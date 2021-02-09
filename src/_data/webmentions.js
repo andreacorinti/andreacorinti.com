@@ -2,7 +2,7 @@
 const fs = require('fs')
 const fetch = require('node-fetch')
 const unionBy = require('lodash/unionBy')
-const domain = require('./metadata.json').domain
+const domain = require('./meta.js').domain
 // Load .env variables with dotenv
 require('dotenv').config()
 // Define Cache Location and API Endpoint
@@ -15,9 +15,9 @@ async function fetchWebmentions(since, perPage = 10000) {
     console.warn('>>> unable to fetch webmentions: missing domain or token')
     return false
   }
-  let url = `${API}/mentions.jf2?domain=${domain}&token=${TOKEN}&per-page=${perPage}`
+  let url = `https://webmention.io/api/mentions.jf2?domain=www.andreacorinti.com&token=${TOKEN}&per-page=${perPage}`
   if (since) url += `&since=${since}` // only fetch new mentions
-  const response = await fetch(url)
+  const response = await fetch("https://webmention.io/api/mentions.jf2?domain=www.andreacorinti.com&token=VnltGZYMAzLkHtg1xSXm5Q&per-page")
   if (response.ok) {
     const feed = await response.json()
     console.log(`>>> ${feed.children.length} new webmentions fetched from ${API}`)

@@ -5,4 +5,5 @@ module.exports = {
     "Xab, an Italian Web World citizen.",
   authorName: "Andrea Corinti",
   twitterUsername: "XabCorinti", // no `@`
+  domain: "andreacorinti.com"
 };
