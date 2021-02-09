@@ -100,7 +100,7 @@ In breve, è un narciso pezzo di stronzo che sotto sotto nasconde un cuore d'oro
 
 **Keanu offre una prova di tutto rispetto ma devo dire che onestamente forse non l'avrei coinvolto in modo da risparmiare sul suo cachet:**
 
-Come tutto, i videogiochi giovano dei grandi nomi ma penso che se _Cyberpunk_ fosse stato all'altezza dell'hype che ha generato nel corso degli anni avrebbe potuto tranquillamente far a meno sullo sprint pubblicitario di Reeves.
+Come tutto, i videogiochi giovano dei grandi nomi ma penso che se _Cyberpunk_ fosse stato all'altezza dell'hype che ha generato nel corso degli anni avrebbe potuto tranquillamente far a meno dello sprint pubblicitario di Reeves.
 
 ## Meccaniche
 
