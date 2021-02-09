@@ -54,11 +54,13 @@ Cyberpunk 2077 non offre quasi nulla in termini d'interpretazione e una libertà
 
 **V, al netto dei suoi 3 diversi background e qualche scelta variabile, è più o meno lo stesso V per tutti**, un personaggio all'apparenza giusto un po' meno precotto di un Geralt di Rivia o un JC Denton... 
 
-in realtà siamo lì.
+Insomma, siamo lì.
 
 E questo è un problema?
 
-In relatà è di nuovo una storia vecchia: nei videogiochi spesso bastano punti esperienza sommati a due scelte di dialogo in croce e per vendere quello che in teoria sarebbe un Gioco di Ruolo.
+In realtà è di nuovo una storia vecchia: 
+
+**Nei videogiochi spesso bastano punti esperienza sommati a due scelte di dialogo in croce per vendere quello che _in teoria_ sarebbe un Gioco di Ruolo.**
 
 Come chiunque abbia giocato ad un _vero_ GdR carta & penna sa bene, tuttavia, non è evidentemente così, e un po' CD Projekt Red se n'è pure accorta rimangiandosi la definizione e ribatezzando Cyberpunk 2077 come un "Open World Action Adventure".
 
@@ -74,7 +76,9 @@ Come Cyberpunk, è un GDR molto per modo di dire (Shepard è sempre Shepard, anc
 
 Il problema è che i vecchi Mass Effect...beh, intanto sono _vecchi_: 
 
-Mass Effect 2 ha più di 10 anni eppure sembra molto più raffinato di Cyberpunk 2077, anche perché ovviamente non si porta appresso tutte quelle logiche "open" che in fin della fiera hanno portato più male che bene.
+**Mass Effect 2 ha più di 10 anni eppure sembra molto più raffinato di Cyberpunk 2077**, anche perché ovviamente non si porta appresso tutte quelle logiche "open" che in fin della fiera hanno portato più male che bene.
+
+L'altro, banale esempio è giocoforza un _Deus Ex_ a caso: **uno _Human Revolution_ batterà sempre _Cyberpunk 2077_ proprio perché meno ambizioso** e da subito coerente con l'idea che vuole portare in scena.
 
 ## Trama e Personaggi 
 
@@ -84,15 +88,19 @@ Chi ha scritto e curato la sceneggiatura di Cyberpunk 2077 conosce e ama il gene
 
 **è qualcuno che ha divortato William Gibson**, _Akira, Ghost in the Shell, Blade Runner_ e chi più ne ha più ne metta.
 
-In particolare il debito più evidente è proprio con la narrativa di Gibson, che non per niente ha praticamente inventato il genere: un ritorno alle origini se vogliamo, qualcosa di decisamente suggestivo e potente:
+In particolare il debito più evidente credo sia proprio con la narrativa di Gibson, ovvero colui che ha praticamente inventato il genere: un ritorno alle origini se vogliamo, qualcosa di decisamente suggestivo e potente.
 
-Senza spoilerare nulla, tutto il prologo con Jackie, il finale (io ho scelto "Il Diavolo" che ho trovato quello più affascinante e angosciante al tempo stesso) e più o meno tutti gli NPC più importanti sono scritti ed interpretati in modo meraviglioso.
+Senza spoilerare nulla, **tutto il prologo con Jackie, il finale (io ho scelto "Il Diavolo" che ho trovato quello più affascinante e angosciante al tempo stesso) e più o meno tutti gli NPC più importanti sono scritti ed interpretati in modo meraviglioso**.
 
-**Il peggiore di tutti per me è proprio V** che, al netto delle (scarse) opzioni a nostra disposizione riesce comunque a starmi sempre inevitabilmente sul cyberspazio.
+Dovessi dire, **il peggiore di tutti per me è proprio V** che, al netto delle (scarse) opzioni a nostra disposizione riesce comunque a starmi sempre sul _cyberspazio_.
 
 **Johnny Silverhand**, il personaggio di Keanu Reeves, è proprio il contrario dei personaggi che il buon Keanu interpreta solitamente e a cui ci ha abituato: 
 
 In breve, è un narciso pezzo di stronzo che sotto sotto nasconde un cuore d'oro, e che personalmente ho apprezzato moltissimo (del resto, è praticamente una rockstar anni '80) anche se spesso avrei voluto prenderlo a schiaffi.
+
+**Keanu offre una prova di tutto rispetto ma devo dire che onestamente forse non l'avrei coinvolto in modo da risparmiare sul suo cachet:**
+
+Come tutto, i videogiochi giovano dei grandi nomi ma penso che se _Cyberpunk_ fosse stato all'altezza dell'hype che ha generato nel corso degli anni avrebbe potuto tranquillamente far a meno sullo sprint pubblicitario di Reeves.
 
 ## Meccaniche
 
@@ -104,7 +112,7 @@ Non male davvero, di certo più intrigante che come sparatutto (piuttosto delude
 
 Menzione di (de)merito per la quantità spasmodica di oggetti, iconcine, segnalini, equipaggiamenti e via discorrendo: **una matranga di robaccia inutile che più che invogliare al collezionismo a me ha letteralmente asfissiato spingendomi a ignorare quasi tutto**.
 
-Abbastanza tristi anche **le pressoché inutili auto/moto** (il fast travel è accessibile più o meno ovunque), anche se ammetto che farmi delle derapate in una città cyberpunk è stato molto evocativo, prima di scoprire che quella città, come detto sopra, era un bellissimo pacco regalo senza il regalo.
+Abbastanza tristi anche **le pressoché inutili auto/moto** (il fast travel è accessibile più o meno ovunque), anche se ammetto che **farmi delle derapate in una città cyberpunk è stato molto evocativo**...almeno prima di scoprire che quella città come già detto non era altro che un bellissimo pacco regalo senza il regalo.
 
 ## Conclusioni 
 
@@ -114,6 +122,8 @@ Preso nella sua essenza (trama, personaggi, ambientazione e amore per il genere)
 
 Preso nella sua interezza, **resta una grossa delusione per ciò che sarebbe potuto essere**, poiché parliamo comunque di un titolo decisamente diverso da ciò che ci era stato promesso.
 
-PS: 
+## PS: 
 
 Avendolo giocato su Google Stadia, non ho rilevato particolari problemi / bug quindi non posso pronunciarmi nel merito "truffa".
+
+Di sicuro CD Project ha sbagliato tutto in termini di marketing e che ha gestito malissimo i tempi di sviluppo, tuttavia credo che si sia presa fin troppi schiaffi rispetto a molte altre softwarehouse.
