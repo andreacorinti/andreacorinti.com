@@ -126,4 +126,4 @@ Preso nella sua interezza, **resta una grossa delusione per ciò che sarebbe pot
 
 Avendolo giocato su Google Stadia, non ho rilevato particolari problemi / bug quindi non posso pronunciarmi nel merito "truffa".
 
-Di sicuro CD Project ha sbagliato tutto in termini di marketing e che ha gestito malissimo i tempi di sviluppo, tuttavia credo che si sia presa fin troppi schiaffi rispetto a molte altre softwarehouse.
+Di sicuro CD Project ha sbagliato tutto in termini di marketing e ha gestito malissimo i tempi di sviluppo, tuttavia credo che si sia presa fin troppi schiaffi rispetto a molte altre softwarehouse.
