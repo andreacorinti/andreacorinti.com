@@ -4,6 +4,7 @@ subtitle: "no comments but something"
 immagine: https://brid.gy/static/bridgy_logo.jpg
 sommario: "Works! well, sorta of..."
 date: 2021-02-10
+tweetid: "1359485913731129348"
 ---
 
 Yay! 
