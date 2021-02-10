@@ -11,7 +11,7 @@
   border: none;
   box-shadow: none;}
 .webmentions__facepile a:hover {background: none;}
-.webmentions a:hover img { filter: drop-shadow(3px 5px 10px var(--pink-20));}
+.webmentions a:hover img { box-shadow: 0 0 11px rgb(255, 255, 255);}
 .form-webmention {margin: 16px 0; width: 100%;}
 .webmention-replies img {
   height: 24px;
@@ -22,7 +22,7 @@
 .webmention-text {font-size: 16px; margin-top: 0;}
 .webmention-text a {font-size: 14px; margin-left: 4px;}
 article.webmention {
-  background-color: var(--grey-05);
+  background-color: rgb(48, 48, 48);
   padding: 16px 16px 12px;
 }
 form input[type="url"] {
@@ -78,3 +78,17 @@ form label {
   grid-gap: 16px;}
 .share p {font-size: 14px;margin: 0;}
 .share svg {margin: auto;}
+.postlist-date {
+  text-align: right;
+}
+
+.webmention-replies .webmention__meta {
+  display: grid;
+  grid-template-columns: 30px 1fr 200px;
+}
+.webmention-replies .webmention__meta time {
+  display: inline;
+  margin-top: 0;
+  text-align: right;
+}
+

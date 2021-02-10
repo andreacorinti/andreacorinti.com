@@ -4,6 +4,7 @@ subtitle: going crazy with style
 immagine: https://indieweb.org/img/indiewebcamp.svg
 sommario: "Since I've upgraded pretty much everything here, I'm going back to one of the fundamental problems of my website: Comments & Interactions"
 date: 2021-02-03
+tweetId: '1359114143219990530'
 ---
 
 _This post is a work in progress!_
@@ -34,7 +35,3 @@ Fine if you have a dev blog in english I guess, not so fine if you've a generic 
 More the Webmentions per se, I'm pretty intrigued with [**Bridgy**](https://brid.gy/).
 
 I'll try to set up things and, if happy, stick with only Webmentions + Bridgy.
-
-## Web Dev Log Series:
-
-* [0 HTML Lang](../0-web-dev-log/) 
