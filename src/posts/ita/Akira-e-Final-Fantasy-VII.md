@@ -159,5 +159,3 @@ Antico e Nuovo, Orientale e Occidentale, Spirituale e Terreno, Naturale e Tecnol
 Forse, **il cuore del particolare fascino della sushi-sci-fi sta tutto lì.**
 
 E di mio, sono abbastanza convinto che questo insoluto e "pacifico" conflitto abbia raggiunto il proprio apice creativo proprio tra la fine degli anni '80 e i primi del nuovo millennio.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ruHwDL7Zb8I" frameborder="0" allowfullscreen></iframe>
