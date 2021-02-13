@@ -45,8 +45,6 @@ miscelateli con i **sound celtici** della cara vecchia Scozia e ad una buona dos
 
 E non ci siete ancora vicini.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWwSVOo5K_k" frameborder="0" allowfullscreen></iframe>
-
 L'epicità che sa trovare quest'inedito (ma non troppo) Tuomas compositore da colonna sonora, **spogliatosi una volta tanto del suo tratto metallaro**, è da lasciare senza fiato:
 
 **la sua è musica che ingigantisce i cuori e sposta confini**, è avventura, ambizione, malinconia e rimpianto...nulla che lascia mai spazio a qualsivoglia resa

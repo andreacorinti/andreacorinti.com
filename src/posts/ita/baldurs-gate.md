@@ -67,10 +67,6 @@ La main quest di Hexxat, in particolare, rappresentava potenzialmente **un'occas
 
 ## Morale
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a0YRPiygI2Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-<small>L'EPICITÀ</small>
-
 Ultimamente sto provando il recente _Tyranny_ e le mie memorie di <a href="https://xabacadabra.github.io/2016/pillars-of-eternity-recensione/">Pillars of Eternity</a> sono ancora abbastanza fresche, quindi lo posso dire senza mezzi termini:
 
 Nella scuola dei RPG isometrici, **la saga di Baldur's Gate** è ancora imbattibile.

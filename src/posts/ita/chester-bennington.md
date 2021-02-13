@@ -83,8 +83,6 @@ Superati i vent'anni già da tempo riconoscevo come i **Linkin Park fossero stat
 
 Tutto questo fiume di memoria scorreva (e scorre) sulle inevitabili note di _In the End_.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eVTXPUF4Oz4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Anni '10
 
 Caso volle che, proprio nel 2010 di questa mia "maturazione", i Linkin Park se ne uscirono con **il loro disco più strano, sperimentale e a suo modo progressivo**:
@@ -95,17 +93,11 @@ Caso volle che, proprio nel 2010 di questa mia "maturazione", i Linkin Park se n
 
 **Un disco che amai immediatamente**, e che tuttora considero uno degli album più belli usciti in questo decennio ormai al crepuscolo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/51iquRYKPbs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Fu in effetti proprio ATS, assieme alla mia situazione sentimentale del periodo e all'immancabile amicizia di [**Arc**](http://www.arcweb.it/) (da sempre nello staff di [**Linkin Park Italia**](http://www.linkinpark.it/)) che mi fecero "riscoprire" tutta la discografia della band:
 
 **Dopo _A Thousand Suns_ apprezzai molto di più tutti i loro lavori**, e più ancora le loro demo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Fm0zByIvmE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Gray Daze
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHXITkLGNY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Sempre tramite Arc conobbi pure i **Gray Daze**, primo gruppo di Chester, e ne fui incredibilmente colpito.
 
@@ -113,15 +105,11 @@ Sempre tramite Arc conobbi pure i **Gray Daze**, primo gruppo di Chester, e ne f
 
 **L'anima grunge di Chester era palpabile in quel sound certamente più grezzo**, sporco e a suo modo _"classico"_ che proprio per questo non poteva non conquistarmi.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9XhMr6bfbO4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Per certi versi questo Chester _"acerbo"_ resta sempre quello che mi piace di più, probabilmente perché più vicino ai miei trascorsi e alle mie corde.
 
 Del resto, come ho scritto varie volte, **ho sempre amato la scena "grunge"**, soprattutto Chris Cornell ed i Soundgarden: la lunghezza d'onda dei Grey Daze era un po' quella, sebbene di diverso respiro musicale.
 
 ## Living Things, The Hunting Party, One More Light
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScNNfyq3d_w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Nulla del terzetto successivo ad ATS mi entusiasmò particolarmente,** salvo qualche canzone come quella qui sopra.
 
@@ -135,9 +123,7 @@ Poi ovviamente _de gustibus_ eccetera eh, ma sarei scorretto ad "andarci morbido
 
 ![across the line](https://i.ytimg.com/vi/_cLghZyeNPs/maxresdefault.jpg)
 
-Stranamente, non troppo tempo prima della morte di Chester, **riscoprii nei meandri del _LP Underground 9: Demos_ quella che praticamente sarebbe diventata la mia canzone preferita della band.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/71CvlYX1Bqc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Stranamente, non troppo tempo prima della morte di Chester, **riscoprii nei meandri del _LP Underground 9: Demos_ quella che praticamente sarebbe diventata [la mia canzone preferita](https://www.youtube.com/embed/71CvlYX1Bqc) della band.**
 
 Inutile dire che dopo la morte di Chester ho finito per ascoltarmela per diversi giorni e che, da _maniaco depressivo bipolare_ quale sono, resto sentitamente affascinato dal testo e sopratutto da quanto la voce di Chester lo sappia ben gestire.
 
@@ -174,5 +160,3 @@ E per quasi vent'anni, **quel qualcuno è stato certamente Chester Bennington.**
 E io, dal canto mio, che mi porto dietro un buio forse diverso, oggi mi ritrovo a rimpiangerlo davvero molto.
 
 _Miss you Chaz!_
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KDOkMSf-F14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

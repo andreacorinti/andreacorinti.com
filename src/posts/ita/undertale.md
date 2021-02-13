@@ -69,8 +69,6 @@ E in questo senso sono stato piacevolmete sorpreso:
 
 **La creatività ed il "gusto artigianale" di Fox sono infatti encomiabili**, specialmente nel senso di coesione che permea ogni suo comparto:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tz82xbLvK_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Tanto trama quanto gameplay, grafica e sonoro risultano strumenti perfettamente accordati nel medesimo concerto.
 
 È quella sensazione che si ha quando **un autore recita il testo da lui scritto ed interpretato**, quella specie di _"coerenza stilistica"_ che in tante occasioni fa davvero la differenza e che, manco a dirlo, viene sempre più spesso a mancare in titoli con team di millemilapersone alle spalle.

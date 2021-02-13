@@ -107,6 +107,4 @@ Che **Final Fantasy IX resta un'esperienza assolutamente meravigliosa**, e che l
 
 Se volete farvi un regalo di natale, fateci un pensierino! 🎅🏻 E passate buone feste, mi raccomando!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QJBUZqDPbao" frameborder="0" allowfullscreen></iframe>
-
 [^agonistica]: Certo ehi: c'erano le Weapon, Ozma, le armi segrete e tutto quel considerevole malloppone lì, ma personalmente le ho sempre vissute come sfide strettamente legate all'esplorazione, alla mia "esperienza" in quel mondo...poi certo, anche l'agonismo nudo&crudo aveva già un suo peso, lo ammetto
