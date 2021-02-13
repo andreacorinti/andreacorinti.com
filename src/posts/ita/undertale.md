@@ -177,6 +177,3 @@ Fidatevi: chi scrive è sempre lo stesso tizio prevenuto dell'inizio del post, c
 **Undertale è un titolo denso, curato, colmo di dettagli, che trasmette perfettamente le intenzioni del proprio autore.**
 
 E detto francamente, _avercene_ di titoli di cui si possa dire lo stesso oggigiorno.
-
-<div class="hreview" style="display: none;">
-<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Undertale</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Feb 15 2018<br /> </span> Voto: <span class="rating">3.5</span></span></span></div>

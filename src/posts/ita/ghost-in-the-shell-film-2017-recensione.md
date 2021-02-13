@@ -133,6 +133,3 @@ Bene, il film di Ghost in the Shell è un po' così, e in aggiunta si porta pure
 **Se non sapete nulla di Ghost in The Shell dopo aver visto questo film <u>continuerete</u> a non sapere nulla di Ghost in the Shell**, ma in più vi sarete visti **un noioso film cyberpunk incrociato con _Distretto di Polizia_**, seppur se non altro visualmente spettacoloso.
 
 Se invece conoscete Ghost in the Shell, soprattutto i manga di Shirow, e li amate com'è giusto che sia, beh...potreste avere la tentazione di sputare in direzione dello schermo.
-
-<div class="hreview" style="display: none;">
-<span class="item"> <span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"><span class="fn">Ghost in the Shell</span><br /> </span></span></span><span style="font-size: xx-small;"><span style="font-family: &quot;trebuchet ms&quot; , sans-serif;"> Recensito da: <span class="reviewer">Andrea Corinti</span> Data: <span class="dtreviewed">Apr 1 2017<br /> </span> Voto: <span class="rating">2</span></span></span></div>
