@@ -1,6 +1,6 @@
 ---
 title: "Il problema non è la Fake News, ma chi la legge"
-subtitle: "Videogiochi, arte, cultura e potenziale formativo"
+subtitle: "Storie di bufale"
 sommario: "L’ossessione collettiva nei confronti del fenomeno delle “Fake News” suona
 molto come la fanfara successiva al palesarsi della Nemesi…"
 immagine: https://miro.medium.com/max/875/0*G6GwHZqtYpxORJ16.png
