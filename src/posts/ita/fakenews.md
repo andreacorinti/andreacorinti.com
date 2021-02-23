@@ -20,19 +20,18 @@ tempi e si chiama disinformazione.**
 ### L’ “Immacolata” Informazione tradizionale
 
 ![](https://cdn-images-1.medium.com/max/1000/0*nH4Q2NeKKo9NVSmX.jpg)
-<span class="figcaption_hack">Il Fatto, Rai News, Libero e altri siti hanno dato ampio spazio alla notizia
+
+<small>Il Fatto, Rai News, Libero e altri siti hanno dato ampio spazio alla notizia
 dell’arresto dei giocatori della nazionale di calcio nordcoreana e alla loro
 possibile condanna a morte dopo una sconfitta contro la Corea del Sud. Ma la
 notizia [era uno
 scherzo](http://attivissimo.blogspot.ch/2014/10/antibufala-nazionale-nordcoreana.html)
-di un giornale satirico americano. ([Il
-Post](http://www.ilpost.it/2014/12/22/notizie-false-2014/corea-9/))</span>
+di un giornale satirico americano.</small>
 
 Prima del web e dell’anglofonia imperante si parlava semplicemente di **balle:**
 
-In buona o malafede, per calcolo o mero pressapochismo, **le balle hanno
-campeggiato (e tuttora campeggiano) su praticamente ogni organo
-d’informazione.**
+In buona o malafede, per calcolo o mero pressapochismo, **le balle hanno 
+campeggiato (e tuttora campeggiano) su praticamente ogni organo d’informazione.**
 
 Statisticamente, è pacifico supporre che **tutti i quotidiani con almeno qualche
 lustro sulle spalle** si siano spesi in svariate **rettifiche** durante la loro
@@ -83,8 +82,7 @@ promotori di **un buon decalogo** che vale la pena citare:
 
 **(**[agi](https://www.agi.it/politica/laura_boldrini_decalogo_fake_news-2304185/news/2017-10-30/)**)**
 
-Più che altro, stupisce **l’automatica associazione del fenomeno fake news
-all’universo sociale di Internet**.
+Più che altro, stupisce **l’automatica associazione del fenomeno fake news all’universo sociale di Internet**.
 
 Intendiamoci, certo: **il web **(qui minimizzato a livello social network)** può
 rappresentare un potentissimo megafono per qualsiasi cosa**, molto più di un
@@ -93,23 +91,17 @@ quotidiano convenzionale (specie in un Paese che i quotidiani non li legge più)
 È tuttavia sconfortante notare come si tenda sempre a guardare il dito evitando
 la luna:
 
-**Il problema non è tanto la fake news, ma gli occhi di chi la legge e le
-orecchie di chi l’ascolta**.
+**Il problema non è tanto la fake news, ma gli occhi di chi la legge e le orecchie di chi l’ascolta**.
 
-Se il lettore fosse dotato di mezzi e strumenti per **comprendere
-l’attendibilità di una fonte di notizie**, i mefistofelici *avvelenatori di
-pozzi* non troverebbero più secchi pronti ad attingere dalle loro acque.
+Se il lettore fosse dotato di mezzi e strumenti per **comprendere l’attendibilità di una fonte di notizie**, i mefistofelici *avvelenatori di pozzi* non troverebbero più secchi pronti ad attingere dalle loro acque.
 
-E qui non è tanto il discorso del famigerato **analfabetismo funzionale
-**(definizione che per la verità ha fatto più danni che altro, essendo entrata
+E qui non è tanto il discorso del famigerato **analfabetismo funzionale**(definizione che per la verità ha fatto più danni che altro, essendo entrata
 nel lessico del *flame* e quasi sempre impiegata a sproposito), faccenda che
 riguarda pure e soprattutto alcune aree degli **Stati Uniti**…
 
 Il problema, semmai, è l’**analfabetismo digitale**:
 
-Il fatto che **un qualsiasi sito in Wordpress passi per attendibile giornale
-online**, che su Internet **per tanti, troppi Italiani evidentemente l’abito fa
-il monaco:**
+Il fatto che **un qualsiasi sito in Wordpress passi per attendibile giornale online**, che su Internet **per tanti, troppi Italiani evidentemente l’abito fa il monaco:**
 
 ![](https://cdn-images-1.medium.com/max/1000/1*C2u1nPGPjFtK8rJJtZ7i1A.png)
 
@@ -120,8 +112,7 @@ il monaco:**
 Negli ultimi tempi, lavorando a stretto contatto con l’ambiente dei Social
 Network, ho avuto modo di vedere di tutto:
 
-Posso confermare che **per molte persone questi siti sono considerati più
-attendibili delle varie testate nazionali e non**.
+Posso confermare che **per molte persone questi siti sono considerati più attendibili delle varie testate nazionali e non**.
 
 ### Come si risolve il problema delle fake news ?
 
@@ -131,8 +122,7 @@ Parlando di Internet (forse un po’ cinicamente) possiamo dire che un po’ ci
 penserà **l’anagrafe**:
 
 Sebbene non necessariamente culturalmente più elevati dei propri genitori e
-nonni (anzi), **i cosiddetti nativi digitali possono vantare un indubbio
-vantaggio dettato dall’età**:
+nonni (anzi), **i cosiddetti nativi digitali possono vantare un indubbio vantaggio dettato dall’età**:
 
 Il *colpo* *d’occhio*.
 
@@ -158,14 +148,9 @@ politica e strumento d’ingiuria (ergo vere e proprie fake news)…cosa che, pe
 verità, **quando il buon gusto va scemando succede almeno dai tempi dei giullari
 medioevali** (o a **Charlie Hebdo**, per stare sul contemporaneo).
 
-Caso analogo (ma indubbiamente più sagacemente indovinato) quello legato
-all’attore **Samuel L. Jackson** e l’ex cestista **Magic Johnson**, da molti
-ignari italiani scambiati effettivamente per “immigrati nullafacenti”.
+Caso analogo (ma indubbiamente più sagacemente indovinato) quello legato all’attore **Samuel L. Jackson** e l’ex cestista **Magic Johnson**, da molti ignari italiani scambiati effettivamente per “immigrati nullafacenti”.
 
-Anche qui subentra il discorso del *colpo d’occhio*, e **la necessità di un
-minimo “d’ambientamento”** in piscina prima di mettersi a nuotare nell’oceano di
-Internet, programma da destinare magari proprio a chi **per anzianità o scelte
-personali ha scoperto il web comprando uno smartphone un paio d’anni fa**.
+Anche qui subentra il discorso del *colpo d’occhio*, e **la necessità di un minimo “d’ambientamento”** in piscina prima di mettersi a nuotare nell’oceano di Internet, programma da destinare magari proprio a chi **per anzianità o scelte personali ha scoperto il web comprando uno smartphone un paio d’anni fa**.
 
 ### Hate Speech
 
@@ -174,8 +159,7 @@ personali ha scoperto il web comprando uno smartphone un paio d’anni fa**.
 Potrà sembrare una divagazione, ma spostiamoci un attimo dal soggetto e
 **allarghiamo il campo**:
 
-Dando una rapida occhiata alle varie nazioni elencate**
-**[qui](https://en.wikipedia.org/wiki/Hate_speech#Hate_speech_laws_by_country),
+Dando una rapida occhiata alle varie nazioni elencate [**qui**](https://en.wikipedia.org/wiki/Hate_speech#Hate_speech_laws_by_country),
 dovrebbe balzare alla vista una certa assenza importante…
 
 Ebbene sì:
@@ -200,15 +184,12 @@ Esattamente un anno dopo, **siamo ancora qui**.
 
 In una parola, **la reazione**.
 
-Stando ai *meme* citati sopra come esempio, il problema **non è tanto legato
-alle sciocchezze che andavano rappresentando** ma, come detto, **al fatto che
-esiste gente che ci ha immediatamente creduto** e, soprattutto, alle reazioni
+Stando ai *meme* citati sopra come esempio, il problema **non è tanto legato alle sciocchezze che andavano rappresentando** ma, come detto, **al fatto che esiste gente che ci ha immediatamente creduto** e, soprattutto, alle reazioni
 scomposte e becere generatesi in conseguenza:
 
 *(altro caso analogo)*
 
-Che **un soggetto non creda all’allunaggio e predichi il terrapiattismo è
-certamente un problema.**
+Che **un soggetto non creda all’allunaggio** e predichi il terrapiattismo è certamente un problema.
 
 Che **questo lo porti ad insultare il prossimo** con la furia delirante di un
 macaco in calore **è ben peggio**.
@@ -231,5 +212,4 @@ il mondo](https://newsroom.fb.com/company-info/).
 Circa **il quadruplo del numero degli abitanti dell’Unione Europea**.
 
 E questo, nei fatti, significa che aldilà di quanto già detto (educazione, leggi
-locali) **la questione è e sarà sempre nelle mani di una o più aziende private,
-**e il futuro dipenderà esclusivamente dal loro (presunto?) senso etico.
+locali) **la questione è e sarà sempre nelle mani di una o più aziende private**, e il futuro dipenderà esclusivamente dal loro (presunto?) senso etico.

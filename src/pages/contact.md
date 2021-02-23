@@ -4,15 +4,15 @@ description: For work, comments or anything!
 ---
 
 <p class="social">
-<a href="http://github.com/andreacorinti/" target="blank">GITHUB</a> |
+<a href="http://github.com/andreacorinti/" target="blank" rel="me">GITHUB</a> |
 <!--<a href="https://medium.com/@Xab" target="blank">Medium</a> | -->
 <!--<a href="https://gitlab.com/xabaras" target="blank">Gitlab</a> |-->
-<a href="https://twitter.com/XabCorinti" target="blank">TWITTER</a> |
-<a href="https://steamcommunity.com/id/xabaras89/" target="blank">STEAM</a> |
-<a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank">GOODREADS</a> |
-<a href="https://www.instagram.com/xabacadabra/" target="blank">INSTAGRAM</a> |
-<a href="https://www.last.fm/user/XabarasFF" target="blank">LAST.FM</a> |
-<a href="https://www.tvtime.com/it/user/2987728/profile" target="blank">TVTIME</a>
+<a href="https://twitter.com/XabCorinti" target="blank" rel="me">TWITTER</a> |
+<a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a> |
+<a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> |
+<!--<a href="https://www.instagram.com/xabacadabra/" target="blank" rel="me">INSTAGRAM</a> |-->
+<a href="https://www.last.fm/user/XabarasFF" target="blank" rel="me">LAST.FM</a> |
+<a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">TVTIME</a>
 </p>
 
 ## Form
