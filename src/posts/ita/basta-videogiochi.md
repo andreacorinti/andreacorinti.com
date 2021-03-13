@@ -1,10 +1,10 @@
 ---
 title: "Basta Videogiochi!"
 subtitle: "What Am I Doing With My Life?"
-sommario: ""
+sommario: "Lo ammetto subito - Il titolo è volutamente provocatorio e strizza l'occhio a certe realtà piuttosto vive nel mondo anglosassone. "
 immagine: https://gamequitters.com/wp-content/uploads/2015/03/tumblr_l71xowsNbG1qzwtdlo1_500.gif
 lang: it-IT
-date: 2021-03-13
+date: 2021-03-14
 ---
 
 Lo ammetto subito:
