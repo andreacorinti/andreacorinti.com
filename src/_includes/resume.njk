@@ -1,16 +1,23 @@
 ---
 layout: base.njk
 ---
+
+<body style="background-color:white;">
+
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
-    <img src="{{ immagine }}" alt="Andrea Corinti">
-    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
+    <h1 class="tdbc-ink--primary tdbc-mb-none" style="color:black">{{ title }}</h1>
+    <img src="{{ immagine }}" alt="Andrea Corinti" class="resumeAvatar">
+    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto" style="color:black">
       {{ description }}
     </h2>
   </div>
 </header>
-<main class="tdbc-container">
+<main class="tdbc-container" style="color:black; a:black">
+  <style>
+a:link {
+  color: blue;
+}</style>
   <article class="tdbc-mx-auto">
     {{ content | safe }}
   </article>

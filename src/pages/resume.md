@@ -1,8 +1,8 @@
 ---
 title: "Andrea Corinti Resume"
-description: "Web Editor & Senior Technical Support Advisor"
+description: "Web Editor & Senior Technical and Customer Care Support Advisor"
 layout: resume
-immagine: ../img/avatar3.jpg
+immagine: ../img/avatar2.jpg
 ---
 
 <table>
@@ -81,11 +81,11 @@ immagine: ../img/avatar3.jpg
   </tr>
   <tr>
     <td>6.2020 – 11.2020<br>WEBHELP HELLAS</td>
-    <td>Italian Customer Care Advisor</td>
+    <td>Italian Customer Care Advisor - Travel Project</td>
   </tr>
   <tr>
     <td>11.2020 – Current<br>EDIZIONI EDILINGUA</td>
-    <td>Web Editor</td>
+    <td>Web Editor, Developer Coordinator, Content Reviewer</td>
   </tr>    
 </table>
 
