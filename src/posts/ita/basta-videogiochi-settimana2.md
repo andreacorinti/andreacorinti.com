@@ -4,7 +4,7 @@ subtitle: "Dopo due settimane, il primo sgarro"
 sommario: "Dopo due settimane, il primo sgarro per colpa dello Studio Fow"
 immagine: https://www.gamereactor.it/media/80/_2828033_1200x675.jpg
 lang: it-IT
-date: 2021-03-22
+date: 2021-03-28
 ---
 
 Per le puntate precedenti: 
