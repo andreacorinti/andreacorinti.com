@@ -6,7 +6,7 @@ layout: home.njk
 
 **Italiano in Ελλάδα 🇮🇹 🇬🇷**
 
-Web Editor for Edilingua Edizioni.
+Web Editor for Edizioni Edilingua.
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 
