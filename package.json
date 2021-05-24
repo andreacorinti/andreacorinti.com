@@ -39,7 +39,7 @@
     "autoprefixer": "^9.8.6",
     "cross-env": "^7.0.3",
     "cssnano": "^4.1.11",
-    "dotenv": "^9.0.2",
+    "dotenv": "^10.0.0",
     "emoji-regex": "^9.2.2",
     "luxon": "^1.27.0",
     "markdown-it": "^12.0.6",
