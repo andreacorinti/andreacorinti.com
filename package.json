@@ -41,7 +41,7 @@
     "cssnano": "^4.1.11",
     "dotenv": "^10.0.0",
     "emoji-regex": "^9.2.2",
-    "luxon": "^1.27.0",
+    "luxon": "^2.0.1",
     "markdown-it": "^12.1.0",
     "markdown-it-anchor": "^8.1.0",
     "netlify-plugin-cache-folder": "0.0.8",
