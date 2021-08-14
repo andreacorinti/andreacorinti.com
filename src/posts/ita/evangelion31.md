@@ -8,10 +8,13 @@ date: 2021-08-14
 ---
 
 _.さらばさらばの手にかかる霞かな_
+
 _saraba saraba no te ni kakaru kasumu kana_
 
 _addio! addio!_
+
 _mani salutando_
+
 _nella nebbia._
 
 (Kobayashi Issa)
