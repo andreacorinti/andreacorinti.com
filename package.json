@@ -62,6 +62,6 @@
     "eleventy-plugin-toc": "^1.1.0",
     "lodash": "^4.17.21",
     "markdown-it-footnote": "^3.0.3",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.0.0"
   }
 }
