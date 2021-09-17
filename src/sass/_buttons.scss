@@ -8,7 +8,7 @@
   padding: 0.25em 1em;
   transition: 180ms ease-in-out;
   transition-property: background, border;
-  border-radius: $tdbc-border-radius/2;
+  border-radius: $tdbc-border-radius, 2;
   background-color: tdbc-color("secondary");
   color: #fff;
   font-size: 1.125rem;
