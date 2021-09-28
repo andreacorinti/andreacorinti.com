@@ -14,7 +14,7 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 <a href="http://github.com/andreacorinti/" target="blank" rel="me">GITHUB</a> |
 <!--<a href="https://medium.com/@Xab" target="blank">Medium</a> | -->
 <!--<a href="https://gitlab.com/xabaras" target="blank">Gitlab</a> |-->
-<a href="https://twitter.com/XabCorinti" target="blank" rel="me">TWITTER</a> |
+<!--<a href="https://twitter.com/XabCorinti" target="blank" rel="me">TWITTER</a> |-->
 <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a> |
 <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> |
 <!--<a href="https://www.instagram.com/xabacadabra/" target="blank" rel="me">INSTAGRAM</a> |-->
@@ -38,8 +38,6 @@ And, even if I don't like it very much, I'm also on [Linkedin](https://www.linke
 Want to ask something in particular? 
 
 By all means! [**Click here**](/contact/) for the contact form.
-
-For less "official" communications, you can easily find me on [@XabCorinti](https://twitter.com/XabCorinti).
 
 ## Xab Internet Bookmarks 
 
