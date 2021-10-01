@@ -4,10 +4,10 @@ description: For work, comments or anything!
 ---
 
 <p class="social">
+<a href="https://twitter.com/XabCorinti" target="blank" rel="me">TWITTER</a> |
 <a href="http://github.com/andreacorinti/" target="blank" rel="me">GITHUB</a> |
 <!--<a href="https://medium.com/@Xab" target="blank">Medium</a> | -->
 <!--<a href="https://gitlab.com/xabaras" target="blank">Gitlab</a> |-->
-<!--<a href="https://twitter.com/XabCorinti" target="blank" rel="me">TWITTER</a> |-->
 <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a> |
 <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> |
 <!--<a href="https://www.instagram.com/xabacadabra/" target="blank" rel="me">INSTAGRAM</a> |-->
