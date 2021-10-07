@@ -8,6 +8,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require('eleventy-plugin-toc');
 const packageVersion = require("./package.json").version;
 const filters = require('./src/_11ty/filters');
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 
 module.exports = function (eleventyConfig) {
@@ -15,6 +16,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC);
+  eleventyConfig.addPlugin(UpgradeHelper);
 
   eleventyConfig.addWatchTarget("./src/sass/");
 
