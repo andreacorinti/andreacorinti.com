@@ -58,7 +58,6 @@
   ],
   "dependencies": {
     "@11ty/eleventy-upgrade-help": "^1.0.1",
-    "autoprefixer": "^9.8.8",
     "axios": "^0.22.0",
     "eleventy-plugin-toc": "^1.1.5",
     "lodash": "^4.17.21",
