@@ -1,6 +1,6 @@
 {
   "name": "andreacorinti.com",
-  "version": "2.8.0",
+  "version": "2.7.1",
   "description": "Andrea Corinti website",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "build:sass-social": "sass  --no-source-map src/sass/social.scss social/style.css",
     "build:sass": "npm-run-all --parallel build:sass-site",
     "build:eleventy": "eleventy",
-    "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r --no-map",
+    "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r",
     "start": "cross-env ELEVENTY_ENV=dev npm-run-all build:sass --parallel watch:*",
     "build": "cross-env ELEVENTY_ENV=prod npm-run-all build:sass build:eleventy social-images",
     "lint": "stylelint 'src/sass/**/*.scss' 'src/sass/**/**/*.scss' 'src/sass/**/**/**/*.scss'",
@@ -30,13 +30,13 @@
     "url": "https://github.com/andreacorinti/andreacorinti.com/issues"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0-beta.2",
+    "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
     "@11tyrocks/eleventy-plugin-social-images": "^0.2.0",
-    "autoprefixer": "^10.3.7",
+    "autoprefixer": "^9.8.7",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.0.8",
+    "cssnano": "^4.1.11",
     "dotenv": "^10.0.0",
     "emoji-regex": "^10.0.0",
     "luxon": "^2.0.2",
@@ -55,5 +55,13 @@
   },
   "browserslist": [
     "last 2 versions"
-  ]
+  ],
+  "dependencies": {
+    "axios": "^0.22.0",
+    "eleventy-plugin-toc": "^1.1.5",
+    "lodash": "^4.17.21",
+    "markdown-it-footnote": "^3.0.3",
+    "node-fetch": "^3.0.0",
+    "nth-check": "^2.0.1"
+  }
 }

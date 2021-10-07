@@ -8,7 +8,6 @@ const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require('eleventy-plugin-toc');
 const packageVersion = require("./package.json").version;
 const filters = require('./src/_11ty/filters');
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 
 module.exports = function (eleventyConfig) {
@@ -16,14 +15,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC);
-  eleventyConfig.addPlugin(UpgradeHelper);
 
   eleventyConfig.addWatchTarget("./src/sass/");
-
-  eleventyConfig.addPassthroughCopy("./src/css");
-  eleventyConfig.addPassthroughCopy("./src/fonts");
-  eleventyConfig.addPassthroughCopy("./src/img");
-  eleventyConfig.addPassthroughCopy("./src/favicon.png");
 
   // Filters
   Object.keys(filters).forEach(filterName => {
@@ -43,6 +36,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("blogeng", function(collection) {
     return collection.getFilteredByGlob("./src/posts/*.md").reverse();
   });
+
+  eleventyConfig.addPassthroughCopy("./src/css");
+  eleventyConfig.addPassthroughCopy("./src/fonts");
+  eleventyConfig.addPassthroughCopy("./src/img");
+  eleventyConfig.addPassthroughCopy("./src/favicon.png");
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
