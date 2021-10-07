@@ -1,3 +1,6 @@
+@use "theme" as *;
+@use "sass:math";
+
 .tdbc-button {
   display: inline-flex;
   align-items: center;
