@@ -1,10 +1,6 @@
 ---
 layout: archivio
 lang: it-IT
-pagination:
-  data: collections.blogita
-  size: 4
-  alias: blogita
 ---
 <main class="tdbc-container">
   <div class="tdbc-section">
