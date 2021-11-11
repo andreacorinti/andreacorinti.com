@@ -50,14 +50,26 @@ immagine: ../img/avatar2.jpg
   <tr>
     <th colspan="2">+ Work Experience</th>
   </tr>
-</thead>  
+</thead>
   <tr>
-    <td>10.2010 – 01.2011<br>PROMOTER INFOSTRADA</td>
-    <td>Contract stipulation for a telephonic company in Genoa, Italy.</td>
+    <td>11.2020 – Current<br>EDIZIONI EDILINGUA</td>
+    <td>Web Editor, Developer Coordinator, Content Reviewer</td>
   </tr>
   <tr>
-    <td>2.2013 – 6.2017<br>WEB DEVELOPER</td>
-    <td>Designer and administrator of http://xabacadabra.com/</td>
+    <td>6.2020 – 11.2020<br>WEBHELP HELLAS</td>
+    <td>Italian Customer Care Advisor - Travel Project</td>
+  </tr>
+  <tr>
+    <td>7.2019 – 5.2020<br>TELEPERFORMANCE HELLAS</td>
+    <td>Senior IT Support & Financial Customer Care Advisor</td>
+  </tr>
+  <tr>
+    <td>1.2019 – 6.2019<br>ISOFTSTONE</td>
+    <td>IA Conversational Speech Quality Analizer</td>
+  </tr>
+  <tr>
+    <td>9.2017 – 9.2018<br>APPEN</td>
+    <td>Consultant</td>
   </tr>
   <tr>
     <td>6.2017 – 7.2017<br>ONSET LCC</td>
@@ -68,25 +80,9 @@ immagine: ../img/avatar2.jpg
     <td>Data Finder</td>
   </tr>
   <tr>
-    <td>9.2017 – 9.2018<br>APPEN</td>
-    <td>Consultant</td>
+    <td>2.2013 – 6.2017<br>WEB DEVELOPER</td>
+    <td>Designer and administrator of xabacadabra.com</td>
   </tr>
-  <tr>
-    <td>1.2019 – 6.2019<br>ISOFTSTONE</td>
-    <td>IA Conversational Speech Quality Analizer</td>
-  </tr>
-  <tr>
-    <td>7.2019 – 5.2020<br>TELEPERFORMANCE HELLAS</td>
-    <td>Senior IT Support & Financial Customer Care Advisor</td>
-  </tr>
-  <tr>
-    <td>6.2020 – 11.2020<br>WEBHELP HELLAS</td>
-    <td>Italian Customer Care Advisor - Travel Project</td>
-  </tr>
-  <tr>
-    <td>11.2020 – Current<br>EDIZIONI EDILINGUA</td>
-    <td>Web Editor, Developer Coordinator, Content Reviewer</td>
-  </tr>    
 </table>
 
 <table>
@@ -94,23 +90,23 @@ immagine: ../img/avatar2.jpg
   <tr>
     <th colspan="2">+ Education</th>
   </tr>
-</thead>  
-  <tr>
-    <td>2007</td>
-    <td>Diploma as Accountant and Bookeeper, Business High School.</td>
-  </tr>
+</thead>
   <tr>  
-    <td>2017</td>
-    <td><a href="https://learndigital.withgoogle.com/eccellenzeindigitale/certificate.pdf">Google Digital Garage Certificate.</a></td>
+    <td>2020</td>
+    <td><a href="https://tmc.mooc.fi/certificates/1907">University of Helsinki Object-Oriented Programming with Java, part I.</a></td>
   </tr>
   <tr>  
     <td>2018</td>
     <td><a href="https://www.freecodecamp.org/certification/xabacadabra/responsive-web-design">freeCodeCamp Responsive Web Design Certificate.</a></td>
-  </tr>
+  </tr>   
   <tr>  
-    <td>2020</td>
-    <td><a href="https://tmc.mooc.fi/certificates/1907">University of Helsinki Object-Oriented Programming with Java, part I.</a></td>
-  </tr>  
+    <td>2017</td>
+    <td><a href="https://learndigital.withgoogle.com/eccellenzeindigitale/certificate.pdf">Google Digital Garage Certificate.</a></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Diploma as Accountant and Bookeeper, Business High School.</td>
+  </tr>
 </table>
 
 <table>
@@ -129,11 +125,11 @@ immagine: ../img/avatar2.jpg
   </tr>  
   <tr>  
     <td>Programming languages</td>
-    <td>Java, Python</td>
+    <td>Java</td>
   </tr>
   <tr>  
     <td>Office Software</td>
-    <td>Microsoft Office Suite, Visual Studio, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, many others</td>
+    <td>Microsoft Office Suite, Visual Studio, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, Trello many others</td>
   </tr>  
   <tr>  
     <td>Design Software</td>
@@ -180,4 +176,5 @@ immagine: ../img/avatar2.jpg
 
 <img src="/img/cv/google1.jpg" alt="google">
 <img src="/img/cv/freecodecamp1.png" alt="freecodecamp">
-<img src="/img/cv/mooc.jpg" alt="freecodecamp">
+<img src="/img/cv/mooc.jpg" alt="mooc">
+<img src="/img/cv/salutesicurezza.jpg" alt="salutesicurezza">
