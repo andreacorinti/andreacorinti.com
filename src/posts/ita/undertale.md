@@ -55,10 +55,6 @@ Anche per questo ho preferito aspettare, facendolo "decantare" un bel po' prima 
 
 ## Tecnologia
 
-<figure>
-<img src="https://www.yoyogames.com/uploads/new_showcase/900_feature.png?1444323859" alt="undertale gamemaker">
-</figure>
-
 Alla diffidenza stilistica di cui sopra se ne aggiungeva un'altra, squisitamente "smanettona":
 
 Il fatto che Undertale fosse stato sviluppato con **GameMaker** [^gamemaker] mi faceva storcere un po' il naso, anche se al tempo stesso m'incuriosiva...più che altro perché **l'autore, Toby Fox, ha fatto quasi tutto da solo.**
@@ -74,10 +70,6 @@ Tanto trama quanto gameplay, grafica e sonoro risultano strumenti perfettamente 
 È quella sensazione che si ha quando **un autore recita il testo da lui scritto ed interpretato**, quella specie di _"coerenza stilistica"_ che in tante occasioni fa davvero la differenza e che, manco a dirlo, viene sempre più spesso a mancare in titoli con team di millemilapersone alle spalle.
 
 ## Un inno d'amore ad Earthbound
-
-<figure>
-<img src="https://www.technobuffalo.com/wp-content/uploads/2014/03/earthbound-and-color-470x310@2x.jpg" alt="Earthbound">
-</figure>
 
 Sprite, Soundfont, gameplay e mille altri particolari di Undertale sono palesemente figli di **Earthbound**, classico JRPG di Ape uscito nel 1994 per Super Nintendo.
 
@@ -122,8 +114,6 @@ Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogam
 
 ## Letteralmente Profondo
 
-![undertale sans](https://vignette.wikia.nocookie.net/undertale/images/4/44/Sansanimated.gif)
-
 Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin troppi osanna dal pubblico** [^discorso], dall'altro parliamo di **un gioco cucito su misura dal suo creatore** e che, in quanto tale, risulta impregnato dal gusto _"fatto in casa"_.
 
 [^discorso]: Certamente il mio è un discorso inficiato dai miei - ben lontani - gusti, intendiamoci.
@@ -133,8 +123,6 @@ Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin tr
 La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà suonare strano, ma chi ha finito il gioco capirà ciò che intendo).
 
 ## Tempistica
-
-![papyrus](https://vignette.wikia.nocookie.net/undertale/images/3/36/Fe2.gif)
 
 Come anticipavo tutto questo va unito al merito (e alla fortuna) dell'aver individuato **il perfetto momento storico in cui uscire**:
 

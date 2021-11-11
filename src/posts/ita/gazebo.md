@@ -21,7 +21,7 @@ Io non riesco (quasi) mai a **sparare a zero su qualcosa senza considerarne anch
 
 Poi l'anno scorso scopro che **Makkox** (Marco Dambrosio) collabora da un po' con una trasmissione su **Rai 3** (!)  
   
-Un po' stranito, da estimatore del talento fumettistico del suddetto quale sono decido di zompare sul sito della [RAI](https://www.gazebo.rai.it/) e guardarmi una replica così, di sfuggita, senza troppe pretese.  
+Un po' stranito, da estimatore del talento fumettistico del suddetto quale sono decido di zompare sul sito della Rai e guardarmi una replica così, di sfuggita, senza troppe pretese.  
   
 Ed ecco che accade l'impensabile: **m'innamoro.**  
   

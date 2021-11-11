@@ -39,11 +39,6 @@ Ma ok, mi fermo che sto divagando troppo: state calmi, non lanciatemi quelle pie
 
 ### Le sottovalutate potenzialità di un videogame
 
-<figure>
-	<img src="https://2e130c55e0c2763c8a20-c7a4d0feffd26319b59c92c4aecae366.r18.cf1.rackcdn.com/f4f10f5d814431457cacac88bb89eeb2d24f8d70.jpg" alt="civilization">
-	<figcaption>Poi ecco, magari la Muraglia Cinese a Salerno e il Colosso di Rodi a Gallarate si potrebbero evitare</figcaption>
-</figure>
-
 Già parlai di come, in Italia, l'industria videoludica sia pressapoco evanescente, ma penso sia il caso di riproporre alcune osservazioni di massima:
   
 Per farla breve, **i Videogiochi danno da mangiare**, pure tanto considerando che si parla di un'industria estremamente attiva. 

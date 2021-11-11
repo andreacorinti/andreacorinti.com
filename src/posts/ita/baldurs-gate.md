@@ -15,8 +15,6 @@ Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire 
 
 Questa "recensione-panoramica" è abbastanza pachidermica (al solito amo perdermi in svariate fregnacce, capitemi) ergo la strutturerò in punti salienti, in modo che ognuno possa concentrarsi sul determinato argomento d'interesse.
 
-<img src="https://www.nohighscores.com/wp-content/uploads/2012/07/baldursgate_ee_newstuff.png" alt="NPC Baldur's Gate Enhanced Edition">
-
 Anzitutto, prima di parlare della EE, andiamo ad analizzare un paio di punti legati alla serie classica.
 
 ## Il variabile ritmo lento di Baldur's Gate

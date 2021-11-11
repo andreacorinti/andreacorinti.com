@@ -125,7 +125,7 @@ un'eredità scenica, fasulla, **da milioni di visualizzazioni e molta apparenza,
     </span>
 </div>
 <p class="comment__body">
-    secondo me se pensi alle tue recensioni medie a tema nerd sei un pò in conflitto d'interessi! <a href="http://www.bestmovie.it/news/alejandro-g-inarritu-demolisce-i-cinecomic-sono-un-genocidio-culturale/355976/\" rel="nofollow noopener\" title="http://www.bestmovie.it/news/alejandro-g-inarritu-demolisce-i-cinecomic-sono-un-genocidio-culturale/355976/">http://www.bestmovie.it/new...</a>
+    secondo me se pensi alle tue recensioni medie a tema nerd sei un pò in conflitto d'interessi! http://www.bestmovie.it/new...</a>
 </p>
 
 <hr class="comment__hr">
@@ -289,7 +289,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
         2015-03-05T11:23:51Z
     </span>
 </div>
-<p class="comment__body">Il sorriso della figlia è una metafora, potentemente - o, per i detrattori, furbescamente - ambigua come sono tutte le buone metafore: Iñarritu ci dice che il suicidio di Riggan è il suo massimo successo. E una conferma che il mondo highbrow dell'arte apocalittica è ormai indistinguibile dal mondo lowbrow dello spettacolo integrato. <br>Chi vuole una spiegazione più completa, la può trovare qui: <a href=\"http://www.doppiozero.com/materiali/odeon/birdman-contro-broadway\" rel=\"nofollow noopener\" title=\"http://www.doppiozero.com/materiali/odeon/birdman-contro-broadway\">http://www.doppiozero.com/m...</a></p>
+<p class="comment__body">Il sorriso della figlia è una metafora, potentemente - o, per i detrattori, furbescamente - ambigua come sono tutte le buone metafore: Iñarritu ci dice che il suicidio di Riggan è il suo massimo successo. E una conferma che il mondo highbrow dell'arte apocalittica è ormai indistinguibile dal mondo lowbrow dello spettacolo integrato. <br>Chi vuole una spiegazione più completa, la può trovare qui:...</a></p>
 
 <hr class="comment__hr">
 

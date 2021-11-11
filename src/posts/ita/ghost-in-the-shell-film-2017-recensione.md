@@ -78,7 +78,7 @@ E fu così che la Motoko dei Centri Sociali anti-tech divenne ciò che ha sempre
 
 _ah, l'ironia!_
 
-<img src="https://static.giantbomb.com/uploads/scale_small/0/3661/402647-raziel_poster.jpg" alt='raziel'>
+<img src="https://upload.wikimedia.org/wikipedia/it/7/77/Raziel.jpg" alt='raziel'>
 <small>ma che ne sapete voi che non avete fatto le scuole Sarafan </small>
 </br></br>
 

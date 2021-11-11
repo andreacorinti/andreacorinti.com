@@ -13,8 +13,6 @@ In genere, **ho sempre voluto scrivere due parole riguardo la scomparsa di artis
 
 ## Chester Bennington
 
-![chester bennington](https://www.billboard.com/files/media/05-bw-chester-bennington-performs-2017-billboard-1548.jpg)
-
 Nel Luglio 2017 l'avrei voluto fare anche per Chester.
 
 **Però non me la sono sentita.**
@@ -59,13 +57,9 @@ E badate bene:
 
 Ergo, per noi altri che **spacciavamo vecchie cassette e i primi quintali di cd masterizzati** con dentro _Pantera, Death, Slayer, Blind Guardian, Guns N' Roses, Iced Earth_ e via dicendo **i Linkin Park parevano occupare "abusivamente" spazi inevitabilmente preclusi ai nostri beniamini**...
 
-![metallica-mtv-icon](https://s7.favim.com/610/151209/metallica-Favim.com-3739877.jpg)
-
 <small>Ricordo ancora distintamente i bestemmioni inveiti contro i Metallica al MTV Icon del 2003. Con Avril Lavigne che cantava Fuel (e voi ve lamentate di Lady Gaga...)</small>
 
 Era il solito gioco da _elite_ un po' vittima e un po' vittimista alla ricerca di spazi ma **con la scomunica <small>(più o meno satanica)</small> pronta in canna per qualunque cosa fosse considerabile _"commerciale"_**, salvo poi crogiolarsi tra (splendide) **magliette di Metallica e Iron Maiden** <small>(che commerciali lo erano già da parecchi anni, ma a dirlo erano in pochi)</small>.
-
-![linkin park](https://static.straitstimes.com.sg/sites/default/files/articles/2017/07/21/bp210717_chester10.jpg)
 
 In pratica **chi andava in TV era un venduto a prescindere, ma la TV all'epoca la guardavano ancora tutti e se ci finivi dentro allora contavi davvero qualcosa.**
 
@@ -141,7 +135,7 @@ Io qua alla fine scrivo sempre e solo quando mi sale quel _bisogno_, spesso mals
 
 ![ossigeno](https://sentireascoltare.com/wp-content/uploads/2018/02/ossigeno-manuel-agnelli.jpg)
 
-Ecco, mentre scoprivo la replica della prima (bellissima) puntata di [**Ossigeno**](https://www.raiplay.it/video/2018/02/Ossigeno-10e844ce-dece-4f66-877f-dc470dbdcae6.html), mi si è innescato quel bisogno lì...precisamente durante l'intervista a Paolo Giordano, il tutto **mentre si parla di tutt'altro e i Linkin Park non vengono menzionati manco di striscio**.
+Ecco, mentre scoprivo la replica della prima (bellissima) puntata di **Ossigeno**, mi si è innescato quel bisogno lì...precisamente durante l'intervista a Paolo Giordano, il tutto **mentre si parla di tutt'altro e i Linkin Park non vengono menzionati manco di striscio**.
 
 Non so come, ma qualche parte del mio cervello **è uscita fuori la necessità di mettere un mio ricordo di Chester Bennigton quaggiù**, di codificare bene quanto lasciato in sospeso lo scorso luglio:
 
@@ -150,8 +144,6 @@ Non so come, ma qualche parte del mio cervello **è uscita fuori la necessità d
 ![chester scream](https://biografieonline.it/img/bio/gallery/c/Chester_Bennington_3.jpg)
 
 Disperata, strozzata, incompresa e soprattutto **contaminata**...e _no_ non parlo mica di droga, che è un mero sintomo:
-
-![buio](https://i.ytimg.com/vi/g17jW-zirhA/maxresdefault.jpg)
 
 Parlo di **quel certo tipo di _buio_ che tanti ex-ragazzini sentono o sentivano addosso**, e che morivano dalla voglia **qualcuno gridasse fuori anche al posto loro.**
 

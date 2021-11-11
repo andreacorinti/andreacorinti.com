@@ -41,8 +41,8 @@ Detta papale papale permette di vedere **com'erano i siti web in un determinato 
   
 Una sorta di macchina del tempo internettiana, ma più indicativamente il cuore pulsante di quella che noi (e per noi intendo dire io) amiamo definire _**Cyberarcheologia**_.  
   
-E si, in questo momento dovete immaginarmi come se fossi una specie di **Indiana Jones Cyberpunk** (insomma, [così](https://cdn.blogosfere.it/pellicolerovinate/images/1982_blade_runner_the_final_cut_001.jpg))  
-  
+E si, in questo momento dovete immaginarmi come se fossi una specie di **Indiana Jones Cyberpunk** (insomma, dei Blade Runner).
+
 Se vi sentite pronti, [cliccate qui](https://archive.org/web/)...
 
 <h3> Commenti Archiviati </h3>

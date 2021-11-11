@@ -12,7 +12,7 @@ Sono un po' scosso.
 
 Sembra che questo blog stia diventando una sorta di enorme necrologio, lo so...**abbiamo appena finito di seppelire [Lemmy](/posts/ita/Lemmy/)**, ed ecco che pure il Duca ha lasciato questa valle di lacrime.
 
-Lo so: rischio di passare per uno dei tanti sciacalli mediatici che vanno gozzovigliando su questi decessi, ne sono consapevole...però sembra davvero che le [tre _Moire_](https://it.wikipedia.org/wiki/Moire_(mitologia)) si stiano divertendo un po' alle spese di chi ama la musica rock (e non solo):
+Lo so: rischio di passare per uno dei tanti sciacalli mediatici che vanno gozzovigliando su questi decessi, ne sono consapevole...però sembra davvero che le tre _Moire_ si stiano divertendo un po' alle spese di chi ama la musica rock (e non solo):
 
 Il 9 gennaio avevo iniziato l'ascolto di _**Blackstar**_, che avrei voluto pure recensire qui...anche se adesso credo sia il caso di rimandare ogni commento ad un futuro dove un po' tutti avremo metabolizzato la scomparsa del suo autore.
 

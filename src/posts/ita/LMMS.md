@@ -19,8 +19,6 @@ Tutti prodotti commerciali, software proprietario che offre i propri servigi die
 
 Non tutti conoscono però **LMMS**, progetto totalmente libero (e quindi gratuito) partito nell'ormai lontano 2004 e ancora vivo e vegeto, qua a lottare assieme a noi.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1624732570/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://lmmsartists.bandcamp.com/album/the-best-of-lmms-vol-5">The Best of LMMS Vol. 5 by LMMS Artists</a></iframe>
-
 Come dice l'acronimo, LMMS non fa mistero di puntare anzitutto a macchine che montano sistemi operativi **Linux**, ma è disponibile anche per **Windows** e **macOS**: basta fare un salto sul [sito ufficiale](https://lmms.io/) e scaricare bellamente la versione adeguata alle nostre esigenze.
 
 ## La mia opinione

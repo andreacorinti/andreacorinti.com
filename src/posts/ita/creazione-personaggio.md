@@ -112,7 +112,7 @@ Insomma, **il Giappone abbandonò senza mezzi termini quello che è il "giocare 
 
 **La cosa nella pratica non è stata certo un male**, anzi: 
 
-tra le storie più memorabili e avvincenti del mondo dei videogiochi spiccano del resto molti JRPG (basti citare i vari Final Fantasy o [Xenogears](/2016/xenogears-recensione/))
+tra le storie più memorabili e avvincenti del mondo dei videogiochi spiccano del resto molti JRPG (basti citare i vari Final Fantasy o [Xenogears](/posts/ita/xenogears/))
 
 Semplicemente **quel _Role Playing Game_ nella definizione "JRPG" non ha più un senso vero e proprio, se non quello dettato dalla consuetudine.**
 

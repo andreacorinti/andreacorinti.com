@@ -68,10 +68,6 @@ In mezzo ben **3 Final Fantasy, un MMORPG, un sequel maledetto ed un film orribi
 Era anche un'epoca in cui **certe differenze ancora si notavano a occhio nudo**, senza bisogno dei Vittorio Sgarbi del 4k che imperversano oggigiorno...
 
 <figure>
-	<img src="https://fantasyanime.com/finalfantasy/screenshots/albums/05-Chocobo/ff7emushot282.jpg" alt="FFVII">
-</figure>
-
-<figure>
 	<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/0/01/Double.png/revision/latest?cb=20091116050826" alt="FFVIII">
 </figure>
 

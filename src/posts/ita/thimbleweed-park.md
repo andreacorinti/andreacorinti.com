@@ -49,7 +49,7 @@ In generale **Thimbleweed Park è un gioco confezionato in modo certosino e pres
 
 Insomma, una classica Avventura Grafica di Ron Gilbert...
 
-Eppure, come ricorda [il consigliatissimo articolo di _Lucasdelirium_](https://www.lucasdelirium.it/tpscheda.php), nel 2013 quello stesso Gilbert scrisse:
+Eppure, come ricorda  _Lucasdelirium_, nel 2013 quello stesso Gilbert scrisse:
 
 > Se facessi un nuovo punta & clicca, la gente direbbe che non è all'altezza di Monkey Island. Ma si lamenterebbero in realtà perché non sarebbe all'altezza della loro nostalgia di Monkey Island. Non posso competere con una cosa del genere, nessuno può.
 
