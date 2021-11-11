@@ -21,7 +21,6 @@ eleventyExcludeFromCollections: true
 		<link href="{{ absolutePostUrl }}"/>
 		<updated>{{ page.date | rssDate }}</updated>
 		<id>{{ absolutePostUrl }}</id>
-		<content type="html">{{ page.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
 	</entry>
 	{%- endfor %}
 </feed>

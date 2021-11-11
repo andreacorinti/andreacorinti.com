@@ -1,12 +1,15 @@
 ---
-title: "Blog"
-description: "Benvenuti nel blog italiano, dove tenterò di raccogliere le varie cosacce che ho scritto in giro per il web di cui vado un minimo orgoglioso."
+layout: archivio
 lang: it-IT
+pagination:
+  data: collections.blogita
+  size: 4
+  alias: blogita
 ---
 <main class="tdbc-container">
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
-      {%- for page in collections.blogita -%}
+      {%- for page in blogita -%}
       <li class="tdbc-card">
         <div class="tdbc-card__content">
           <a href="{{ page.url }}" class="tdbc-card__title">{{ page.data.title }}</a>

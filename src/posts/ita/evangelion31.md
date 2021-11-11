@@ -2,7 +2,7 @@
 title: "Evangelion 3.0+1.0: Thrice upon a time"
 subtitle: ".さらばさらばの手にかかる霞かな"
 sommario: "Grazie per non fuggire più, Hideaki Anno"
-immagine: https://upload.wikimedia.org/wikipedia/en/3/36/Evangelion_3.0%2B1.0_Poster.png
+immagine: https://cyhour.com/wp-content/uploads/2021/07/1693_20210702_082849.png
 lang: it-IT
 date: 2021-08-14
 ---
