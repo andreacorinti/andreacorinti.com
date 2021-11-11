@@ -6,9 +6,6 @@ date: 2015-02-25
 lang: it-IT
 ---
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=xabacadabra-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B00T1O6HL2&linkId=32dee476ebe11e4f37f0badb3b7bba57&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
-    </iframe>
-
 Come avrete visto nel titolo e dovrebbe essere ovvio, **questo post è totalmente spoiler:** guardatevi Birdman prima di leggere altrimenti, tanto per restare in tema, sono **volatici diabetici**
 
 Premetto anche un'altra cosa: **penso che questo finale sia volutamente interpretabile in più modi**, senza versioni definitivamente "giuste" o "sbagliate" in senso stretto.
@@ -128,7 +125,7 @@ un'eredità scenica, fasulla, **da milioni di visualizzazioni e molta apparenza,
     </span>
 </div>
 <p class="comment__body">
-    secondo me se pensi alle tue recensioni medie a tema nerd sei un pò in conflitto d'interessi! <a href=\"http://www.bestmovie.it/news/alejandro-g-inarritu-demolisce-i-cinecomic-sono-un-genocidio-culturale/355976/\" rel=\"nofollow noopener\" title=\"http://www.bestmovie.it/news/alejandro-g-inarritu-demolisce-i-cinecomic-sono-un-genocidio-culturale/355976/\">http://www.bestmovie.it/new...</a>
+    secondo me se pensi alle tue recensioni medie a tema nerd sei un pò in conflitto d'interessi! <a href="http://www.bestmovie.it/news/alejandro-g-inarritu-demolisce-i-cinecomic-sono-un-genocidio-culturale/355976/\" rel="nofollow noopener\" title="http://www.bestmovie.it/news/alejandro-g-inarritu-demolisce-i-cinecomic-sono-un-genocidio-culturale/355976/">http://www.bestmovie.it/new...</a>
 </p>
 
 <hr class="comment__hr">

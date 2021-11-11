@@ -1,6 +1,6 @@
 ---
-title: "Italiano"
-description: "Benvenuti nell'angolo italiano, dove tenterò di raccogliere le varie cosacce che ho scritto in giro per il web di cui vado un minimo orgoglioso."
+title: "Blog"
+description: "Benvenuti nel blog italiano, dove tenterò di raccogliere le varie cosacce che ho scritto in giro per il web di cui vado un minimo orgoglioso."
 lang: it-IT
 ---
 <main class="tdbc-container">

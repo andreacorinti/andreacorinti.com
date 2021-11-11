@@ -101,7 +101,7 @@ immagine: ../img/avatar2.jpg
   </tr>   
   <tr>  
     <td>2017</td>
-    <td><a href="https://learndigital.withgoogle.com/eccellenzeindigitale/certificate.pdf">Google Digital Garage Certificate.</a></td>
+    <td>Google Digital Garage Certificate.</td>
   </tr>
   <tr>
     <td>2008</td>

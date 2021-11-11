@@ -101,7 +101,7 @@ In particolare, **Pillars of Eternity porta in scena una trama splendida con con
 
 **Pillars of Eternity ha un soggetto magnifico.**
 
-Per più di una ragione mi sono ritrovato spesso a pensare a [_Xenogears_](/2016/xenogears-recensione/), non solo per certe tematiche di fondo (vagamente simili, seppur in contesti del tutto diversi), ma più che altro per il vecchio discorso che feci parlando della sua scarsa accessibilità:
+Per più di una ragione mi sono ritrovato spesso a pensare a [_Xenogears_](/posts/ita/xenogears/), non solo per certe tematiche di fondo (vagamente simili, seppur in contesti del tutto diversi), ma più che altro per il vecchio discorso che feci parlando della sua scarsa accessibilità:
 
 > non conta solo la bellezza del soggetto, ma come lo racconti
 
