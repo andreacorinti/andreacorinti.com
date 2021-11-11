@@ -129,7 +129,7 @@ immagine: ../img/avatar2.jpg
   </tr>
   <tr>  
     <td>Office Software</td>
-    <td>Microsoft Office Suite, Visual Studio, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, Trello many others</td>
+    <td>Microsoft Office Suite, Visual Studio, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, Trello, many others</td>
   </tr>  
   <tr>  
     <td>Design Software</td>
