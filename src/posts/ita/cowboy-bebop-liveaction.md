@@ -15,7 +15,7 @@ Dico alcuni, perché credo ancora nel _"Tim Burton che reinventò Batman"_, nel 
 
 ## Lucca Cowboy and Games
 
-Amo Cowboy Bebop, cinque anni fa [ho anche avuto occasione di conoscere Shin'ichiro Watanabe e strappargli un autografo](posts/ita/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/) e lo ritengo uno degli anime più belli della storia.
+Amo Cowboy Bebop, cinque anni fa [ho anche avuto occasione di conoscere Shin'ichiro Watanabe e strappargli un autografo](/posts/ita/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/) e lo ritengo uno degli anime più belli della storia.
 
 E, proprio perché lo amo, non sento il bisogno di vederlo riproposto in una forma diversa da quelli che mi sembrano cosplayer di Lucca.
 
