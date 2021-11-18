@@ -1,8 +1,7 @@
 ---
+avatar: img/avatar3.jpg
 layout: home.njk
 ---
-
-<p class="p-note">
 
 **Italiano in Ελλάδα 🇮🇹 🇬🇷**
 
