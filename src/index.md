@@ -37,7 +37,7 @@ And, even if I don't like it very much, I'm also on [Linkedin](https://www.linke
 
 Want to ask something in particular? 
 
-By all means! [**Click here**](/contact/) for the contact form.
+[**Click here**](/contact/) or [send me a tweet](https://twitter.com/XabCorinti) (NO DM).
 
 ## Xab Internet Bookmarks 
 

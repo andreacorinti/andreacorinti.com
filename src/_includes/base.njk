@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{%- if lang -%}{{ lang }}{%- else -%}en{%- endif -%}">
+<html lang="{%- if lang -%}{{ lang }}{%- else -%}it{%- endif -%}">
 {%- set pageTitle %}{% if title %}{{ title }} | {% endif %}{{ meta.siteName }}{% endset -%}
 {%- set pageDescription %}{% if description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
 {%- set pageSocialImg %}{{ meta.url }}/previews/{% if title %}{{ title | slug }}{% else %}home{% endif %}.png{% endset -%}
@@ -15,10 +15,6 @@
 
   gtag('config', 'UA-132343081-1');
 </script>
-
-<!-- Google Ads -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1505772893706847" crossorigin="anonymous">
-     </script>
 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
