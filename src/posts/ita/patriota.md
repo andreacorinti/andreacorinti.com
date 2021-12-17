@@ -7,7 +7,7 @@ lang: it-IT
 date: 2021-12-17
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmmscT2jUZk" frameborder="0" allowfullscreen></iframe>
+[Video](https://www.youtube.com/embed/MmmscT2jUZk)
 
 ## Traduzione
 
