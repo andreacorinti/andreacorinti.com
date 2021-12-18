@@ -45,21 +45,7 @@ In parte sicuramente perché io e generazioni limitrofe attraversavamo tutto que
 
 **Tecnologicamente parlando, da 1997 a 2005 passò effettivamente un'eternità.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QDz9A4ByHIQ" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxnzNVIAxCY" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/snrnQyknquM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jdHBfQPoO-g" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xaI7ZPA9I1c" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eXG_b62mkus" frameborder="0" allowfullscreen></iframe>
-
-(madonna che schif)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/foVU6R33-ek" frameborder="0" allowfullscreen></iframe>
+<img src="https://external-preview.redd.it/YHJci8AWcPKvUAZQHFkmUBmnegi9UIPpEsFesSW-0NQ.png?auto=webp&s=19bd41b67e7f9d1fa0705bae6dda912a5ca056ef" alt="Evoluzione grafica di Final Fantasy">
 
 Nello specifico, **tutto il discorso che va dal debutto della prima Playstation all'ormai sempre più prossimo canto del cigno della sua erede PS2.**
 
