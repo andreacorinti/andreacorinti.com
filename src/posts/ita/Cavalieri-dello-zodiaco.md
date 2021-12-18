@@ -15,8 +15,6 @@ Ossia Malessere, tanto malessere.
 
 Ora, a quanto mi risulta, sono uno dei pochi che ha parlato bene del film di Capitan Harlock 3D (a sua volta Made in Toei), quindi non mi si può tacciare di troppo _girellismo_.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5SIAIae1l_o" frameborder="0" allowfullscreen></iframe>
-
 E partiamo col dire che, sin dai primi trailer, **io, a questo film, non davo una lira.**
 
 Ma proprio perché a livello di design lo trovo semplicemente osceno per il gusto mio, mica per altro.
