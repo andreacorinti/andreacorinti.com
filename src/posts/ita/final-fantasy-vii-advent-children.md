@@ -125,9 +125,7 @@ _Oh certo, simpaticissimo sogno bagnato delle ragazzine. Un Jack Sparrow giappo.
 
 C'era qualcosa che non andava...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bp-UgLklPfA" frameborder="0" allowfullscreen></iframe>
-
-Ma questa scena, effettivamente splendida (forse l'unica che salvo ancora oggi) ti faceva dimenticare di tutto.
+Ma [questa scena](https://www.youtube.com/embed/bp-UgLklPfA"), effettivamente splendida (forse l'unica che salvo ancora oggi) ti faceva dimenticare di tutto.
 
 <figure>
 	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/bahamut.jpg" alt="Bahamut">
