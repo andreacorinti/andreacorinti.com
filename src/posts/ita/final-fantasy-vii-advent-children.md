@@ -153,9 +153,7 @@ Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialog
 
 È allora che ti senti ingannato e tradito, rivedendolo.
 
-Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero potuto essere anche i soli trailer**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HuIvvl_C-yg" frameborder="0" allowfullscreen></iframe>
+Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero potuto essere anche i soli [trailer](https://www.youtube.com/embed/HuIvvl_C-yg)**.
 
 Ma anche che, con un regista diverso da **Tetsuya Nomura** ed un insostenibile passaggio di testimone in meno, **forse forse Advent Children avrebbe pure potuto tenere botta.**
 
