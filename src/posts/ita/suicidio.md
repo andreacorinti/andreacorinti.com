@@ -2,7 +2,7 @@
 title: "Suicidio?"
 subtitle: "."
 sommario: "."
-immagine: ~/img/suicidio.jpg
+immagine: https://www.andreacorinti.com/img/suicidio.jpg
 date: 2021-12-20
 lang: it-IT
 ---
