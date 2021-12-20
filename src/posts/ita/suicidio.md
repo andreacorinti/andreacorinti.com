@@ -2,7 +2,7 @@
 title: "Suicidio?"
 subtitle: "."
 sommario: "."
-immagine: ../img/suicidio.jpg
+immagine: ~/img/suicidio.jpg
 date: 2021-12-20
 lang: it-IT
 ---
