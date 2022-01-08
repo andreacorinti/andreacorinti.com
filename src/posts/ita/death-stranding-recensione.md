@@ -3,7 +3,7 @@ title: "Death Stranding"
 subtitle: "Se odiate Death Stranding, vi posso capire. Anche se mi dispiace molto per voi."
 sommario: "Se odiate Death Stranding, vi posso capire. Anche se mi dispiace molto per voi."
 immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/header.jpg
-date: 2022-01-07
+date: 2022-01-08
 lang: it-IT
 ---
 
