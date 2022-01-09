@@ -21,7 +21,7 @@ _nella nebbia._
 
 ## Neon Genesis Evangelion
 
-Il 12 Dicembre del 2000, grazie alla mia vecchia piccola TV con tubo catodico, MTV trasmesse al bimbo che ero i primi due episodi di Evangelion all'interno del programma-contenitore _Robothon_.
+Il 12 Dicembre del 2000, grazie alla mia vecchia piccola TV con tubo catodico, MTV trasmise al bimbo che ero i primi due episodi di Evangelion all'interno del programma-contenitore _Robothon_.
 
 Quel bimbo si innamorò immediatamente di [_Zankoku na tenshi no tēze_](https://www.youtube.com/watch?v=nU21rCWkuJw) - da quel momento la mia sigla del cuore - ma non avrebbe mai potuto immaginare che si sarebbe portato dietro quella storia e quei personaggi per più di vent'anni. 
 
