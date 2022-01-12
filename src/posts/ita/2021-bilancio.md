@@ -4,7 +4,7 @@ subtitle: "Un bilancio su alcune delle cose che mi sono piaciute di più dell'an
 sommario: "Un bilancio su alcune delle cose che mi sono piaciute di più dell'anno passato"
 immagine: https://media.istockphoto.com/photos/hand-touching-pass-thru-infographic-to-2021-year-with-blue-bokeh-and-picture-id1213868775?k=20&m=1213868775&s=612x612&w=0&h=DpoQKbqBTnON5hY-B6JjmqnTZSYUbcLPRKGIXCSgZ6o=
 lang: it-IT
-date: 2022-1-12
+date: 2022-01-12
 ---
 
 Ispirato da [questo post di mastro Ron Gilbert](https://grumpygamer.com/the_future), faccio un bilancio su alcune delle cose che mi sono piaciute di più dell'anno passato (chissà, magari diventa tradizione).
