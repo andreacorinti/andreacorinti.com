@@ -13,21 +13,6 @@ Facendo quest'elenco, mi sono reso conto che sono decisamente troppo lontano dal
 
 Ecco, nel 2022 come buon proposito direi che in cima ho "mettermi al passo con i tempi".
 
-## Gioco del 2021
-
-Ho giocato solo due cose uscite nel 2021: _Valheim_ e _Final Fantasy Pixel Remastered_.
-
-Final Fantasy l'ho finito (anche se non lo consiglio)[https://steamcommunity.com/id/xabaras89/recommended/1173770/], Valheim l'ho mollato alla grande quindi vabbè, che devo dire?
-
-Per me il 2021 è stato per massima parte l'anno del digiuno ludico (si vedano i vecchi post a riguardo) ma soprattutto di _Death Stranding_, ma purtroppo siccome è del 2019 è fuori classifica - idem lo splendido _Disco Elysium_ che in ogni caso ho un po' parcheggiato (shame on me).
-
-Sono arciconvinto che nel 2021 sia uscita della roba interessante, il guaio è che srivendo _Giochi Troppo!_ ho preso coscienza di tre problemi di fondo:
-
-1) Sono diventato schizzinoso e viziato e per giocare a qualcosa mi faccio prendere dalle voglie da donna incinta (per esempio, di recente ho comprato pure GTA4 - GTA5 l'ho mollato un anno fa poco prima delle battute finali);
-
-2) Per quanto possibile, voglio centellinare e spendere meglio il tempo che ho. Quindi se un gioco non mi prende subito, tendenzialmente lo mollo e ne provo uno degli altri 45757 che vorrei provare (oppure perdo altre ore a fare cose bislacche in _Death Stranding_ o _Dark Souls_ che per qualche motivo mi inchiodano sempre);
-
-3) Tanti videogiochi non hanno dietro una promozione come si deve per farsi conoscere (vale per molte produzioni italiane, specie indie). Un po' forse la sottovalutano, ma molto più spesso non hanno proprio i mezzi per reclamizzare idee anche interessanti.
 
 ## Film del 2021 
 
@@ -50,6 +35,24 @@ Arcane in particolare mi ha sorpreso un sacco: non ho mai giocato a LoL in vita 
 Avrei voluto mettere WandaVision (ho visto anche Loki e Falcon and the Winter Soldier, entrambe carucce ma non mi hanno entusiasmato).
 
 Anche Squid Game si meriterebbe un posto da qualche parte perché mi è piaciuta molto, ma se ne è parlato troppo e la sottotrama del poliziotto me l'ha fatta apprezzare meno (resta comunque una gran figata)
+
+## Gioco del 2021
+
+Ho giocato solo due cose uscite nel 2021: _Valheim_ e _Final Fantasy Pixel Remastered_.
+
+Final Fantasy l'ho finito ([anche se non lo consiglio](https://steamcommunity.com/id/xabaras89/recommended/1173770/)), Valheim l'ho mollato alla grande quindi vabbè, che devo dire?
+
+Per me il 2021 è stato per massima parte l'anno del digiuno ludico (si vedano i vecchi post a riguardo) ma soprattutto di [_Death Stranding_](https://www.andreacorinti.com/posts/ita/death-stranding-recensione/)
+
+Purtroppo siccome è del 2019 è fuori classifica, idem lo splendido _Disco Elysium_ che in ogni caso ho un po' parcheggiato (shame on me).
+
+Sono arciconvinto che nel 2021 sia uscita della roba interessante, il guaio è che srivendo _Giochi Troppo!_ ho preso coscienza di tre problemi di fondo:
+
+1) Sono diventato schizzinoso e viziato e per giocare a qualcosa mi faccio prendere dalle voglie da donna incinta (per esempio, di recente ho comprato pure GTA4 - GTA5 l'ho mollato un anno fa poco prima delle battute finali);
+
+2) Per quanto possibile, voglio centellinare e spendere meglio il tempo che ho. Quindi se un gioco non mi prende subito, tendenzialmente lo mollo e ne provo uno degli altri 45757 che vorrei provare (oppure perdo altre ore a fare cose bislacche in _Death Stranding_ o _Dark Souls_ che per qualche motivo mi inchiodano sempre);
+
+3) Tanti videogiochi non hanno dietro una promozione come si deve per farsi conoscere (vale per molte produzioni italiane, specie indie). Un po' forse la sottovalutano, ma molto più spesso non hanno proprio i mezzi per reclamizzare idee anche interessanti.
 
 ## Anime del 2021
 
