@@ -20,17 +20,27 @@ Si è già detto tutto, il suo contrario ed in generale _troppo_, salvo (inevita
 
 ![cyberpunk2077-inventario](https://lh3.googleusercontent.com/cloudcast/AGY_3L-YCtx1QQi9kHFbIKbdFUUQEMxdv15JkUGDkb7ScWJRLb-_dm6YJTd7xQ=w2400-h1350-rw-no)
 
-Cyberpunk 2077 porta in scena un futuro immaginario pensato negli anni '80 traendo liberamente ispirazione da un gioco di ruolo cartaceo uscito nella medesima decade: 
+Cyberpunk 2077 porta in scena un futuro immaginario pensato negli anni '80 (traendo liberamente ispirazione da un gioco di ruolo cartaceo uscito nella medesima decade): 
 
-Chi vi scrive l'estetica Cyberpunk l'ha sempre adorata, ma [come diceva benissimo il Dr Manhattan tempo fa](https://docmanhattan.blogspot.com/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html), **rappresenta un futuro già passato**.
+Chi vi scrive l'estetica Cyberpunk l'ha sempre adorata...ma, [come diceva benissimo il Dr Manhattan tempo fa](https://docmanhattan.blogspot.com/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html), ormai **rappresenta un futuro già passato**.
 
 Che in parte forse esiste eh, ma in forme molto meno evocative e affascinanti.
 
-Questo è un punto un po' sottovalutato che interessa anche i vari _Deus Ex_ o _System Shock_ (e che forse spiega perché non abbiano mai raccolto consensi esorbitanti), ma la vecchiaia di cui parlo io è anzitutto prettamente tecnica: 
+Questo è un punto un po' sottovalutato che interessa anche i vari _Deus Ex_ o _System Shock_ (e che forse spiega perché non abbiano mai raccolto consensi esorbitanti). 
 
-**Cyberpunk 2077 sfrutta cliché che erano già vecchi nei videogiochi di vent'anni fa**:
+Tuttavia, la vecchiaia più problematica è una faccenda prettamente tecnica: 
 
-Missioni affrontabili in un paio di modi diversi ma che nella sostanza si risolvono quasi tutte con un _vai in luogo X, uccidi i nemici, recupera l'oggetto, sconfiggi l'eventuale boss_ eccetera eccetera.
+**Cyberpunk 2077 sfrutta cliché che erano già vecchi nei videogiochi di vent'anni fa**.
+
+Missioni affrontabili in un paio di modi diversi ma che nella sostanza si risolvono quasi tutte con 
+
+- vai in luogo X 
+- uccidi i nemici 
+- recupera l'oggetto 
+- sconfiggi l'eventuale boss 
+- torna al luogo Y 
+
+eccetera eccetera.
 
 Esistono le eccezioni, ma fondamentalmente la ciccia resta questa.
 
@@ -38,7 +48,7 @@ Esistono le eccezioni, ma fondamentalmente la ciccia resta questa.
 
 ![cyberpunk2077-nightcity](https://lh3.googleusercontent.com/cloudcast/AGY_3L8BeZKQ25wOzaQ74h9KexDNzFxcSqhmDDY5F5ucNz54aPF67sff2abjnA=w2400-h1350-rw-no)
 
-Solitamente **sono un giocatore che ama perdersi nei mondi che esplora:** siano essi piccoli pianeti fatti di splendide schermate in 2D come nei vecchi Final Fantasy, una provincia di Tamriel oppure una metropoli di un GTA.
+Solitamente **sono un giocatore che ama perdersi nei mondi che esplora:** siano essi piccoli pianeti fatti di splendide schermate in 2D (come nei vecchi Final Fantasy) una provincia di Tamriel oppure la metropoli di un GTA.
 
 Eppure **Night City l'ho percepita poco più che un agglomerato di distributori e punti sulla mappa con negozi tutti uguali**, roba più triste e generica di un vecchio MMORPG coreano a caso.
 
