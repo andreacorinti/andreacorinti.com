@@ -1,5 +1,3 @@
 - Sistemare l'avatar nella home e nel curriculum
 - Esportare il CV in PDF
-- Sistemare il CSS del Form di Contatto
-- Archivio Staticman
 - Varie ed eventuali
