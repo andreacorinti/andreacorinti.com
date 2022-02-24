@@ -3,7 +3,7 @@ title: "Final Fantasy VI Pixel Remaster - prime impressioni "
 subtitle: "Impressioni così a caldo da bruciare il Castello di Figaro."
 sommario: "Impressioni così a caldo da bruciare il Castello di Figaro."
 immagine:  https://cdn.cloudflare.steamstatic.com/steam/apps/1173820/header.jpg
-date: 2022-24-02
+date: 2022-02-24
 lang: it-IT
 ---
 
