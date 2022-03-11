@@ -38,7 +38,7 @@
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.2",
     "dotenv": "^16.0.0",
-    "emoji-regex": "^10.0.0",
+    "emoji-regex": "^10.0.1",
     "luxon": "^2.3.1",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.4.1",
