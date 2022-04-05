@@ -2,7 +2,7 @@
 title: "La guerra tra Russia e Ucraina"
 subtitle: ""
 sommario: ""
-immagine:  
+immagine: https://i.pinimg.com/originals/dc/1d/33/dc1d33763f8267e7bdd3a031782598f6.jpg 
 date: 2022-02-25
 lang: it-IT
 ---
