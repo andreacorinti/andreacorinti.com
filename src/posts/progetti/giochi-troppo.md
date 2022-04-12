@@ -14,6 +14,8 @@ Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobr
 
 Anche se tento di usare un tono leggero e il più possibile "giocoso", dietro c'è una bella bibliografia piena di studi molto seri e interessanti che consiglio a tutti quelli che volessero approfondire in modo più accademico l'argomento.
 
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/GiochiTroppo?src=hash&amp;ref_src=twsrc%5Etfw">#GiochiTroppo</a><br><br>Da qualche tempo sto elaborando un libretto che ha l&#39;ambizione di ragionare su quanto tempo ci costano i videogiochi, e ho scoperto diverse cose interessanti: <br><br>Anzitutto in Italia si fa fatica a vederli trattati in contesti &quot;generalisti&quot;:<br><br>Thread ⬇️</p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1458550157600043021?ref_src=twsrc%5Etfw">November 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Descrizione
 
 _Giochi Troppo_ è un invito alla riflessione sul tempo di vita che dedichiamo al videogame e, allo stesso tempo, un’analisi su quanto questo mondo sia diventato importante nelle nostre vite.
