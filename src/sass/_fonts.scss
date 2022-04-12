@@ -24,3 +24,12 @@
       url("../fonts/Teko.woff") format("woff");
     font-display: swap;
   }
+
+  @font-face {
+    font-family: "PressStart";
+    font-style: normal;
+    font-weight: normal;
+    src: local("PressStart"), local("PressStart"),
+      url("../fonts/PressStart2P.woff2") format("woff");
+    font-display: swap;
+  }
