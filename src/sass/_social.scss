@@ -1,0 +1,39 @@
+.social {
+    font-family: Teko;
+    font-size: 170%;
+    text-align: center;
+  }
+
+.social ul {
+    list-style: none;
+  }
+.social li {
+    display: inline-block;
+  }
+.social svg {
+    width: 96px;
+  }
+.twitter {
+ fill: #00acee;
+}
+.twitter:hover {
+    fill: white;
+}
+.instagram{
+ fill: #E1306C;
+}
+.instagram:hover {
+    fill: white;
+}
+.github{
+ fill: rgb(161, 161, 161);
+}
+.github:hover{
+    fill: white;
+   }
+.lastfm{
+    fill: red;
+}
+.lastfm:hover {
+    fill: white;
+}

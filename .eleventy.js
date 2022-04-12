@@ -34,7 +34,7 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob("./src/posts/ita/*.md").reverse();
   });
   eleventyConfig.addCollection("blogeng", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/*.md").reverse();
+    return collection.getFilteredByGlob("./src/posts/eng/*.md").reverse();
   });
   eleventyConfig.addCollection("progetti", function(collection) {
     return collection.getFilteredByGlob("./src/posts/progetti/*.md").reverse();
