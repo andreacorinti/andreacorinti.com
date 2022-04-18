@@ -39,7 +39,7 @@
     "cssnano": "^5.1.7",
     "dotenv": "^16.0.0",
     "emoji-regex": "^10.1.0",
-    "luxon": "^2.3.1",
+    "luxon": "^2.3.2",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.6.2",
     "netlify-plugin-cache-folder": "0.0.8",
