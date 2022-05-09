@@ -1,4 +1,3 @@
-const socialImages = require("@11tyrocks/eleventy-plugin-social-images");
 const emojiRegex = require("emoji-regex");
 const slugify = require("slugify");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -11,7 +10,6 @@ const filters = require('./src/_11ty/filters');
 
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPlugin(socialImages);
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC);
