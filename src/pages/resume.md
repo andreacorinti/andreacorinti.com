@@ -116,24 +116,24 @@ immagine: ../img/avatar2.jpg
   </tr>
 </thead>  
   <tr>
-    <td>Operating Systems Knowledge</td>
-    <td>Windows 95 – 10, iOS, macOS, Linux (Debian/Ubuntu, Opensuse)</td>
+    <td>Operating Systems Experience</td>
+    <td>Windows 95 – 11, Android, iOS, macOS, Linux (Debian/Ubuntu, Opensuse)</td>
   </tr>
   <tr>  
     <td>Web Development</td>
-    <td>HTML5, CCS3, Javascript, Wordpress, Jekyll, Markdown, Bootstrap, Github Pages, Google Analytics, Google Ads, Google Search Console</td>
+    <td>HTML5, CCS3, Javascript, 11ty, Netlify, Wordpress, Jekyll, Bootstrap, Github Pages, Google Analytics, Google Ads, Google Search Console</td>
   </tr>  
   <tr>  
     <td>Programming languages</td>
     <td>Java</td>
   </tr>
   <tr>  
-    <td>Office Software</td>
-    <td>Microsoft Office Suite, Visual Studio, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, Trello, many others</td>
+    <td>Production Software</td>
+    <td>Microsoft Office Suite, Visual Studio Code, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, Trello, many others</td>
   </tr>  
   <tr>  
     <td>Design Software</td>
-    <td>GIMP, Adobe Photoshop, Sony Vegas Pro, Adobe Illustrator, Inkscape</td>
+    <td>Adobe Photoshop, Sony Vegas Pro, Adobe Illustrator, Inkscape, GIMP</td>
   </tr>  
 </table>
 
@@ -167,8 +167,8 @@ immagine: ../img/avatar2.jpg
   <tr>  
     <td>Foreign languages</td>
     <td>- <b>English</b>
-    (as a first foreign language, very good working knowledge with technical terms and good in both written and spoken)
-    <br>- <b>Spanish</b> (as a second foreign language, good spoken)</td>
+    (as a first foreign language, very good working knowledge (IT technical terms, customer caring) good in both written and spoken)
+    <br>- <b>Spanish</b> (as a second foreign language, good spoken, average in writing for customer caring)</td>
   </tr>
 </table>
 
