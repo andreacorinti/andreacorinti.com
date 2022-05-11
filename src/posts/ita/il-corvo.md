@@ -1,5 +1,5 @@
 ---
-title: "Il Corvo - Una retrospettiva sul film"
+title: "Il Corvo - Una retrospettiva"
 subtitle: "L'Impatto del corvo."
 sommario: "Io faccio parte di una generazione strana, tocca sempre ribadirlo."
 immagine: https://www.cinematographe.it/wp-content/uploads/2017/12/il-corvo-reboot-location.jpg
