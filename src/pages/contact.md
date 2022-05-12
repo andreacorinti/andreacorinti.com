@@ -14,7 +14,7 @@ title: Contact
   </p>
   <p>
     <label>
-    <textarea name="message" placeholder="Write here your message" cols="40" rows="6"></textarea>
+    <textarea name="message" placeholder="Write here your message" cols="35" rows="6"></textarea>
     </label>
   </p>
   <p>
