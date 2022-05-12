@@ -1,25 +1,25 @@
 ---
+layout: contact
 title: Contact
-description: For work, comments or anything!
 ---
 
-{% include 'social.njk' %}
-
-## Form
+## Contact Form
 
 <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label><input type="text" name="name" placeholder="Type your Name"/></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label><input type="email" name="email" placeholder="Type your e-mail"/></label>
   </p>
   <p>
     <label>
-    <textarea name="message" placeholder="Write here your message"></textarea>
+    <textarea name="message" placeholder="Write here your message" cols="40" rows="6"></textarea>
     </label>
   </p>
   <p>
     <button type="submit">Send</button>
   </p>
 </form>
+
+{% include 'social.njk' %}
