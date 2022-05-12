@@ -19,7 +19,7 @@ históricamente, el fútbol italiano, inglés y español tienen mentalidades rad
 
 Croacia y todos los paises de ex-Jugoslavia por ejemplo.
 
-Sin embargo es cierto que hay muchos menos "10" sudamericanos de un determinado tipo (en Italia los llamamos "registi" o "fantasisti") entre las nuevas generaciones y que la influencia de Barcelona fue quizás excesiva por todos los equipos del mundo, es algo que también se ve en otros roles (en argentina actualmente no veo jovenes como Veron, Zanetti, Samuel, Mascherano ecc.)
+Sin embargo es cierto que hay muchos menos "10" sudamericanos de un determinado tipo (en Italia los llamamos "registi" o "fantasisti") entre las nuevas generaciones y que la influencia de Barcelona fue quizás excesiva por todos los equipos del mundo, es algo que también se ve en otros roles (en Argentina actualmente no veo jovenes como Veron, Zanetti, Samuel, Mascherano ecc.)
 
 Italia hace tiempo que abandonó el catenaccio, pero desafortunadamente despues 2006 no tuvimos jóvenes de nivel (excluyendo a Verratti, Chiesa y Spinazzola), tuvimos a Baggio, Del Piero, Totti y despues es como si todo se acabo.
 
