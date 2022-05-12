@@ -74,6 +74,10 @@ a:not(.tdbc-button) {
   color: $tdbc-link-color;
 }
 
+a:hover {
+  color: #fdeb37;
+}
+
 code:not([class*="language"]) {
   display: inline-flex;
   padding: 0.15em;
