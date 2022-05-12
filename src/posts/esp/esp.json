@@ -1,0 +1,4 @@
+{
+  "layout" : "postita",
+  "templateEngineOverride": "njk,md"
+}
