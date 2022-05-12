@@ -1,6 +1,6 @@
 {
   "name": "andreacorinti.com",
-  "version": "2.9.5",
+  "version": "2.9.7",
   "description": "Andrea Corinti website",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,7 @@
 ---
 title: "Giochi Troppo!"
 subtitle: "Spegni il computer e vai a dormire!"
+permalink: "projects/giochi-troppo/"
 sommario: "Un film di 10 ore è un mattone.
 Un videogioco di 10 ore è troppo breve."
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Men_at_work_sign_%28green%29.svg/664px-Men_at_work_sign_%28green%29.svg.png

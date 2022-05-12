@@ -2,6 +2,7 @@
     font-family: Teko;
     font-size: 170%;
     text-align: center;
+    padding: 2px;
   }
 
 .social ul {
@@ -36,4 +37,30 @@
 }
 .lastfm:hover {
     fill: white;
+}
+
+// bandiere
+
+.bandiere {
+  font-family: Teko;
+  font-size: 170%;
+  text-align: center;
+  padding: 2px;
+}
+
+.bandiere ul {
+  list-style: none;
+}
+.bandiere li {
+  display: inline-block;
+  margin: 0px 5px 5px 5px;
+}
+.bandiere svg {
+  width: 96px;
+}
+.italia:hover {
+  fill: white;
+}
+.uk:hover {
+  fill: white;
 }

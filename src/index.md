@@ -24,7 +24,7 @@ console.log("And welcome chez Andrea Corinti's");
 
 ## Resume 
 
-Here is my online [**professional resume**](/resume).
+Here is my online [**professional resume**](/resume), a smaller [PDF version](/img/Andrea-Corinti-Resume-2022.pdf) is available as well.
 
 Want to ask something in particular? 
 

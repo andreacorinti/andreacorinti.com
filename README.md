@@ -1,4 +1,3 @@
 - Sistemare l'avatar nella home e nel curriculum
-- Esportare il CV in PDF
 - Ricerca?
 - Varie ed eventuali
