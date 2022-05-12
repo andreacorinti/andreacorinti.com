@@ -23,7 +23,7 @@ Sin embargo es cierto que hay muchos menos "10" sudamericanos de un determinado 
 
 Italia hace tiempo que abandonó el catenaccio, pero desafortunadamente despues 2006 no tuvimos jóvenes de nivel (excluyendo a Verratti, Chiesa y Spinazzola), tuvimos a Baggio, Del Piero, Totti y despues es como si todo se acabo.
 
-Mancini hizo un milagro en la Eurocopa, despues perdimos la clasificacion porque no teniamos un verdadero Nueve (como lo fue Vieri por exemplo) y los jugadores en general no tenian minimamente esa garra que a los italianos les parece sólo cuando está en problemas contra grandes oponentes.
+Mancini hizo un milagro en la Eurocopa, despues perdimos la clasificacion porque no teniamos un verdadero Nueve (como lo fue Vieri por exemplo) y los jugadores en general no tenian minimamente esa garra que a los italianos les parece sólo cuando están en problemas contra grandes oponentes.
 
 ## Catenaccio
 
