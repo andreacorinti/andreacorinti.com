@@ -1,7 +1,7 @@
 ---
 title: "La notte che bruciammo Chrome"
 subtitle: "Osservazioni sulla raccolta di racconti di William Gibson."
-sommario: "Osservazioni sulla raccolta di racconti di William Gibson"
+sommario: "Osservazioni sulla raccolta di racconti di William Gibson."
 immagine: https://3.bp.blogspot.com/-1PcMqhXhQs4/UviC7Pm9BwI/AAAAAAAAG18/YevtQpotQyw/s1600/la+notte+che+bruciammo+Chrome+cover.jpg
 date: 2022-05-14
 lang: it-IT
@@ -47,9 +47,9 @@ Il tono del narratore di turno può essere sia dinamico e scorrevole che enigmat
 
 Giusto per fare qualche esempio spiccio:
 
-_Il Mercato d'Inverno_, straordinariamente emotivo (forse il racconto che ho preferito), è molto diverso dai risvolti politici (guerra fredda portami via) legati all'esplorazione spaziale che fanno da fondamento a _Hinterland_ e _Stella rossa, orbita d'Inverno_.
+_Il Mercato d'Inverno_, straordinariamente emotivo (forse il racconto preferito), è molto diverso dai ben più politici _Hinterland_ e _Stella rossa, orbita d'Inverno_ dove, oltre alle forti influenze della guerra fredda, abbiamo un focus molto importante sull'esplorazione spaziale.
 
-Ancora, _La razza giusta_ per molti aspetti mi ha ricordato il miglior Tiziano Sclavi in un possibile soggetto per qualche storia di Dylan Dog, proprio perché dotato di un cipiglio molto diverso da racconti più "classicamente cyberpunk" quali _Johnny Mnemonico_ o la storia da cui l'antologia prende il titolo
+Ancora, _La razza giusta_ per molti aspetti mi ha ricordato il miglior Tiziano Sclavi e mi è sembrato un soggetto buono per una storia di Dylan Dog, proprio perché dotato di un cipiglio molto diverso da racconti più "classicamente cyberpunk" quali _Johnny Mnemonico_ o la storia da cui l'antologia prende il titolo.
 
 ## "Faceva caldo, la notte che bruciammo Chrome."
 
@@ -57,14 +57,16 @@ Ancora, _La razza giusta_ per molti aspetti mi ha ricordato il miglior Tiziano S
 
 > l'altro film tratto dal libro è _New Rose Hotel_ che, a dispetto del cast importante (e di un'Asia Argento in intimo) ha avuto poco riscontro sia in termini di critica che a livello di pubblico.
 
-Come si è intuito, Gibson è un autore poliedrico, ispirato e matto.
+Come avrete intuito, Gibson è un autore poliedrico, ispirato e matto.
 
-Per questi motivi, è molto facile venire letteralmente travolti dal suo stile e immersi nella lettura...ma allo stesso modo non è da escludere che alcuni racconti possano lasciare abbastanza indifferenti, con il palato di chi legge unico e insindacabile giudice
+Per questi motivi, è molto facile venire letteralmente travolti dal suo stile e immersi nella lettura. 
 
-Di mio, posso dire che di palati Gibson ne sa raggiungere molti e sopratutto estremamente diversi (a differenza di quanto spesso accade con la fantascienza più convenzionale) e che chiunque dovrebbe concedersi l'onore di addentrarsi nei suoi mondi distopici
+Allo stesso modo non è da escludere che alcuni racconti possano lasciare abbastanza indifferenti, con il palato di chi legge unico e insindacabile giudice.
 
-E con questo, inforcando i celeberrimi occhiali a specchio (simbolo universale del cyberpunk) chiudiamo il file.
+Di mio però, posso dire che di palati Gibson ne sa raggiungere molti e sopratutto estremamente diversi (a differenza di quanto spesso accade con la fantascienza più convenzionale) quindi chiunque dovrebbe concedersi l'onore di addentrarsi nei suoi mondi distopici.
 
-Alla prossima, netrunners !
+E con questo, inforco i celeberrimi occhiali a specchio e chiudo il file.
+
+Alla prossima, _netrunners_!
 
 ![JC Denton - Deus Ex](https://2.bp.blogspot.com/-o-mvBlqyHaw/UviU0wJWJgI/AAAAAAAAG20/WC6TKP6R4CM/s1600/Jc+Denton.jpg)
