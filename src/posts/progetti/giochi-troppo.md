@@ -9,11 +9,13 @@ lang: it-IT
 date: 2021-10-10
 ---
 
-## Stato del progetto: work in progress (80%)
+## Stato del progetto: work in progress (90%)
 
-Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021 e lo considero un parto dovuto al processo di autoanalisi in cui mi sono ritrovato dopo i lockdown dovuti alla pandemia COVID-19 e una forma di "risarcimento" per tutte quelle ore che ho speso appresso ai videogame.
+Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 
-Anche se tento di usare un tono leggero e il più possibile "giocoso", dietro c'è una bella bibliografia piena di studi molto seri e interessanti che consiglio a tutti quelli che volessero approfondire in modo più accademico l'argomento.
+Lo considero un parto dovuto al processo di autoanalisi in cui mi sono ritrovato dopo i lockdown COVID-19, nonché una forma di "risarcimento" per tutte le ore che ho speso appresso ai videogame.
+
+Anche se tento di usare un tono leggero e il più possibile "giocoso", specifico che dietro c'è una bella bibliografia piena di studi molto seri e interessanti che consiglio a tutti quelli che volessero approfondire in modo più accademico l'argomento.
 
 <blockquote class="twitter-tweet"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/GiochiTroppo?src=hash&amp;ref_src=twsrc%5Etfw">#GiochiTroppo</a><br><br>Da qualche tempo sto elaborando un libretto che ha l&#39;ambizione di ragionare su quanto tempo ci costano i videogiochi, e ho scoperto diverse cose interessanti: <br><br>Anzitutto in Italia si fa fatica a vederli trattati in contesti &quot;generalisti&quot;:<br><br>Thread ⬇️</p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1458550157600043021?ref_src=twsrc%5Etfw">November 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
