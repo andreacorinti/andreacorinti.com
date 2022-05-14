@@ -11,7 +11,7 @@ lang: it-IT
 
 Faccio parte di una generazione strana, tocca sempre ribadirlo.
 
-Quando Il Corvo uscì ero a malapena un bimbetto, e quando finalmente lo vidi in VHS (qualche anno più tardi) lo feci in sordina: 
+Quando Il Corvo uscì ero a malapena un bimbetto e, quando finalmente lo vidi in VHS (qualche anno più tardi), lo feci in sordina: 
 
 un po' perché, da buon Bart Simpson quale ero, i film con tanti divieti mi incuriosivano per partito preso (_Intervista col Vampiro, Shining, Trainspotting, Pulp Fiction, Quei Bravi Ragazzi_...tanti dei miei film preferiti li ho praticamente conosciuti ai tempi delle elementari)
 
