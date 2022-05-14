@@ -1,5 +1,5 @@
 ---
-avatar: img/test-avatar.png
+avatar: img/test-avatar.webp
 layout: home.njk
 ---
 
