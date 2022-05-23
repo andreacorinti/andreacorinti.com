@@ -34,7 +34,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "autoprefixer": "^10.4.7",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.1.8",
+    "cssnano": "^5.1.9",
     "dotenv": "^16.0.1",
     "emoji-regex": "^10.1.0",
     "luxon": "^2.4.0",
