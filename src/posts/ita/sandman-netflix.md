@@ -17,7 +17,7 @@ Per dire, nei miei vecchi blog quest'immagine:
 
 saltava sempre fuori in banner e cose così.
 
-![xabacadabra](http://4.bp.blogspot.com/-Iy1vUxXQciI/Vo7uLt8lMFI/AAAAAAAANpY/YnRVYdluou0/s1600-r/provalogo2.jpg)
+![xabacadabra](https://4.bp.blogspot.com/-Iy1vUxXQciI/Vo7uLt8lMFI/AAAAAAAANpY/YnRVYdluou0/s1600-r/provalogo2.jpg)
 
 ## Prime impressioni
 
