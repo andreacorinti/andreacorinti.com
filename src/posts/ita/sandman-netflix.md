@@ -9,7 +9,7 @@ lang: it-IT
 
 Non ho ancora visto la serie e non so se lo farò, ma visto che alcuni amici che conoscono il mio fanatismo mi hanno chiesto opinioni butto qui un paio di parole.
 
-Allora: non sono bravo con le classifiche, ma Sandman è il mio fumetto preferito (se la gioca con Berserk, Slam Dunk, qualche Dylan Dog e storie di Alan Moore), ritengo Neil Gaiman un attore straordinario e sono innamorato di Death come l'ultimo dei vostri amichevoli Thanos di quartiere.
+Allora: non sono bravo con le classifiche, ma Sandman è il mio fumetto preferito (se la gioca con Berserk, Slam Dunk, qualche Dylan Dog e storie di Alan Moore), ritengo Neil Gaiman un autore straordinario e sono innamorato di Death come l'ultimo dei vostri amichevoli Thanos di quartiere.
 
 Per dire, nei miei vecchi blog quest'immagine: 
 
