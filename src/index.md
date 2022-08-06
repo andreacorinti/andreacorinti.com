@@ -9,6 +9,8 @@ Web Editor for Edizioni Edilingua.
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 
+### [Iscriviti al canale telegram!](https://t.me/xabacadabra)
+
 {% include 'social.njk' %}
 
 Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a>, I love <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> for books and <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">TVTIME</a> to keep track of the things I watch.
