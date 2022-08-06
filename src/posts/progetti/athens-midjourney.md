@@ -1,6 +1,6 @@
 ---
 title: "Athens Midjourney"
-subtitle: "Spegni il computer e vai a dormire!"
+subtitle: "Piccolo esperimento fumettistico realizzato in qualche ora con Midjourney"
 permalink: "projects/athens-midjourney/"
 sommario: "Webcomic AIart experiment"
 immagine: /img/athens-midjourney.jpg
