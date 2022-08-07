@@ -5,7 +5,7 @@ permalink: "projects/athens-midjourney/"
 sommario: "Webcomic AIart experiment"
 immagine: /img/athens-midjourney.jpg
 lang: it-IT
-date: 2022-8-7
+date: 2022-08-07
 ---
 
 Piccolo esperimento fumettistico realizzato in qualche ora con Midjourney (di cui mi sono perdutamente innamorato)
