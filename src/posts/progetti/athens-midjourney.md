@@ -22,4 +22,4 @@ Visto che qui siamo tra noi e non ci legge nessuno, posso perdermi un po' in chi
 
 L'idea stessa che un'intelligenza artificiale sia capace di realizzare certe cose mi ha sconvolto, e vorrei tanto poterlo dire al ragazzino che ero vent'anni fa e avrebbe dato un rene per qualcosa di simile.
 
-Se avete commentini e non li volete fare su instagram perché siete timidi o non vi piace, potete fare un salto sul canale Telegram.
+Se avete commentini e non li volete fare su instagram perché siete timidi o non vi piace, [potete fare un salto sul canale Telegram.](https://t.me/xabacadabra/109)
