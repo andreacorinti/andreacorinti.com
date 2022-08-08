@@ -1,6 +1,6 @@
 ---
 title: "The Sandman Episodio 1 - Sleep of the Just"
-subtitle: La paura è tanta
+subtitle: Bella voce, ottimi attori, musica e fotografia così così
 sommario: "Tutto davvero molto fedele al fumetto, Tom Sturridge mi ha sorpreso molto in positivo (non ce lo vedevo molto nel ruolo di Sogno, ma mi sono dovuto ricredere), benissimo anche Boyd Holbrook nel ruolo del mio simpatico parente, il Corinthian. Ma la fotografia..."
 immagine: /img/sandman-cover1.jpg
 date: 2022-08-08
@@ -43,4 +43,4 @@ Potrà sembrare un dettaglio da poco eh, ma per fare un esempio la fotografia de
 Impressione tutto sommato positiva, meglio delle mie tiepide aspettative, se lo vedrò tutto magari lascerò qualche altro appunto da queste parti.
 
 
- 
+[Post nel canale Telegram]() 
