@@ -42,5 +42,4 @@ Potrà sembrare un dettaglio da poco eh, ma per fare un esempio la fotografia de
 
 Impressione tutto sommato positiva, meglio delle mie tiepide aspettative, se lo vedrò tutto magari lascerò qualche altro appunto da queste parti.
 
-
-[Post nel canale Telegram]() 
+[Post nel canale Telegram](https://t.me/xabacadabra/110) 
