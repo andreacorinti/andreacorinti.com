@@ -4,12 +4,12 @@ subtitle: "Spegni il computer e vai a dormire!"
 permalink: "projects/giochi-troppo/"
 sommario: "Un film di 10 ore è un mattone.
 Un videogioco di 10 ore è troppo breve."
-immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Men_at_work_sign_%28green%29.svg/664px-Men_at_work_sign_%28green%29.svg.png
+immagine: /img/giochi-troppo.jpg
 lang: it-IT
-date: 2021-10-10
+date: 2022-08-14
 ---
 
-## Stato del progetto: work in progress (90%)
+# [Link per acquistare il libro](https://www.amazon.it/dp/B0B9LNVLCH?ref_=pe_3052080_397514860)
 
 Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 
