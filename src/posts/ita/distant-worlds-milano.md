@@ -13,8 +13,6 @@ Il fatto è che, come spiegavo un paio di settimane fa, la musica di Nobuo Uemat
 
 ## Dai Midi all'Orchestra
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eRkHEFisMDo" frameborder="0" allowfullscreen></iframe>
-
 > Non ho mai studiato musica. Non ho mai studiato composizione o imparato a suonare uno strumento. Volevo semplicemente realizzare musica per me stesso, così ho cominciato a suonare un po'.
 
 <small>Nobuo Uematsu [(fonte)](https://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
@@ -41,8 +39,6 @@ In particolare il mio fanatismo nei confronti di Uematsu mi ha portato a storcer
 <small>(meno clemente il parere riguardo timing/montaggio dei video, che in più momenti aveva un taglio decisamente amatoriale: che c'azzecca l'assalto al treno di Deling nel bel mezzo del filmato introduttivo di Final Fantasy VIII ?! )</small>
 
 Menzione di merito poi per **la chiusura con _One Winged Angel_** dotata di un'enfasi e partecipazione tali che non ho mai visto nemmeno in molti concerti metal!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tHG2Iv6pq7I" frameborder="0" allowfullscreen></iframe>
 
 A tal proposito, **applausoni per il direttore d'orchestra Arnie Roth** che, oltre a dirigere alla grande l'Orchestra Filarmonica, si è rivelato pure un maestro di cerimonie simpaticissimo.
 
