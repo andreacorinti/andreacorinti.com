@@ -9,7 +9,7 @@ lang: it-IT
 date: 2022-08-14
 ---
 
-# [Link per acquistare il libro](https://www.amazon.it/dp/B0B9LNVLCH?ref_=pe_3052080_397514860)
+# [Link per acquistare il libro](https://www.amazon.it/dp/B0B9LNVLCH)
 
 Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 
