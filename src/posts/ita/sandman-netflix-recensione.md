@@ -85,7 +85,7 @@ In ogni caso, produttivamente parlando, la scelta "pavida" ha senz'altro pagato 
 
 La considero comunque una buona serie e un ottimo punto di partenza per introdurre al meraviglioso fumetto coloro che ancora non lo conoscono, ma anche potenzialmente carino per chi conosce il _Sandman_ fumettistico e vuole rievocare alcune delle sue scene (puristi estremisti esclusi). 
 
-Tuttavia, decisamente non un _must watch_ considerando che sulla medesima piattaforma si è appena concluso quel capolavoro di _Better Call Saul_ (che ha ribadito quanto questo medium consenta di raggiungere lo stato dell'arte) e come il fumetto da cui la serie è tratta sia stato d'impatto per almeno un paio di generazioni.
+Tuttavia, decisamente non un _must watch_ considerando che sulla medesima piattaforma si è appena concluso quel capolavoro di _Better Call Saul_ (che ha ribadito quanto questo medium consenta di raggiungere lo stato dell'arte) e in più, ribadiamo che il fumetto da cui la serie è tratta è stato d'impatto per almeno un paio di generazioni: questo adattamento è carino, ma nulla di così memorabile.
 
 ## A voi è piaciuto? Se avete commenti, passate pure su [telegram!](https://t.me/xabacadabra/122)
 
