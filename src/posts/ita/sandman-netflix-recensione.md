@@ -87,7 +87,7 @@ La considero comunque una buona serie e un ottimo punto di partenza per introdur
 
 Tuttavia, decisamente non un _must watch_ considerando che sulla medesima piattaforma si è appena concluso quel capolavoro di _Better Call Saul_ (che ha ribadito quanto questo medium consenta di raggiungere lo stato dell'arte) e come il fumetto da cui la serie è tratta sia stato d'impatto per almeno un paio di generazioni.
 
-## A voi è piaciuto? Se avete commenti, passate pure su [telegram!]()
+## A voi è piaciuto? Se avete commenti, passate pure su [telegram!](https://t.me/xabacadabra)
 
 
 
