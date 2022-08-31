@@ -7,6 +7,9 @@ immagine: /img/immortality-sam-barlow.jpg
 lang: it-IT
 ---
 
+* [recensione su Steam](https://steamcommunity.com/id/xabaras89/recommended)
+* [discussione su Telegram](https://t.me/c/1541810563/377)
+
 Straordinario e sorprendentemente "nuovo" nella sua essenzialità. 
 
 Coincidenza volle che io abbia appena finito di leggere _Il Monaco_ di Lewis (è un libro bellissimo che porta egregiamente i suoi più di 200 anni, consigliato a tutti i fan del gotico) perciò mi sono ritrovato con un passe-partout privilegiato per entrare in questo nuovo, splendido figlio di Sam Barlow.
