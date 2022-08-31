@@ -8,7 +8,6 @@ lang: it-IT
 ---
 
 * [recensione su Steam](https://steamcommunity.com/id/xabaras89/recommended)
-* [discussione su Telegram](https://t.me/c/1541810563/377)
 
 Straordinario e sorprendentemente "nuovo" nella sua essenzialità. 
 
@@ -37,3 +36,6 @@ Detto ciò, aguzzate bene le orecchie (magistrale uso degli effetti sonori) e st
 
 PS: Questa è l'impressione delle prime ore, ovviamente mi riservo il diritto di aggiornare questa recensione più avanti.
 
+## Discussione
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/127" data-width="100%"></script>

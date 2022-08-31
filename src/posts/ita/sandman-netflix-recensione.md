@@ -89,5 +89,7 @@ Tuttavia, decisamente non un _must watch_ considerando che sulla medesima piatta
 
 ## A voi è piaciuto? Se avete commenti, passate pure su [telegram!](https://t.me/xabacadabra/122)
 
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/122" data-width="100%"></script>
+
 
 
