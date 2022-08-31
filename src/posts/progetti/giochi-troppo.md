@@ -11,6 +11,8 @@ date: 2022-08-14
 
 # [Link per acquistare il libro](https://www.amazon.it/dp/B0B9LNVLCH)
 
+### [Discussione su Telegram](https://t.me/xabacadabra/111)
+
 Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 
 Lo considero un parto dovuto al processo di autoanalisi in cui mi sono ritrovato dopo i lockdown COVID-19, nonché una forma di "risarcimento" per tutte le ore che ho speso appresso ai videogame.
