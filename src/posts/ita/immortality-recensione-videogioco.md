@@ -36,6 +36,16 @@ Detto ciò, aguzzate bene le orecchie (magistrale uso degli effetti sonori) e st
 
 PS: Questa è l'impressione delle prime ore, ovviamente mi riservo il diritto di aggiornare questa recensione più avanti.
 
+## Aggiornamento
+
+Sono arrivato a quello che immagino sia uno dei possibili finali, sono sconvolto e posso dire che è la prima volta che mi sono spaventato in un videogioco (ci era andato vicino giusto Silent Hill 2 in qualche scena, ma qui siamo decisamente oltre) 
+
+Una volta tanto credo che diventerò un completista: ci ho speso 10 ore in un giorno e mezzo e questo già dice tantissimo, mi divertirò un sacco a sviscerarlo. 
+
+Mi sento di ribadire che non è un gioco per tutti i palati, che non capire esattamente quello che si deve fare e come farlo è _parte integrante_ dell'esperienza, quindi se non si entra in quell'ottica difficilmente lo si potrà apprezzare a dovere. 
+
+In ogni modo, un gioco fatto da Dio. O dal Diavolo, a voi la sentenza. 
+
 ## Discussione
 
 <script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/127" data-width="100%"></script>
