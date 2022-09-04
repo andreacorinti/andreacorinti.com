@@ -296,7 +296,7 @@ Uno dei vari dualismi che formano le tematiche fondamentali del gioco è evidenz
 
 Tutto quel monologo (Minsky 5B) per me, ha dello straordinario. 
 
-In generale, vivisezionare, rivedere e avanzare ipotesi su _Immortality_ l'ho trovato appagato quanto farlo su Eyes wide shout di Kubrick (uno dei miei film preferiti in assoluto) e non credo che potrei fare un complimento migliore di questo.
+In generale, vivisezionare, rivedere e avanzare ipotesi su _Immortality_ l'ho trovato appagante quanto farlo su _Eyes wide shut_ di Kubrick (uno dei miei film preferiti in assoluto) e non credo che potrei fare un complimento migliore di questo.
 
 ## Domande
 
