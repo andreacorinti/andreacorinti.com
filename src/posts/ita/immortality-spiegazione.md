@@ -122,7 +122,7 @@ Con ogni probabilità mi è sfuggito qualcosa: alcune scene come detto si ripeto
 
 ## Interpretazione
 
-_Ovviamente sono impressioni personali che potrebbero benissimo aver cannato tutto, quindi prendetele con le pinze. Se avete commenti per aiutarmi ad aggiornarle, venite a parlarne su telegram!_
+_Ovviamente sono impressioni personali che potrebbero benissimo aver cannato tutto, quindi prendetele con le pinze. Se avete commenti per aiutarmi ad aggiornarle, [venite a parlarne su telegram!](https://t.me/xabacadabra/128)_
 
 per tentare di rendere più chiare le cose, sfruttero un approccio che ho sempre amato molto: la cronologia!
 
@@ -359,3 +359,5 @@ _in aggiornamento_
 ## Commenti 
 
 Se avete qualche riflessione da condividere o domande da fare, fate una capatina su telegram e dite la vostra!
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/128" data-width="100%"></script>
