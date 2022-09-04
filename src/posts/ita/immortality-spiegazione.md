@@ -302,7 +302,7 @@ In generale, vivisezionare, rivedere e avanzare ipotesi su _Immortality_ l'ho tr
 
 **Perché Ambrosio non è stato distribuito?**
 
-Sia per Minsky che per 2TA le ragioni per la mancata distribuzione sono ovvie, non è invece molto chiaro quello che abbia impedito ad Ambrosio di uscire nelle sale. 
+Sia per Minsky che per 2ToE le ragioni per la mancata distribuzione sono ovvie, non è invece molto chiaro quello che abbia impedito ad Ambrosio di uscire nelle sale. 
 
 Potrebbe essere dovuto ai contrasti tra Fischer e Durick (Fischer in punto di morte si riconciglierà con The One/Durick regalandogli i negativi di Ambrosio) ma forse la ragione ha a che fare con la prossima domanda...
 
