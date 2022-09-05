@@ -52,6 +52,7 @@ Alcune scene nascoste si ripetono diverse volte, quindi le citerò a parte mette
 * L'altro è tornato a New York...(Minsky 31/7/1970)
 * Dopo aver ucciso l'altro...(Minsky 11B)
 * Minsky...(Minsky 29C)
+* Arthur Fischer stava morendo...(2DT 14C)
 * Quello che è accaduto all'Altro...(2DT 17B)
 * Una parte di essere umana era Amy...(2DT 40A)
 * Ho fatto qualche film...(2DT 63A)
