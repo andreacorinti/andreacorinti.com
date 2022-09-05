@@ -333,15 +333,15 @@ Difficile dirlo: il gioco non è mai esplicito nel definire la natura di questi 
 
 Personalmente come già scritto ci vedo molto dei Doppelgänger di Steiner, e in generale penso che il loro significato sia principalmente psicologico / simbolico.
 
-Dal punto di vista estetico, direi che si sprecano i rimandi filosofici e, forse, l'astio nei confronti di The Other One potrebbe essere in un certo senso platonico...
+Dal punto di vista estetico, direi che si sprecano i rimandi filosofici e, forse, l'astio nei confronti dell'arte nutrito The Other One potrebbe essere visto con un senso platonico:
 
 Com'è noto, il buon Platone non vedeva di buon occhio l'arte, cioé la _mimesi_, ovvero l'imitazione.
 
 ![mimesi](/img/immortality/mimesi.jpg)
 
-In questo senso, **potremmo dire che le entità fanno parte del _mondo delle idee_, oppure che _siano_ Idee antropomorfizzate.** 
+In questo senso, **potremmo dire che le entità fanno parte del _mondo delle idee_, e forse  che _siano_ Idee antropomorfizzate.** 
 
-Il concetto di mimesi è pressapoco così (spero che tutti i filosofi mi perdonino):
+Il concetto di mimesi è pressapoco questo (spero che tutti i filosofi mi perdonino se scrivo castronerie):
 
 * esiste l'idea.
 * esiste la sua concretizzazione in oggetto (per esempio un fiore), che è la prima imitazione.
