@@ -267,11 +267,10 @@ Presa dalla nostalgia, The One decide di risvegliare Marissa per il suo prossimo
 
 Da questo momento in poi, sia Durick che Marissa sono entrambi alterego di The One.
 
-Riguardando la scena della morte di Carl, Amy resuscita The Other One: nonostante il corpo si Other-one sia stato bruciato, a quanto pare anche in questo caso le entità hanno un modo di risorgere: merito della magia del cinema.
+Riguardando la scena della morte di Carl, Amy resuscita The Other One: nonostante il corpo di The Other One sia stato bruciato, a quanto pare anche in questo caso le entità hanno un modo di risorgere: merito della magia del cinema.
 
 ![sono-rinata](/img/immortality/sono-rinata.jpg)
 ![sono-rinata](/img/immortality/sono-rinata2.jpg)
-
 
 The One è felice di rivedere il suo compagno che temeva di aver perso per sempre ed è al tempo stesso intrigata dalla possibilità di "morire" come lui e quindi trasformarsi in qualcos'altro.
 
