@@ -21,14 +21,14 @@
     <link>{{ metadata.url }}</link>
     <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
     <description>{{ metadata.subtitle }}</description>
-    <language>{{ metadata.language }}</language>
+    <language>it-IT</language>
     {%- for post in collections.blogita %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
       <image>{{ post.data.immagine }}</image>
-      <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <description>{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
       <pubDate>{{ post.date }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
