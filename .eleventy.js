@@ -12,6 +12,8 @@ const filters = require('./src/_11ty/filters');
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+  eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
   eleventyConfig.addPlugin(pluginTOC);
 
   eleventyConfig.addWatchTarget("./src/sass/");
