@@ -1,6 +1,6 @@
 ---json
 {
-  "permalink": "feed.js",
+  "permalink": "feed.xml",
   "eleventyExcludeFromCollections": true,
   "metadata": {
     "title": "Andrea Corinti Blog",
@@ -14,29 +14,25 @@
   }
 }
 ---
-{
-  "version": "https://jsonfeed.org/version/1.1",
-  "title": "{{ metadata.title }}",
-  "language": "{{ metadata.language }}",
-  "home_page_url": "{{ metadata.url }}",
-  "feed_url": "{{ permalink | absoluteUrl(metadata.url) }}",
-  "description": "{{ metadata.subtitle }}",
-  "author": {
-    "name": "{{ metadata.author.name }}",
-    "url": "{{ metadata.author.url }}"
-  },
-  "items": [
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.url }}</link>
+    <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
+    <description>{{ metadata.subtitle }}</description>
+    <language>{{ metadata.language }}</language>
     {%- for post in collections.blogita %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
-    {
-      "id": "{{ absolutePostUrl }}",
-      "url": "{{ absolutePostUrl }}",
-      "title": "{{ post.data.title }}",
-      "image": "{{ post.data.immagine }}",
-      "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}""{% endif %},
-      "date_published": "{{ post.date | dateToRfc3339 }}"
-    }
-    {% if not loop.last %},{% endif %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>{{ absolutePostUrl }}</link>
+      <image>{{ post.data.immagine }}</image>
+      <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <pubDate>{{ post.date }}</pubDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
     {%- endfor %}
-  ]
-}
+  </channel>
+</rss>
