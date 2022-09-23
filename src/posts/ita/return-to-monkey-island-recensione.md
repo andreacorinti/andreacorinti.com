@@ -88,3 +88,5 @@ Alla fine, mi sono ritrovato nella situazione di cui ciarlavo con [l'adattamento
 ## Commenti
 
 Al solito, se volete dire quanto un roditore potrebbe rodere il legno o individuare scimmie a tre teste, ci si becca su telegram oppure sulla [recensione steam](https://steamcommunity.com/id/xabaras89/recommended/2060130/)
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/138" data-width="100%"></script>
