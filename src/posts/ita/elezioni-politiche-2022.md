@@ -9,7 +9,7 @@ lang: it-IT
 
 Lo scorso due settembre, in una discussione, su Telegram scrivevo questo: 
 
-## 9/2/2022
+## 2/9/2022
 
 Stiamo all'oggi: dire e condividere che la Meloni è una fascista mascherata a cosa serve?
 
