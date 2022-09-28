@@ -91,3 +91,5 @@ Il guaio è che, se tutte queste virtù indubbiamente aiutano a far conoscere il
 In ogni modo, per riprendere il solito Jenkins (leggete _Cultura convergente_), Andrea Delogu è crossmedialità fatta donna. E come fai a non innamorartene, se sei cresciuto nell'era dell'informazione?
 
 ## Telegram
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/142" data-width="100%"></script>
