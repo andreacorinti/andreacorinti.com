@@ -17,6 +17,8 @@ questo è già un merito, perché non mi vengono in mente molti libri di fantasc
 
 ## Cosa mi è piaciuto
 
+> La speranza è una puttana. Ti fa attendere lasciandoti credere che qualcosa potrebbe migliorare. Ti fa rimanere in pausa, la vita va avanti ma tu rimani lì, a marcire.
+
 Ho trovato la prima parte davvero splendida, anche per l'utilizzo del caro vecchio escamotage dell'intervista, uno dei miei preferiti sin dai tempi di _Intervista col Vampiro_ di Anne Rice. 
 
 Tramite questo amabile espediente Aron, sorta di "paziente 0" (o meglio _coniuge_ della vera paziente 0) intervistato dalla protagonista Sara, permette al lettore di entrare nel mondo di _Contrappasso_ in una manciata di pagine:
@@ -35,6 +37,8 @@ Ava e Michael sono personaggi oscuri ed intriganti, "mostri umani" che non stone
 
 ## Cosa non mi è piaciuto
 
+> D’altronde era sempre stato così, Robert, sospettoso della felicità e sicuro del dolore.
+
 La parte centrale mi ha convinto di meno: 
 
 confesso che il personaggio di Robert, vero e proprio deuteragonista, non mi è stato particolarmente simpatico e che (anche conseguentemente) la love story tra lui e Sara non mi ha mai coinvolto del tutto.
@@ -45,6 +49,8 @@ A proposito di videogiochi, temo che la Delogu non giocherà mai al vecchio [_Xe
 
 ## SPOILER - Il mio finale
 
+> Si comportava così perché le stavano rubando l’esclusività della rabbia. Si sentiva defraudata dell’urgenza di salvare il mondo. Era questa la verità. O una delle verità. Voleva essere l’eroina.
+
 **_Non leggete questo paragrafo se non avete letto il libro_**
 
 Sara prese la sua decisione e, con la morte nel cuore, assecondò Ava. 
@@ -52,6 +58,8 @@ Sara prese la sua decisione e, con la morte nel cuore, assecondò Ava.
 Certo avrebbe continuato ad odiarla, senza rinnegare la propria morale, ma soffocandola. Utopicamente, si disse che un giorno avrebbe sempre potuto finalmente distruggerla. 
 
 Ma, dentro di sé, sapeva che era una bugia.
+
+> Come tutti gli idealisti, Sara, vedi solo quello che ti fa piacere vedere, e, scusa se te lo dico, ma sopravvaluti di molto le persone. Sai, non tutti vogliono essere liberi. O meglio, non tutti hanno il tuo stesso concetto di libertà. Per molti la libertà è poter vivere senza correre rischi e senza prendere decisioni. Vogliono qualcuno che lo faccia al posto loro, garantendo una certa comodità.
 
 ## Su Andrea Delogu
 
@@ -81,3 +89,5 @@ In compenso la Delogu è perfettamente a suo agio nel moderno universo social e 
 Il guaio è che, se tutte queste virtù indubbiamente aiutano a far conoscere il libro, secondo me finiscono per compromettere e sminuirne la recezione sminuendolo in quanto _"lettura da VIP"_, cosa che non sarebbe successa se Andrea fosse una scrittrice (scrittore?) di nicchia, magari straniera, e nota giusto ai circolini delle varie facoltà umanistiche.
 
 In ogni modo, per riprendere il solito Jenkins (leggete _Cultura convergente_), Andrea Delogu è crossmedialità fatta donna. E come fai a non innamorartene, se sei cresciuto nell'era dell'informazione?
+
+## Telegram
