@@ -7,7 +7,7 @@ immagine: /img/contrappasso.jpg
 lang: it-IT
 ---
 
-Partiamo dal libro, perché è giusto sia il soggetto principe di queste righe, ma avviso subito che in calce però ho aggiunto una sezione tutta dedicata all'autrice perché ritengo sia importante per valutare alcuni aspetti (che col libro hanno comunque a che fare).
+Partiamo dal libro, perché è giusto sia il soggetto principale di queste righe, ma avviso subito che in calce ho aggiunto una sezione tutta dedicata all'autrice perché ritengo sia importante per valutare alcuni aspetti (che col libro hanno comunque a che fare).
 
 ## Attualità 
 
