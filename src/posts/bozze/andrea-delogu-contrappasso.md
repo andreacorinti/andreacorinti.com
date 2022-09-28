@@ -15,6 +15,30 @@ _Contrappasso_ è una distopia futuristica radicalmente ancorata sull'oggi, uno 
 
 questo è già un merito, perché non mi vengono in mente molti libri di fantascienza in grado di riportarmi alla memoria [i servizi di Presadiretta sugli allevamenti intensivi](https://www.raiplay.it/video/2021/03/Allevamenti-intensivi-per-le-future-pandemie---PresaDiretta-29032021-93078a4f-eb6b-4c8f-af09-cc450825d68a.html) e al tempo stesso intrattenermi con l'immaginazione di un futuro.
 
+## Cosa mi è piaciuto
+
+Ho trovato la prima parte davvero splendida, anche per l'utilizzo del caro vecchio escamotage dell'intervista, uno dei miei preferiti sin dai tempi di _Intervista col Vampiro_ di Anne Rice. 
+
+Tramite questo amabile espediente Aron, sorta di "paziente 0" (o meglio _coniuge_ della vera paziente 0) che viene intervistato dalla protagonista Sara, permette al lettore di entrare in un attimo nel mondo di Contrappasso:
+
+un mondo dove uccidere un animale (sia esso un maiale, un pesce o una zanzara) porta immediatamente l'esecutore a condividere la sorte. 
+
+Premessa molto semplice che si evolve in un _what if?_ complesso e interessante, dove come spesso accade nel genere l'aspetto più fascinoso è rappresentato non tanto dalla crisi in se, ma da come la società degli esseri umani decide di affrontarla. 
+
+Classismo, politica, comunicazione e manipolazione vengono descritte in modo efficace e sintetico nella sua essenzialità: 
+
+per certi aspetti, mi è sembrato di leggere un manga (ed è un merito, a scanso di equivoci: anche per questo credo sia un romanzo molto "digeribile" anche per chi legge poco).
+
+Il personaggio che più ho apprezzato in assoluto è la spietata Ava Glacé, un'antagonista molto interessante che mostra quanto potere e comunicazione siano indissolubilmente intrecciati.
+
+## Cosa non mi è piaciuto
+
+La parte centrale mi ha convinto di meno: 
+
+confesso che il personaggio di Robert, vero e proprio deuteragonista, non mi ha particolarmente appassionato e che in generale la love story non è mai stata troppo nelle mie corde, o almeno, non quanto il dualismo tra Sara e Aron delle battute iniziali che invece mi ha coinvolto parecchio.
+
+Ovviamente non si parla di difetti, semmai di lunghezze d'onda: probabilmente per le mie corde l'approccio più politico e orwelliano è ciò che suonava meglio, ma non per questo voglio sminuire le vicende di Sara e Robert, che per molti aspetti mi piacerebbe vedere in un'avventura grafica stile _Broken Sword_ <small>(ogni tanto il videogame lo devo tirare sindacalmente fuori, abbiate pazienza!)</small>
+
 ## Andrea Delogu
 
 Sistemato il libro, come anticipavo occorre spendere due parole sull'autrice perché, lo ammetto candidamente, non fosse Andrea Delogu il libro non l'avrei mai conosciuto (e sarebbe stato un peccato).
