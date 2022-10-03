@@ -9,8 +9,6 @@ lang: it-IT
 
 ## Il concerto
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seZ6iBLimTQ" frameborder="0" allowfullscreen></iframe>
-
 L'acustica forse forse non delle migliori, il pubblico poco (ma buono, diciamocelo da soli: di quelli che sanno farsi sentire), una durata complessiva troppo breve e relativa scaletta alquanto discutibile...(va bene il nuovo album, ma troppe, troppe assenze di lusso)
 
 Eppure.
