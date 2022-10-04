@@ -30,3 +30,5 @@ Questo libro è figlio del lockdown del 2020 e più di vent’anni passati tra i
 Tra citazioni e artwork, attraversiamo il mondo videoludico partendo da Monkey Island fino ad approdare alla galassia degli streamers, puntando anche i riflettori sul fenomeno Fortnite e il movimento _“game quitters”_.
 
 Nella seconda parte il libro ospita tre interviste a videogiocatori dai background particolari: una musicista insegnante, un filosofo programmatore e una psicologa: con loro proviamo a fare il punto su cos’è il videogioco oggi, ipotizzando cosa potrebbe diventare domani. 
+
+<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/111" data-width="100%"></script>
