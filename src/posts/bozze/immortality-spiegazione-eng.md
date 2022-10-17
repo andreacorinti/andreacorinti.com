@@ -1,5 +1,5 @@
 ---
-title: "Immortality - possibile spiegazione ed elenco delle scene segrete del gioco"
+title: "Immortality - scene guide and interpretation"
 subtitle: "Proviamo ad avanzare ipotesi sul significato del capolavoro di Sam Barlow."
 date: 2022-09-05
 sommario: Premessa. Ciò che seguirà è assolutamente SPOILER e vi consiglio caldamente di giocare e sperimentare con Immortality per i fatti vostri...
