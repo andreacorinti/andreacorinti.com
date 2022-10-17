@@ -120,3 +120,7 @@ a tal proposito, se avete già un buon PC o una console, valuterei la **retroid 
 Per me e per le mie esigenze, è semplicemente perfetta. Certo il discorso batteria e i problemini di configurazione da linux non favoriscono la digestione, ma personalmente sono più che rodato in questo senso e tutti i lati positivi superano nettamente quelli negativi.
 
 Complimenti a Valve, che per una volta sembra davvero aver fatto centro anche in ambito hardware!
+
+## Commenti Telegram
+
+<script async src="https://telegram.org/js/telegram-widget.js?21" data-telegram-post="xabacadabra/157" data-width="100%"></script>
