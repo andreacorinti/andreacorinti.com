@@ -69,6 +69,8 @@ Di sicuro un ragazzino, una ragazza o comunque qualcuno con mani più piccole po
 
 ## Emudeck 
 
+![emu-deck](https://www.emudeck.com/img/emulators.jpg)
+
 [Qui un videotest con Mario Kart 8 Deluxe utilizzando Yuzu](https://t.me/xabacadabra/156)
 
 Di gran lunga il valore aggiunto del piccolo computer di Valve, [Emudeck](https://www.emudeck.com/) semplifica enormemente il discorso emulazione garantendo un supporto eccezionale per una miriade di sistemi.
