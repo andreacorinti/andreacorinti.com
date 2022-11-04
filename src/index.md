@@ -9,13 +9,13 @@ Web Editor for Edizioni Edilingua.
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 
-### [Iscriviti al canale telegram!](https://t.me/xabacadabra)
-
 {% include 'social.njk' %}
 
-Gaming wise you can find me on <a rel="me" href="https://mastodon.uno/@xabacadabra">MASTODON</a>, <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a>, <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> for books and <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">TVTIME</a> to keep track of the things I watch.
+Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a>, <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> for books and <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">TVTIME</a> to keep track of the things I watch.
 
 I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
+
+Se parli italiano, [iscriviti al canale telegram!](https://t.me/xabacadabra)
 
 ## Ciao!
 
