@@ -1,4 +1,3 @@
-
 ---
 title: "Io sono Giorgia"
 subtitle: "Ho letto il libro di Giorgia Meloni"
