@@ -1,13 +1,13 @@
 ---
 title: "Mastodon è la rivoluzione che serve al social web"
 subtitle: Bilancio dopo una settimana su mastodon.uno
-sommario: "Non serve che riportare quello che sta accadendo con Elon Musk e Twitter, ma penso possa essere utile scrivere qualche righa a proposito della mia prima settimana su Mastodon..."
+sommario: "Non serve riportare quello che sta accadendo con Elon Musk e Twitter, ma penso possa essere utile scrivere qualche righa a proposito della mia prima settimana su Mastodon..."
 immagine: /img/mastodon.jpg
 date: 2022-11-08
 lang: it-IT
 ---
 
-Non serve che riportare quello che sta accadendo con Elon Musk e Twitter, ma penso possa essere utile scrivere qualche righa a proposito della mia prima settimana su Mastodon, quindi prendete questo post come una piccola raccolta di toot più qualche commento per tenerla assieme. 
+Non serve riportare quello che sta accadendo con Elon Musk e Twitter, ma penso possa essere utile scrivere qualche righa a proposito della mia prima settimana su Mastodon, quindi prendete questo post come una piccola raccolta di toot più qualche commento per tenerla assieme. 
 
 ## Nota
 
