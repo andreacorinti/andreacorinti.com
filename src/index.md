@@ -30,7 +30,7 @@ Here is my online [**professional resume**](/resume), a smaller [PDF version](/i
 
 Want to ask something in particular? 
 
-[**Click here**](/contact/) or [send me a tweet](https://twitter.com/XabCorinti) (NO DM).
+[**Click here**](/contact/) or [send me a toot](https://mastodon.uno/@xabacadabra).
 
 ## Xab Internet Bookmarks 
 
