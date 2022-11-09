@@ -11,7 +11,7 @@ Piccolissimo aggiornamento libroso:
 
 Ho letto il libro di Giorgia Meloni.
 
-Politicamente ai miei antipodi, umanamente con molti tratti in comune (l'aspetto "nerd" e una situazione famigliare non proprio idilliaca).
+Politicamente ai miei antipodi, umanamente con molti tratti in comune (l'aspetto "nerd" e una situazione familiare non proprio idilliaca).
 
 Che dire? Da IRC a Palazzo Chigi il passo è breve.
 
