@@ -42,7 +42,7 @@ article {
 
 .tdbc-column-container {
   display: grid;
-  grid-gap: 2em;
+  grid-gap: 3em;
   grid-template-columns: repeat(auto-fit, minmax(25ch, 1fr));
 }
 
