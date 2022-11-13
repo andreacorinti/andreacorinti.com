@@ -47,5 +47,9 @@ in questo caso, le cose piano piano sono cambiate di pari passo con la crescita 
 
 Chissà, magari anche lo sport nel futuro potrebbe aspirare a trasformazioni analoghe.
 
+## Commenti
 
+Puoi commentare questo post su mastodon:
+
+<iframe src="https://mastodon.uno/@xabacadabra/109336431087946049/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.uno/embed.js" async="async"></script>
 
