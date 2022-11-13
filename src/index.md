@@ -15,8 +15,6 @@ Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/
 
 I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
 
-Se parli italiano, [iscriviti al canale telegram!](https://t.me/xabacadabra)
-
 ## Ciao!
 
 ```js
