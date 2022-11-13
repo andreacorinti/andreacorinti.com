@@ -7,7 +7,7 @@ date: 2022-11-13
 lang: it-IT
 ---
 
-[_post también disponible en español_]() 
+[_post también disponible en español_](https://www.andreacorinti.com/posts/esp/mundial-qatar/) 
 
 Volo pindarico: ma quanto sarebbe bello se le logiche open e pulite che vediamo su Mastodon e in ambito tecnologico toccassero anche altre realtà come lo sport?
 
