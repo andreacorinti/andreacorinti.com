@@ -7,6 +7,8 @@ date: 2022-11-13
 lang: it-IT
 ---
 
+[_post también disponible en español_]() 
+
 Volo pindarico: ma quanto sarebbe bello se le logiche open e pulite che vediamo su Mastodon e in ambito tecnologico toccassero anche altre realtà come lo sport?
 
 Utopie eh, ma ci sto genovesamente _mugugnando_ sopra da qualche giorno.
@@ -52,4 +54,3 @@ Chissà, magari anche lo sport nel futuro potrebbe aspirare a trasformazioni ana
 Puoi commentare questo post su mastodon:
 
 <iframe src="https://mastodon.uno/@xabacadabra/109336431087946049/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.uno/embed.js" async="async"></script>
-
