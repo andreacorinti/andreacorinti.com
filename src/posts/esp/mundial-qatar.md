@@ -50,7 +50,3 @@ Pero esto es algo que podríamos relacionar con el entretenimiento y la comunica
 en este caso, las cosas fueron cambiando poco a poco a medida que crecía la conciencia de las "masas", las mismas que en cierto modo en el internet de las burbujas quizás ya no existen.
 
 Quién sabe, quizás el deporte en el futuro también pueda aspirar a transformaciones similares.
-
-## Comentarios
-
-Puedes comentar este post en Mastodon (y ayúdame con mi castellano y los errores que seguro he cometido!)
