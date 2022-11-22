@@ -2,7 +2,7 @@
 title: "Sandman Netflix - chissà se lo guarderò"
 subtitle: La paura è tanta
 sommario: "Non ho ancora visto la serie e non so se lo farò, ma visto che alcuni amici che conoscono il mio fanatismo mi hanno chiesto opinioni butto qui un paio di parole."
-immagine: https://wegotthiscovered.com/wp-content/uploads/2021/09/FAJaYOjUcA0T2dR.jpg
+immagine: /img/sandman-cover1.jpg
 date: 2022-08-05
 lang: it-IT
 ---
