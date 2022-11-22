@@ -63,7 +63,7 @@ Per me non è un grosso problema visto che sono abituato a giocare con laptop da
 
 Ero molto diffidente a questo proposito, ma mi sono dovuto ricredere: certo è un padellone gigante del tutto diverso dalla comoda Switch, eppure giocandoci la trovo molto più leggera e meno ingombrante di quel che potrebbe sembrare (l'ingombro in compenso lo senti tutto quando la provi a mettere in uno zaino).
 
-Visto che _le dimensioni contano_, devo dire che quanto si perde in comodità da trasporto lo si guadagna in comodità da controlli: io sono un gigante con delle manoni non indifferenti e mi trovo spesso malissimo con joypad/console portatili (specie per i trigger dorsali), con la Deck invece ho trovato qualcosa perfettamente su misura per la mia stazza.
+Visto che _le dimensioni contano_, devo dire che quanto si perde in comodità da trasporto lo si guadagna in comodità da controlli: io sono un gigante con delle manone non indifferenti e mi trovo spesso malissimo con joypad/console portatili (specie per i trigger dorsali), con la Deck invece ho trovato qualcosa perfettamente su misura per la mia stazza.
 
 Di sicuro un ragazzino, una ragazza o comunque qualcuno con mani più piccole potrebbe trovarsi male (ora sapete come mi sento io con la Switch, ha!)
 
