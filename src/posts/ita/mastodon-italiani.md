@@ -3,7 +3,7 @@ title: "Quanti italiani ci sono su Mastodon?"
 subtitle: Commento al sondaggio
 sommario: "Prima di tutto vorrei ringraziare moltissimo **le più di 2000 persone** che hanno partecipato al mio sondaggio..."
 immagine: /img/mastodon-it.jpg
-date: 2022-11-22
+date: 2022-11-23
 lang: it-IT
 ---
 
