@@ -26,6 +26,8 @@ non succederà nulla nell'immediato, perché la migrazione ovviamente parte dal 
 
 Con il sistema di Mastodon, **i tuoi follower verrano con te ma NON i tuoi following, ovvero tutta la gente che stai seguendo**: siccome seguire tutti da capo è un procedimento tedioso, per fortuna è possibile esportare questa e altre liste:
 
+![esportazione-mastodon](/img/mastodon/export.jpg)
+
 per poi importarle di nuovo dal profilo dove stai migrando:
 
 la stessa cosa vale per segnalibri, utenti silenziati e blocchi.
