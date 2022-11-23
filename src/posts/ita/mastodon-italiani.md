@@ -59,6 +59,6 @@ non è certo colpa loro se la soglia d'attenzione si è vertiginosamente abbassa
 
 ## Euro Mastodon
 
-[Come già ho avuto modo di scrivere](https://mastodon.uno/@xabacadabra/109302618031710218), **Mastodon è il primo social europeo** ed è OpenSource, privo di algoritmi dalla dubbia natura e interessi commerciali: una sua diffusione potrebbe aiutare molto a tutti livelli, e [l'UE come istituzione se ne è accorta](https://mastodon.uno/@EDPS@social.network.europa.eu).
+[Come già ho avuto modo di scrivere](https://mastodon.uno/@xabacadabra/109302618031710218), **Mastodon è il primo social europeo** ed è OpenSource, privo di algoritmi dalla dubbia natura e interessi commerciali: una sua diffusione potrebbe aiutare molto a tutti livelli, e [l'UE come istituzione se ne è accorta](https://social.network.europa.eu/@EDPS).
 
 Si spera questo valga anche per i singoli paesi e, soprattutto, che il Fediverso trovi il modo di coinvolgere anche l'utenza più giovane.
