@@ -28,7 +28,7 @@ Here is my online [**professional resume**](/resume), a smaller [PDF version](/i
 
 Want to ask something in particular? 
 
-[**Click here**](/contact/) or [send me a post on mastodon](https://mastodon.uno/@xabacadabra).
+[**Click here**](/contact/) or [send me a post on mastodon](https://livellosegreto.it/@xabacadabra).
 
 ## Xab Internet Bookmarks 
 
