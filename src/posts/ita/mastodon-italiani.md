@@ -43,7 +43,7 @@ interessantemente, le percentuali coincidono e anzi, abbiamo un vantaggio ancora
 
 Avere una percentuale tanto ampia di un'utenza matura è bello e garantisce un dibattito per forza di cose più maturo e profondo di quello che si può trovare altrove, però credo sia un dato abbastanza preoccupante e che dovrebbe portare ad un'ampia riflessione all'interno del Fediverso: 
 
-dopotutto, **sono i giovani che fanno le rivoluzioni**, ed è un po' triste che una generazione tanto impegnata e meritevole come quella del _Fridays for feature_ sia la stessa che orbita praticamente solo nelle lande di Meta o TikTok.
+dopotutto, **sono i giovani che fanno le rivoluzioni**, ed è un po' triste che una generazione tanto impegnata e meritevole come quella del _Fridays for future_ sia la stessa che orbita praticamente solo nelle lande di Meta o TikTok.
 
 A proposito di TikTok, consiglio la visione di questo video molto interessante:
 
