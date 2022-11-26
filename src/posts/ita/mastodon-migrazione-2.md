@@ -145,3 +145,7 @@ Però, conseguentemente, è una bolla fin troppo carica di gas.
 Fermo restanto che **le porte di _Federazione_ sono sempre aperte anche nella mia nuova istanza**, quando passi più tempo a silenziare persone e hashtag che a leggere e commentare post mi pare evidente che il problema non è l'istanza, ma semmai sei tu che ti trovi nel posto sbagliato.
 
 E poi io sono sempre stato tendenzialmente contrario a blocchi ecc. (almeno, per quanto possibile)
+
+## Commenti 
+
+<iframe src="https://livellosegreto.it/@xabacadabra/109410434813164878/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
