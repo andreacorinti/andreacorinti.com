@@ -10,7 +10,7 @@ lang: it-IT
 
 Sono appena migrato dall'istanza mastodon.uno a livellosegreto.it!
 
-Dei dettagli e perché / per come del caso ne parlerò in un altro post (edit: [**questo**](/posts/ita/mastodon-migrazione)), qui mi andava di fare una mini guida riguardo quello che il procedimento comporta, ovvero cosa succede e cosa aspettarsi visto che, [pur consultando l'ottima documentazione ufficiale](https://docs.joinmastodon.org/user/moving/), la faccenda può sembrare un più nebulosa di quello che è in realtà.
+Dei dettagli e perché / per come del caso ne parlerò in un altro post (edit: [**questo**](/posts/ita/mastodon-migrazione-2)), qui mi andava di fare una mini guida riguardo quello che il procedimento comporta, ovvero cosa succede e cosa aspettarsi visto che, [pur consultando l'ottima documentazione ufficiale](https://docs.joinmastodon.org/user/moving/), la faccenda può sembrare un più nebulosa di quello che è in realtà.
 
 ### Primo passo: iscriviti nella nuova istanza
 
