@@ -1,20 +1,31 @@
 ---
 layout: archivio
 lang: it-IT
+pagination: 
+    data: collections.blogita
+    size: 8
+    alias: postita
+permalink: "/italian-{{ pagination.pageNumber }}/"
 ---
+
 <main class="tdbc-container">
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
-      {%- for page in collections.blogita -%}
+      {%- for post in postita -%}
       <li class="tdbc-card">
         <div class="tdbc-card__content">
-          <a href="{{ page.url }}" class="tdbc-card__title">{{ page.data.title }}</a>
-          <img :first-child src="{{ page.data.immagine}}" alt="{{ page.data.title }}"></img>
-          <time>{{ page.data.date | dateDisplay }}</time>
-          <p>{{ page.data.sommario }}</p>
+          <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
+          <img :first-child src="{{ post.data.immagine}}" alt="{{ post.data.title }}"></img>
+          <time>{{ post.data.date | dateDisplay }}</time>
+          <p>{{ post.data.sommario }}</p>
         </div>
       </li>
       {%- endfor -%}
     </ul>
   </div>
+  <div id="avanti-indietro">
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Precedente</a>{% endif %}| 
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Successiva</a>{% endif %}
+   </div>
 </main>
+

@@ -1,19 +1,30 @@
 ---
 layout: archivio
+pagination: 
+    data: collections.blogeng
+    size: 8
+    alias: posteng
+permalink: "/english-{{ pagination.pageNumber }}/"
 ---
+
 <main class="tdbc-container">
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
-      {%- for page in collections.blogeng -%}
+      {%- for post in posteng -%}
       <li class="tdbc-card">
         <div class="tdbc-card__content">
-          <a href="{{ page.url }}" class="tdbc-card__title">{{ page.data.title }}</a>
-          <img :first-child src="{{ page.data.immagine}}" alt="{{ page.data.title }}"></img>
-          <time>{{ page.data.date | dateDisplay }}</time>
-          <p>{{ page.data.sommario }}</p>
+          <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
+          <img :first-child src="{{ post.data.immagine}}" alt="{{ post.data.title }}"></img>
+          <time>{{ post.data.date | dateDisplay }}</time>
+          <p>{{ post.data.sommario }}</p>
         </div>
       </li>
       {%- endfor -%}
     </ul>
   </div>
+  <div id="avanti-indietro">
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% endif %} | 
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% endif %}
+   </div>
 </main>
+
