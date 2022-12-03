@@ -28,11 +28,11 @@ Here is my online [**professional resume**](/resume), a smaller [PDF version](/i
 
 Want to ask something in particular? 
 
-[**Click here**](/contact/) or [send me a post on mastodon](https://livellosegreto.it/@xabacadabra).
+[**Contact me here**](/contact/) or [send me a post on mastodon](https://livellosegreto.it/@xabacadabra).
 
 ## Xab Internet Bookmarks 
 
-Some of my favorite sites in the web are [here](/bookmarks/).
+Here you can find some of my favorite sites in the web: [Xab's Bookmarks](/bookmarks/).
 
 ## License & Tech
 
