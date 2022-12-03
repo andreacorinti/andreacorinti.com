@@ -23,8 +23,8 @@ permalink: "/english-{{ pagination.pageNumber }}/"
     </ul>
   </div>
   <div id="avanti-indietro">
-    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% endif %} | 
-    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% endif %}
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">PREVIOUS</a>{% endif %} | 
+    {% if pagination.href.next %}<a href="{{ pagination.href.next }}">NEXT</a>{% endif %}
    </div>
 </main>
 
