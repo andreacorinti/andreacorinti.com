@@ -78,3 +78,7 @@ Mi dispiace se la mia ultima risposta non è stata completa. Come ho detto in pr
 **Capisco, grazie. Direi che possiamo chiudere qui, è stata una chiaccherata molto interessante, complimenti! Per essere un linguaggio addestrato, comunichi meglio di tanti esseri umani. A presto!**
 
 Grazie per i tuoi complimenti! Sono felice di aver potuto aiutarti e di aver contribuito a una conversazione interessante. Se hai altre domande o vorresti continuare a discutere di questi argomenti in futuro, non esitare a contattarmi di nuovo. Sarò sempre qui per aiutarti e fornirti informazioni accurate e complete. A presto!
+
+## Commenti 
+
+<iframe src="https://livellosegreto.it/@xabacadabra/109457886916779808/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
