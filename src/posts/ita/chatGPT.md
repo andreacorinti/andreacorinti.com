@@ -61,7 +61,7 @@ Per quanto riguarda la questione degli algoritmi e del target marketing gestiti 
 
 **Le famose leggi di cui parli possono essere aggirate in vari modi, oppure semplicemente non esistono in modo adeguato per fronteggiare eventuali problemi: per esempio, in materia fiscale, in Europa alle grandi aziende tecnologiche basta pagare le tasse in un singolo paese UE a loro conveniente (come l'Irlanda) per poi operare in tutto il continente.** 
 
-**Stando al tema, se oltre a queste aziende uno stato ricco e potente ma dai valori etici estremamente lontani da quelli "occidentali" (penso banalmente all'Arabia Saudita) decidesse di utilizzare le IA per scopi malevoli, non vedo come sarebbe possibile impedire o controllare le sue azioni senza un'eventuale intervento militare**
+**Stando al tema, se oltre a queste aziende uno stato ricco e potente ma dai valori etici estremamente lontani da quelli "occidentali" (penso banalmente all'Arabia Saudita) decidesse di utilizzare le IA per scopi malevoli, non vedo come sarebbe possibile impedire o controllare le sue azioni senza un eventuale intervento militare**
 
 Capisco il tuo punto di vista e condivido la preoccupazione per la protezione dei dati personali dei cittadini in un mondo in cui l'utilizzo dell'intelligenza artificiale sta crescendo rapidamente. Tuttavia, ci sono ancora alcune cose che possono essere fatte per proteggere i dati personali dei cittadini e per assicurarsi che l'intelligenza artificiale venga utilizzata in modo responsabile e etico.
 
