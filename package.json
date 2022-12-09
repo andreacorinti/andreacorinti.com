@@ -45,7 +45,7 @@
     "postcss": "^8.4.19",
     "postcss-cli": "^10.1.0",
     "postcss-scss": "^4.0.6",
-    "sass": "^1.56.1",
+    "sass": "^1.56.2",
     "stylelint": "^14.15.0",
     "stylelint-config-prettier": "^9.0.4",
     "stylelint-config-standard": "^29.0.0",
