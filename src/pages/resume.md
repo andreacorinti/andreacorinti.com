@@ -17,7 +17,7 @@ immagine: ../img/avatar2.jpg
   </tr>
   <tr>
     <td>🏠 Address (Greek)</td>
-    <td>Andromachis 220<br>Kallithea<br>(Attica)<br>17673</td>
+    <td>Kikladon 11A<br>Athens<br>(Attica)<br>11361</td>
   </tr>
   <tr>
     <td>✉ Mail<br></td>
