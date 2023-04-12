@@ -51,7 +51,7 @@ Detta così potrebbe sembrare una fregatura, ma si ritorna al discorso che facev
 
 Non sappiamo ancora come si comporterà la macchina di Valve con i titoli di prossima generazione, ed è lecito aspettarsi inevitabili problemi per i videogiochi più _ciccioni_ in programma ma, al tempo stesso, come è accaduto con la Switch penso che molti sviluppatori debbano tenere altamente in considerazione il fattore scalabilità:
 
-l'hardware è importante, ma come _Zelda: Breath of Wild_ ci insegna un gioco lascia il segno per la sua resa d'insieme e per come è capace di sfruttarlo tenendo in considerazione quei limiti che, [come diceva il maestro Nobuo Uematsu](posts/ita/nobuo-uematsu-e-la-bellezza-dei-limiti/), rappresentano un incentivo naturale per la creatività.
+l'hardware è importante, ma come _Zelda: Breath of Wild_ ci insegna un gioco lascia il segno per la sua resa d'insieme e per come è capace di sfruttarlo tenendo in considerazione quei limiti che, [come diceva il maestro Nobuo Uematsu](/posts/ita/nobuo-uematsu-e-la-bellezza-dei-limiti/), rappresentano un incentivo naturale per la creatività.
 
 ## Considerazioni
 
