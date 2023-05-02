@@ -21,7 +21,7 @@ o, con tempi di spedizione più lunghi ma un prezzo più contenuto, direttamente
 
 la dock di JSAUX non è dotata di un alimentatore extra o di un cavo HDMI, ma per il resto funziona perfettamente: plug & play senza configurazioni particolari (se vi interessa, su telegram ho postato [un piccolo video brutto che la mostra all'opera](https://t.me/c/1541810563/684))
 
-Come potete vedere nel video, tra le altre cose la Dock per me **è stata l'occasione di riciclare l'ottimo controller Stadia** dopo che Goolge ha deciso di piallare il servizio (e rimborsarmi tutto, quindi nei fatti è stato il mio miglior affare videoludico di sempre :D).
+Come potete vedere nel video, tra le altre cose la Dock per me **è stata l'occasione per riciclare l'ottimo controller Stadia** dopo che Goolge ha deciso di piallare il servizio (e rimborsarmi tutto, quindi nei fatti è stato il mio miglior affare videoludico di sempre :D).
 
 ## La Steam Deck come console casalinga
 
