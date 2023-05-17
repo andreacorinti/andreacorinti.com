@@ -3,6 +3,7 @@ title: "Cronaca di Rabirio da Genova - Giocata 1"
 subtitle: "Esperimento Solo RPG con ChatGPT"
 sommario: "Siccome avevo voglia di testare ChatGPT (di cui hanno parlato un po' tutti, e avevo già sperimentato la scorsa estate) e in generale le IA applicate al gioco di ruolo, mi è venuto lo sghiribizzo di rispolverare il mio caro vecchio mondo di tenebra..."
 immagine: /img/rabirio/isabella.png
+date: 2023-05-17
 lang: it-IT
 ---
 
