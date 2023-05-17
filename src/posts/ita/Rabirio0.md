@@ -19,7 +19,7 @@ La storia di Rabirio da Genova inizia nel 1215 (suo anno di nascita) nella Repub
 
 Nel 1242, mentre si trova a Costantinopoli per affari, decide di alloggiare in una taverna locale. Durante la serata, una bellissima donna cattura la sua attenzione e trascorre la notte in sua compagnia.
 
-Tuttavia, al suo risveglio, si rende conto che qualcosa è profondamente cambiato: si risveglia in una soffitta isconosciuta provando un'intensa sete che non riesci a spiegarsi. Confuso e spaventato, scopre di essere stato trasformato in un vampiro, più precisamente ad un vampiro del clan Tzimisce, con le discipline Vicissitudine, Auspex e Animalismo.
+Tuttavia, al suo risveglio, si rende conto che qualcosa è profondamente cambiato: si risveglia in una soffitta sconosciuta provando un'intensa sete che non riesce a spiegarsi. Confuso e spaventato, scopre di essere stato trasformato in un vampiro, più precisamente un vampiro del clan Tzimisce, con le discipline Vicissitudine, Auspex e Animalismo.
 
 _qui inizia la parte generata_
 
@@ -29,13 +29,13 @@ Mentre Rabirio si immerge nella vita notturna di Costantinopoli, scopre le intri
 
 ## Obbiettivi
 
-il fulcro iniziale dell'avventura di Rabirio è, ovviamente, scoprire chi è il suo Sire, perché ha deciso di abbracciarlo per poi abbandonarlo alle cure di Ludovico (arancia meccanica portami via).
+il fulcro iniziale dell'avventura di Rabirio è, ovviamente, scoprire chi è il suo Sire, perché ha deciso di abbracciarlo per poi abbandonarlo alle cure di Ludovico (arancia meccanica portami via) eccetera eccetera.
 
-Nella sua esplorazione di Costantinopoli e nelle sue ricerche, Rabirio finisce per interessarsi dei giochi di potere dei vari clan: stringe amicizia con il potente Tzimisce Radu Bistrița, che gli dona il misterioso Negrix Codex (un'antica pergamena segreta del clan), incontra un carovaniere genovese di nome Marco che renderà suo ghoul, l'eremita Gabriele sul Monte Athos, il Lasombra Lucius e la veggente Malkavian Isabella, che consulta per scoprire notizie più approfondite sul suo sire.
+Nella sua esplorazione di Costantinopoli e nelle sue ricerche, Rabirio finisce per interessarsi dei giochi di potere dei vari clan: stringe amicizia con il potente Tzimisce Radu Bistrița, che gli dona il misterioso Negrix Codex (un'antica pergamena segreta del clan), incontra un carovaniere genovese di nome Marco che in seguito renderà suo ghoul, diventa amico dell'eremita Gabriele sul Monte Athos, stringe un'alleanza con il Lasombra Lucius e la veggente Malkavian Isabella, che consulta per scoprire notizie più approfondite sul suo sire.
 
 ## Situazione
 
-Durante i suoi primi mesi, Rabirio riesce ad organizzare con l'aiuto di Radu e Ludovico una sorta di "concilio" Tzimisce, provando al tempo stesso a stringere un'alleanza con i Lasombra locali in modo da spodestare i Ventrue presenti a Costantinopoli e che probabilmente manovrano l'Imperatore Baldovino II.
+Durante i suoi primi mesi, Rabirio riesce ad organizzare con l'aiuto di Radu e Ludovico una sorta di "concilio" Tzimisce, provando al tempo stesso a stringere un'alleanza con i Lasombra locali in modo da spodestare i Ventrue presenti a Costantinopoli che probabilmente manovrano l'Imperatore Baldovino II.
 
 Dopo aver consultato la malkavian Isabella, scopre che il suo Sire è probabilmente legato al suo passato a Genova, e forse ha messo gli occhi su di lui l'anno prima durante la Battaglia dell'Isola del Giglio a cui ha preso parte agli ordini del capitano Giacobo Malocello. 
 
