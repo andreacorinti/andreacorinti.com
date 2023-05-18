@@ -92,3 +92,5 @@ Parla per enigmi, ma la follia tipica del suo clan non sembra essere troppo mani
 Per ora, mi sto trovando davvero bene!
 
 Ovviamente ci sono diversi limiti, ma conoscendo l'ambientazione a dovere e avendo fatto io stesso il master per un po' riesco a compensarli...siccome l'IA offre diversi spunti (spesso sorprendenti) ma talvolta tende ad esitare nel prendere vere e proprie "decisioni", mi riservo il diritto di utilizzare qualche forma di oracolo per il futuro, tanto per "arrivare al dunque" in certe occasioni.
+
+[_Capitolo successivo_](/posts/ita/Rabirio1)
