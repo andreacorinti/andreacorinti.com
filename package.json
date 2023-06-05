@@ -35,7 +35,7 @@
     "autoprefixer": "^10.4.14",
     "cross-env": "^7.0.3",
     "cssnano": "^6.0.1",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.1.4",
     "emoji-regex": "^10.2.1",
     "luxon": "^3.3.0",
     "markdown-it": "^13.0.1",
