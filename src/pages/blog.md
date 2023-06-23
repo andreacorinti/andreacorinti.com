@@ -10,6 +10,6 @@ layout: contact
 
   <li><a href="/english-0" class="uk">{% include 'bandiere/uk.njk' %}</a></li>
 
-  <li><a href="/espanol-0" class="uk">{% include 'bandiere/spagna.njk' %}</a></li>
+  <li><a href="/espanol/" class="uk">{% include 'bandiere/spagna.njk' %}</a></li>
 
 </ul>

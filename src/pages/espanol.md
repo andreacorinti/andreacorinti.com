@@ -5,7 +5,7 @@ pagination:
     data: collections.blogspa
     size: 8
     alias: postspa
-permalink: "/espanol-{{ pagination.pageNumber }}/"
+permalink: "/espanol/"
 ---
 <main class="tdbc-container">
   <div class="tdbc-section">
