@@ -36,7 +36,9 @@ qui sotto alcuni casi segnalati da [LaVi](https://livellosegreto.it/@LaVi) che d
 
 _in aggiornamento_
 
-[Stando a Leo dell'istanza puntarella.party](https://puntarella.party/@leodurruti/110594441422359445) pare che questa procedura di "silenziamento coatto" venga applicata da molto tempo da mastodon.uno (2019-2020, quindi ben prima dei vari esodi da Twitter). 
+[Stando a Leo dell'istanza puntarella.party](https://puntarella.party/@leodurruti/110594441422359445) pare che questa procedura di "silenziamento coatto" venga applicata da molto tempo da mastodon.uno (2019-2020, quindi ben prima dei vari esodi da Twitter).
+
+Sempre da puntarella, [whysofurious mi ha riportato questo post dello scorso dicembre](https://puntarella.party/@whysofurious/109529464566824191).
 
 Ora: 
 
