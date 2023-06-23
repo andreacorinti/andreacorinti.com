@@ -76,6 +76,20 @@ Non ho una posizione in merito, e onestamente non sono manco uno che pretende ch
 
 Ciò che posso dire è che la risposta di devol e il vittimismo da _"gli invidiosi dicono che siamo una setta di fascisti brutti e cattivi e ci diffamano"_ per me sono una toppa peggiore del buco, fermo restando che come già detto contestare i toni forti usati da Laura o altri utenti nei loro confronti ci sta tutto, magari rispondendo pacatamente nel merito delle singole accuse ed evitando minacce legali.
 
+## Aggiornamento di @aural 
+
+Laura mi ha scritto questi messaggi: 
+
+- [1](https://livellosegreto.it/@aural/110594383125483472)
+- [2](https://livellosegreto.it/@aural/110594392294170281)
+- [3](https://livellosegreto.it/@aural/110594416821997610)
+
+dove sostanzialmente dà un'altra versione del suo blocco, legata ad uno scontro tra Mastodon.uno e l'istanza bida (il toot incriminato [sarebbe questo](https://livellosegreto.it/@aural/110581546194238317))
+
+L'istanza bida.im è [stata accusata di antisemitismo da parte dell'istanza babka](https://babka.social/@babka/109710237275146935), anche se da quanto mi pare di capire i discorsi presenti su bida.im vertevano più che altro a critiche / sfottò nei confronti dello stato di Israele (legittimamente esecrabili eh, ma una cosa è avere divergenze politiche un'altra accusare di antisemitismo).
+
+Ovviamente se qualcuno dell'amministrazione di Mastodon.uno vuole replicare per chiarire meglio aggiungerò qui sotto la versione che vorranno fornire: come scrivevo a Laura, il problema di prendere provvedimenti senza dare spiegazioni specifiche è proprio quello di dare adito ad eventuali speculazioni dei perché. 
+
 ## Commenti 
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:
