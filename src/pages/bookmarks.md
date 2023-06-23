@@ -34,7 +34,6 @@ subtitle: A directory with some of my favorite websites
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
 | [**Valigia blu**](https://www.valigiablu.it/) | Uno dei pochi siti d'informazione italiana che apprezzo |
-| [**filippodb**](https://noblogo.org/filippodb/) | Il Blog di Filippo Della Bianca, fondatore dell'istanza Mastodon.uno|
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
