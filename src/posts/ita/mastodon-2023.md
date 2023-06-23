@@ -90,6 +90,10 @@ L'istanza bida.im è [stata accusata di antisemitismo da parte dell'istanza babk
 
 Ovviamente se qualcuno dell'amministrazione di Mastodon.uno vuole replicare per chiarire meglio aggiungerò qui sotto la versione che vorranno fornire: come scrivevo a Laura, il problema di prendere provvedimenti senza dare spiegazioni specifiche è proprio quello di dare adito ad eventuali speculazioni dei perché. 
 
+Laura comunque conferma che è certa della motivazione, [comprovata da test e timestamp](https://livellosegreto.it/@aural/110594430768536603).
+
+La faccenda a questo punto si complica perché viene meno tutto il discorso diffamazione, e quindi si arriva ad un silenziamento per _"reato d'opinione"_.
+
 ## Commenti 
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:
