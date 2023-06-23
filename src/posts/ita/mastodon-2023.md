@@ -73,3 +73,4 @@ Ciò che posso dire è che la risposta di devol e il vittimismo da _"gli invidio
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:
 
+<iframe src="https://livellosegreto.it/@xabacadabra/110593957785811202/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
