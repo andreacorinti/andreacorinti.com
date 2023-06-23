@@ -28,6 +28,12 @@ I boost e la diffusione di questo articolo, considerato dall'amministrazione di 
 - [aural](https://livellosegreto.it/@aural) (bloccato)
 - [oblomov](https://livellosegreto.it/@oblomov@sociale.network) (bloccato)
 
+qui sotto alcuni casi segnalati da [LaVi](https://livellosegreto.it/@LaVi) che dovrebbero essere stati sbloccati dopo una sospensione:
+
+- [Snowden](https://sociale.network/@Snowden/110587249174053528)
+- [Sasha](https://sociale.network/@Sasha/110591405693175654)
+- [LasolitaLaura](https://sociale.network/@LasolitaLaura/110586479437799756)
+
 _in aggiornamento_
 
 Ora: 
