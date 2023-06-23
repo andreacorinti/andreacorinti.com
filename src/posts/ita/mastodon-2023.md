@@ -23,6 +23,13 @@ Da quanto ho capito, tutto parte [da questo post di di @aural](https://livellose
 
 I boost e la diffusione di questo articolo, considerato dall'amministrazione di mastodon.uno come diffamatorio, hanno portato al silenziamento di diversi account (se qualcuno può elencarmeli mi fa un piacere) tra cui quello della stessa @aural.
 
+### Elenco account bloccati / silenziati su mastodon.uno
+
+- [aural](https://livellosegreto.it/@aural) (bloccato)
+- [oblomov](https://livellosegreto.it/@oblomov@sociale.network) (bloccato)
+
+_in aggiornamento_
+
 Ora: 
 
 anche se le accuse di brandjacking fossero vere, definire mastodon.uno come _una setta che tiene in balia i poveri utenti_ è con ogni probabilità un commento eccessivo, quindi posso capire che gli admin di mastodon.uno se la siano presa e non li biasimo per questo.
