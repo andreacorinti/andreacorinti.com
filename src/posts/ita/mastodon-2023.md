@@ -36,6 +36,8 @@ qui sotto alcuni casi segnalati da [LaVi](https://livellosegreto.it/@LaVi) che d
 
 _in aggiornamento_
 
+[Stando a Leo dell'istanza puntarella.party](https://puntarella.party/@leodurruti/110594441422359445) pare che questa procedura di "silenziamento coatto" venga applicata da molto tempo da mastodon.uno (2019-2020, quindi ben prima dei vari esodi da Twitter). 
+
 Ora: 
 
 anche se le accuse di brandjacking fossero vere, definire mastodon.uno come _una setta che tiene in balia i poveri utenti_ è con ogni probabilità un commento eccessivo, quindi posso capire che gli admin di mastodon.uno se la siano presa e non li biasimo per questo.
