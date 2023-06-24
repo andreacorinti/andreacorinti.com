@@ -126,7 +126,7 @@ ora: se pensiamo che dietro un nickname e la foto di un gatto che compongono un 
 
 Poi attenzione: è verissimo che Laura per prima ha sbeffeggiato e insultato Filippo e mastodon.uno, e come dicevo credo che sarebbe stato giusto un intervento di moderazione ai suoi attacchi. 
 
-Però ecco, da una parte c'è un piccolo account che ha senz'altro pisciato fuori dal vaso, dall'altro l'admin di mastodon.uno che mette suddetto account alla gogna sul proprio profilo ben più grosso. 
+Però ecco, da una parte c'è un piccolo account che ha senz'altro usato termini forti (a mio avviso da moderare), dall'altro l'admin di mastodon.uno che mette suddetto account alla gogna sul proprio profilo ben più grosso. 
 
 Onestamente? Mi sembra che lungi dal risolvere la questione in modo civile, si stia continuando a buttare benzina del fuoco proprio da parte chi quel fuoco dovrebbe spegnerlo, visto il ruolo che ricopre nel fediverso italiano. 
 
