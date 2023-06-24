@@ -104,6 +104,34 @@ Laura comunque conferma che è certa della motivazione, [comprovata da test e ti
 
 La faccenda a questo punto si complica perché viene meno tutto il discorso diffamazione, e quindi si arriva ad un silenziamento per _"reato d'opinione"_.
 
+## Repliche da Mastodon.uno
+
+Per primo mi ha scritto [Scimmia](https://livellosegreto.it/@Madmonkey@mastodon.uno/110594360828662276) che ha spiegato il legittimo punto di vista della moderazione di mastodon.uno e della stanchezza derivata dal dover rispondere a critiche / insulti reiterati. 
+
+Siccome è effettivamente impossibile trattare il tema in modo generale (dove comunque abbiamo due opinioni diverse, ma credo comprensibili e rispettabili) ho preferito concentrarmi sul discorso di Laura che potete leggere nel paragrafo sopra.
+
+[Qui è intervenuto Filippo](https://livellosegreto.it/@filippodb@mastodon.uno/110596123414037677), che smentisce di aver mai pinnato il post di Babka e si è concentrato sugli insulti che Laura gli ha effettivamente lanciato contro.
+
+Onestamente i toni di Filippo mi hanno lasciato molto perplesso, ma in ogni modo la discussione è virata su LivelloSegreto, istanza dove si trova l'account di Laura (oltre che il mio, come detto): 
+
+a parte modi e toni, penso che Filippo abbia sostanzialmente ragione qui nel segnalare un attacco ingiurioso che non è stato adeguatamente moderato da LS, sebbene mi pare si ritorni sempre all'argomentum ad hominem e quel vittimismo polemico che non mi pare giovare assolutamente al discorso.
+
+Il tutto culmina poi con [questa replica](https://mastodon.uno/@filippodb/110596002895241285) dal profilo di Filippo. 
+
+Sotto ci trovate anche la mia risposta, e l'ulteriore replica dell'admin: 
+
+_questi sono screenshot di un account in cui deliberatamente ci sono insulti, offese, diffamazione; è un gatto, nessun nome e cognome, ho scritto "un utente" che sta infamando la mia reputazione ma non si sa chi sia._ 
+
+ora: se pensiamo che dietro un nickname e la foto di un gatto che compongono un avatar virtuale non ci sia una persona secondo me facciamo un grosso errore (ci sono diversi trattati sul cyberbullismo che studiano l'argomento, ma non vale la pena dilungarsi qui).
+
+Poi attenzione: è verissimo che Laura per prima ha sbeffeggiato e insultato Filippo e mastodon.uno, e come dicevo credo che sarebbe stato giusto un intervento di moderazione ai suoi attacchi. 
+
+Però ecco, da una parte c'è un piccolo account che ha senz'altro pisciato fuori dal vaso, dall'altro l'admin di mastodon.uno che mette suddetto account alla gogna sul proprio profilo ben più grosso. 
+
+Onestamente? Mi sembra che lungi dal risolvere la questione in modo civile, si stia continuando a buttare benzina del fuoco proprio da parte chi quel fuoco dovrebbe spegnerlo, visto il ruolo che ricopre nel fediverso italiano. 
+
+E intendiamoci: credo che sarebbe una pessima reazione anche sui social tradizionali, ma su mastodon mi pare anche peggiore.
+
 ## Commenti 
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:
