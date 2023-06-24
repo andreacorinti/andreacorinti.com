@@ -134,7 +134,7 @@ E intendiamoci: credo che sarebbe una pessima reazione anche sui social tradizio
 
 ## Epilogo (si spera)
 
-Kenobit, in risposta al thread di Filippo, [ha mostrato uno screenshot del reboost della discordia](https://livellosegreto.it/@kenobit/110598191094924547) che di fatto smentisce quanto Filippo stava sostenendo.
+Kenobit, in risposta al thread di Filippo, [ha mostrato uno screenshot del reboost della discordia](https://livellosegreto.it/@kenobit/110598191094924547) che di fatto smentisce quanto Filippo stava sostenendo, come anche altri che di fatto evidenziano il fatto che Filippo abbia mentito (non si capisce bene per quale motivo).
 
 Onestamente, anche dopo la sua risposta finale, per me la questione può dirsi chiusa qui: posso dire che sono molto deluso e che mio malgrado dovrò rivedere definitivamente la mia opinione su mastodon.uno
 
