@@ -132,6 +132,12 @@ Onestamente? Mi sembra che lungi dal risolvere la questione in modo civile, si s
 
 E intendiamoci: credo che sarebbe una pessima reazione anche sui social tradizionali, ma su mastodon mi pare anche peggiore.
 
+## Epilogo (si spera)
+
+Kenobit, in risposta al thread di Filippo, [ha mostrato uno screenshot del reboost della discordia](https://livellosegreto.it/@kenobit/110598191094924547) che di fatto smentisce quanto Filippo stava sostenendo.
+
+Onestamente, anche dopo la sua risposta finale, per me la questione può dirsi chiusa qui: posso dire che sono molto deluso e che mio malgrado dovrò rivedere definitivamente la mia opinione su mastodon.uno
+
 ## Commenti 
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:
