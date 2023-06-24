@@ -27,6 +27,7 @@ I boost e la diffusione di questo articolo, considerato dall'amministrazione di 
 
 - [aural](https://livellosegreto.it/@aural) (bloccato)
 - [oblomov](https://livellosegreto.it/@oblomov@sociale.network) (bloccato)
+- [mau](https://livellosegreto.it/@mau@frenfiverse.net) (silenziato e poi riattivato)
 
 qui sotto alcuni casi segnalati da [LaVi](https://livellosegreto.it/@LaVi) che dovrebbero essere stati sbloccati dopo una sospensione:
 
