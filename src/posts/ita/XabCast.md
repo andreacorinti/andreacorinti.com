@@ -21,3 +21,4 @@ PS: Spotify non mi piace affatto (non lo uso praticamente più), ma visto che co
 
 Se avete commenti o altro, commentate pure il thread di LivelloSegreto qui sotto!
 
+<iframe src="https://livellosegreto.it/@xabacadabra/110646401596633353/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
