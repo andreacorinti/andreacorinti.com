@@ -93,3 +93,5 @@ Ammetto che lo dico anche egoisticamente parlando:
 se a causa di questo post dovessi essere bloccato da M1 per intenti "diffamatori" mi dispiacerebbe molto non poter più interagire con la sua utenza (per massima parte splendida), ma è un rischio che corro volentieri visto che il me stesso di qualche mese fa queste cose avrebbe preferito saperle (poi oh, eventualmente ci si ritroverà in altre lande digitali!). 
 
 Al solito, lascio qui sotto un thread dov'è possibile replicare mantenendo toni civili e senza insultare nessuno (e per insulto, intendo anche eventuali prese in giro a diretta offesa dell'intelligenza di chi scrive.)
+
+<iframe src="https://livellosegreto.it/@xabacadabra/110662830871887169/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
