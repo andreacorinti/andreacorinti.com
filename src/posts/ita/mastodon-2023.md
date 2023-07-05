@@ -140,6 +140,38 @@ Kenobit, in risposta al thread di Filippo, [ha mostrato uno screenshot del reboo
 
 Onestamente, anche dopo la sua risposta finale, per me la questione può dirsi chiusa qui: posso dire che sono molto deluso e che mio malgrado dovrò rivedere definitivamente la mia opinione su mastodon.uno
 
+## Update del 04/07/23
+
+diorama mi ha contattato direttamente, qui il fulcro della nostra conversazione:
+
+TL:DR; why so much criticism of brandjacking by MastodonUno et al.? 
+
+The criticism about predatory strategies and centralising conducts in the fediverse by MastodonUno-and-the-like nodes are mainly discussed here:
+
+1- Software identity guidelines against predatory strategies in the fediverse: a lesson from Italy
+[https://qua.name/diorama/software-identity-predatory-strategies-fediverse](https://qua.name/diorama/software-identity-predatory-strategies-fediverse)
+
+2- Astroturfing the Italophone fediverse with Mastodon Uno
+[https://qua.name/diorama/astroturfing-the-italophone-fediverse](https://qua.name/diorama/astroturfing-the-italophone-fediverse)
+
+Because the admin group called Devol inherits brandjacking by its defacto leader filippodb - who owns Diggita that, on turn, brand-jacks Digg website- we called MastodonUno-and-the-like "Diggitaverse" as a collective term.
+
+In solidarity with whom received legally-worded accusations since they shared the information above, the following post contains some legal hint:
+
+3- Accusations by MastodonUno will not stop freedom of information
+[https://qua.name/diorama/accusations-by-mastodonuno-will-not-stop-freedom-of-information](https://qua.name/diorama/accusations-by-mastodonuno-will-not-stop-freedom-of-information)
+
+The post serves also as recap to whom have just joined the Italophone fediverse.
+
+The "pilatesque" and self-interested behaviour towards Byoblu instance is an open wound. IsolateByoblu (counter-info initiative in the fediverse, now on hiatus, much inspired and supported by isolateGab) highlighted the issue in a letter to MastoHost:
+
+4- A few suggestions for MastoHost
+[https://qua.name/diorama/a-few-suggestions-for-mastohost](https://qua.name/diorama/a-few-suggestions-for-mastohost)
+
+Una spiegazione grafica qui:
+[https://git.lattuga.net/isolateByoblu/isolateByoblu/wiki/%5Ben%5D+FAQ#q-if-you-de-federate-their-instance-why-should-we-de-federate-them-too-arent-you-safe-enough-yet](https://git.lattuga.net/isolateByoblu/isolateByoblu/wiki/%5Ben%5D+FAQ#q-if-you-de-federate-their-instance-why-should-we-de-federate-them-too-arent-you-safe-enough-yet)
+
+
 ## Commenti 
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:

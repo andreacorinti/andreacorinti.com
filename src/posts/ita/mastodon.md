@@ -97,11 +97,8 @@ Meno rumore, meno meme, meno insulti e più parole:
 
 per un'utopia simile si rinuncia ben volentieri al web di massa odierno, costruendo le basi per quello che verrà e che non dev'essere necessariamente fatto di piccoli video, ma anche di gente che scrive e legge.
 
-## Link utili
+E ricordate sempre che potete mandare un toot con #mastoaiuto se vi doveste trovare in difficoltà.
 
-- [Joinmastodon](https://joinmastodon.org/it)
-- [Mastodon.it](https://mastodon.it/)
-- [Policy di Mastodon.uno](https://noblogo.org/mastodon/chi-siamo)
-- [Guida al fediverso](https://noblogo.org/devol/fediverso)
+## Update Luglio 2023
 
-E ricordate sempre che potete mandare un toot con [#mastoaiuto](https://mastodon.uno/web/tags/mastoaiuto) se vi doveste trovare in difficoltà.
+Mastodon continua ad essere fighissimo, ma nel frattempo ho cambiato completamente idea su mastodon.uno e sono migrato su LivelloSegreto: per i dettagli, rimando a [questo post](/posts/ita/mastodon-uno).
