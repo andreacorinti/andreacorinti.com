@@ -171,6 +171,9 @@ The "pilatesque" and self-interested behaviour towards Byoblu instance is an ope
 Una spiegazione grafica qui:
 [https://git.lattuga.net/isolateByoblu/isolateByoblu/wiki/%5Ben%5D+FAQ#q-if-you-de-federate-their-instance-why-should-we-de-federate-them-too-arent-you-safe-enough-yet](https://git.lattuga.net/isolateByoblu/isolateByoblu/wiki/%5Ben%5D+FAQ#q-if-you-de-federate-their-instance-why-should-we-de-federate-them-too-arent-you-safe-enough-yet)
 
+## Sequel
+
+Visto che questo post stava diventava enorme, la questione è proseguita [qui](/posts/ita/mastodon-uno)
 
 ## Commenti 
 
