@@ -8,7 +8,7 @@ lang: it-IT
 date: 2023-07-03
 ---
 
-<iframe src="https://podcasters.spotify.com/pod/show/andrea-corinti-xab/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+[**Link al podcast su Spotify**](https://open.spotify.com/show/6bN7h5hVtofrNEoDSJFYID)
 
 Qualche chiacchera a tema videogiochi (ed eventualmente internet in generale), puntate brevi e un buon sottofondo per fare la nanna.
 
