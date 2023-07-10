@@ -2,7 +2,7 @@
 title: "XabCast! Puntata pilota su Daedalic, Gollum e Classici"
 subtitle: "puntata pilota sperimentale"
 sommario: "Piccolo esperimento nato al volo in un'accaldata domenica di luglio"
-immagine: https://upload.wikimedia.org/wikipedia/commons/0/0f/Podcast-icon.svg
+immagine: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_episode400/38350651/38350651-1688380200040-a4f9cd01061ad.jpg
 date: 2023-07-02
 lang: it-IT
 ---
