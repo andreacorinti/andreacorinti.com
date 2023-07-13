@@ -33,7 +33,7 @@ il link diretto sfortunatamente non funziona, perché da quanto vedo [https://ma
 
 ## In soldoni
 
-La mia ipotesi è la seguente: essendo Nikole bandita da mastodon.uno e coinvolta in tutte le successive risposte al thread, **tutta la conversazione è stata automaticamente oscurata dall'istanza dov'è silenziata**.
+La mia ipotesi è la seguente: essendo Nikole bandita da mastodon.uno e coinvolta in tutte le successive risposte al thread, **tutta la conversazione è stata automaticamente oscurata dall'istanza dove lei è silenziata**.
 
 E questo a prescindere dal fatto che gli altri partecipanti _non risultino silenziati._
 
