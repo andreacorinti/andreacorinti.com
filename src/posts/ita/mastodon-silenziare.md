@@ -73,7 +73,7 @@ Del resto, Mastodon a dispetto del nome è ancora un giovincello quindi credo ch
 
 ## Commenti
 
-al solito, threaddino per sentire la vostra e magari chiarirmi un po' le idee (nel caso, i offro virtualmente una birra!)
+al solito, threaddino per sentire la vostra e magari chiarirmi un po' le idee (nel caso, vi offro virtualmente una birra!)
 
 <iframe src="https://livellosegreto.it/@xabacadabra/110708655843331564/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
 
