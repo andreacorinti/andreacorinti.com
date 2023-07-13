@@ -65,7 +65,7 @@ Non solo: altri magari potrebbero avere accesso alla discussione completa facend
 
 ![paperi](/img/mastodon/paperi-1.jpg)
 
-_forse così è più chiaro: la parte in grigio è invisibile a Pippo e Topolino perché Paperoga è silenziato, di conseguenza le risposte che lo coinvolgono sono invisibili (Paperino lo vede perché usa Fedilab oppure sta in un'altra istanza che ho dimenticato di creare)_
+_forse così è più chiaro: la parte in grigio è invisibile a Pippo e Topolino perché Paperoga è silenziato, di conseguenza le risposte che lo coinvolgono sono invisibili (Paperino lo vede perché usa Fedilab oppure sta in un'altra istanza che ho dimenticato di specificare)_
 
 Da questo punto di vista, i social commerciali sono paradossalmente meno problematici: se sei bannato, sei bannato per tutti e i post vengono oscurati "democraticamente" a prescindere da chi li sta leggendo.
 
