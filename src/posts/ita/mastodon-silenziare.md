@@ -63,6 +63,10 @@ Pensate per esempio ad una conversazione con al centro un tema ben più serio, e
 
 Non solo: altri magari potrebbero avere accesso alla discussione completa facendosi un'idea precisa della piega presa dal topic, altri ancora potrebbero vedere _un'altra fetta_, diversa dalla prima...
 
+![paperi](/img/mastodon/paperi-1.jpg)
+
+_forse così è più chiaro: la parte in grigio è invisibile a Pippo e Paperino perché Paperoga è silenziato, di conseguenza le risposte che lo coinvolgono sono invisibili (Paperino lo vede perché usa Fedilab oppure sta in un'altra istanza che ho dimenticato di creare)_
+
 Da questo punto di vista, i social commerciali sono paradossalmente meno problematici: se sei bannato, sei bannato per tutti e i post vengono oscurati "democraticamente" a prescindere da chi li sta leggendo.
 
 ## Morale
