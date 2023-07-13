@@ -67,7 +67,9 @@ Non solo: altri magari potrebbero avere accesso alla discussione completa facend
 
 _forse così è più chiaro: la parte in grigio è invisibile a Pippo e Topolino perché Paperoga è silenziato, di conseguenza le risposte che lo coinvolgono sono invisibili (Paperino lo vede perché usa Fedilab oppure sta in un'altra istanza che ho dimenticato di specificare)_
 
-Da questo punto di vista, i social commerciali sono paradossalmente meno problematici: se sei bannato, sei bannato per tutti e i post vengono oscurati "democraticamente" a prescindere da chi li sta leggendo.
+_PS: come mi fa giustamente notare Lorenzo forse il tag potrebbe superare il silenziamento in questo caso (bisognerà fare qualche test a riguardo), se è così comunque il problema si porrebbe per altri lettori che alla discussione non hanno partecipato attivamente ma ne sono comunque interessati (stando all'esempio, Paperina)_
+
+In ogni modo, almeno da questo punto di vista, i social commerciali sono paradossalmente meno problematici: se sei bannato, sei bannato per tutti e i post vengono oscurati "democraticamente" a prescindere da chi li sta leggendo.
 
 ## Morale
 
