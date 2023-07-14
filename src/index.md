@@ -15,6 +15,10 @@ Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/
 
 I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
 
+### Feed RSS 
+
+Per gli aggiornamenti sul mio blog in italiano, puoi aggiungere [questo feed](/feed.xml) al tuo lettore RSS preferito!
+
 ## Ciao!
 
 ```js
