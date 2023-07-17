@@ -11,14 +11,6 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._</p>
 
 {% include 'social.njk' %}
 
-Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">STEAM</a>, <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">GOODREADS</a> for books and <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">TVTIME</a> to keep track of the things I watch.
-
-I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
-
-### Feed RSS 
-
-Per gli aggiornamenti sul mio blog in italiano, puoi aggiungere [questo feed](/feed.xml) al tuo lettore RSS preferito!
-
 ## Ciao!
 
 ```js
@@ -30,13 +22,19 @@ console.log("And welcome chez Andrea Corinti's");
 
 Here is my online [**professional resume**](/resume), a smaller [PDF version](/img/Andrea-Corinti-Resume-2022.pdf) is available as well.
 
+I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
+
 Want to ask something in particular? 
 
 [**Contact me here**](/contact/) or [send me a post on mastodon](https://livellosegreto.it/@xabacadabra).
 
-## Xab Internet Bookmarks 
+## You can find me also:
 
-Here you can find some of my favorite sites in the web: [Xab's Bookmarks](/bookmarks/).
+* Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">**STEAM**</a> 
+* For books, I'm on <a href="https://lore.livellosegreto.it/user/xabacadabra" target="blank" rel="me">**LORE**</a> and <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">**GOODREADS**</a>
+* For movies and shows I use <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">**TVTIME**</a> to keep track the things I watch.
+
+Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
 
 ## License & Tech
 
