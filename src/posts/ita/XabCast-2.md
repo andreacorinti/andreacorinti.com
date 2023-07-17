@@ -7,7 +7,7 @@ date: 2023-07-10
 lang: it-IT
 ---
 
-La seconda puntata dello [XabCast](http://localhost:8080/projects/xabcast/) è una riflessione sui portali e la stampa a tema videoludico: quanto ha ancora senso, quanto ce n'è effettivamente bisogno: 
+La seconda puntata dello [XabCast](/projects/xabcast/) è una riflessione sui portali e la stampa a tema videoludico: quanto ha ancora senso, quanto ce n'è effettivamente bisogno: 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/12Ag8gqzstklcDDkDzt3zL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
