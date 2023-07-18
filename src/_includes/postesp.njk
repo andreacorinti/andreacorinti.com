@@ -1,0 +1,50 @@
+---
+layout: base.njk
+---
+
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <meta itemprop="name" content="Andrea Corinti">
+</span>
+
+<span itemprop="publisher" itemscope itemtype="https://schema.org/Person">
+    <!--<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <img src="/images/logo.jpg"/>
+      <meta itemprop="url" content="/images/logo.jpg">
+      <meta itemprop="width" content="600">
+      <meta itemprop="height" content="60">
+    </span> /*logo*/--> 
+    <meta itemprop="name" content="Andrea Corinti">
+</span>
+<span itemprop="headline" content="{{ sommario }}"></span>
+
+
+{% include 'sitenav.njk' %}
+
+<header class="tdbc-hero">
+  <div class="tdbc-container">
+    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
+    <time itemprop="datePublished" class="dt-published" content="{{ date }}">{{ date | dateDisplay }}</time>
+    <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
+    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
+      {{ subtitle }}
+    </h2>
+  </div>
+</header>
+<main class="tdbc-container h-entry">
+  <article class="tdbc-mx-auto e-content p-name">
+    {{ content | safe }}
+  <section>
+    <!--<h3>Utterances</h3>
+    <script src="https://utteranc.es/client.js"
+        repo="andreacorinti/andreacorinti.com"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+    </script>-->
+    </section>
+  </article>
+
+{% include 'share.njk' %}
+
+</main>
