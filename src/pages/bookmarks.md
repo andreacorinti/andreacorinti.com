@@ -24,7 +24,6 @@ subtitle: A directory with some of my favorite websites
 | [**Nanda Okitavera**](https://okitavera.me/)|The great website of Nada, also made with 11ty! |
 | [**The Eye**](https://the-eye.eu/)|Sápere aude!|
 | [**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
-| [**Retroachievements**](https://retroachievements.org/)| Retrogaming trophies paradise. I'm [xabacadabra](https://retroachievements.org/user/xabacadabra) btw!|
 
 <div lang="it-IT" xml:lang="it-IT">
 
