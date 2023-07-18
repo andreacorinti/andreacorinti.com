@@ -2,15 +2,15 @@
 layout: archivio
 lang: es-AR
 pagination: 
-    data: collections.blogspa
+    data: collections.blogesp
     size: 8
-    alias: postspa
-permalink: "/espanol-{{ pagination.pageNumber }}/"
+    alias: postesp
+permalink: "/espanol/"
 ---
 <main class="tdbc-container">
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
-      {%- for post in postspa -%}
+      {%- for post in postesp -%}
       <li class="tdbc-card">
         <div class="tdbc-card__content">
           <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
