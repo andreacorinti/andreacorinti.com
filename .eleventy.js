@@ -7,7 +7,7 @@ const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require('eleventy-plugin-toc');
 const packageVersion = require("./package.json").version;
 const filters = require('./src/_11ty/filters');
-
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -22,6 +22,13 @@ module.exports = function (eleventyConfig) {
   Object.keys(filters).forEach(filterName => {
     eleventyConfig.addFilter(filterName, filters[filterName])
   })
+
+  /* Upgrade Helper */
+
+  module.exports = function(eleventyConfig) {
+    // If you have other `addPlugin` calls, it’s important that UpgradeHelper is added last.
+    eleventyConfig.addPlugin(UpgradeHelper);
+  };
 
   /* Date */
 
