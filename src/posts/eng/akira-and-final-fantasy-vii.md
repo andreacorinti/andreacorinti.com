@@ -19,8 +19,8 @@ Let's say I enjoyed analyzing some aspects of **Akira's artistic style**, relati
 
 **_Final Fantasy VII_**.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira1.jpg)
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-1.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira1.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-1.jpg)
 
 _The great artistic school of elevators._
 
@@ -38,9 +38,9 @@ However, since I'm mentioning **two works that are undoubtedly crucial in their 
 
 ## The Legacy of Hiroshima and Nagasaki
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira4.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira4.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-4.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-4.jpg)
 
 **The trauma of the Atomic Bomb has often been depicted in Japanese entertainment**, partly perhaps with the intention of exorcising it:
 
@@ -60,13 +60,13 @@ Perhaps also because of what I just mentioned, **Japanese sci-fi often had a tas
 
 ## Motorcycles!
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira-moto.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira-moto.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-moto.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-moto.jpg)
 
 If you follow anime-manga or are simply enthusiasts of Japanese pop culture, you are likely familiar with the figures of the _Bōsōzoku_: 
 
-literally, **_the "Tribe of Reckless Speed._"**
+literally, **_the "Tribe of Reckakira and final fantasy viiless Speed._"**
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/23/JapaneseBosozoku.jpg' alt='bosozoku'>
 
@@ -74,15 +74,15 @@ _I know, they look pretty funny!_
 
 In essence, the category of the young **Eikichi Onizuka** (main protagonist of _GTO_ and _Shonan Junai Gumi_), but also, in some ways, "colleagues" of our **Cloud**:
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/gioco-moto-ff7.gif)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/gioco-moto-ff7.gif)
 
-_If you think about it, we could say that this mini-game might be the first "Bōsōzoku Simulators"_
+_If you think about it, we could say that this mini-game might be the first "Bōsōzoku Simulator"_
 
 It's needless to say that **Kaneda and Tetsuo didn't just embrace this trend, they actually contributed to redefining it:**
 
 Just think about the movie's cover, with Kaneda's back facing us as he looks at his wonderful scarlet motorcycle.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira-cover.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira-cover.jpg)
 
 We're not talking "only" about **one of the most emblematic, referenced, and celebrated images in the history of animation and comics:** 
 
@@ -90,9 +90,9 @@ if you think about it, it's **a real manifesto for the entire aforementioned sub
 
 ## Midgar e Neo Tokyo
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/neo-tokyo.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/neo-tokyo.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/midgard.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/midgard.jpg)
 
 Different yet closely related, as **both are representatives of the hidden nightmare behind the dream of Megacities**:
 
@@ -106,24 +106,24 @@ I believe it was inevitable that Otomo's futuristic version of Tokyo would meet 
 
 Epicenters of technology, pollution, a past suffocated by the relentless need for future, but above all, characterized by tremendous **classism**.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira2.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira2.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-2.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-2.jpg)
 _In doubt, let's put a playground somewhere!_
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira6.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira6.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-6.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-6.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira7.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira7.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-7.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-7.jpg)
 
 Classism, as is typical in real life, **is reflected both in individuals and in the architecture of the various neighborhoods, or rather, the various _Sectors_**.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira5.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira5.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-5.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-5.jpg)
 
 ## Japan Future-past
 
@@ -145,9 +145,9 @@ On the other hand, we have the first major 3D video game, with a budget so exorb
 
 ## Akira and Jenova
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira3.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira3.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-3.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-3.jpg)
 
 Mysterious and incredibly powerful entities that, **despite appearing relatively rarely or somewhat in the background, represent the epicenter of everything**, starting with the _"Hiroshima effect"_ that I mentioned at the beginning.
 
@@ -159,7 +159,7 @@ Not by chance, **both figures possess a strong mystical, or rather divine, conno
 
 In practice, **we return to the entirely Japanese dichotomy I mentioned earlier when analyzing Midgard and Tokyo**.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/sensoji.jpg)
+![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/sensoji.jpg)
 
 _The ancient Buddhist temple Sensō-ji, nestled in the Asakusa district in the heart of the ultra-modern Japanese capital, is perhaps the perfect emblem to illustrate all this._
 
