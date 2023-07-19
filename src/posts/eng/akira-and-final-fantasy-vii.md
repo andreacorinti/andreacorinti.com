@@ -66,7 +66,7 @@ Perhaps also because of what I just mentioned, **Japanese sci-fi often had a tas
 
 If you follow anime-manga or are simply enthusiasts of Japanese pop culture, you are likely familiar with the figures of the _Bōsōzoku_: 
 
-literally, **_the "Tribe of Reckakira and final fantasy viiless Speed._"**
+literally, **_the "Tribe of Reckless'Speed._"**
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/23/JapaneseBosozoku.jpg' alt='bosozoku'>
 
@@ -88,7 +88,7 @@ We're not talking "only" about **one of the most emblematic, referenced, and cel
 
 if you think about it, it's **a real manifesto for the entire aforementioned subculture.**
 
-## Midgar e Neo Tokyo
+## Midgar and Neo Tokyo
 
 ![akira and final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/neo-tokyo.jpg)
 
