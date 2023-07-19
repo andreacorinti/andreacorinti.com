@@ -170,3 +170,5 @@ And personally, I'm quite convinced that this unresolved and "peaceful" conflict
 ## Comments 
 
 if you have any opinions on this dualism, you can comment on this mastodon thread!
+
+<iframe src="https://livellosegreto.it/@xabacadabra/110740170562877855/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
