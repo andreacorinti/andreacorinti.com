@@ -54,9 +54,9 @@ On this point that, in my opinion, it's **crucial to understanding the entire en
 
 ## Spirituality and Science
 
-Perhaps also because of what I just mentioned, **Japanese sci-fi has often had a taste bordering on the mystical** <small>(congratulations Shinji!)</small>, a kind of <i>"secular religiosity"</i> often heavily influenced both by the post-apocalyptic visions of **George Miller's _Mad Max_** and by **William Gibson's cyberpunk**, or films like _Blade Runner_.
+Perhaps also because of what I just mentioned, **Japanese sci-fi often had a taste bordering on the mystical** <small>(congratulations Shinji!)</small>, a kind of <i>"secular religiosity"</i> often heavily influenced both by the post-apocalyptic visions of **George Miller's _Mad Max_** and by **William Gibson's cyberpunk**, or films like _Blade Runner_.
 
-**Probably, _Ghost in the Shell_ represented the culmination of this discourse**, but that's another story.
+**_Ghost in the Shell_ most likely served as climax of this concept.**
 
 ## Motorcycles!
 
@@ -64,13 +64,15 @@ Perhaps also because of what I just mentioned, **Japanese sci-fi has often had a
 
 ![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-moto.jpg)
 
-If you follow anime-manga or are simply enthusiasts of Japanese pop culture, you are likely familiar with the figures of the _Bōsōzoku_: literally, **the "Tribe of Reckless Speed."**
+If you follow anime-manga or are simply enthusiasts of Japanese pop culture, you are likely familiar with the figures of the _Bōsōzoku_: 
+
+literally, **_the "Tribe of Reckless Speed._"**
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/2/23/JapaneseBosozoku.jpg' alt='bosozoku'>
 
 _I know, they look pretty funny!_
 
-In essence, the category of the young **Eikichi Onizuka** (main protagonist of _GTO_ and _Shonan Junai Gumi_), but also, in some ways, direct "colleagues" of our **Cloud**:
+In essence, the category of the young **Eikichi Onizuka** (main protagonist of _GTO_ and _Shonan Junai Gumi_), but also, in some ways, "colleagues" of our **Cloud**:
 
 ![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/gioco-moto-ff7.gif)
 
@@ -133,7 +135,7 @@ Staying on the subject, we can certainly see how **Akira (1988) and Final Fantas
 
 ## How much did Akira and Final Fantasy VII cost?
 
-On the one hand, manga aside, we have **the most expensive Japanese animated feature film of its time** [^anime]: Akira cost a whopping 8 million dollars, which in 1988 Japan was no small amount.
+First of all, manga aside, we have **the most expensive Japanese animated feature film of its time** [^anime]: Akira cost a whopping 8 million dollars, which in 1988 Japan was no small amount.
 
 [^anime]: If I'm not mistaken, the record was broken by Studio Ghibli with Princess Mononoke, but Otomo made up for it in 2004 with the very costly Steamboy.
 
