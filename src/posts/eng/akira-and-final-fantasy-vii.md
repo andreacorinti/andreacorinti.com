@@ -50,7 +50,7 @@ Probably, the words of **Oppenheimer** about the [Trinity test](https://en.wikip
 
 > We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent. I remembered the line from the Hindu scripture, the Bhagavad Gita; Vishnu is trying to persuade the Prince that he should do his duty and, to impress him, takes on his multi-armed form and says, 'Now I am become Death, the destroyer of worlds.' I suppose we all thought that, one way or another.
 
-On this point that, in my opinion, it's **crucial to understanding the entire entertainment industry of Japan**, I recommend [this excellent article from _The Conversation_](https://theconversation.com/the-deep-influence-of-the-a-bomb-on-anime-and-manga-45275).
+On this topic that, in my opinion, it's **crucial to understanding the entire entertainment industry of Japan**, I recommend [this excellent article from _The Conversation_](https://theconversation.com/the-deep-influence-of-the-a-bomb-on-anime-and-manga-45275).
 
 ## Spirituality and Science
 
