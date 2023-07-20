@@ -105,7 +105,7 @@ Del resto, come ho scritto varie volte, **ho sempre amato la scena "grunge"**, s
 
 ## Living Things, The Hunting Party, One More Light
 
-**Nulla del terzetto successivo ad ATS mi entusiasmò particolarmente,** salvo qualche canzone come quella qui sopra.
+**Nulla del terzetto successivo ad ATS mi entusiasmò particolarmente,** salvo qualche canzone come [_Castle of Glass_](https://www.youtube.com/watch?v=ScNNfyq3d_w).
 
 L'ultimo _One More Light_, in particolare, **mi è sembrato un disco pop fuori tempo massimo**, [^pop] per giunta decisamente inferiore alle produzioni pop odierne...anche per questo, **l'ho trovato scialbo e nato "vecchio"**.
 
