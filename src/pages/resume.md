@@ -117,7 +117,7 @@ immagine: ../img/avatar2.jpg
 </thead>  
   <tr>
     <td>Operating Systems Experience</td>
-    <td>Windows 95 – 11, Android, iOS, macOS, Linux (Debian/Ubuntu, Opensuse)</td>
+    <td>Windows 95 – 11, Android, iOS, macOS, Linux (Arch, Debian/Ubuntu)</td>
   </tr>
   <tr>  
     <td>Web Development</td>
