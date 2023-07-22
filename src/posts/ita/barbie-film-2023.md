@@ -33,7 +33,7 @@ e questo, attenzione, **non vuole assolutamente sminuire il film**, che è sempl
 
 Per intenderci, non aspettatevi la potenza e la complessità de _La fantastica signora Maisel_ di Amy Sherman-Palladino (anche perché gente che scrive come lei ce n'è davvero poca in giro), ma questo perché le ambizioni di _Barbie_ credo siano del tutto diverse: 
 
-visto lo stato non proprio roseo in cui versa Hollwyood in questo periodo, non è da escludere che da qui possa partire tutto un filone di _toy-movies_ sull'onda della fase un po' decadente del cinefumetto che ha dominato lo scorso decennio - del resto **la _Mattel_ ha dato una bella rinfrescata al suo marchio, prima ancora che al suo prodotto di punta**.
+visto lo stato non proprio _roseo_ (è il caso di dirlo) in cui versa Hollwyood in questo periodo, non è da escludere che da qui possa partire tutto un filone di _toy-movies_ sull'onda della fase un po' decadente del cinefumetto che ha dominato lo scorso decennio - del resto **la _Mattel_ ha dato una bella rinfrescata al suo marchio, prima ancora che al suo prodotto di punta**.
 
 Detto questo, l'ottima **America Ferrera** (interprete di Gloria) ha un gran monologo che non va assolutamente sottovalutato, così come diverse riflessioni sulla morte (ebbene sì) e, più in generale, sul _cambiamento_.
 
