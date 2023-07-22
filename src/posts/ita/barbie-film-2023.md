@@ -106,3 +106,5 @@ E ora scusatemi, ma corro a spiegare a una bella ragazza perché _Il Padrino_ è
 Non mi pronuncio sul doppiaggio italiano poiché in Grecia (come più o meno in quasi tutto il mondo) al cinema i film arrivano in lingua originale
 
 ## Mastodon Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/110759895370677115/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
