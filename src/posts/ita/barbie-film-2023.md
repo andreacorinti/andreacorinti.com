@@ -15,7 +15,7 @@ Sì.
 
 È un film divertente, con una gran colonna sonora <small>(...arriverei a dire che è fin troppo cantato e ballato, ma è una faccenda di gusti)</small> un ottimo ritmo e una produzione di tutto rispetto: 
 
-vale sicuramente la pena guardarlo, anche se mi rendo conto di come la sua martellante onnipresenza stia rasentando l'effettò [_Mercoledì_](/posts/ita/mercoledi-netflix).
+vale sicuramente la pena guardarlo, anche se mi rendo conto di come la sua martellante onnipresenza stia rasentando l'effetto [_Mercoledì_](/posts/ita/mercoledi-netflix).
 
 Detto ciò, leviamoci la questione più spinosa:
 
@@ -43,7 +43,7 @@ Per un buon 80%, _Barbie_ mi ha ricordato lo stile delle vecchie commedie americ
 
 Questo aspetto mi pare evidenziare un elemento: 
 
-**_Barbie_ è prima di tutto un film di (e per) _Millennials_**, il che ovviamente non significa che non possa fare breccia anche su altre generazioni eh, però questa connotazione personalmente l'ho percepita parecchio, specie nel già citato personaggio della Ferrera.
+**_Barbie_ è prima di tutto un film di (e per) _Millennials_**, il che ovviamente non significa che non possa fare breccia anche nelle altre generazioni eh, però questa connotazione personalmente l'ho percepita parecchio, specie nel già citato personaggio della Ferrera.
 
 ## Margot Robbie
 
