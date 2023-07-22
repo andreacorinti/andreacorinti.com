@@ -39,7 +39,7 @@ Detto questo, l'ottima **America Ferrera** (interprete di Gloria) ha un gran mon
 
 ## Commedia d'altri tempi
 
-Per un buon 80%, _Barbie_ mi ha ricordato lo stile delle vecchie commedie americane di una ventina d'anni fa miscelato con concetti filosofico-esistenzialisti di una certa profondità, un po' come il celeberrimo _The Truman Show_ del 1998 (!) e a cui, a livello di feeling, mi sono ritrovato spesso a pensare durante la visione di _Barbie_.
+Per un buon 80%, _Barbie_ mi ha ricordato lo stile delle vecchie commedie americane di una ventina d'anni fa miscelato con concetti filosofico-esistenzialisti di una certa profondità, un po' come il celeberrimo _The Truman Show_ del 1998 (!) e a cui, a livello di feeling, mi sono ritrovato spesso a pensare durante la visione.
 
 Questo aspetto mi pare evidenziare un elemento: 
 
