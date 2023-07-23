@@ -34,6 +34,7 @@ subtitle: A directory with some of my favorite websites
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
 | [**Valigia blu**](https://www.valigiablu.it/) | Uno dei pochi siti d'informazione italiana che apprezzo |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
+| [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
