@@ -1,0 +1,11 @@
+---
+description:
+layout: base.njk
+templateEngineOverride: md, njk
+---
+
+{% include 'sitenav.njk' %}
+
+<main class="tdbc-container">
+{{ content | safe }}
+</main>

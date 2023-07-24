@@ -1,9 +1,12 @@
 ---
 title: Bookmarks
 subtitle: A directory with some of my favorite websites
+layout: bookmarks
 ---
 
-just a list with a few sites that I like and recommend for various reasons
+Just a list with a few sites that I like and recommend for various reasons!
+
+perpetually work in progress...
 
 | Website | Description |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
