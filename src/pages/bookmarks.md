@@ -3,6 +3,8 @@ title: Bookmarks
 subtitle: A directory with some of my favorite websites
 ---
 
+just a list with a few sites that I like and recommend for various reasons
+
 | Website | Description |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**11ty**](http://www.11ty.io) | Wonderful static site generator that I've used to make this site |
