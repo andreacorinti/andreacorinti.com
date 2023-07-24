@@ -37,6 +37,7 @@ just a list with a few sites that I like and recommend for various reasons
 | [**Valigia blu**](https://www.valigiablu.it/) | Uno dei pochi siti d'informazione italiana che apprezzo |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
+| [**Warp Zine**](https://warp.livellosegreto.it/) | la webzine di Livello Segreto (istanza Mastodon dove bazzico) |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
