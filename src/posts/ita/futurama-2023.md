@@ -37,7 +37,7 @@ se da un certo punto di vista questo _futuristico rétro_ è un limite che in al
 
 ![Futurama-Star-Wars-9](https://static1.srcdn.com/wordpress/wp-content/uploads/2019/10/Star-Wars-Episode-9.jpg) 
 
-Però uno dei punti forti di _Futurama_ è sempre stato giocare con tecnologie future più o meno probabili incrociandole con situazioni e comportamenti figli del contemporaneo...
+Però uno dei punti forti di _Futurama_ è sempre stato giocare con tecnologie future più o meno improbabili incrociandole con situazioni e comportamenti figli del contemporaneo...
 
 un contemporaneo che, come detto, rischia fin troppo di sapere di ventesimo secolo.
 
@@ -57,5 +57,7 @@ Insomma: il solito discorso della mucca - o meglio, della _lumaca da slurm_ - da
 
 Vedremo un po', ma ammetto che al momento il mio quinto senso e mezzo mi dice che ci troviamo di fronte all'ennesima trappola per millennial nostalgici, e quindi non certo alla scossa al mondo dell'intrattenimento animato USA che hanno rappresentato _Bojack Horseman_ o _Rick e Morty_.
 
+## Thread 
 
+<iframe src="https://livellosegreto.it/@xabacadabra/110787250735239650/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
 
