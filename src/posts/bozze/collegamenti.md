@@ -1,11 +1,5 @@
----
 title: "Collegamenti: da Kojima a Uspenskij, con in mezzo Summer Time Rendering"
 subtitle: "Connessi dal gene del talento"
-sommario: ""
-immagine: /img/futurama.jpg
-date: 2023-08-1
-lang: it-IT
----
 
 Questo è un post particolare, che vuole in breve spiegare quanto le connessioni, i collegamenti, o meglio i _meme_ nel senso propriamente detto (e di cui non per niente [proprio Hideo Kojima ha parlato nel suo libro](https://amzn.to/3rRcPn1)) portino alla scoperta di opere, in un processo a mio avviso estremamente affascinante.
 
