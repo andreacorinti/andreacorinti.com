@@ -7,6 +7,8 @@ date: 2023-07-31
 lang: it-IT
 ---
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0oqrjW9wqqUZxmonk9Lj3S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Ultima puntata della prima stagione dello XabCast, e per chiudere in bellezza vediamo un po' di pro e contro della Steam Deck!
 
 Per quanto mi riguarda, la macchina di Valve è l'unica piattaforma di gioco che utilizzo dallo scorso ottobre quindi la mia opinione è certamente positiva...ma detto questo, non credo affatto che la Deck sia adatta a tutti.
