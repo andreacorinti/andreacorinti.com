@@ -1,5 +1,5 @@
 ---
-title: "XabCast #5 -  Steam Deck: ne vale la pena?"
+title: "XabCast #5 -  Steam Deck - ne vale la pena?"
 subtitle: "Quinta puntata"
 sommario: "Ultima puntata della prima stagione dello XabCast, e per chiudere in bellezza vediamo un po' di pro e contro della Steam Deck!"
 immagine: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_episode400/38350651/38350651-1690751158877-3a17118a32f11.jpg
