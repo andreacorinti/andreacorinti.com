@@ -11,9 +11,13 @@ Questo è un post particolare, che vuole in breve spiegare quanto le connessioni
 
 ## 1 - Hideo Kojima
 
+![hideo-kojima](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hideo_Kojima_na_Brasil_Game_Show_2017.jpg/1920px-Hideo_Kojima_na_Brasil_Game_Show_2017.jpg)
+
 Sono cresciuto con _Metal Gear Solid_, ho amato _Death Stranding_ e, prima di smettere di utilizzarlo, seguivo con interesse la miriade di post che il buon zio Kojima smitraglia su instagram / twitter.
 
 ## 2 - Summer Time Rendering 
+
+![summer-time-rendering](https://upload.wikimedia.org/wikipedia/en/f/f2/Summer_Time_Rendering_key_visual.png)
 
 Attirato da [uno di questi post](https://www.instagram.com/p/CryIhBgSPMP/) e lo stile di disegno dell'anime proposto, mi sono andato a cercare questo Summer Time Rendering: 
 
@@ -23,7 +27,9 @@ Bene: se mi seguite su [Livello Segreto](https://livellosegreto.it/@xabacadabra)
 
 Proprio a ridosso delle ultime puntate (nessuno spoiler, tranquilli) viene più o meno casualmente citato un breve romanzo russo che ha parzialmente ispirato l'opera...
 
-## 3 - La strana vita di Ivan Osokin 
+## 3 - La strana vita di Ivan Osokin
+
+![la-strana-vita-di-ivan-osokin](https://upload.wikimedia.org/wikipedia/en/8/85/Strange_Life_of_Ivan_Osokin%2C_a_novel_by_P._D._Ouspensky.jpg)
 
 ...ovviamente, finito l'anime, ho deciso di recuperarlo immediatamente come lettura "leggera" da alternare all'Iliade (si, è un periodo di letture easy, che ci volete fare?)
 
@@ -37,15 +43,21 @@ Inutile dire che il romanzo di Uspenski mi ha totalmente rapito ([qui su Lore tr
 
 ## 4 - Pëtr Dem'janovič Uspenskij
 
+![uspenskij](https://upload.wikimedia.org/wikipedia/commons/4/4c/P_D_Ouspenski%28y%29.gif)
+
 L'autore del romanzo è stato un personaggio incrediiblmente interessante: filosofo affascinato dalla quarta dimensione e dall'esoterismo, per lungo tempo allievo del mistico greco-armeno Georges Ivanovič Gurdjieff, altro personaggio intrigante...
 
 ## 5 - Georges Ivanovič Gurdjieff
+
+![gurdjieff](https://upload.wikimedia.org/wikipedia/commons/c/cd/Georges_Gurdjieff.jpg)
 
 ...che ho scoperto aver interessato un numero incredibile di personalità più o meno illustri, stando a wikipedia compreso per esempio il mai troppo compianto **Franco Battiato**.
 
 ## Morale
 
-Tra caso e serendipità, mi sono trovato a ragionare di quanto sia incredibile scoprire roba partendo da un semplice post di Kojima e seguendo i vari sentieri che vanno aprendosi di opera in opera.
+Se da bambino non avessi giocato a _Metal Gear Solid_, chissà se oggi mi sarei ritrovato in questo piccolo percorso?
+
+Tra caso e serendipità, trovo incredibile scoprire roba partendo da un semplice post di Kojima e seguendo i vari sentieri che vanno aprendosi di opera in opera.
 
 È un po' quel concetto di _link_ (no, non quello di Zelda) che mi ha fatto innamorare del web e secondo me le varie piattaforme hanno inutilmente cercato di uccidere a suon di trend e centralizzazione.
 
