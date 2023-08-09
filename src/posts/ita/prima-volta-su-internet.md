@@ -11,9 +11,7 @@ Anche se non sembra, uno dei temi fondanti di questo sito è sempre stato **La S
 
 Nella fattispecie, della storia _percepita_ dai suoi utenti, ergo più o meno avulsa dal mondo reale.
 
-<figure>
-	<img src='https://5ocietyx.files.wordpress.com/2013/04/follow-the-white-rabbit-screengrab.jpg' alt='matrix-white-rabbit'>
-</figure>
+<img src='https://5ocietyx.files.wordpress.com/2013/04/follow-the-white-rabbit-screengrab.jpg' alt='matrix-white-rabbit'>
 
 [**Già nel 2013**](/posts/ita/web-archive/) sottolineavo come **il tempo del web scorra ad una velocità del tutto diversa da quello reale**:
 
@@ -34,13 +32,9 @@ Tra le risposte mi ha fatto molto piacere trovare la conferma ad un mio vecchio,
 
 Per tanta gente, **i videogiochi hanno rappresentato la prima ragione per salpare nell'oceano di Internet.**
 
-<figure>
 <img src='https://media.giphy.com/media/RkSBVXwrISiPK/giphy.gif' alt='monolite'>
-</figure>
 
-Perché certo, ok...
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-TA57L0kuc" frameborder="0" allowfullscreen></iframe>
+Perché certo, [ok...](https://www.youtube.com/embed/T-TA57L0kuc)
 
 Ma una cosa era scaricarsi un mese del calendario di Selen <small>(ehm)</small>, ben altra scambiarsi pareri ed opinioni con altri utenti **facendo "community" tra IRC, Forum e MSN.**
 
@@ -54,11 +48,9 @@ Insomma, **molti dei cosidetti "nativi digitali"** <small>(per dirla alla Google
 
 Per l'appunto nel 1995, **in un periodo in cui in televisione dire _modem_ era na parolaccia**, _Topolino_ se ne usciva così:
 
-<figure>
-	<img src='https://1.bp.blogspot.com/-pD9Dc9hZcq4/V7qeCGxjG6I/AAAAAAABqw8/PaI3G7oTh-YHwJuy9CL9lbmNfIXJHRVlgCLcB/s1600/1-Internet-nel-1995.jpg' alt='Topolino'>
-</figure>
+<img src='https://1.bp.blogspot.com/-pD9Dc9hZcq4/V7qeCGxjG6I/AAAAAAABqw8/PaI3G7oTh-YHwJuy9CL9lbmNfIXJHRVlgCLcB/s1600/1-Internet-nel-1995.jpg' alt='Topolino'>
 
-La fonte è il solito leggendario [**Doc Manhattan**](https://docmanhattan.blogspot.it/2016/08/come-era-internet-nel-1995.html) che sul tema è andato nel dettaglio.
+La fonte è il solito [**Doc Manhattan**](https://docmanhattan.blogspot.it/2016/08/come-era-internet-nel-1995.html) che sul tema è andato nel dettaglio.
 
 ## Dare Internet per scontato
 
@@ -66,9 +58,7 @@ Viziati come siamo dai mostri d'hardware <small>(spesso ingiustificato)</small> 
 
 Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d'Internet, e dell'esatto istante in cui il Web è entrato nelle nostre esistenze.**
 
-<figure>
 <img src='https://images4.fanpop.com/image/photos/22500000/Neo-in-The-Matrix-Reloaded-the-matrix-22575477-560-300.gif' alt='matrix'>
-</figure>
 
 ### Commenti Archiviati
 
