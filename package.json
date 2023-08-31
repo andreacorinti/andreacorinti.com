@@ -50,7 +50,7 @@
     "stylelint-config-standard": "^34.0.0",
     "stylelint-order": "^6.0.3",
     "stylelint-scss": "^5.1.0",
-    "stylelint-selector-bem-pattern": "^3.0.0"
+    "stylelint-selector-bem-pattern": "^3.0.1"
   },
   "browserslist": [
     "last 2 versions"
