@@ -111,3 +111,7 @@ Di sicuro, **è impossibile che si possa raccontare tutta l'enormità di un mang
 Di base, se seguiranno il modello della prima stagione continuando a coinvolgere il buon Eichiro come hanno fatto in questo debutto, potremmo scongiurare una _Game of Thrones_ situation e stare ragionevolmente tranquilli.
 
 Perché sì, pur con tutti i suoi limiti e problemi, **il live action È _One Piece_**, e chi vi scrive personalmente non c'avrebbe scommesso un berry.
+
+## Thread Mastodon 
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111074187234667071/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
