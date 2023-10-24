@@ -71,3 +71,7 @@ Lungi da me diventare l'alfiere di un qualsivoglia tipo di censura: la mia è un
 Quindi lo dico proprio a te, Xab del futuro: 
 
 puoi farlo eh, ma non per questo _devi_.
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111289247401965634/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
