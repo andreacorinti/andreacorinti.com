@@ -41,6 +41,8 @@ resto convinto che **le community generaliste sembrino troppo una brutta copia d
 
 Almeno, per come lo intendo io.
 
+Detto questo, preciso che leggere alcuni account di M1 mi piace molto (ad esempio [Ciube](https://livellosegreto.it/@Lucatermite@mastodon.uno) che ho pure incontrato dal vivo), quindi non fate l'errore di vedere queste righe come un "attacco ultras" con chissà quali secondi fini. 
+
 ## Livello Segreto
 
 ![livello-segreto](https://cdn.masto.host/livellosegretoit/site_uploads/files/000/000/005/@1x/ae2c2ed79689631b.png)
