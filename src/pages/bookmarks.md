@@ -41,6 +41,7 @@ perpetually work in progress...
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
 | [**Nikole Ceccarelli**](https://www.nikolececcarelli.it/blog) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
+| [**Federazione Blog Indipendenti**](https://fediblog.it) | Progetto di TiTiNoNero, interessante aggregatore di blog italiani a cui partecipo |
 | [**Warp Zine**](https://warp.livellosegreto.it/) | la webzine di Livello Segreto (istanza Mastodon dove bazzico) |
 | [**KSGaming**](https://live.ksgaming.it/) | l'owncast di un'avventurosa coppia di Streamer e del gatto Sirio |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
