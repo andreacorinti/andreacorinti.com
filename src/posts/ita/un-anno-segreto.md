@@ -101,7 +101,7 @@ Ho iniziato ad abozzare queste parole in vista del 21 più o meno ai primi di No
 
 ## P.P.S. 
 
-Siccome in tanti facciamo il "compleanno fediversico" nello stesso periodo, mentre aggiorno la bozza devo segnalare anche l'ottimo postone di [**TiTiNoNero**](https://livellosegreto.it/@77nn@goto.77nn.it) e le sue altrettanto ottime risposte in un thread abbastanza allucinante [qui](https://mastodon.uno/@FronteAmpio/111437867393978344). 
+Siccome in tanti facciamo il "compleanno fediversico" nello stesso periodo, mentre aggiorno la bozza devo segnalare anche [l'ottimo postone](https://www.77nn.it/2023/11/18/primo-anno-nel-fediverso.html) di [**TiTiNoNero**](https://livellosegreto.it/@77nn@goto.77nn.it) e le sue altrettanto ottime risposte in un thread abbastanza allucinante [qui](https://mastodon.uno/@FronteAmpio/111437867393978344). 
 
 [Io l'ho commentato a parte](https://livellosegreto.it/@xabacadabra/111439691247716734) perchè in ogni caso TiTiNo aveva già detto tutto quello che c'era da dire e per le mie esperienze pregresse non avevo altro da aggiungere.
 
