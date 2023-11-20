@@ -111,3 +111,5 @@ Anzi, due cose le aggiungo qui, indirizzandole allɜ ultras che la scorsa estate
 2) Se proprio volete replicare nell'anonimato, abbiate almeno l'accortezza di nascondere il vostro indirizzo IP, che diamine!
 
 ## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111443872366229429/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
