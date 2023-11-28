@@ -35,3 +35,5 @@ For this reason, **I would like to encourage everyone to post something in other
 in my experience, fantastic discussions come out of it that change one's local point of view a lot.
 
 ## Mastodon Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111488266511860020/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
