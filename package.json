@@ -60,7 +60,7 @@
     "axios": "^1.6.2",
     "eleventy-plugin-toc": "^1.1.5",
     "lodash": "^4.17.21",
-    "markdown-it-footnote": "^3.0.3",
+    "markdown-it-footnote": "^4.0.0",
     "nth-check": "^2.1.1"
   }
 }
