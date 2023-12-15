@@ -25,13 +25,13 @@ Un certo _sublime matematico distorto_, sedottɜ e soverchiatɜ dal numero di fo
 
 ### Non sto capendo un cazzo
 
-Ok, pardon, torniamo alle solite minestra: 
+Ok, pardon, torniamo alla solita minestra: 
 
 nell'epoca d'oro dei forum, IRC, MSN eccetera (insomma, il web pre-social), sebbene i vari sistemi di misurazione dell' [_e-penis_](https://www.urbandictionary.com/define.php?term=e-penis) non mancassero, tendenzialmente **si comunicava per il piacere di farlo**.
 
 Certo: anche in quel contesto, era bellissimo ricevere apprezzamenti e scambi con il più vasto numero di persone possibili, ma non è che ci fossero particolari strategie dietro per aumentare il _reach_ o l'_engagement_, salvo la fissa di voler spiccare in una delle tante piccole community sorte nel periodo. 
 
-Con la diffusione dei social network e la nascita del relativo mercato, _postare per il gusto di postare_ diventava progressivamente più raro e legato a un paio di fenomeni:
+Con la diffusione dei social network e la nascita del relativo mercato, _postare per il gusto di postare_ diventava progressivamente più raro e più che altro legato ad un paio di fenomeni:
 
  - La [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out); 
  - La crescita di quei benedetti numerini come fossero livelli di un JRPG.
@@ -40,7 +40,7 @@ Con la diffusione dei social network e la nascita del relativo mercato, _postare
 
 Certo! Però dipende un po' da quello che stai facendo. 
 
-Da quante persone vuoi essere ascoltatǝ, ma sorpattutto da quante persone tu abbia voglia di ascoltare. 
+Da quante persone vuoi essere ascoltatǝ, ma sorpattutto da quante persone hai voglia di ascoltare. 
 
 Se stai facendo personal branding, avere tanti follower (soprattutto se reattivi e partecipi) è un indubbio valore su cui magari si potrebbe concentrare la tua posizione lavorativa. 
 
