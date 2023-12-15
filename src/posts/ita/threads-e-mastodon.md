@@ -60,7 +60,7 @@ Dobbiamo davvero?
 
 Non dico di no in senso assoluto (ogni istanza ha giustamente idee diverse) ma, se l'esodo da Twitter dell'anno scorso ci ha insegnato qualcosa, **è che tantɜ sono passatɜ ma pochɜ sono rimastɜ**.
 
-Nel corso dei mesi, le informazioni sul fediverso si sono diffuse il giusto, e hanno portato più lentamente altre persone che con ogni probabilità sono rimaste più volentieri proprio perché spinte dalla possibilità di avere un'alternativa di quello che vedevano già altrove. 
+Nel corso dei mesi, le informazioni sul fediverso si sono diffuse il giusto, e hanno portato più lentamente altre persone che con ogni probabilità sono rimaste più volentieri proprio perché spinte dalla possibilità di avere un'alternativa a quello che vedevano già altrove. 
 
 C'è bisogno di _diffondere ancora il verbo_ ? 
 
