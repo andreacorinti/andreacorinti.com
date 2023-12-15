@@ -10,7 +10,7 @@ date: 2023-11-28
 
 I've always been obsessed with languages (in fact, I even work with them!) and one of the problems I've always had with certain realities, especially on the web, is how often we end up talking in our own "garden" because of them:
 
-I'm a native Italian speaker, I live in Greece (and I'd really like to learn Greek one of these days...) so _belive me_, I'm not what I'm talking about. 
+I'm a native Italian speaker, I live in Greece (and I'd really like to learn Greek one of these days...) so _belive me_, I know what I'm talking about. 
 
 I also speak English and Spanish fairly well (or I hope so at least!) and I'm writing this post in English precisely because it is the "lingua franca" of the digital world (and more).
 
