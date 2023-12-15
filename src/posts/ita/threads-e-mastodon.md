@@ -127,3 +127,5 @@ Credo fermamente che sia un bene occupare spazi che non ci piacciono e interfacc
 Non vedo però perché farlo da una realtà "pulita" e alternativa come quella del Fediverso: vedi anche la [risposta](https://livellosegreto.it/@xabacadabra/111581074887923039) che ho fatto al thread di [77nn](https://livellosegreto.it/@77nn@goto.77nn.it), che tra le altre cose ha un'istanza fatta in casa, che in prospettiva futura forse potrebbe essere la cosa migliore per tutti assieme a tante piccole istanze-community.
 
 ## Thread (senza s)
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111583812814574245/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
