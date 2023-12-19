@@ -3,7 +3,7 @@ title: "Threads, Mastodon e i Numeri del Fediverso"
 subtitle: "Quanto contano i numeri nel Fediverso?"
 sommario: "Se bazzicate nelle varie istanze, come forse saprete Threads è approdato nel Fediverso. Ora, non parlerò nel dettaglio della questione, perché l'ho già ampiamente discussa..."
 immagine: https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg  
-date: 2023-15-12
+date: 2023-12-15
 lang: it-IT
 ---
 

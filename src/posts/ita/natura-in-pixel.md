@@ -2,7 +2,7 @@
 title: "Natura in Pixel"
 subtitle: "progetto libroso di beneficienza"
 sommario: "Natura in Pixel è una raccoltona di articoli curata da Francesco Toniolo e Chiara Ambrogio che porta in scena il discorso ambientale rapportato al mondo dei videogiochi..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/f/fd/E3_showfloor_sony_stand_2006.JPG
+immagine: https://m.media-amazon.com/images/I/61QyMN0sfcL._SL1499_.jpg
 lang: it-IT
 date: 2023-12-19
 ---
