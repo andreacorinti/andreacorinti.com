@@ -15,6 +15,10 @@ questo secondo me ci dice molto sull'importanza comune di certi riferimenti vide
 
 Potete acquistare il libro [su amazon](https://amzn.to/3TC3I5z) in formato Kindle o cartaceo! ❤️
 
-## Pixel
+## Thread
 
-<iframe title="Pixelfed Post Embed" src="https://pixel.livellosegreto.it/p/xabacadabra/642677568253955670/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixel.livellosegreto.it/embed.js"></script>
+<iframe src="https://livellosegreto.it/@xabacadabra/111606728360088222/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+
+postato anche su [PixelSegreto!](https://pixel.livellosegreto.it/p/xabacadabra/642677568253955670/)
+
+![pixelsegreto](https://pixel.livellosegreto.it/storage/m/_v2/627614251342880884/bc40e5d2a-3c51e6/5aEThUXWbnMf/Ki9sMegXxOUkC0dSi8IejidiUsy9r8xJGWIvGWPV.jpg)
