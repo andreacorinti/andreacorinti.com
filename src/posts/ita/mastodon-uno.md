@@ -98,4 +98,4 @@ Al solito, lascio qui sotto un thread dov'è possibile replicare mantenendo toni
 
 Pochi minuti dopo che l'ho postato, [questo thread è stato oscurato da mastodon.uno](https://livellosegreto.it/@xabacadabra/110662952875980670).
 
-<iframe src="https://livellosegreto.it/@xabacadabra/110662830871887169/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="110662830871887169"></mastodon-comments>
