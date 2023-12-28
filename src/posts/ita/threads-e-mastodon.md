@@ -129,3 +129,5 @@ Non vedo però perché farlo da una realtà "pulita" e alternativa come quella d
 ## Thread (senza s)
 
 <iframe src="https://livellosegreto.it/@xabacadabra/111583812814574245/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="111583812814574245" style="width : 1024px"></mastodon-comments>
