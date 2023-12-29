@@ -59,3 +59,7 @@ I think it is more than anything a great opportunity to improve "our particular,
 In various forms, I started this blog to collect thoughts and things more than ten years ago with the same spirit and, for this reason too, I believe that a return of personal websites/blogs is an extremely important incentive for the Fediverse itself.
 
 Maybe some digital archaeologist of the future will have a hard time finding our traces in the midst of so much massive junk, but who knows. In perspective, I believe that they may find it more interesting and enlightening to understand the different ways that humans use to express themselves outside of prefabricated systems, maintaining that spirit that characterized the internet until the early 2000s.
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111662793984560860/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
