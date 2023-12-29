@@ -72,6 +72,4 @@ Quindi lo dico proprio a te, Xab del futuro:
 
 puoi farlo eh, ma non per questo _devi_.
 
-## Thread
-
-<iframe src="https://livellosegreto.it/@xabacadabra/111289247401965634/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="111289247401965634"></mastodon-comments>
