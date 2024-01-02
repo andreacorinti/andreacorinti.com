@@ -66,3 +66,7 @@ Verissimo. Com'è vero che unə comicə non dovrebbe essere vistə come leader/i
 Il punto è che per portare avanti battaglie su diritti civili, salario minimo, cambiamento climatico, progressione fiscale e in generale lotte che definirei socialiste, forse sarebbe il caso di seguire l'esempio di Bassem.
 
 O almeno, questi sono i due spicci che mi sento di spendere per il primo post del 2024 di questo blogaccio!
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111686206142131894/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
