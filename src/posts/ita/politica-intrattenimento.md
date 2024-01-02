@@ -7,7 +7,7 @@ date: 2024-01-02
 lang: it-IT
 ---
 
-Se navigate un po' nell'internet del mondo arabofono o segui l'informazione internazionale, sicuramente cconoscerete  il fenomeno di Bassem Youssef, diventato particolarmente virale dopo [questa intervista](https://www.youtube.com/watch?v=4idQbwsvtUo) con il noto anchorman britannico Piers Morgan.
+Se navigate un po' nell'internet del mondo arabofono o seguite l'informazione internazionale, sicuramente conoscerete  il fenomeno di Bassem Youssef, diventato particolarmente virale dopo [questa intervista](https://www.youtube.com/watch?v=4idQbwsvtUo) con il noto anchorman britannico Piers Morgan.
 
 La conversazione trattava della questione palestinese e, vista la sua portata mediatica, ha avuto [un seguito](https://youtu.be/rqjO5Z9Lt_M?si=hRhLphwyFVICsYBk) più ragionato e tranquillo (conseguentemente meno virale).
 
