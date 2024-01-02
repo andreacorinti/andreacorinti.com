@@ -37,7 +37,7 @@ Non per ribadire il solito _tutto è politica_ (che poi è vero), ma osservare q
 
 ## Sangue e merda! 
 
-La massima del vecchio socialista Rino Formica credo funzioni sempre bene, e sia quindi utile allargarla vista minacciosola nostra fase storica.
+La massima del vecchio socialista Rino Formica credo funzioni sempre bene, e sia quindi utile allargarla vista la nostra fase storica.
 
 La politica propriamente detta (partiti, governi, eccetera) è ormai quasi completamente avulsa dai corpi intermedi e sempre più dipendente da svariati interessi e realtà socio-economiche, questo a prescindere dagli schieramenti (posto che è un ragionamento generale e non dubito esistano esempi virtuosi).
 
