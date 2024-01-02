@@ -21,7 +21,7 @@ Nel 2013, a seguito di alcuni pesanti contrasti con il governo di Morsi, Bassem 
 
 ## Ok, capito, bravo! Ma quale sarebbe il punto?
 
-Il punto è che, sebbene non manchino persone che affrontano seriamente il tema palestinese anche nel mondo anglosassone, all'ormai famigerato _"uomo della strada"_ difficilmente arriva qualcosa in più del reiterato stereotipo del minaccioso terrorista arabominaccioso.
+Il punto è che, sebbene non manchino persone che affrontano seriamente il tema palestinese anche nel mondo anglosassone, all'ormai famigerato _"uomo della strada"_ difficilmente arriva qualcosa in più del reiterato stereotipo del minaccioso terrorista arabo.
 
 Credo sia inevitabile, considerando la situazione geopolitica di quella parte del mondo e il funzionamento della comunicazione dal 2001 a oggi.
 
