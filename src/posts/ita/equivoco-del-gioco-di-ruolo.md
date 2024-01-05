@@ -76,3 +76,7 @@ Come mi è capitato spesso di dire, trovo _Baldur's Gate III_ un gioco meravigli
 Ed è triste notare come alcune delle soluzioni sviluppate ancora prima da un Sid Meier (_Pirates!_, _Sword of the Samurai_, _Covert Action_) siano nel frattempo finite nel dimenticatoio.
 
 Fatemi sapere se vi vengono in mente altri esempi di ruolismo virtuoso che non ho citato!
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111702618634423537/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
