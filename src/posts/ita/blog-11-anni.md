@@ -151,7 +151,7 @@ Personalmente?
 
 Da anni, **le uniche recensioni di un videogioco che leggo sono quelle dei giocatori su Steam o comunque scritte da singolə.**
 
-Delle news tende a fregarmene il giusto e, per quanto riguarda articoli dedicati, **m'interessano le singole firme**, non i contenitori che le ospitano (e anzi, in genere mi stanno sulle balle).
+Delle news tende a fregarmene il giusto e, per quanto riguarda articoli dedicati, **m'interessano le singole firme**, non i contenitori che le ospitano (e che anzi, in genere mi stanno sulle balle).
 
 Esempio: per leggermi, chessò, un pezzo di Roberto Recchioni o Alessandro Apreda, **passo dai loro blog / profili social individuali piuttosto che quelli di Screenweek, BadTaste o simili**.
 
@@ -183,7 +183,7 @@ Scelta che nell'ultimo anno si è rivelata particolarmente azzeccata grazie al *
 
 cose che nel 2018 non esistevano e non potevo immaginare sarebbero nate, esattamente come non avrei potuto immaginare **l'inesorabile declino di Facebook e Twitter**, TikTok o la conversione ai Reel di Instagram eccetera.
 
-Pensateci un po': magari tra due anni il profilo social a cui avete dedicato tanto tempo e denaro verrà cancellato perché non rientrerà più negli standard della big corp che lo gestisce...oppure, il social stesso passerà di moda perché acquistato da qualche nazista e starci sopra non sarà più un problema che altro. 
+Pensateci un po': magari tra due anni il profilo social a cui avete dedicato tanto tempo e denaro verrà cancellato perché non rientrerà più negli standard della big corp che lo gestisce...oppure, il social stesso passerà di moda perché acquistato da qualche nazista e starci sopra rappresenterà più un problema che un vantaggio. 
 
 La morale spiccia che posso trarre da questi undici anni? 
 
