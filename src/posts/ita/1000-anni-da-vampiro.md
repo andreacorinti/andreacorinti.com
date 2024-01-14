@@ -43,8 +43,6 @@ Questo perché, col passare dei secoli, non è dato sapere quanto la scheda del 
 
 ![narattiva](https://pixel.livellosegreto.it/storage/m/_v2/627614251342880884/3b17271c9-2ea36d/P7s6YJY1LNML/K0mLvC4ola5xgTXYDINZ07JRUrEMSwth3EQBpR4o.jpg)
 
-<iframe title="Pixelfed Post Embed" src="https://pixel.livellosegreto.it/p/xabacadabra/649925527022781201/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixel.livellosegreto.it/embed.js"></script>
-
 Da loro avevo già preso la bellissima edizione di Dungeon World, quindi andavo sul sicuro: 
 
 l'unica remora che posso manifestare (che però immagino caratterizzi anche l'edizione originale) sta nella **leggibilità delle pagine degli spunti**: 
