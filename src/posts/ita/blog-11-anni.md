@@ -53,7 +53,7 @@ Lo cito perché il suo piccolo successo fu molto indicativo del periodo storico:
 
 **fare un sito tematico con recensioni / articoli volutamente polemici e divisivi portava un botto di click** e, con un minimo di struttura, potenziali ritorni economici anche per realtà abbastanza piccole come la mia. 
 
-Credo sia un po' quello ancora succede con YouTube e Twitch, che nei fatti hanno occupato lo stesso spazio della parola scritta, col tempo divorandoselo.
+Credo sia un po' quello che ancora succede con YouTube e Twitch, che nei fatti hanno occupato lo stesso spazio della parola scritta, col tempo divorandoselo.
 
 In confidenza? 
 
