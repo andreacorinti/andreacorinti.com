@@ -1,7 +1,7 @@
 ---
 title: "Intrattenimento Politico"
 subtitle: "Show must go on (?)"
-sommario: "Se navigate un po' nell'internet del mondo arabofono o segui l'informazione internazionale, sicuramente cconoscerete il fenomeno di Bassem Youssef, diventato particolarmente virale dopo questa intervista..."
+sommario: "Se navigate un po' nell'internet del mondo arabofono o seguite l'informazione internazionale, sicuramente cconoscerete il fenomeno di Bassem Youssef, diventato particolarmente virale dopo questa intervista..."
 immagine: https://www.esquireme.com/cloud/2024/01/02/g40SAv6J-ESQ_155_000_Digitalcover_BassemYoussef-1200x1500.jpg 
 date: 2024-01-02
 lang: it-IT
