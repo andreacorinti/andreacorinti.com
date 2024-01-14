@@ -39,7 +39,7 @@ Questo perché, col passare dei secoli, non è dato sapere quanto la scheda del 
 
 ## Narattiva 
 
-<iframe title="Pixelfed Post Embed" src="https://pixel.livellosegreto.it/p/xabacadabra/649925527022781201/embed?caption=true&likes=true&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixel.livellosegreto.it/embed.js"></script>
+![narattiva](https://pixel.livellosegreto.it/storage/m/_v2/627614251342880884/3b17271c9-2ea36d/P7s6YJY1LNML/K0mLvC4ola5xgTXYDINZ07JRUrEMSwth3EQBpR4o.jpg)
 
 Da loro avevo già preso la bellissima edizione di Dungeon World, quindi andavo sul sicuro: 
 
@@ -50,6 +50,12 @@ fighissime a vedersi eh, ma visto che le diottrie sono quelle che sono un pelo d
 Tolto questo dettaglio, l'edizione è splendida, funzionale e colma di _Spunti_ fantastici. 
 
 Il fatto poi che **ogni libro sia unico** in termini di cover e spunti è una vera e propria figata, diciamocelo: sono quei piccoli colpi di genio che nell'universo GdR indie possono fare la differenza.
+
+## Esempio di Gioco
+
+Sto usando [**questo blog**](https://1000-anni-da-vampiro.netlify.app/) per tenere traccia delle avventure del mio vampiro - quando avrò finito con lui, probabilmente riciclerò lo stesso sito e archivierò questa prima giocata in un pdf epub riveduto e corretto.
+
+Spero non ci siano troppi errori (di gioco, ortografia, sintassi, refusi storici e blabla) ma tenete conto che **il bello di 1000 Anni da Vampiro è proprio concedersi sessioni lampo nei ritagli di tempo**, tanto per sciacquare i panni nello Stige c'è sempre tempo.
 
 ## Linkacci 
 
