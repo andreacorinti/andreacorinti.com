@@ -192,3 +192,5 @@ Visto che _del doman non v’è certezza_, _chi vuol esser sito, sia_.
 Bloggate, gente, bloggate!
 
 ### Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111755584178883466/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
