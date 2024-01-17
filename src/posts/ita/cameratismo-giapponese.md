@@ -1,13 +1,13 @@
 ---
 title: "Il seducente cameratismo da nave nipponica"
 subtitle: "Ciurma!"
-sommario: "Come avrete intuito dal titolo da Lina Wertmüller, questo sarà un post strano, frutto di un'epifania che vodo da un po' e vorrei metabolizzare a dovere."
+sommario: "Come avrete intuito dal titolo da Lina Wertmüller, questo sarà un post strano, frutto di un'epifania che covo da un po' e vorrei metabolizzare a dovere."
 immagine: /img/cameratismo/nadia2.jpg
 date: 2024-01-17
 lang: it-IT
 ---
 
-Come avrete intuito dal titolo da Lina Wertmüller, questo sarà un post strano, frutto di un'epifania che vodo da un po' e vorrei metabolizzare a dovere.
+Come avrete intuito dal titolo da Lina Wertmüller, questo sarà un post strano, frutto di un'epifania che covo da un po' e vorrei metabolizzare a dovere.
 
 Credo che, se siete anche solo minimamente appassionati d'intrattenimento in salsa nipponica, abbiate ben presente il tema che tratterò:
 
