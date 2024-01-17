@@ -89,3 +89,5 @@ il concetto di comunità/popolo che diventa una ciurma nomade combattendo alla r
 Chissà. Forse sarà colpa del mio perpetuo girovagare e della sovrabbondanza d'intrattenimento nipponico durante infanzia e adolescenza.
 
 ## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111772880817873013/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
