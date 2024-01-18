@@ -49,7 +49,6 @@ perpetually work in progress...
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
 | [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
-|[**Come Non Detto**](https://leortola.wordpress.com/)|il blog dove Leo Ortolani flette i muscoli|
 |[**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|
 |[**La Giornata Tipo**](https://www.lagiornatatipo.it/) | Basket raccontato in modo strepitoso
 |[**Ne3rdcore**](https://n3rdcore.it/) | Uno dei pochi portali a tema videogiochi / nerdate d'attualità che leggo|
