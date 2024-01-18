@@ -66,3 +66,5 @@ In a more pop context, and returning to Italy, many non-Italians have confirmed 
 If you are not an English speaker and have a band, you may try releasing a single in English to reach a wider audience, but please consider singing in your own language!
 
 ## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111776128061988200/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
