@@ -96,3 +96,5 @@ A me va benissimo così.
 <small>(ma comunque, Cypher aveva ragione!)</small> 
 
 ### Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111777737418163060/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
