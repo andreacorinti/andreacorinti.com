@@ -81,7 +81,7 @@ Basta.
 
 (che poi, è lo stesso approccio che ho con **Linux** e l'opensource più in generale).
 
-Forse ho questa visione perché più qualcuno prova a covincermi di fare qualcosa più mi fa passare la voglia.
+Forse ho questa visione perché più qualcuno prova a convincermi di fare qualcosa più mi fa passare la voglia.
 
 Cioè, [pensate a Matrix](https://www.youtube.com/watch?v=Smwrw4sNCxE) <small>(ma quanto era bello Matrix?)</small> : 
 
