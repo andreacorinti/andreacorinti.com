@@ -37,7 +37,7 @@ Look, I understand:
 
 It's OK that a band finds it considerably simpler to enter into an already competitive market by using English.
 
-This was the tale of some of our legendary bands in the Italian metal scene, like **Lacuna Coil**, **Rhapsody**, **Theatre of Vampires**, **Labyrinth**, **Necrodeath**, **Elvenking**, and so forth.
+This was the tale of some of our legendary bands in the Italian metal scene, like **Lacuna Coil**, **Rhapsody**, **Theatre des Vampires**, **Labyrinth**, **Necrodeath**, **Elvenking**, and so forth.
 
 However, it's unfortunate!
 
