@@ -21,7 +21,7 @@ Perché sì, come diceva un certo Frank _parlare di musica è come ballare di ar
 
 ## Sgàile - Traverse The Bealach
 
-<iframe style="border: 0; width: 350px; height: 687px;" src="https://bandcamp.com/EmbeddedPlayer/album=1617640734/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://sgaile.bandcamp.com/album/traverse-the-bealach-2">Traverse The Bealach by Sgàile</a></iframe>
+<iframe style="border: 0; width: 300px; height: 687px;" src="https://bandcamp.com/EmbeddedPlayer/album=1617640734/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://sgaile.bandcamp.com/album/traverse-the-bealach-2">Traverse The Bealach by Sgàile</a></iframe>
 
 Cominciamo con Sgàile, ovvero la classica prog one-man-band dietro cui si cela l'artista scozzese **Tony Dunn** (che potreste già conoscere come bassista e cantante dei **Cnoc An Tursa**). 
 
