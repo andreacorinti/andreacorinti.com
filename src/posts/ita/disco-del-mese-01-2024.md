@@ -49,6 +49,12 @@ Carino, ma onestamente mi aspettavo un po' di più (_Cani Umani_ molto bella per
 
 Come un po' tutti i metallari sono affezionato ai Saxon e il disco è solido, ma onestamente non mi è rimasto in testa nulla e mi sono concesso solo un paio di ascolti distratti. 
 
+### Metalite – Expedition One
+
+Ah, il pop power metal scandinavo! _Catchy_ e _cheesy_ come direbbero gli anglofoni, però avendo ascoltato tanto i Beast in Black mi ci sono trovato bene, anche perché curiosamente pure loro qualche anno fa hanno rilasciato un disco a tema cyberpunk (_Dark Connection_). 
+
+Non impazzisco per i Metalite, però il disco è un buon sottofondo ottantiano e hanno fatto una canzone che si chiama _CtrlAltDel_, quindi mi sento obbligato a citarli.
+
 ### Angra - Cycles of Pain
 
 Ok qui ho barato perché in realtà è uscito lo scorso inverno, però lo segnalo a tutti i paueroni all'ascolto giusto per dirvi che è molto carino.
