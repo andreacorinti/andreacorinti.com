@@ -29,6 +29,7 @@ perpetually work in progress...
 | [**Nanda Okitavera**](https://okitavera.me/)|The great website of Nada, also made with 11ty! |
 | [**The Eye**](https://the-eye.eu/)|Sápere aude!|
 | [**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
+| [**Angry Metal Guy**](https://www.angrymetalguy.com/) | One of the few music review sites I read |
 
 <div lang="it-IT" xml:lang="it-IT">
 
