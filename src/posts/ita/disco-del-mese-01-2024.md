@@ -61,4 +61,6 @@ Ok qui ho barato perché in realtà è uscito lo scorso inverno, però lo segnal
 
 E _Vida Seca_ (con Lenine) un interessantissimo esperimento di..._prog folk brasiliano_? Boh, a me è piaciuta un botto e mi ha messo voglia di rigiocare a _Grandia 2_.
 
+## Thread
 
+<iframe src="https://livellosegreto.it/@xabacadabra/111804556680442519/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
