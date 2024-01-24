@@ -99,3 +99,5 @@ Chissà, forse sono troppo pessimista.
 Specifico che un videogioco per me può essere definito tale per la propria componente ludica, quindi il discorso artistico non è che debba essere necessariamente riferito ad elementi narrativi o altro (basti pensare a _Super Mario_), ma a come viene concepito e sviluppato.
 
 ### Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111810542719414400/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
