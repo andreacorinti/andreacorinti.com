@@ -102,4 +102,4 @@ Specifico che un videogioco per me può essere definito tale per la propria comp
 
 <iframe src="https://livellosegreto.it/@xabacadabra/111810542719414400/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
 
-<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="111583812814574245"></mastodon-comments>
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="111810542719414400"></mastodon-comments>
