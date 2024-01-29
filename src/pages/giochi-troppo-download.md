@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: archivio
 title: Piratiamo Giochi Troppo!
 subtitle: Ciao!
 permalink: /piratiamo-giochi-troppo
