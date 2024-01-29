@@ -1,9 +1,11 @@
 ---
-layout: archivio
+layout: base
 title: Piratiamo Giochi Troppo!
 subtitle: Ciao!
 permalink: "/piratiamo-giochi-troppo/"
 ---
+
+# [Download epub di Giochi Troppo](https://gitlab.com/xabaras/epub/-/raw/main/giochi-troppo.epub?ref_type=heads)
 
 Benvenutə in questa pagina: se l'hai trovata senza che te la linkassi io, complimenti!
 
@@ -16,9 +18,7 @@ Per necessità e quieto vivere, ho pubblicato questo piccolo saggio su [amazon](
 1. Amazon mi sta sulle palle
 2. Gli epub sono belli
 
-Ho deciso di dare la possibilità di scaricare liberamente la sua versione digitale da qui:
-
-#### [Download epub di Giochi Troppo](https://gitlab.com/xabaras/epub/-/raw/main/giochi-troppo.epub?ref_type=heads)
+Ho deciso di dare la possibilità di scaricare liberamente la sua versione digitale.
 
 ### Ti stai piratando da solo?
 
