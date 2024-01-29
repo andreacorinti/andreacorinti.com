@@ -2,7 +2,7 @@
 layout: archivio
 title: Piratiamo Giochi Troppo!
 subtitle: Ciao!
-permalink: /piratiamo-giochi-troppo
+permalink: "/piratiamo-giochi-troppo/"
 ---
 
 Benvenutə in questa pagina: se l'hai trovata senza che te la linkassi io, complimenti!
