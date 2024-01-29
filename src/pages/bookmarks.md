@@ -46,6 +46,7 @@ perpetually work in progress...
 | [**Rulatori Solitari**](https://www.ruolatorisolitari.it) | Portale dedicato al GDR in solitaria |
 | [**Warp Zine**](https://warp.livellosegreto.it/) | la webzine di Livello Segreto (istanza Mastodon dove bazzico) |
 | [**KSGaming**](https://live.ksgaming.it/) | l'owncast di un'avventurosa coppia di Streamer e del gatto Sirio |
+| [**holism in the attic**](https://blog.zeruhur.icu/) | bel blog a tema geek di zeruhur |
 | [**Arena80**](http://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
 | [**Old Games Italia**](http://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
