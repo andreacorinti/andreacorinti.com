@@ -65,6 +65,7 @@ Lascio qui sotto un elenco in aggiornamento perpetuo dove aggiungerò man mano t
 
 | Sito | Descrizione | FeedRSS |
 |---|---|---|
+| **Linux.com** | News For Open Source Professionals | [https://www.linux.com](https://www.linux.com)
 | **Lucasdelirium** | Il fansite italiano dedicato alla LucasArts e ai suoi ex (Double Fine, Telltale) | [https://www.lucasdelirium.it/download/lucasdelirium.xml](https://www.lucasdelirium.it/download/lucasdelirium.xml) 
 | **Ruolatori Solitari** |La casa dei giocatori di ruolo solitari | [https://www.ruolatorisolitari.it/feed/](https://www.ruolatorisolitari.it/feed/)
 | **Valigia Blu** | Basata sui fatti. Aperta a tutti. Sostenuta dai lettori.| [https://www.valigiablu.it/feed/](https://www.valigiablu.it/feed/)
