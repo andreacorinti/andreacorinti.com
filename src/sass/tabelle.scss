@@ -1,6 +1,12 @@
+@media screen and (max-width: 600px) {
+  table {
+    max-width: 300px;
+  }
+}
+
 table {
     margin-bottom: 1em;
-    overflow-x:auto;
+    overflow-x: auto;
     width: 100%;
     font-size: 15px;
     border-collapse: collapse;

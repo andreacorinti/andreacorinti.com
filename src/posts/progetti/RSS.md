@@ -26,6 +26,8 @@ Ora puoi per esempio aggiungere il feed del mio blog in italiano (nel caso doves
 
 ogni volta che farò un post ti zomperà fuori l'aggiornamento senza che tu debba passare di qui o seguirmi nel fediverso per sapere se c'è qualche novità.
 
+![akregator](https://cdn.masto.host/livellosegretoit/media_attachments/files/111/834/296/901/443/086/original/c9066a7a7f9c58bf.png)
+
 ### Ok ma...perché tutto questo?
 
 Perché, se ti aggiorni via social media, tendenzialmente con i contenuti succede questo: 
