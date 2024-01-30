@@ -71,5 +71,5 @@ Lascio qui sotto un elenco in aggiornamento perpetuo dove aggiungerò man mano t
 
 | Account | Descrizione | FeedRSS |
 |---|---|---|
-| **Hideo Kojima** | Celeberrimo sviluppatore di videogame. | Twitter: [https://nitter.cz/HIDEO_KOJIMA_EN/rss](https://nitter.cz/HIDEO_KOJIMA_EN/rss)
-| **Zerocalcare** | noto fumettista italiano. | Twitter: [https://nitter.cz/zerocalcare/rss](https://nitter.cz/zerocalcare/rss)
+| **Hideo Kojima** | Celeberrimo sviluppatore di videogame. | Twitter: [https://nitter.cz/HIDEO_KOJIMA_EN/rss](https://nitter.cz/HIDEO_KOJIMA_EN/rss) Instagram: [https://proxigram.ducks.party/hideo_kojima/stories/rss](https://proxigram.ducks.party/hideo_kojima/stories/rss)
+| **Zerocalcare** | noto fumettista italiano. | Twitter: [https://nitter.cz/zerocalcare/rss](https://nitter.cz/zerocalcare/rss) Instagram: [https://proxigram.ducks.party/zerocalcare/stories/rss](https://proxigram.ducks.party/zerocalcare/stories/rss)
