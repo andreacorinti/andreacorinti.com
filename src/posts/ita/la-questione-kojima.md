@@ -60,3 +60,7 @@ Avrei potuto citare anche la fissa per le colonne sonore e tutte le manifestazio
 **Hideo Kojima è un autore di videogame indie con a disposizione un budget da Tripla A**.
 
 Budget che si è conquistato con la sua carriera e capacità di promuovere la sua persona, certo...eppure, mantenendo il suo delirante spirito pionieristico per creare qualcosa di nuovo.
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111856135095637873/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
