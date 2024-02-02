@@ -15,7 +15,7 @@ beh, i 500 caratteri li sforerò sicuro, visto che in realtà ci rialacciamo al 
 
 ### Vivienne Medrano
 
-L'autrice, animatrice, illustratrice (_un sacco trice_) di Hazbin fece partire il progetto nel 2019 tramite il pilota che potete trovare ancora su [YouTube](https://www.youtube.com/watch?v=Zlmswo0S0e0).
+L'autrice, animatrice, illustratrice (_un sacco di trice_) di Hazbin fece partire il progetto nel 2019 tramite il pilota che potete trovare ancora su [YouTube](https://www.youtube.com/watch?v=Zlmswo0S0e0).
 
 Parliamo di un progetto essenzialmente [DIY](https://it.wikipedia.org/wiki/Etica_DIY), o grassroots, insomma partito dal basso e arrivato al successo grazie al sostegno di un numero spropositato di fan.
 
