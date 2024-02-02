@@ -58,3 +58,7 @@ c'è molto dalla scena della vecchia Cartoon Network con una virata verso un tar
 E in cuor mio, **trovo straordinario che un'opera "indie" sia riuscita a diventare uno splendido prodotto dal successo commerciale** (nel senso migliore del termine) contribuendo a ridefinire il proprio mercato di riferimento.
 
 Insomma, ad avercene di Medrano.
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/111863085087219462/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
