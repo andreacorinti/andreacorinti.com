@@ -96,3 +96,5 @@ PS: a margine Enrico Fonte (cresta rosa) ha proprio una bella voce, vorrei senti
 * **Diodato**: in versione Don Backy incrociato con Neil Diamond. Non è il mio, però è indiscutibilmente bravo.
 
 * **Geolier**: io ho un debole per il napoletano e dovrei risentirlo: anche qui, non sono generi che bazzico, però in napoletano un po' mi pigliano. Considerando che è un guaglione giovanissimo, direttamente dalla University of Secondigliano [cit] l'ho trovato molto interessante
+
+* **Gazzelle** : [vedi qui](https://livellosegreto.it/@xabacadabra/111891150272463417)
