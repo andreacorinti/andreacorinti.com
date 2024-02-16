@@ -51,4 +51,7 @@ Eppure mi pare chiaro come determinate questioni non abbiano strettamente a che 
 
 A prescindere dalle motivazioni non proprio limpidissime, sono contento di questo passo per la Grecia e mi auguro porti ad una riflessione analoga anche a livello internazionale.
 
+<iframe src="https://livellosegreto.it/@xabacadabra/111940624850788887/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="111940624850788887"></mastodon-comments>
 
