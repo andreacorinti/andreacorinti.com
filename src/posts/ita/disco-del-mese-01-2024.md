@@ -15,7 +15,7 @@ Inauguro oggi una piccola rubrica musicale per due motivi:
 
 Nello specifico, visto che sono il primo costantemente alla ricerca di roba del genere, credo che **tratterò principalmente le nicchie della scena metal & rock per diffondere musica di cui tendenzialmente si parla poco.**
 
-Perché sì, come diceva un certo Frank _parlare di musica è come ballare di architettura_, ma farlo puoi aiutare a far conoscere almeno un pochino delle belle realtà artistiche non proprio facili da recuperare tra algoritmi e circuiti radiofonici.
+Perché sì, come diceva un certo Frank _parlare di musica è come ballare di architettura_, ma farlo può aiutare a far conoscere almeno un pochino delle belle realtà artistiche non proprio facili da recuperare tra algoritmi e circuiti radiofonici.
 
 <small>PS: sì lo so, Gennaio non è ancora finito ma dubito che in una settimana avrò modo di ascoltare nuove uscite</small>
 
@@ -60,3 +60,5 @@ Non impazzisco per i Metalite, però il disco è un buon sottofondo ottantiano e
 Ok qui ho barato perché in realtà è uscito lo scorso inverno, però lo segnalo a tutti i paueroni all'ascolto giusto per dirvi che è molto carino.
 
 E _Vida Seca_ (con Lenine) un interessantissimo esperimento di..._prog folk brasiliano_? Boh, a me è piaciuta un botto e mi ha messo voglia di rigiocare a _Grandia 2_.
+
+[_**Febbraio 2024**_](/posts/ita/disco-del-mese-02-2024)
