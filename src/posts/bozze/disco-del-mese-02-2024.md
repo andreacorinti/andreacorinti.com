@@ -22,3 +22,7 @@ Beh che dire? La colonna sonora di questo gioiellino dell'animazione è senza du
 ### Persefone - Lingua Ignota: Part I
 
 Progressive death metal da Andorra (!) li devo tenere d'occhio perché sono interessantissimi, se bazzicate per il Death con soluzioni ritmiche particolari e abbastanza ricercate qui trovate pane per i vostri denti
+
+### Mahmood - Nei letti degli altri
+
+A parte la sanremese _Tuta Gold_ (pezzone da pop internazionale)
