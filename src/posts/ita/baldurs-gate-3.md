@@ -19,7 +19,7 @@ Per me, è molto complicato parlare di Baldur's Gate III.
 
 ### Perché?
 
-* Da bimbo Baldur's Gate I e (soprattutto) II furono importantissimi nella mia carriera di giocatore: ne parlavo un po' [qualche anno fa.](/posts/ita/baldurs-gate).
+* Da bimbo Baldur's Gate I e (soprattutto) II furono importantissimi nella mia carriera di giocatore: ne parlavo un po' [qualche anno fa.](/posts/ita/baldurs-gate)
 
 * Ho scritto [_Giochi Troppo!_](/projects/giochi-troppo/) e, avendo abbondantemente superato le 100 ore, BG3 è decisamente un titolo che mi ha fatto giocare troppo, portandomi via un sacco di tempo di vita che rimpiangerò di non aver dedicato ad altro...
 
@@ -59,7 +59,7 @@ ecco, insomma, **tutta sta ciccia mi sembra cotta a puntino ma il fatto che veng
 
 Ovviamente parliamo di una faccenda di gusto personale eh, ma il cammino del Figlio di Bhaal mi pare dal taglio più epico rispetto alla lotta con la versione dopata di Krang delle Tartarughe Ninja (giusto per non citare la meravigliosa saga del Nameless One in Torment).
 
-**Personalmente, se al posto dell'Assoluta al centro di tutto ci fossero stati "solo" Orin, Gortash e Ketheric mi sarei goduto tutto molto di più 
+**Personalmente, se al posto dell'Assoluta al centro di tutto ci fossero stati "solo" Orin, Gortash e Ketheric mi sarei goduto tutto molto di più.** 
 
 Poi ehi, _sono i Forgotten Realms bellezza_: questi mischioni bisogna un po' forzatamente metterli in conto.
 
@@ -72,3 +72,7 @@ uno splendido RPG pieno di cura e amore esattamente come i classici di vent'anni
 Insomma, com'è che diceva il Dottor Frankenstein di Wilder?
 
 _SI-PUÒ-FARE!_
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/112008385182711442/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
