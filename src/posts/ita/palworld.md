@@ -2,7 +2,7 @@
 title: "Il mio problema con Palworld"
 subtitle: "Da leggere con calma please"
 sommario: "Partiamo col dire che la natura di Palworld non sarà il punto del mio post."
-immagine: https://upload.wikimedia.org/wikipedia/en/5/53/Palworld_cover_art.jpg
+immagine: https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg?t=1707904340
 date: 2024-01-24
 lang: it-IT
 ---

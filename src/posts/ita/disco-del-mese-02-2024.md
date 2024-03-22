@@ -40,3 +40,5 @@ Progressive death metal da Andorra (!) li devo tenere d'occhio perché sono inte
 ### Mahmood - Nei letti degli altri
 
 A parte la sanremese _Tuta Gold_ (come dicevo già da Sanremo è un pezzone da pop internazionale, e i numeri mi stanno dando ragione) non mi ha preso molto, ma ci sono alcune cose che vorrei riascoltare per benino (e mi ero ripromesso di includere almeno un disco sanremese da queste parti)
+
+[_**Marzo 2024**_](/posts/ita/disco-del-mese-03-2024)
