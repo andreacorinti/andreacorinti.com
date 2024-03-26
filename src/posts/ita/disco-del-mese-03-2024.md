@@ -3,7 +3,7 @@ title: "Disco del Mese - Marzo 2024"
 subtitle: "Judas Priest - Invincible Shield"
 sommario: "Potere della vecchianza"
 immagine: https://lastfm.freetls.fastly.net/i/u/770x0/8f4e6a16468aa7bddda995f69839f20c.jpg
-date: 2024-03-29
+date: 2024-03-26
 lang: it-IT
 ---
 
