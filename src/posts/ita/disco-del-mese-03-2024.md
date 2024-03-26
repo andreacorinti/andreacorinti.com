@@ -19,14 +19,6 @@ Dovessi dire, per me è nettamente il loro disco più riuscito da _Angel of Retr
 
 Vedremo come proseguirà il 2024, ma mi sbilancio subito: papabilissimo disco dell'anno!
 
-### The Moor - Ombra
-
-Anche questa settimana sono lieto di parlare della scena metallara italica celebrando i veneziani The Moor, usciti lo scorso 15 Marzo con un disco melodic-death metal di stampo prettamente Göteborgiano a tinte progressive: 
-
-considerate che una delle mie band preferite in assoluto sono i **Dark Tranquillity**, quindi da queste parti ci sono andato inevitabilmente a nozze.
-
-E sì, per chi se lo stesse chiedendo, dubito che il nome del gruppo sia un caso visto che più di una sonorità mi pare parli la lingua degli **Opeth**.
-
 ### Cloud People - Simulacra 
 
 _dalla norvegia col sintetizzatore!_
@@ -52,3 +44,11 @@ c'è del talento, ma credo il bisogno di un produttore o un'etichetta in grado d
 Gran disco folk-progressive rock: progetto corale di parte degli Eluveitie e dei Faun, ma con un respiro piuttosto lontano dal metal e semmai a tratti più vicino al pop-rock elettronico new age dei primi anni 2000 (!) 
 
 anche per questo, non credo sia stato ben recepito dalla comunità metallara che più o meno lecitamente si aspettava altro dal progetto, ma per quanto mi riguarda come Simulacra è un fantastico "disco da lavoro", molto evocativo e prodotto alla grande.
+
+### The Moor - Ombra
+
+Anche questa settimana sono lieto di parlare della scena metallara italica celebrando i veneziani The Moor, usciti lo scorso 15 Marzo con un disco melodic-death metal di stampo prettamente Göteborgiano a tinte progressive: 
+
+considerate che una delle mie band preferite in assoluto sono i **Dark Tranquillity**, quindi da queste parti ci sono andato inevitabilmente a nozze.
+
+E sì, per chi se lo stesse chiedendo, dubito che il nome del gruppo sia un caso visto che più di una sonorità mi pare parli la lingua degli **Opeth**.
