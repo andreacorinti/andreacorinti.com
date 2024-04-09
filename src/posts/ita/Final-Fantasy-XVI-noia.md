@@ -70,3 +70,7 @@ No, è da FFX-2 che Final Fantasy è diventato qualcosa di diverso, ma questo no
 Il guaio, a mio modo di vedere, è che **Square Enix sembra mancare di una vera e propria linea editoriale che tenga assieme i suoi vari team di sviluppo, gettandosi in progetti forse fin troppo ambiziosi per le sue forze**.
 
 Ed è un peccato perché, come la storia di Clive ci insegna, gente di talento a Squex non manca.
+
+## Thread 
+
+<iframe src="https://livellosegreto.it/@xabacadabra/112240319776192354/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
