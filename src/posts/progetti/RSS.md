@@ -58,6 +58,7 @@ Lascio qui sotto un elenco in aggiornamento perpetuo dove aggiungerò man mano t
 | **Keyezen** | Il mio blog scritto male | [https://log.livellosegreto.it/keyezen/feed/](https://log.livellosegreto.it/keyezen/feed/) |
 | **La cantina dell'appartamento al terzo piano (senza ascensore)** | Appunti vari sui puzzle quotidiani del mondo IT (e non solo) | [https://log.livellosegreto.it/edmael/feed/](https://log.livellosegreto.it/edmael/feed/) |
 | **Notebook From Jason** | Very serious stuff. Typos included. | [https://www.fromjason.xyz/p/notebook/feed/feed.xml](https://www.fromjason.xyz/p/notebook/feed/feed.xml) |
+| [**Nikole Ceccarelli**](nikolececcarelli.it/api/rss) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
 | **Oliviabenson** | Spero di lasciarvi, nonostante tutto, un buon ricordo | [https://log.livellosegreto.it/oliviabenson2/feed/](https://log.livellosegreto.it/oliviabenson2/feed/) |
 | **77nn** | Discorsi etici in rapporto a tencologia, scienza, informatica | [https://www.77nn.it/feed](https://www.77nn.it/feed) |
 | **Zach Leatherman** | Zach Leatherman is a builder for the web at for CloudCannon. He is the creator and maintainer of 11ty, an award-winning open source site generator. | [https://www.zachleat.com/web/feed/](https://www.zachleat.com/web/feed/) |
