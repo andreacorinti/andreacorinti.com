@@ -52,3 +52,5 @@ Anche questa settimana sono lieto di parlare della scena metallara italica celeb
 considerate che una delle mie band preferite in assoluto sono i **Dark Tranquillity**, quindi da queste parti ci sono andato inevitabilmente a nozze.
 
 E sì, per chi se lo stesse chiedendo, dubito che il nome del gruppo sia un caso visto che più di una sonorità mi pare parli la lingua degli **Opeth**.
+
+[_**Aprile 2024**_](/posts/ita/disco-del-mese-04-2024)
