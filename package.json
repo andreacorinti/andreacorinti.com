@@ -1,26 +1,16 @@
 {
   "name": "andreacorinti.com",
-  "version": "3.1.5",
+  "version": "4.0.0",
   "description": "Andrea Corinti website",
-  "main": "index.js",
+  "main": "index.md",
   "scripts": {
-    "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
-    "watch:eleventy": "eleventy --serve",
-    "build:sass-site": "sass  --no-source-map src/sass/style.scss public/css/style.css",
-    "build:sass-social": "sass  --no-source-map src/sass/social.scss social/style.css",
-    "build:sass": "npm-run-all --parallel build:sass-site",
-    "build:eleventy": "eleventy",
-    "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r",
-    "start": "cross-env ELEVENTY_ENV=dev npm-run-all build:sass --parallel watch:*",
-    "build": "cross-env ELEVENTY_ENV=prod npm-run-all build:sass build:eleventy",
-    "lint": "stylelint 'src/sass/**/*.scss' 'src/sass/**/**/*.scss' 'src/sass/**/**/**/*.scss'",
-    "lint:fix": "stylelint --fix 'src/sass/**/*.scss' 'src/sass/**/**/*.scss' 'src/sass/**/**/**/*.scss'",
-    "bump": "npm --no-git-tag-version version",
-    "debug": "set DEBUG=Eleventy* & npx @11ty/eleventy"
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "bump": "npm --no-git-tag-version version"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreacorinti/andreacorinti.com"
+    "url": "git+https://github.com/andreacorinti/andreacorinti.com"
   },
   "keywords": [],
   "author": "andreacorinti",
@@ -32,35 +22,16 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
-    "autoprefixer": "^10.4.17",
-    "cross-env": "^7.0.3",
-    "cssnano": "^6.0.3",
-    "dotenv": "^16.3.2",
-    "emoji-regex": "^10.3.0",
-    "luxon": "^3.4.4",
     "markdown-it": "^14.0.0",
-    "markdown-it-anchor": "^8.6.7",
-    "netlify-plugin-cache-folder": "^0.0.8",
-    "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.33",
-    "postcss-cli": "^10.1.0",
-    "postcss-scss": "^4.0.7",
-    "sass": "^1.70.0",
-    "stylelint": "^16.2.0",
-    "stylelint-config-standard": "^36.0.0",
-    "stylelint-order": "^6.0.3",
-    "stylelint-scss": "^6.1.0",
-    "stylelint-selector-bem-pattern": "^3.0.1"
+    "markdown-it-anchor": "^8.6.7"
   },
   "browserslist": [
-    "last 2 versions"
+    "> 0.25%",
+    "not dead"
   ],
   "dependencies": {
-    "@11ty/eleventy-upgrade-help": "^2.0.5",
-    "axios": "^1.6.5",
+    "@11tyrocks/eleventy-plugin-sass-lightningcss": "^1.2.0",
     "eleventy-plugin-toc": "^1.1.5",
-    "lodash": "^4.17.21",
-    "markdown-it-footnote": "^4.0.0",
-    "nth-check": "^2.1.1"
+    "markdown-it-footnote": "^4.0.0"
   }
 }
