@@ -46,3 +46,5 @@ Li metto assieme perché ho fatto l'errore di ascoltarli uno dietro l'altro senz
 come album nel complesso ho preferito i primi, però come singola traccia ho apprezzato tantissimo _Hypocrisy: Weaponized_ dei secondi
 
 se bazzicate certe sonorità, consiglio l'ascolto!
+
+[_**Maggio 2024**_](/posts/ita/disco-del-mese-05-2024)
