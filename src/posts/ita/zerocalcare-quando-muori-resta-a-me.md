@@ -54,3 +54,7 @@ Il disco di una band che, dopo tanti concept strani, rientra nel genere degli es
 Insomma: bello comunque Michele, ma per il prossimo io m'aspetto i fuochi d'artificio.
 
 PS: e sta tranquillo, che i Social Distortion _Sex, Love and Rock 'n' Roll_ l'han fatto nel 2004 quindi di tempo ne hai!
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/112574428093898450/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
