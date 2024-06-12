@@ -98,3 +98,7 @@ Ecco, io voglio la roba indigena.
 Pure se è scritta male e mi fa incazzare, la preferisco alla diffusione di un articolo di _Kotaku_ scritto benissimo, perché mi dà l'idea che dall'altra parte ci sia una persona, non un aggregatore RSS. 
 
 Ripeto: questa è una fissa personale e che per molti aspetti va in netto contrasto con lo spirito stesso del fediverso, me ne rendo conto: ma che ci volete fare, resto sempre un _ragazzaccio da forum._
+
+## Thread 
+
+<iframe src="https://livellosegreto.it/@xabacadabra/112604439352342748/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
