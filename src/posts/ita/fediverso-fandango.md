@@ -27,7 +27,7 @@ Ovviamente, visto l'approccio collettivo che LS comunque si porta dietro, ci sta
 
 ### _Tutto è politica_ 
 
-'Sta frase è tanto vera quanto insopportabilmente retorica, personalmente oramai la leggo quasi come l'equivalente Open Source di _"è allora il PD?!1"_
+'Sta frase è tanto vera quanto insopportabilmente retorica, personalmente oramai la leggo quasi come l'equivalente Open Source di _"e allora il PD?!1"_
 
 Perché _certo_, tutto è politica, ma credo basti un minimo di buonsenso per comprendere gli opportuni distinguo che passano dalla riflessione su _La Repubblica_ di Platone e il riportare le stronzate del Generale Vannacci, no?
 
@@ -67,7 +67,7 @@ se vi pesa tanto il culo, probabilmente [non leggerete nemmeno questo lungo post
 
 ### Socialismo
 
-Poco prima delle elzioni mi sono lanciato [in questo sproloquio (con CW!)](https://livellosegreto.it/@xabacadabra/112513442988209443) a cui mi ritrovo sempre a pensare quando saltano fuori queste "piccolezze" tecniche, proprio perché, se non passano manco quelle, mi pare naturale diffidare del prossimo per questioni ben più grandi, pure se si tratta del prossimo più virtuoso come ritengo quello del Fediverso.
+Poco prima delle elezioni mi sono lanciato [in questo sproloquio (con CW!)](https://livellosegreto.it/@xabacadabra/112513442988209443) a cui mi ritrovo sempre a pensare quando saltano fuori queste "piccolezze" tecniche, proprio perché, se non passano manco quelle, mi pare naturale diffidare del prossimo per questioni ben più grandi, pure se si tratta del prossimo più virtuoso come ritengo quello del Fediverso.
 
 ### Boost / Reblog
 
@@ -75,7 +75,7 @@ Poco prima delle elzioni mi sono lanciato [in questo sproloquio (con CW!)](https
 
 Questo è un discorso molto personale e controverso, perché **il boost di un post è tendenzialmente qualcosa di bello:**
 
-creare diffusione a un messaggio che ha saputo catturare la nostra attenzione e per questo personalmente continuo a boostare.
+creare diffusione a un messaggio che ha saputo catturare la nostra attenzione è bello, e per questo personalmente continuo a boostare.
 
 Ma, da qualche tempo, ho deciso che non voglio vedere boost nella mia home.
 
@@ -102,3 +102,5 @@ Ripeto: questa è una fissa personale e che per molti aspetti va in netto contra
 ## Thread 
 
 <iframe src="https://livellosegreto.it/@xabacadabra/112604439352342748/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="112604439352342748"></mastodon-comments>
