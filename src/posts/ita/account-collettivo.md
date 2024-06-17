@@ -100,3 +100,7 @@ Tuttavia, se chi ci scrive sopra sa come proporsi e dialogare col mondo, nel ben
 Conseguentemente, scegliere (o meno) di seguirla e leggere altri contenuti che avrà la bontà di proporre in questo vasto mondo retorico e sovraccarico.
 
 ![liam-neeson](https://i.imgflip.com/8u458n.jpg)
+
+## Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/112632150226183469/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
