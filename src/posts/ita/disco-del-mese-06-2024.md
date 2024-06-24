@@ -25,19 +25,21 @@ E ora, giù di secondi posti (questo mese non troppi):
 
 ### Alcest - Les Chants de l'Aurore
 
-Il progetto Alcest è una gran bella garanzia del cosiddetto _blackgaze_ (o post black metal con forti influenze ambient): _Kodama_, _Les Voyages De L'âme_ e soprattutto _Spiritual Instinct_ li ascolto sempre volentieri anche in loop da quanto mi piacciono. 
+Il progetto Alcest è una gran bella garanzia nella scena del cosiddetto _blackgaze_ (o post black metal con forti influenze ambient): 
 
-E, anche questa volta, Neige non si è smentito: 
+_Kodama_, _Les Voyages De L'âme_ e soprattutto _Spiritual Instinct_ li ascolto sempre volentieri (anche in loop!) da quanto mi piacciono. 
 
-_L'Envol_ è un singolo emozionate, _Flamme Jumelle_ un potenziale inno post-metal per la Generazione Z, video compreso, ed è bello sia stato pensato da un pieno millennial come il buon Neige.
+E, diciamolo subito, anche questa volta Neige non si è smentito: 
 
-Forse vi starete chiedendo come mai non l'ho scelto come disco del mese, visto che in realtà avrebbe pure potenzialità da disco dell'anno (e infatti mi riservo il diritto di cambiare idea riascoltandolo un po').
+_L'Envol_ è un singolo emozionate, _Flamme Jumelle_ un potenziale inno post-metal per la Generazione Z (video compreso) ed è bello sia stato pensato da un pieno millennial.
+
+Forse vi starete chiedendo come mai non l'ho scelto come disco del mese, visto che in realtà qui ci sono serie potenzialità da disco dell'anno (se ne riparla tra qualche mese e riascolti)...
 
 Beh, il motivo è che sono un bastardo, inutile girarci attorno. 
 
-Il fatto è che, in queste sonorità, il meraviglioso Nova di Sylvaine (uscito nel 2022) ha toccato vette tali che è stato la prima cosa a cui ho pensato ascoltando la splendida _L'Adieu_ che chiude questo _Les Chants de l'Aurore_. 
+Il fatto è che, in questo campionato, il meraviglioso _Nova_ di Sylvaine (2022) ha toccato vette talmente alte che,appena finito di ascoltare la splendida _L'Adieu_ (chiusa di _Les Chants de l'Aurore_) ho avuto una voglia matta di tornare da Sylvaine e _Fortapt_. 
 
-Profondamente ingiusto, me ne rendo conto, e come detto questo disco è uno di quelli che dovrò carburare meglio nel tempo per apprezzare a dovere.
+Profondamente ingiusto, me ne rendo conto, e come detto questo disco è uno di quelli che dovrò carburare meglio nel tempo per apprezzare a dovere: detto ciò, se il genere vi piace non perdetevelo assolutamente.
 
 ### Sunburst - Manifesto 
 
