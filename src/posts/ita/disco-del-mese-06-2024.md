@@ -21,6 +21,24 @@ Ed effettivamente lo stile da Two Steps from Hell nella produzione / orchestrazi
 
 Lindsey è una grande musicista, ballerina, performer e personalità inquadratissima nel mondo nerd contemporaneo...ma, principalmente, una grande musicista.
 
+E ora, giù di secondi posti (questo mese non troppi):
+
+### Alcest - Les Chants de l'Aurore
+
+Il progetto Alcest è una gran bella garanzia del cosiddetto _blackgaze_ (o post black metal con forti influenze ambient): _Kodama_, _Les Voyages De L'âme_ e soprattutto _Spiritual Instinct_ li ascolto sempre volentieri anche in loop da quanto mi piacciono. 
+
+E, anche questa volta, Neige non si è smentito: 
+
+_L'Envol_ è un singolo emozionate, _Flamme Jumelle_ un potenziale inno post-metal per la Generazione Z, video compreso, ed è bello sia stato pensato da un pieno millennial come il buon Neige.
+
+Forse vi starete chiedendo come mai non l'ho scelto come disco del mese, visto che in realtà avrebbe pure potenzialità da disco dell'anno (e infatti mi riservo il diritto di cambiare idea riascoltandolo un po').
+
+Beh, il motivo è che sono un bastardo, inutile girarci attorno. 
+
+Il fatto è che, in queste sonorità, il meraviglioso Nova di Sylvaine (uscito nel 2022) ha toccato vette tali che è stato la prima cosa a cui ho pensato ascoltando la splendida _L'Adieu_ che chiude questo _Les Chants de l'Aurore_. 
+
+Profondamente ingiusto, me ne rendo conto, e come detto questo disco è uno di quelli che dovrò carburare meglio nel tempo per apprezzare a dovere.
+
 ### Sunburst - Manifesto 
 
 Questo mese gioco anche un po' in casa: i Sunburst infatti sono un gruppo symphonic metal di Larissa (nord della Grecia), e beh, come dirlo...
