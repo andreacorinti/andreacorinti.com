@@ -13,11 +13,13 @@ lang: it-IT
 
 Ah, che donna meravigliosa la signorina Stirling. 
 
-A parte che è più bella ogni video che passa (in quello della splendida _Evil Twin_ sprigiona un erotismo per lei a tratti inedito, sarà il fascino della gemella malvagia, boh?) parliamo di un'artista che, seppur debba molto al suo essere _fenomeno da Youtube_, ha saputo valorizzarsi nel tempo sperimentando le sonorità più disparate col suo magico violino. 
+A parte che è più bella ogni video che passa (in quello della splendida _Evil Twin_ sprigiona un erotismo per lei a tratti inedito, sarà il fascino della gemella malvagia, boh?) parliamo di un'artista che, seppur debba molto al suo essere _fenomeno da Youtube_, ha saputo valorizzarsi nel tempo sperimentando sonorità più disparate sfruttando il suo magico violino. 
 
-I detrattori diranno "musica da trailer", perché effettivamente lo stile Two Steps from Hell nella produzione e nelle orchestrazioni è lì e lotta insieme a noi, ma personalmente non vedo come la cosa possa rappresentare un difetto (che poi a me i TSfH piacciono molto, non a caso).
+I detrattori potrebbero dire (con qualche ragione) _"musica da trailer"_: 
 
-Lindsey è una grande musicista, ballerina, performer e personalità inquadratissima nel mondo nerd contemporaneo...ma soprattutto una grande musicista.
+Ed effettivamente lo stile da Two Steps from Hell nella produzione / orchestrazioni c'è, ma personalmente non lo ritengo certo un difetto (e del resto a me i TSfH piacciono molto, non a caso).
+
+Lindsey è una grande musicista, ballerina, performer e personalità inquadratissima nel mondo nerd contemporaneo...ma, principalmente, una grande musicista.
 
 ### Sunburst - Manifesto 
 
