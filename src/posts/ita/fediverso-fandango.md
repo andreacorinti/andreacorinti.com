@@ -1,4 +1,11 @@
-112874547033815120
+---
+title: "Fediverso Fandango"
+subtitle: "Note sparse su CW, politica, alt-text e altro"
+sommario: "Ci sono cose che covo da un po' e che post-europee mi andava di fissare meglio scrivendole qui senza limiti di 500 caratteri, anche perché sono parecchie e il rischio di fraintendersi resta sempre alto."
+immagine: https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg
+date: 2024-06-12
+lang: it-IT
+---
 
 Ci sono cose che covo da un po' e che post-europee mi andava di fissare meglio scrivendole qui senza limiti di 500 caratteri, anche perché sono parecchie e il rischio di fraintendersi resta sempre alto.
 
