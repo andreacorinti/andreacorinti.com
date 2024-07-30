@@ -91,3 +91,9 @@ Ripeto: ognuno vive il fediverso come vuole e per fortuna si può silenziare in 
 ### Conclusione
 
 Forse tutto questo pippone è dovuto alla sopracitata "eccessiva immersione" che ho sperimentato nel Fediverso, però insomma: nelle ultime settimane mi sono sentito meglio su Instagram che su Mastodon, e forse questo mi ha un pelo spaventato.
+
+### Thread
+
+<iframe src="https://livellosegreto.it/@xabacadabra/112874547033815120/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://livellosegreto.it/embed.js" async="async"></script>
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="112874547033815120"></mastodon-comments>
