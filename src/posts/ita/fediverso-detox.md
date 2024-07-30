@@ -74,9 +74,9 @@ Credo gioverebbe qualche iniziativa dell'amministrazione che porti a scambio e c
 
 Rileggendo [un mio post di quasi due anni fa](/posts/ita/mastodon-migrazione-2) mi sono ricordato della mia cotta per [warp](https://warp.livellosegreto.it/), che però temo sia rimasta un po' in soffitta (avevo dimenticato pure [#SagraSegreta!](https://livellosegreto.it/tags/SagraSegreta)) 
 
-Intendiamoci: queste fase di stanca sono un po' fisiologiche perché la vita, il lavoro e lo scemare dell'entusiasmo più "endorfinico" fanno il resto, e non è da escludere che superata l'estate ritornerà tutto più bello e collettivo di prima!
+Intendiamoci: queste fasi di stanca sono un po' fisiologiche perché la vita, il lavoro e lo scemare dell'entusiasmo più "endorfinico" fanno il resto, e non è da escludere che superata l'estate ritornerà tutto più bello e collettivo di prima!
 
-In questo senso, sono molto curioso di vedere lo sviluppo di [questa iniziativa](https://livellosegreto.it/@ed/112806918742171495) di cui ha parlava [Ed](https://livellosegreto.it/@ed)
+In questo senso, sono molto curioso di vedere lo sviluppo di [questa iniziativa](https://livellosegreto.it/@ed/112806918742171495) di cui parlava [Ed](https://livellosegreto.it/@ed)
 
 ### Di guerre tra istanze e altre facezie
 
