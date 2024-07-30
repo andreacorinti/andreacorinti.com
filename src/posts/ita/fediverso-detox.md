@@ -84,7 +84,7 @@ Questa è una faccenda che ciclicamente salta fuori in molte istanze italiane (f
 
 per me si può scherzare su tutto eh, non voglio assolutamente buttarmi in un discorso di reprimende morali (figuriamoci), giusto un generico _ma porca puttana che PALLE!_
 
-Anche a me non piacciono i toni e i modi utilizzati da molta gente di M1, ma sentirsi i Charlie Hebdo della situazione bersagliando la "Evil Corp" della situazione mi pare una lita da cortile percepita come fosse la seconda guerra mondiale.
+Anche a me non piacciono i toni e i modi utilizzati da molta gente di M1, ma sentirsi i Charlie Hebdo della situazione bersagliando la "Evil Corp" di turno (capirai) mi pare una lite da cortile percepita come fosse la seconda guerra mondiale.
 
 Ripeto: ognuno vive il fediverso come vuole e per fortuna si può silenziare in allegria, è che a volte ho la sensazione di essere capitato in un condominio di vrenzole, poi magari è un problema esclusivamente mio e me ne farò una ragione.
 
