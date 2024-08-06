@@ -41,7 +41,7 @@ Tutto molto felliniano, se ci pensate.
 
 Ora: com'è noto io ascolto prevalentemente metal e i suoi derivati, ma siccome non ho 15 anni e non sento il bisogno di sostenere qualsivoglia stereotipo TRVE non mi faccio problemi a dire che preferisco una singola canzone di Mahmood a tutta la discografia dei Domine.
 
-È un po' ridicolo tornarci sopra, ma visto che mi tocca sempre farlo, vi rimando al mio [Last.fm](https://www.last.fm/user/XabarasFF/library/artists) per farvi capire che musicalmente sono un felice onnivoro.
+È un po' ridicolo tornarci sopra, ma visto che mi tocca sempre farlo, vi rimando al mio [Last.fm](https://www.last.fm/user/XabaCadabra/library/artists) per farvi capire che musicalmente sono un felice onnivoro.
 
 Lo dico perché, prima che qualcuno se ne esca con:
 
