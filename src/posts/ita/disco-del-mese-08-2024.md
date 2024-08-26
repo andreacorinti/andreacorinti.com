@@ -1,15 +1,21 @@
 ---
 title: "Disco del Mese - Agosto 2024"
-subtitle: ""
-sommario: ""
-immagine: 
+subtitle: "Dark Tranquillity - Endtime Signal"
+sommario: "Eh che ci volete fare, ogni tanto il mio animo da fanboy salta fuori."
+immagine: https://lastfm.freetls.fastly.net/i/u/770x0/9dc995ee4d1d6fcf6ba47bf85124e9dd.jpg
 date: 2024-08-26
 lang: it-IT
 ---
 
 [_**Luglio 2024**_](/posts/ita/disco-del-mese-07-2024)
 
-### Dark Tranquillity 
+## Dark Tranquillity - Endtime Signal
+
+Possibilissimo album dell'anno, per me.
+
+Che altro dire? 4 anni da _Moment_ (che ho adorato), e questo forse è ancora meglio, tanto nelle parte metallose quanto nell'animo più synthpop da Depeche Mode (_False Reflection_, mamma mia).
+
+Sono un po' un fanboy, lo confesso: ma Stanne e soci mi rendono sempre felice, e non è poco per una band tanto longeva, storica e importante per tutta la scena Melodeath internazionale.
 
 ### Blind Guardian - Somewhere Far Beyond (Revisited)
 
