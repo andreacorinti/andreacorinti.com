@@ -37,6 +37,9 @@ Sì, è proprio bello!
 
 Intanto, c'è pure [la comparsata](https://www.youtube.com/watch?v=UgiWNrOH1-0) della <s>mia fidanzata</s> bravissima Alissa White-Gluz (voce degli Arch Enemy), una bella produzione, Simone che mette in mostra il suo fantastico registro vocale in soluzioni anche più complesse, progmetal e insomma elaborate dal "solito" lavoro a cui ci ha abituato con gli Epica...
 
+![simone e alissa white-gluz](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOVF.NqV1uZI1HFcNDIgKpGhYNA%26pid%3DApi&f=1&ipt=c303009d2098f385a64e1e54d09a1b4ac39740676a8962f4f1955a6319ee0757&ipo=videos)
+>ai miei figli dirò "Ecco Shakira e Beyoncé"
+
 ma ecco, qui salta fuori la truffa:
 
 **Vermillion mi è parso a tutti gli effetti uno spinoff del progetto _Ayreon_ di quel vecchio volpone di Arjen Anthony Lucassen**, spinoff palesemente cucito su misura sulla splendida voce di Simone eh, ma insomma.
