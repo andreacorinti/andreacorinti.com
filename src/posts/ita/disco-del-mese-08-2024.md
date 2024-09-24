@@ -34,3 +34,5 @@ Il guaio è che l'odierna voce di Billy, sempre acuta e particolare, mi pare fin
 _Aghori Mhori Mei_ è un palese (tentato) ritorno a _Siamese Dream_ e _Mellon Collie and the Infinite Sadness_, con riff molto belli da alternative rock di metà anni '90, però con un forte influsso di tutto lo storico più pop-sperimentale-ambient-boh a cui la band ci ha abiutato negli ultimi anni (_Pentecost_) 
 
 Guazzabuglio strano, chiaramente lontano dai capolavori delle origini, ma per me in definitiva un bel disco.
+
+[_**Settembre 2024**_](/posts/ita/disco-del-mese-09-2024)

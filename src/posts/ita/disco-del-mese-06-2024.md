@@ -69,4 +69,16 @@ Deserti è un buon disco da rock radiofonico molto leggero ed estivo, con qualch
 
 _Canto_ con un pelo di pesantezza in più l'avrei sentita pure bene in un lavoro solista di Sully Erna (frontman dei Godsmack), e da segnalare la notevole collaborazione con i favolosi Calibro 35 in _Baby Gang_
 
+### Kittie - Fire
+
+La travagliata storia delle "gattine" canadesi, incrociata con la triste dipartita della bassista Trish Doan nel 2017, è una sorta di manifesto per la scena metallara dei primi anni 2000.
+
+Come d'altronde suona pure questo _Fire_, groove / heavy Panteriano condito da growl, scream e soluzioni al limite del djent (che però sfiorano soltanto, tenendosi in un disco asciutto e senza fronzoli) in un botta e risposta tra melodia e cattiveria che mi riporta inevitabilmente all'adolescenza (Falter mi ha fatto sentire nel 2006)
+
+Album da poco più di mezzoretta, produzione bella pulita e giusta dose di cattiveria: una scuola a cui un sacco di altre band dovrebbero andare a prendere qualche lezioncina.
+
+Insomma: _Are You Entertained?_
+
+Sì!
+
 [_**Luglio 2024**_](/posts/ita/disco-del-mese-07-2024)
