@@ -60,7 +60,7 @@ Non sono un ascolto per tutti i palati, inutile dirlo, ma non suonano davvero co
 
 Ho amato in particolare la chitarra per scelte di riff/assoli ed effettistica e il fatto che si chiamino PAPANGU, ovvero uno dei nomi più belli del mondo.
 
-Ah, mia [vecchia battaglia](https://www.andreacorinti.com/posts/eng/always-english/): oltre al discorso linguistico, anche musicalmente l'essenza brasiliana viene fuori alla grande, contribuendo parecchio al discorso originalità di cui sopra.
+Ah, mia [vecchia battaglia](/posts/eng/always-english/): oltre al discorso linguistico, anche musicalmente l'essenza brasiliana viene fuori alla grande, contribuendo parecchio al discorso originalità di cui sopra.
 
 ### David Gilmour - Luck and Strange
 
@@ -94,4 +94,4 @@ però oh, il disco è molto simpatico e suonato bene!
 
 ### Bonus Track: Ulver - Locusts 
 
-Che dire? Prosegue alla grande il [discorso di Luglio](http://localhost:8080/posts/ita/disco-del-mese-07-2024/) con l'aggiunta di _Locusts_ che è un'altra traccia megagalattica. Nel dubbio, basta ascoltare tutto ciò che Kristoffer Rygg caccia fuori per essere felici.
+Che dire? Prosegue alla grande il [discorso di Luglio](/posts/ita/disco-del-mese-07-2024/) con l'aggiunta di _Locusts_ che è un'altra traccia megagalattica. Nel dubbio, basta ascoltare tutto ciò che Kristoffer Rygg caccia fuori per essere felici.
