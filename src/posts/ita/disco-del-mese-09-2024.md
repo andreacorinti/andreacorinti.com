@@ -46,11 +46,11 @@ Ma come detto è un disco veramente abbondante quindi è troppo presto per capir
 
 Questi ragazzotti di Portland sono in giro da pochi anni eppure direi che possono essere considerati di diritto i padrini dell'Heavy Goth Rock di questa generazione:
 
-tre album all'attivo (uno più bello dell'altro), vibes da Type O Negative con vocione alla Danzig, con canzoni che si incrociano splendidamente sia con la scena punk che puramente heavy metal (_Momma Like the Door Closed_ per dire è l'ideale anello mancante tra Misfits e Metallica)
+tre album all'attivo (uno più bello dell'altro), vibes da Type O Negative più vocione alla Danzig, con canzoni che si incrociano splendidamente sia con la scena new wave punk anni '80 che puramente heavy metal (_Momma Like the Door Closed_ per dire pare l'ideale anello mancante tra Misfits e Metallica, e ogni tanto sembra di sentire gli Smiths incrociati coi Sister of Mercy)
 
-Anche in questo disco i nostri amici ci deliziano con una cover: _Pet Sematary_, certo forse un pelo più prevedibile per loro rispetto all'azzeccatissima _Hell's for Children_ ma oh, ci sta tutta (anche se parlando dei Ramones io avrei voluto _Poison Heart_...ma lì forse sarebbe stato davvero troppo facile). 
+Anche in questo disco i nostri amici ci deliziano con una cover: _Pet Sematary_, certo forse un pelo prevedibile rispetto all'azzeccatissima _Hell's for Children_ ma oh, ci sta tutta (anche se parlando dei Ramones io avrei voluto _Poison Heart_...ma forse sarebbe stato davvero troppo scontato). 
 
-Ho amato tutto il disco, ma dovendo buttare lì un po' di tracce che ho ascoltato parecchio direi _Fame_, _Time Goes on_, _Cold World_ e _Hoops_, più i due singoli che però già mastico da un pezzo (_Butterfly_ e _Raigeki 雷_)
+Ho apprezzato un casino tutto il disco, ma dovendo buttare lì un po' di tracce che ho ascoltato parecchio direi _Fame_, _Time Goes on_, _Cold World_ e _Hoops_, più i due singoli che però già mastico da un pezzo (_Butterfly_ e _Raigeki 雷_)
 
 ### Papangu – Lampião Rei
 
