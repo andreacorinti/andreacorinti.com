@@ -7,6 +7,8 @@ date: 2024-10-05
 lang: it-IT
 ---
 
+[_recensione su Steam_](https://steamcommunity.com/id/xabaras89/recommended/1574820/)
+
 Questo gioco mi ha spremuto il cuore.
 
 Sì, messa così sembra l'introduzione di una canzone indie da quattro soldi, ma è la prima cosa che mi andava di scrivere. 
