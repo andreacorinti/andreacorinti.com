@@ -47,7 +47,3 @@ Mi sento di ribadire che non è un gioco per tutti i palati, che non capire esat
 In ogni modo, un gioco fatto da Dio. O dal Diavolo, a voi la sentenza. 
 
 **[Se l'avete finito, qui ne parlo con tutti gli spoiler del caso](/posts/ita/immortality-spiegazione/)**
-
-## Discussione
-
-<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/127" data-width="100%"></script>

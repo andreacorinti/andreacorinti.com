@@ -355,9 +355,3 @@ Tenendo per buona questa teoria, The One mostrerebbe invece un approccio più "a
 Ovviamente, viene da chiedersi che intendono loro per "reale"...
 
 _in aggiornamento_
-
-## Commenti 
-
-Se avete qualche riflessione da condividere o domande da fare, fate una capatina su telegram e dite la vostra!
-
-<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/128" data-width="100%"></script>

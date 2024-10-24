@@ -31,6 +31,13 @@ E poi piangere. E ridere. E ripiangere.
 
 Tre anni di sviluppo per un team composto da appena una decina di pesone mi hanno convinto a tenere d'occhio qualsiasi nuovo lavoro verrà fuori da Polychroma Games: Magaling kayo!
 
-Postilla: vorrei fare i miei più sentiti complimenti a chi ha curato la localizzazione in italiano (non mi sono annotato i nomi nei crediti e ora ritrovarli è un impresa, poi aggiornerò!) davvero un lavoro di adattamento perfetto e da applausi almeno quanto il gioco!
+Postilla: vorrei fare i miei più sentiti complimenti a chi ha curato la localizzazione in italiano:
+ 
+- Federico Odorizzi 
+- Giulia Merlo 
+- Chiara Di Modica 
+- Alessandro Mannara
+
+davvero un lavoro di adattamento perfetto e da applausi almeno quanto il gioco!
 
 ![until-then-nicole](/img/unti-then.jpg)

@@ -95,3 +95,5 @@ però oh, il disco è molto simpatico e suonato bene!
 ### Bonus Track: Ulver - Locusts 
 
 Che dire? Prosegue alla grande il [discorso di Luglio](/posts/ita/disco-del-mese-07-2024/) con l'aggiunta di _Locusts_ che è un'altra traccia megagalattica. Nel dubbio, basta ascoltare tutto ciò che Kristoffer Rygg caccia fuori per essere felici.
+
+[_**Ottobre 2024**_](/posts/ita/disco-del-mese-10-2024)
