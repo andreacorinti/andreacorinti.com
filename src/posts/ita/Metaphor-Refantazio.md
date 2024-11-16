@@ -7,6 +7,8 @@ lang: it-IT
 date: 2024-11-16
 ---
 
+[_**recensione su steam_**](https://steamcommunity.com/id/xabaras89/recommended/2679460)
+
 Cosa succede se prendiamo un JRPG con una concezione da PlayStation 1, con le limature e migliorie (il famigerato "quality of life improvement") del mondo ludico contemporaneo?
 
 O ancora: 
@@ -107,9 +109,11 @@ Probabilmente non parliamo della storia più bella e memorabile offerta dal vast
 
 Personalmente speravo di trovare qualcosa di più nel rapporto tra i personaggi, ma nel complesso abbiamo senz'altro uno dei migliori JRPG degli ultimi anni, con un good ending (facendo tutto-tutto) straordinariamente appagante.
 
+![la-fantasia-vivrà-per-sempre](https://steamuserimages-a.akamaihd.net/ugc/42315723780217615/91D723B4F6BA54869F1E7F53BB90D18BCF51851A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
 ### PS: Steam Deck
 
-Ho giocato tutte le mie 80+ ore esclusivamente su Steam Deck senza smanettare particolarmente con le impostazioni: aldilà di qualche minima lentezza nel caricamento o qualche leggero lag a Brilehaven, il gioco ha girato perfettamente liscio ciucciando il giusto di batteria.
+Ho giocato tutte le mie 90+ ore esclusivamente su Steam Deck senza smanettare particolarmente con le impostazioni: aldilà di qualche minima lentezza nel caricamento o qualche leggero lag a Brilehaven, il gioco ha girato perfettamente liscio ciucciando il giusto di batteria.
 
 Se avete una Deck e vi piacciono i JRPG, per voi è un ottimo investimento!
  
