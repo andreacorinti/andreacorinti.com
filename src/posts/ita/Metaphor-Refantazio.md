@@ -7,7 +7,7 @@ lang: it-IT
 date: 2024-11-16
 ---
 
-[_**recensione su steam_**](https://steamcommunity.com/id/xabaras89/recommended/2679460)
+[**_recensione su steam_**](https://steamcommunity.com/id/xabaras89/recommended/2679460)
 
 Cosa succede se prendiamo un JRPG con una concezione da PlayStation 1, con le limature e migliorie (il famigerato "quality of life improvement") del mondo ludico contemporaneo?
 
