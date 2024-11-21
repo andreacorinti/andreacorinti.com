@@ -40,7 +40,7 @@ Intendiamoci, volente o nolente le istanze attive finiscono puntualmente per par
 
 **se nel server c'è scambio su base quotidiana, temo che l'effetto "trend del giorno" salti sempre fuori.**
 
-Certo, la situazione internazionale tra guerra in Palestina, le elezioni americane più le solite mattate della politica italiana ci hanno messo molto del loro.
+Certo, la situazione internazionale tra guerra in Palestina, le elezioni americane più le solite mattate della politica italiana ci ha messo molto del suo.
 
 Il guaio è che, CW o non CW, i sopracitati thread "da twitter" hanno finito per farla da padrone un po' ovunque e, anche in un ambiente "nerd" come Livello Segreto, temo sia molto più facile ottenere scambio parlando della minchiate della Meloni piuttosto che boh, di _Metaphor: ReFantazio_.
 
