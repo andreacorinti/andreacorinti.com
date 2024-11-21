@@ -103,6 +103,12 @@ spesso bastano semplici rubrichette da diffondere via hashtag...senza che debban
 
 Anzi, trovo ancora più bello far partire qualcosa e lasciarla andare per la sua strada in altri contesti, con cui magari si può creare un ponte comunicativo (l'isolamento tra "local" è un'altra croce che il fediverso mi pare portarsi fisiologicamente dietro).
 
+### Conclusioni Generali
+
+Purtroppo col resto del fediverso ho interagito davvero poco, soprattutto quello anglofono con cui quest'anno ho avuto pochissimi scambi (ma filtrare post interessanti da quelle parti è ancora più complesso), c'è sempre lo strapotere interno di Mastodon e, in generale, le sensazioni che mi arrivano da Gargron non mi fanno ben sperare per il futuro.
+
+Forse sono un po' disfattista, ma oramai temo che il web comunitario non se la passi benissimo da nessuna parte.
+
 ### Conclusioni Segrete
 
 Diciamo che questa è la mia opinione da semplice utente: 
@@ -110,9 +116,3 @@ Diciamo che questa è la mia opinione da semplice utente:
 Secondo me LS ha tutte le potenzialità per ritagliarsi un proprio spazio ancora più definito e connotato, proprio perché è complessivamente un ambiente bellissimo, con un regolamento e una filosofia di fondo ottimi, nonché determinati temi di fondo utili per fare comunella (anche per chi non li bazzica troppo!)
 
 Anche per questo, pure se spesso mi sono ritrovato a pensare cose del tipo _"se mi facessi la mia microistanza non credo la mia esperienza cambierebbe più di tanto_" e sto un po' esaurendo la pazienza da dedicare al social-web, mi sento ancora molto felice di far parte di Livello Segreto!
-
-### Conclusioni Generali
-
-Purtroppo col resto del fediverso ho interagito davvero poco, soprattutto quello anglofono con cui ho avuto pochissimi scambi (ma filtrare post interessanti da quelle parti è ancora più complesso), c'è sempre lo strapotere interno di Mastodon e, in generale, le sensazioni che mi arrivano da Gargron non mi fanno ben sperare per il futuro.
-
-Forse sono un po' disfattista, ma oramai temo che il web comunitario non se la passi benissimo da nessuna parte.
