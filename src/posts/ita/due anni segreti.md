@@ -109,7 +109,7 @@ Diciamo che questa è la mia opinione da semplice utente:
 
 Secondo me LS ha tutte le potenzialità per ritagliarsi un proprio spazio ancora più definito e connotato, proprio perché è complessivamente un ambiente bellissimo, con un regolamento e una filosofia di fondo ottimi, nonché determinati temi di fondo utili per fare comunella (anche per chi non li bazzica troppo!)
 
-Anche per questo, anche se spesso mi sono ritrovato a pensare cose del tipo _"se mi facessi la mia microistanza non credo la mia esperienza cambierebbe più di tanto_" perché ho un po' esaurito la pazienza da dedicare al social-web, sono felice di Livello Segreto!
+Anche per questo, pure se spesso mi sono ritrovato a pensare cose del tipo _"se mi facessi la mia microistanza non credo la mia esperienza cambierebbe più di tanto_" e sto un po' esaurendo la pazienza da dedicare al social-web, mi sento ancora molto felice di far parte di Livello Segreto!
 
 ### Conclusioni Generali
 
