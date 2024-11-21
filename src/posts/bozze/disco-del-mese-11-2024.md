@@ -19,6 +19,12 @@ produzione fenomenale, synth e ispirazione, disco da ascoltarsi a ripetizione pe
 
 Preciso che a me i Cure piacciono molto ma non sono esattamente loro fanatico (per dire, con Nightwish o Judas Priest sono molto più consapevolmente di parte)
 
+###  Crippled Black Phoenix - The Wolf Changes Its Fur But Not Its Nature
+
+Segnalato su Livello Segreto da [@Zel](https://livellosegreto.it/@Zel), fantastico disco prog-rock sperimentale oscuro, matto e prodotto in modo DIVINO.
+
+Tutto il disco è bellissimo ma in particolare _Song For The Unloved_ (un quarto d'ora di canzone con dentro la qualsiasi) è senz'altro una delle canzoni che più mi ha colpito in questo 2024.
+
 ### Devin Townsend - PowerNerd 
 
 Sì in teoria è uscito a fine ottobre, ma portate pazienza me lo sono sentito tutto più tardi quindi lo piazzo a Novembre: 
@@ -35,7 +41,7 @@ Novembre ricco
 
 ### Linkin Park - From Zero
 
-Se ne sono dette di ogni sul ritorno dei Linkin Park con la nuova cantante Emily Armstrong al posto del compianto Chester Bennington. 
+Se ne sono dette di ogni sul ritorno dei Linkin Park con la nuova cantante Emily Armstrong a sostituzione del compianto Chester Bennington. 
 
 Ora, come avevo scritto a suo tempo [in questo post dedicato proprio a Chester](/posts/ita/chester-bennington/), io non sono mai stato esattamente un fan dei Linkin Park se escludiamo _A Thousand Suns_ e qualche vecchio singolo, quindi direi che ho potuto ascoltare il disco con la giusta dose di distanza emotiva...
 
@@ -56,6 +62,10 @@ Insomma, ci sarà pure del cinismo, ma produttivamente parlando mi pare davvero 
 I Klone sono un gruppo progmetal che per qualche motivo non mi ha mai davvero conquistato e finisco puntualmente per scordarmi: eppure sono un gran fan di _Into the Void_ (dall'album The Dreamer's Hideaway), quindi è strano e forse è pigrizia mia.
 
 The Unseen è un disco molto interessante: per certi versi, mi è sembrato di sentire gli Incubus che suonano i Porcupine Tree o qualcosa del genere.
+
+### Thy Catafalque – XII: A gyönyörū álmok ezután jönnek
+
+Ah, il famoso metal magiaro (?!) disco davvero interessante nella scena avant-garde con radici nel black metal e un respiro più progressive, unito alla particolarità della lingua ungherese che per forza di cose ha un suono tutto suo.
 
 ### VOLA - Friend of a Phantom
 
