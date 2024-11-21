@@ -101,7 +101,7 @@ tipo i classici topic da forum che ogni tanto si facevano per coinvolgere person
 
 spesso bastano semplici rubrichette da diffondere via hashtag...senza che debbano essere necessariamente legate all'istanza eh!
 
-Anzi, è trovo ancora più bello far partire qualcosa e lasciarla andare per la sua strada in altri contesti, con cui magari si può creare un ponte comunicativo (l'isolamento tra "local" è un'altra croce che il fediverso mi pare portarsi fisiologicamente dietro).
+Anzi, trovo ancora più bello far partire qualcosa e lasciarla andare per la sua strada in altri contesti, con cui magari si può creare un ponte comunicativo (l'isolamento tra "local" è un'altra croce che il fediverso mi pare portarsi fisiologicamente dietro).
 
 ### Conclusioni
 
