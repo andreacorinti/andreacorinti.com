@@ -112,3 +112,5 @@ Forse sono io che non sono nella fase giusta, ma ci ho sentito molto mestiere e 
 ### Paddy and the Rats - Lord of the Drinks
 
 Folk punk irlandese (o celtic punk, che dir si voglia), che corrisponde a tutti gli stereotipi del caso, anche perché il gruppo in realtà è ungherese (il cantante Paddy O'Reilly in realtà si chiama Kristóf Oravecz) e trovo la cosa sempre molto divertente: esiste qualcosa di più variopinto dell'appropriazione culturale che il mondo ha attuato nei confronti dell'Irlanda? A parte questo, il disco sarebbe anche simpatico, se non suonasse fin troppo "pulito".
+
+[_**Novembre 2024**_](/posts/ita/disco-del-mese-11-2024)
