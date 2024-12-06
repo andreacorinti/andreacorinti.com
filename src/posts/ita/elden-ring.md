@@ -68,3 +68,5 @@ E, dopo Elden Ring, credo che il genere abbia defintivamente perso il suo fascin
 Forse prima o poi ci tornerò sopra e riuscirò ad apprezzare Elden Ring come certamente si merita, magari subendo un pelo il fascino della lore o chissà.
 
 Di mio, credo che l'unico Souls che riuscirebbe a "sbloccarmi" al momento è Bloodborne...nel caso prima o poi dovessimo vederlo su Steam o mi andasse di smanettare con gli emulatori.
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113606480270242387"></mastodon-comments>
