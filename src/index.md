@@ -36,13 +36,6 @@ Want to ask something in particular?
 
 Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
 
-## Donations 
-
-There are no cookies or advertising on this site: if you want to support what I write for any reason you can buy me a coffee via Liberapay:
-
-<script src="https://liberapay.com/Xabacadabra/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/Xabacadabra/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
 ## License & Tech
 
 Other than where specified, the content on this site is published under a <a href="https://creativecommons.org/licenses/by/4.0/" target="blank">Creative Commons Attribution license</a>.
