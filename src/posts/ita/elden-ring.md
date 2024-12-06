@@ -43,7 +43,7 @@ Nei titoli Bethesda, ad esempio, amavo creare background per i miei personaggi, 
 
 Il mio primo incontro con *Dark Souls 1* su PlayStation 3 fu traumatico. Perso nella Città Infame con un'arma a base di fuoco e Queelag in agguato, fui costretto a mettere in pausa il gioco.  
 
-Col tempo, ho riscoperto il titolo su PC, al fascino per la saga: 
+Col tempo, ho riscoperto il titolo su PC, soccombendo (più o meno letteralmente) al fascino della saga: 
 
 da lì nacque l’amore per il vecchio *Demon’s Souls*, che poi si è consolidato con *Dark Souls 3* (*Dark Souls 2* ha avuto un suo perché ma lo metterei diverse spanne sotto). 
 
