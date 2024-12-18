@@ -49,7 +49,7 @@ Partiamo subito con l'ovvio: è un disco di un chitarrista, per altro molto brav
 
 Attenzione: credo sia quasi un passaggio obbligato.
 
-Da Satriani a Vai, passando per Malmsteen e Gilbert e compagnia _shreddante_, i chitarristi di un certo peso che ancheanchelavorano a briglie sciolte lontano dalle logiche da band finiscono puntualmente per cimentarsi in virtuosismi a mio parere spesso fin troppo fini a se stessi, pure quando belli (io Steve Vai lo amo tanto per intenderci eh, però spesso quando lo ascolto mi dico "minchia Stefanuzzo, _anche meno_").
+Da Satriani a Vai, passando per Malmsteen e Gilbert e compagnia _shreddante_, i chitarristi di un certo peso che lavorano a briglie sciolte lontano dalle logiche da band finiscono puntualmente per cimentarsi in virtuosismi a mio parere spesso fin troppo fini a se stessi, pure quando belli (io Steve Vai lo amo tanto per intenderci eh, però spesso quando lo ascolto mi dico "minchia Stefanuzzo, _anche meno_").
 
 Lost Within the Fire è fondamentalmente un disco anni '80 con respiri da Van Halen qui e la, con caratteristiche simili a quelle proprie dei dischi dei guitar hero di cui sopra.
 
