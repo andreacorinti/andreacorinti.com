@@ -112,3 +112,5 @@ Che certo, è facile bloccare (o anche sfanculare) opinioni palesemente razziste
 Spero che piccole comunità possano sopravvivere e un minimo prosperare, tipo Vault nelle postatomiche lande di _Fallout_. 
 
 La consapevolezza, però, è che queste nefaste radiazioni ce le portiamo dietro tutti.
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113815986190202357"></mastodon-comments>
