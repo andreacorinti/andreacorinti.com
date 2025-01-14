@@ -33,7 +33,7 @@ la famigerata _cancel culture_ (che però è molto più complicata da misurare).
 
 Essendo stato svezzato dalla scena metal e alle sue mattate, in questo senso credo di aver sviluppato molti anticorpi: 
 
-**Phil Anselmo** (Pantera) che urla white power col braccio teso, **Jon Schaffer** (Iced Earth) che si fa arrestare a Capital Hill in sostegno a Trump eccetera eccetera...
+**Phil Anselmo** (Pantera) che urla white power col braccio teso, **Jon Schaffer** (Iced Earth) che si fa arrestare a Capitol Hill in sostegno a Trump eccetera eccetera...
 
 Allargando, mettiamoci pure i deliri di **J. K. Rowling** (che non devo spiegare quanto ha pesato nella formazione di noi millennial), la questione **Johnny Depp** e via discorrendo.
 
