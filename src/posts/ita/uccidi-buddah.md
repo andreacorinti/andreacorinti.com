@@ -132,3 +132,5 @@ L'importante è non finanziarla!
 Il mio consiglio, per quel che vale, è amare in libertà il lavoro di qualsiasi artista senza per questo innamorarsi di lui/lei, magari mettendo in discussione il proprio concetto di "fan" e la conseguente idealizzazione.
 
 Alla fine, per quanto meritevoli, restiamo tutti pur sempre delle simpatiche scimmie.
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113827294958774641"></mastodon-comments>
