@@ -133,4 +133,4 @@ Il mio consiglio, per quel che vale, è amare in libertà il lavoro di qualsiasi
 
 Alla fine, per quanto meritevoli, restiamo tutti pur sempre delle simpatiche scimmie.
 
-<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113827294958774641"></mastodon-comments>
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113827207222789716"></mastodon-comments>
