@@ -147,11 +147,11 @@ E per ultimo perché in certi casi non credo un gioco vada "venduto" più di tan
 
 Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede **realizzato per un elite di giocatori che è disposta ad accoglierlo con tutti i suoi stupri** (roba concepita da gente che manco l' Hideaki Anno più arrapato, davvero), che saprà abbondantemente ripagare, donando una delle massime esperienze videoludiche a chiunque avrà il coraggio e la volontà di imbarcarsi nella sua epopea (poppea!)
 
-<div style="display: none;" itemscope itemtype="http://schema.org/VideoGame">
+<div style="display: none;" itemscope itemtype="https://schema.org/VideoGame">
 
 <span itemprop="name">Xenogears</span>
 <span itemprop="playMode">SinglePlayer</span>
-<div itemprop="author" itemscope itemtype="http://schema.org/Organization">
+<div itemprop="author" itemscope itemtype="https://schema.org/Organization">
     <p> Author<a itemprop="url" href="https://www.square-enix.com/"><span itemprop="name">Squaresoft</span></a></p>
     <p>Founded in <span itemprop="foundingDate">1975</span></p>
     <P> Persons</p>

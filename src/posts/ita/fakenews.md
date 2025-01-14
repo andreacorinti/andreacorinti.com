@@ -25,7 +25,7 @@ tempi e si chiama disinformazione.**
 dell’arresto dei giocatori della nazionale di calcio nordcoreana e alla loro
 possibile condanna a morte dopo una sconfitta contro la Corea del Sud. Ma la
 notizia [era uno
-scherzo](http://attivissimo.blogspot.ch/2014/10/antibufala-nazionale-nordcoreana.html)
+scherzo](https://attivissimo.blogspot.ch/2014/10/antibufala-nazionale-nordcoreana.html)
 di un giornale satirico americano.</small>
 
 Prima del web e dell’anglofonia imperante si parlava semplicemente di **balle:**
@@ -169,7 +169,7 @@ o Hate Speech.**
 
 Va detto che nell’Ottobre del 2016 è stata avanzata **una proposta di legge in
 merito** ([Atto Camera
-4077](http://www.camera.it/leg17/126?tab=1&leg=17&idDocumento=4077&sede=&tipo=)),
+4077](https://www.camera.it/leg17/126?tab=1&leg=17&idDocumento=4077&sede=&tipo=)),
 e per la verità mi risulta un po’ criptico comprenderne i destini, visto che
 cliccando su **“Esame in Commissione**” ci si ritrova di fronte una mesta pagina
 bianca, seguita da altre che non lasciano proprio *ben sperare*:
@@ -198,7 +198,7 @@ macaco in calore **è ben peggio**.
 
 ![](https://cdn-images-1.medium.com/max/1000/0*UppWKTI5_oUzREkc.jpg)
 <span class="figcaption_hack">[Il Daily Mail del
-2013](http://www.dailymail.co.uk/indiahome/indianews/article-2325699/VISUAL-EDIT-Facebook-nation.html)
+2013](https://www.dailymail.co.uk/indiahome/indianews/article-2325699/VISUAL-EDIT-Facebook-nation.html)
 aveva già le idee abbastanza chiare in proposito</span>
 
 Negli **internet forum**, che andavano per la maggiore nel web antecedente

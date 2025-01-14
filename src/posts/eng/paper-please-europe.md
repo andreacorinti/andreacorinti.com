@@ -24,11 +24,11 @@ By looking at the situation in **Ventimiglia**, on the French-Italian border, I 
 
 | ![europe-migration](https://cdn-images-1.medium.com/max/800/0*NGx1N_pk677QMAHn.jpg)|
 |:--:|
-| _France–Italy border, Ventimiglia. [(source)](http://www.lastampa.it/2015/06/12/italia/cronache/la-francia-blocca-gli-ingressi-dei-migranti-emergenza-anche-a-ventimiglia-nuHp4dqTMZJ4XLBymuQhYO/pagina.html)_ |
+| _France–Italy border, Ventimiglia. [(source)](https://www.lastampa.it/2015/06/12/italia/cronache/la-francia-blocca-gli-ingressi-dei-migranti-emergenza-anche-a-ventimiglia-nuHp4dqTMZJ4XLBymuQhYO/pagina.html)_ |
 
 | ![europe-migration](https://cdn-images-1.medium.com/max/800/0*GvWAHq56N6pM5_lA.jpg)|
 |:--:|
-| _France–Italy border, Ventimiglia. [(source)](http://www.osservatoriorepressione.info/ventimiglia-lacrimogeni-sui-migranti-fuga-verso-la-francia/)_ |
+| _France–Italy border, Ventimiglia. [(source)](https://www.osservatoriorepressione.info/ventimiglia-lacrimogeni-sui-migranti-fuga-verso-la-francia/)_ |
 
 While **Lucas Pope**’s game is set in a pseudo-Iron Curtain / Cold War context, the human aspects tied with Immigration remains the same.
 

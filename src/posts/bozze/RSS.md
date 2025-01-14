@@ -52,7 +52,7 @@ Lascio qui sotto un elenco in aggiornamento perpetuo dove aggiungerò man mano t
 | **Andrea Corinti** | Il sito dove ti trovi ora! Riflessioni su internet, videogiochi, media e chiacchere varie di un web world citizen. | [https://www.andreacorinti.com/feed.xml](https://www.andreacorinti.com/feed.xml)
 | **Grumpy Gamer** | Ron Gilbert's often incoherent and bitter ramblings about the Game Industry | [https://grumpygamer.com/rss2.0](https://grumpygamer.com/rss2.0)
 | **Hawksworx** | Phil Hawksworth's home on the web. Read his blog, ask questions, and find coverage of his recent conference talks about web development. | [https://www.hawksworx.com/feed.xml](https://www.hawksworx.com/feed.xml) |
-| **Henry Jenkins** | Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More | [http://henryjenkins.org/blog?format=rss](http://henryjenkins.org/blog?format=rss) |
+| **Henry Jenkins** | Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More | [https://henryjenkins.org/blog?format=rss](https://henryjenkins.org/blog?format=rss) |
 | **holism in the attic** | Se ascolti il brusio di ogni foglia, sentirai la voce dell'intera foresta | [https://blog.zeruhur.icu/feed/](https://blog.zeruhur.icu/feed/) |
 | **Kenobit** | Pensieri sovversivi in bassa risoluzione | [https://log.livellosegreto.it/kenobit/feed/](https://log.livellosegreto.it/kenobit/feed/) |
 | **Keyezen** | Il mio blog scritto male | [https://log.livellosegreto.it/keyezen/feed/](https://log.livellosegreto.it/keyezen/feed/) |

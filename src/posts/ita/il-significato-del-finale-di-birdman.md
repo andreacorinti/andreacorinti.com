@@ -125,7 +125,7 @@ un'eredità scenica, fasulla, **da milioni di visualizzazioni e molta apparenza,
     </span>
 </div>
 <p class="comment__body">
-    secondo me se pensi alle tue recensioni medie a tema nerd sei un pò in conflitto d'interessi! http://www.bestmovie.it/new...</a>
+    secondo me se pensi alle tue recensioni medie a tema nerd sei un pò in conflitto d'interessi! https://www.bestmovie.it/new...</a>
 </p>
 
 <hr class="comment__hr">
@@ -459,7 +459,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
         2015-07-09T11:12:18Z
     </span>
 </div>
-<p class="comment__body">Analisi veramente molto interessante. Concordo appieno sulla soluzione finale e, a proposito di \"milioni di visualizzazioni\", mi permetto di postare la mia interpretazione del film su BUSILLISBLOG: <a href=\"http://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\" rel=\"nofollow noopener\" title=\"http://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\">http://busillisblog.blogspo...</a></p>
+<p class="comment__body">Analisi veramente molto interessante. Concordo appieno sulla soluzione finale e, a proposito di \"milioni di visualizzazioni\", mi permetto di postare la mia interpretazione del film su BUSILLISBLOG: <a href=\"https://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\" rel=\"nofollow noopener\" title=\"https://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\">https://busillisblog.blogspo...</a></p>
 
 <hr class="comment__hr">
 
@@ -472,7 +472,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
         2015-07-09T11:12:18Z
     </span>
 </div>
-<p class="comment__body">Analisi veramente molto interessante. Concordo appieno sulla soluzione finale e, a proposito di \"milioni di visualizzazioni\", mi permetto di postare la mia interpretazione del film su BUSILLISBLOG: <a href=\"http://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\" rel=\"nofollow noopener\" title=\"http://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\">http://busillisblog.blogspo...</a></p>
+<p class="comment__body">Analisi veramente molto interessante. Concordo appieno sulla soluzione finale e, a proposito di \"milioni di visualizzazioni\", mi permetto di postare la mia interpretazione del film su BUSILLISBLOG: <a href=\"https://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\" rel=\"nofollow noopener\" title=\"https://busillisblog.blogspot.it/2015/07/birdman-ovvero-della-pornografia-social.html\">https://busillisblog.blogspo...</a></p>
 
 <hr class="comment__hr">
 

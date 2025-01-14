@@ -87,7 +87,7 @@ Caso volle che, proprio nel 2010 di questa mia "maturazione", i Linkin Park se n
 
 **Un disco che amai immediatamente**, e che tuttora considero uno degli album più belli usciti in questo decennio ormai al crepuscolo.
 
-Fu in effetti proprio ATS, assieme alla mia situazione sentimentale del periodo e all'immancabile amicizia di [**Arc**](http://www.arcweb.it/) (da sempre nello staff di **Linkin Park Italia**) che mi fecero "riscoprire" tutta la discografia della band:
+Fu in effetti proprio ATS, assieme alla mia situazione sentimentale del periodo e all'immancabile amicizia di [**Arc**](https://www.arcweb.it/) (da sempre nello staff di **Linkin Park Italia**) che mi fecero "riscoprire" tutta la discografia della band:
 
 **Dopo _A Thousand Suns_ apprezzai molto di più tutti i loro lavori**, e più ancora le loro demo.
 

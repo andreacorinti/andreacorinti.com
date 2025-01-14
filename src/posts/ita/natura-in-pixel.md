@@ -7,7 +7,7 @@ lang: it-IT
 date: 2023-12-19
 ---
 
-_Natura in Pixel_ è una raccoltona di articoli curata da Francesco Toniolo e Chiara Ambrogio che porta in scena il discorso ambientale rapportato al mondo dei videogiochi, il cui ricavato andrà donato in beneficienza alla [Oasi Lipu Bosco del Vignolo](http://www.lipu.it/oasi-bosco-del-vignolo-pavia).
+_Natura in Pixel_ è una raccoltona di articoli curata da Francesco Toniolo e Chiara Ambrogio che porta in scena il discorso ambientale rapportato al mondo dei videogiochi, il cui ricavato andrà donato in beneficienza alla [Oasi Lipu Bosco del Vignolo](https://www.lipu.it/oasi-bosco-del-vignolo-pavia).
 
 Dentro ci trovate anche un mio pezzo su _Final Fantasy VII_ (lo so, sono prevedibile) che, da quanto sto leggendo, assieme a Hideo Kojima mi pare risulti molto presente tra le pagine dei miei "colleghi":
 

@@ -15,7 +15,7 @@ rules:
   # https://stackoverflow.com/a/34383157/467582
   function-url-quotes: always
   # https://www.w3.org/TR/selectors/#attribute-selectors
-  # http://stackoverflow.com/q/3851091
+  # https://stackoverflow.com/q/3851091
   selector-attribute-quotes: always
   # Double-quotes are our convention throughout our codebase within (S)CSS. They also reflect how
   # attribute strings are normally quoted within the DOM.
@@ -243,8 +243,8 @@ rules:
         - return
         - warn
   # Disallow "@extend" in scss.
-  # http://csswizardry.com/2016/02/mixins-better-for-performance/
-  # http://vanseodesign.com/css/sass-mixin-or-extend/
+  # https://csswizardry.com/2016/02/mixins-better-for-performance/
+  # https://vanseodesign.com/css/sass-mixin-or-extend/
   # Besides performance, @extend actually *changes* the selector precedence by creating a compound
   # selector, which can lead to ambiguous results.
   at-rule-blacklist:
@@ -276,7 +276,7 @@ rules:
   selector-id-pattern: ^tdbc-.+
   # Names are more semantic than numbers
   font-weight-notation: named-where-possible
-  # http://www.paulirish.com/2010/the-protocol-relative-url/
+  # https://www.paulirish.com/2010/the-protocol-relative-url/
   function-url-no-scheme-relative: true
   # TODO: and FIXME: warnings are super useful because they remind us that we should address these
   # within our codebase
@@ -309,7 +309,7 @@ rules:
         - else
 
   # We use Harry Roberts' BEM dialect as our preferred way to format classes.
-  # See: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+  # See: https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
   # See: https://github.com/postcss/postcss-bem-linter/blob/c59db3f/lib/preset-patterns.js#L39
   plugin/selector-bem-pattern:
     componentName: ^[a-z]+(?:-[a-z]+)*$

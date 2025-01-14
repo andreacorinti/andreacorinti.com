@@ -15,7 +15,7 @@ Di Cuba ho imparato qualcosa di più crescendo, un po' per letture mie e un po' 
 
 Ricordo che quando quattro anni fa Fidel morì lessi una sorta di articolo / epitaffio molto, molto bello di Lia De Feo, ve lo ripropongo qui:
 
-[**Omaggio a Fidel**](http://www.lamacchinasognante.com/omaggio-a-fidel-lia-de-feo/)
+[**Omaggio a Fidel**](https://www.lamacchinasognante.com/omaggio-a-fidel-lia-de-feo/)
 
 Il contenuto ben evidenzia alcuni aspetti che mi sento di confermare:
 

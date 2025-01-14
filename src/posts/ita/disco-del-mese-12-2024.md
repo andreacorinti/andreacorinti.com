@@ -66,3 +66,5 @@ Sempre in tema di virtuosismi, il bassista nostrano Alberto Rigoni tira fuori un
 Nuovo lavoro del progetto dark ambient / neo folk dello svedese L. Swärd: non è decisamente un disco per tutti i palati, ma direi che rappresenta una potenziale ottima colonna sonora per un sacco di cose.
 
 In particolare, le melodie di _Jord_ mi sono piaciute un botto!
+
+[_**Gennaio 2025**_](/posts/ita/disco-del-mese-01-2025)

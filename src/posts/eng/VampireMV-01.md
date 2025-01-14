@@ -26,4 +26,4 @@ A Visual Novel / RPG Hybrid heavly inspired by NEC PC-9801 look and feel, Snatch
 
 ## Great Pluing Coders
 
-So far I must say that I'm loving the works of [Galv](https://galvs-scripts.com/) and [Kino](http://endlessillusoft.com/), that also made this wonderful [bible](https://kinoar.github.io/rmmv-doc-web/index.html). 
+So far I must say that I'm loving the works of [Galv](https://galvs-scripts.com/) and [Kino](https://endlessillusoft.com/), that also made this wonderful [bible](https://kinoar.github.io/rmmv-doc-web/index.html). 
