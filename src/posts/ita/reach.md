@@ -71,7 +71,7 @@ Posso dirmi complessivamente molto contento, e da qualche mese ho notato un paio
 
 La cosa che mi ha davvero stupito? 
 
-Anche il mio [megapostone su _Metaphor: ReFantazio_](Metaphor-Refantazio) è stato cagato _pochissimo_!
+Anche il mio [megapostone su _Metaphor: ReFantazio_](/posts/itaMetaphor-Refantazio) è stato cagato _pochissimo_!
 
 Intendiamoci:
 
