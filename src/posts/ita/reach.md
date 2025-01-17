@@ -69,9 +69,9 @@ Posso dirmi complessivamente molto contento, e da qualche mese ho notato un paio
 
 2. **I post che interessano due gatti** (_miao!_) sono le rubrichette sui dischi del mese e **faccende metallare** in senso lato: normalissimo, d'altronde non è che i _tizi del growl™_ (© [Efi](https://livellosegreto.it/@effimera))  scandinavi entusiasmino stuoli di persone, specialmente italofone. Li scrivo per esercizio personale e perché mi ci diverto - poi ovviamente se becco qualche altra anima bella che ascolta le cose che piacciono a me sono molto felice!
 
-La cosa che mi ha davvero stupito? 
+La cosa che mi ha davvero stupito?
 
-Anche il mio [megapostone su _Metaphor: ReFantazio_](/posts/itaMetaphor-Refantazio) è stato cagato _pochissimo_!
+Anche il mio [megapostone su _Metaphor: ReFantazio_](/posts/ita/Metaphor-Refantazio) è stato cagato _pochissimo_!
 
 Intendiamoci:
 
