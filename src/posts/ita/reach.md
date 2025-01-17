@@ -134,5 +134,6 @@ Comunque, credo che più che il discorso limite dei caratteri, link esterni, imm
 
 (Lancia e Fiat, insomma). 
 
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113842797811951525"></mastodon-comments>
 
 
