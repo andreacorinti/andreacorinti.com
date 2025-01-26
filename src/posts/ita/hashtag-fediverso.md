@@ -13,7 +13,7 @@ Magari anche solo una o due persone, con cui possiamo costruire scambio e intera
 
 Bene: 
 
-**gli hashtag possono essere degli alleati portenosi!**
+**gli hashtag possono essere degli alleati portentosi!**
 
 Ma, tendenzialmente, sanno di _sporco_. 
 
