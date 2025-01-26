@@ -122,7 +122,7 @@ Ma anche ad aprire al mondo federato, creando scambio tra istanze, come il celeb
 
 ![My Neighboor Mastodon 30K" by David Revoy](https://www.peppercarrot.com/0_sources/0ther/misc/hi-res/2024-09-09_My-Neighboor-Mastodon_30K_by-David-Revoy.jpg) 
 
-<small>(ma quanto è bravo [David Reovy?](https://framapiaf.org/@davidrevoy))</small>
+<small>(ma quanto è bravo [David Revoy?](https://framapiaf.org/@davidrevoy))</small>
 
 Di sicuro ci saranno argomenti che non sopportate, e sapete che c'è? 
 
