@@ -114,7 +114,7 @@ Per lo stesso motivo, ogni tanto curioso il popolare [**#ViernesDeEscritorio**](
 
 Proprio come quella appena citata, su LivelloSegreto da parecchie settimane passo il tempo a fare il cascamorto con la celeberrima [**#CrushDelMercoledì**](https://livellosegreto.it/tags/CrushDelMercoledi), anche perché spesso è un ottimo spunto per parlare di altro (film, videogiochi, anime, sport...).
 
-Insomma, sono quelle piccole cose che credo aiutano a fare da "collante" alle community - vedi anche il [**#VenerdìRaccone**](https://livellosegreto.it/tags/VenerdìRaccone).
+Insomma, sono quelle piccole cose che credo aiutino a fare da "collante" alle community - vedi anche il [**#VenerdìRaccone**](https://livellosegreto.it/tags/VenerdìRaccone).
 
 Ma anche ad aprire al mondo federato, creando scambio tra istanze, come il celeberrimo e internazionale [**#Caturday**](https://livellosegreto.it/tags/Caturday)
 
