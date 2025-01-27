@@ -111,3 +111,6 @@ Ci sta! Ma già il fatto che sul tema si inizi a discutere e prendere posizione,
 
 Sul resto, [tocca sempre citare quel maledetto di Mogol](https://www.youtube.com/watch?v=DrbU36HY4NQ).
 
+### Commenti 
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113899441761837302"></mastodon-comments>
