@@ -95,3 +95,5 @@ Eeeh! Difficile scegliere, ma sono molto affezionato a [questo](/posts/ita/Akira
 ### Qualche progetto per il futuro del tuo blog?
 
 Mi basta continuare a postare con una certa continuità, segnalare i "dischi del mese" per avere una certa costanza e "mischiare" sempre più quello che scrivo qui con la mia presenza su Livello Segreto, la mia istanza mastodon.
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113940652609589746"></mastodon-comments>
