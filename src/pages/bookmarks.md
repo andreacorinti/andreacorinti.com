@@ -1,12 +1,39 @@
 ---
 title: Bookmarks
 subtitle: A directory with some of my favorite websites
+sommario: A directory with some of Andrea Corinti's favorite websites
 layout: bookmarks
 ---
 
 Just a list with a few sites that I like and recommend for various reasons!
 
 perpetually work in progress...
+
+<div lang="it-IT" xml:lang="it-IT">
+
+## 🇮🇹 In Italiano
+
+| Website | Description |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
+| [**Cantina Ragnate.la**](https://cantina.ragnate.la//) | Il bel blog di Edoardo Maria Elidoro, Ed di Livello Segreto! |
+| [**Kenobit.it**](https://www.kenobit.it/) | Homepage di Fabio "Kenobit" Bortolotti, artista e attivista digitale |
+| [**Warp Zine**](https://warp.livellosegreto.it/) | la webzine di Livello Segreto (istanza Mastodon dove bazzico) |
+| [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
+| [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
+| [**Nikole Ceccarelli**](https://www.nikolececcarelli.it/blog) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
+| [**Federazione Blog Indipendenti**](https://fediblog.it) | Progetto di TiTiNoNero, interessante aggregatore di blog italiani a cui partecipo |
+| [**Rulatori Solitari**](https://www.ruolatorisolitari.it) | Portale dedicato al GDR in solitaria |
+| [**holism in the attic**](https://blog.zeruhur.icu/) | bel blog a tema geek di zeruhur |
+| [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
+| [**Old Games Italia**](https://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
+| [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
+| [**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_ |
+
+</div>
+
+## 🇬🇧 In English
+
 
 | Website | Description |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,30 +56,4 @@ perpetually work in progress...
 | [**Nanda Okitavera**](https://okitavera.me/)|The great website of Nada, also made with 11ty! |
 | [**The Eye**](https://the-eye.eu/)|Sápere aude!|
 | [**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
-| [**Angry Metal Guy**](https://www.angrymetalguy.com/) | One of the few music review sites I read |
-
-<div lang="it-IT" xml:lang="it-IT">
-
-## 🇮🇹 In Italiano
-
-| Website | Description |
-|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
-| [**Cantina Ragnate.la**](https://cantina.ragnate.la//) | Il bel blog di Edoardo Maria Elidoro, Ed di Livello Segreto! |
-| [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
-| [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
-| [**Nikole Ceccarelli**](https://www.nikolececcarelli.it/blog) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
-| [**Federazione Blog Indipendenti**](https://fediblog.it) | Progetto di TiTiNoNero, interessante aggregatore di blog italiani a cui partecipo |
-| [**Rulatori Solitari**](https://www.ruolatorisolitari.it) | Portale dedicato al GDR in solitaria |
-| [**Warp Zine**](https://warp.livellosegreto.it/) | la webzine di Livello Segreto (istanza Mastodon dove bazzico) |
-| [**KSGaming**](https://live.ksgaming.it/) | l'owncast di un'avventurosa coppia di Streamer e del gatto Sirio |
-| [**holism in the attic**](https://blog.zeruhur.icu/) | bel blog a tema geek di zeruhur |
-| [**Arena80**](https://www.arena80.it/) | Sito meraviglioso per ogni buon nostalgico |
-| [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
-| [**Old Games Italia**](https://oldgamesitalia.net/) |  Storica community e webzine a tema retrogame in Italia |
-| [**Adventure's Planet**](https://www.adventuresplanet.it/) | Caposaldo tutto italiano di uno dei generi più particolari e meravigliosamente _scimmieschi_ della storia del videogame |
-|[**Antro Atomico**](https://docmanhattan.blogspot.com/) | Dimora del Dr Manhattan e del _bassismo carismatico_|
-|[**La Giornata Tipo**](https://www.lagiornatatipo.it/) | Basket raccontato in modo strepitoso
-|[**Ne3rdcore**](https://n3rdcore.it/) | Uno dei pochi portali a tema videogiochi / nerdate d'attualità che leggo|
-
-</div>
+| [**Angry Metal Guy**](https://www.angrymetalguy.com/) | One of the few music review sites I follow |
