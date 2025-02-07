@@ -1,6 +1,7 @@
 ---
 layout: archivio
 lang: it-IT
+sommario: "Tutti i post dal blog di Andrea Corinti."
 pagination: 
     data: collections.blogita
     size: 8

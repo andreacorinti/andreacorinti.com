@@ -1,6 +1,7 @@
 ---
 avatar: img/avatar3.jpg
 layout: home.njk
+sommario: "Homepage of Andrea Corinti (Xab), Web Editor and Italian Web World citizen."
 ---
 
 **Italiano in Ελλάδα 🇮🇹 🇬🇷**
