@@ -219,3 +219,5 @@ Magari giocando per la lotta salvezza e non per la Champions League, ma insomma.
 ### Conclusione
 
 Spero di aver detto tutto e perdonate il flusso di coscienza, commentate pure qui sotto se avete da ridire visto che nella mia idea questo post lo riciclerò spesso.
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113961991575521644"></mastodon-comments>
