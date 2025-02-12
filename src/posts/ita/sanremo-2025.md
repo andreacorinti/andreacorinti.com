@@ -172,3 +172,5 @@ Sto invecchiando, abbiate pazienza (che è la sintesi migliore possibile di tutt
 Per il resto, Sanremo brutto e noioso che per come parte e si profila segna un netto passo indietro rispetto a quelli di Amadeus.
 
 PS: ah, prima che mi scordo...**Eni merda!**
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="113989738946177168"></mastodon-comments>
