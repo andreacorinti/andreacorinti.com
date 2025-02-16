@@ -46,3 +46,4 @@ Per il resto, lascio parlare per me qualche foto storta (abbiate pazienza, piet√
 ![FF12 - Logo](/img/Amano/ff12.jpg)
 ![FF8 - Logo](/img/Amano/ff8.jpg)
 
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114013534468641661"></mastodon-comments>
