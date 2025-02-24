@@ -21,11 +21,18 @@ Folk Black Metal atmosferico magico ed evocativo, con tanta Scozia celtica che v
 
 È troppo presto per parlare di disco dell'anno eh? Comunque se non temete il Tizio del Growl è proprio un disco da amare.
 
-### Novarupta - Astral Sands
+### Black Narcissus – There Lingers One Who’s Long Forgotten
 
-Ultimo della "tetralogia elementale" (che a questo punto dovrò recuperare), dedicato alla terra.
+![Black Narcissus – There Lingers One Who’s Long Forgotten](https://lastfm.freetls.fastly.net/i/u/770x0/f328b393b88cb39e3ce89eefa89cc386.jpg)
 
-Post-ambient metal particolare e oscuro
+Che stavo dicendo? Troppo presto per parlare del disco dell'anno? 
+
+Eh, meno male! Considerate che alla fine anche solo questo mese per me è praticamente ex aequo, lo "vincono" i Saor anche perché ho avuto più tempo di ascoltarli, ma questo _There Lingers One Who’s Long Forgotten_, con le sue atmosfere da Akira Yamaoka incrociate con un retaggio black metal mi è piaciuto davvero un mondo.
+
+I Black Narcissus sono un duo belga che fa post-metal strumentale, di quello a cui ci hanno ben abituato Alcest e Sylvaine, ma con un taglio diverso e più ambient (anche solo per l'assenza del cantato).
+
+PS: l'artwork dell'album per me è bellissimo ed è opera dell'artista [Vincent Christiaens](https://www.instagram.com/vincent_christiaens/) (che però su instagram condivide "solo" tatuaggi, boh!)
+
 
 ### Estas Tonne - Old Style
 
@@ -52,6 +59,14 @@ E insomma, che dire di Sleepless Empire?
 Che non è male, ci sono canzoni anche simpatiche (_In Nomine Patris_, _Scarecrow_) ma la produzione, la voce di Andrea che come _tizio del growl_ non mi pare adeguatissimo, il mood generale...boh.
 
 I vecchi Lacuna Coil sono ancora lì eh, _In Nomine Patris_ per l'appunto ce l'avrei sentita in qualche vecchio disco, però per qualche motivo il disco mi ha lasciato freddino. Ma meglio di Black Anima, anche se una produzione così pulita con loro ninzò.
+
+### Novarupta - Astral Sands
+
+![Novarupta - Astral Sands](https://lastfm.freetls.fastly.net/i/u/770x0/595ffcba2d81f92c2eb68145cdeda293.jpg)
+
+Ultimo della "tetralogia elementale" (che a questo punto dovrò recuperare), dedicato alla terra.
+
+Post-ambient metal particolare e oscuro, molto bello anche se mi riservo qualche altro ascolto per dire di più.
 
 ### Marko Hietala - Roses from the Deep 
 
