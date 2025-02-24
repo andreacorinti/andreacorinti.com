@@ -37,7 +37,7 @@ Pensavo che prima o poi avrei ceduto a qualche novità lato PC o console, trovan
 
 La verità? 
 
-Titoli che m'intrippano ci sono eh, ma so già che non riuscirei a godermeli per via delle proverbiali mille cose da fare, sommati ai miei spostamenti zingareschi in giro per l'Europa.
+Titoli che m'intrippano ci sono eh, ma so già che non riuscirei a godermeli per via delle proverbiali mille cose da fare, sommate ai miei spostamenti zingareschi in giro per l'Europa.
 
 Non di rado, come fu per [Final Fantasy XVI](/posts/ita/final-fantasy-xvi-noia), vale la logica _"me lo provo da un amicə e poi me lo guardo su youtube come un film"_.
 
@@ -93,7 +93,7 @@ Per il resto, tutto gira perfettamente!
 
 Nei miei test l'unico vago rallentamento che ho riscontrato è stato con **Vagrant Story** (niente di grave eh, e di sicuro risolvibile con qualche smanettamento).
 
-Ci sarebbe anche il discorso Nintendo DS, che purtroppo causa doppio monitor compresso nello schermino per molti giochi non regala chissà quale esperienza salvo il secondo non venga utilizzato poco (ma è una croce che 'sta console si porta puntualmente appresso): per esempio Mario Kart DS è favoloso minimizzando il secondo schermo in alto a sinistra.
+Ci sarebbe anche il discorso Nintendo DS, che purtroppo causa doppio monitor compresso nello schermino per molti giochi non regala chissà quale esperienza salvo il secondo non venga utilizzato poco (ma è una croce che 'sta console si porta puntualmente appresso): per esempio Mario Kart DS è favoloso minimizzando il secondo schermo in alto a destra.
 
 ### Rivali 
 
@@ -114,3 +114,5 @@ Stando alle banalità, su schermini simili analogici o altre sovrastrutture per 
 Se viaggiate spesso in treno / autobus / metropolitana / aerei eccetera eccetera questa consolina è davvero una meraviglia, in particolare per i retrogamer curiosi e nostalgici.
 
 Ci risentiremo tra qualche tempo con qualche update più a freddo!
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114059184158199967"></mastodon-comments>
