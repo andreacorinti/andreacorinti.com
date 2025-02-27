@@ -37,11 +37,11 @@ PS: l'artwork dell'album per me è bellissimo ed è opera dell'artista [Vincent 
 
 ![Maud the Moth – The Distaff](https://lastfm.freetls.fastly.net/i/u/770x0/42391cd3a9cfac455d34e017273cfc06.jpg)
 
-Io davvero non so che è successo questo febbraio colmo di inediti pazzeschi, album che mi hanno fatto aggiornare di continuo questo postone mettendomi abbastanza in crisi.
+Io davvero non so che sia successo a questo febbraio colmo di inediti pazzeschi: ogni volta mi son ritrovato con album che mi hanno fatto aggiornare di continuo questo postone mettendomi abbastanza in crisi....
 
-maud the moth è un superbo progetto della cantante spagnola Amaya López-Carromero, un goth-avant-garde post-rock boh che mi ha portato alla mente uno strano incontro tra la darkwave di Sopor Aeternus & The Ensemble of Shadows misto a una Kate Bush posseduta da Morticia Addams che canta spagnolo.
+_maud the moth_ è un superbo progetto della cantante spagnola Amaya López-Carromero, un goth-avant-garde post-rock (boh?) che mi ha portato alla mente uno strano incontro tra la darkwave di _Sopor Aeternus & The Ensemble of Shadows_ misto a una Kate Bush posseduta da Morticia Addams che canta spagnolo.
 
-Una produzione che ti aspetteresti dal Giappone, però ogni tanto l'Europa si ricorda che queste cose le ha praticamente inventate ed è sempre bello ❤️
+Il tutto in una produzione che ti aspetteresti dal Giappone, e invece!
 
 ### Estas Tonne - Old Style
 
