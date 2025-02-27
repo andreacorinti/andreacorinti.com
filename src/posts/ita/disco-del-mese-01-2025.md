@@ -139,3 +139,5 @@ Produzione interessante e buon ascolto da sottofondo, abbastanza radiofonico con
 Ma onestamente, non fosse per l'utilizzo del francese, credo l'avrei trovato abbastanza banalotto nonostante rielabori un bel po' gli stilemi a cui siamo abituati.
 
 PS: E sì, [Justine Daaé](https://www.elyosemusic.com/media?pgid=khgb6za4-3cf463b9-4283-4257-a5e6-143d4ebb2802) è una bella crushona
+
+[_**Febbraio 2025**_](/posts/ita/disco-del-mese-02-2025)

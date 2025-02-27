@@ -1,15 +1,15 @@
 ---
 title: "Disco del Mese - Febbraio 2025"
 subtitle: "Saor – Amidst the Ruins"
-sommario: "Lasciamoci alle spalle un Sanremo orrendo (in cui mio malgrado ho dovuto rivalutare Fedez...), andiamo alla mia solita rassenga di dischi del mese, con in cima un meraviglioso figlio di Scozia..."
+sommario: "Lasciamoci alle spalle un Sanremo orrendo (in cui mio malgrado ho dovuto rivalutare Fedez...) e andiamo alla mia solita rassenga di dischi del mese, con in cima un meraviglioso figlio di Scozia..."
 immagine: https://www.angrymetalguy.com/wp-content/uploads/2025/02/567672.jpg
-date: 2025-02-28
+date: 2025-02-27
 lang: it-IT
 ---
 
 [_**Gennaio 2025**_](/posts/ita/disco-del-mese-01-2025)
 
-Lasciamoci alle spalle un Sanremo orrendo (in cui mio malgrado ho dovuto rivalutare Fedez...), andiamo alla mia solita rassenga di dischi del mese, con in cima un meraviglioso figlio di Scozia...
+Lasciamoci alle spalle un Sanremo orrendo (in cui mio malgrado ho dovuto rivalutare Fedez...) e andiamo alla mia solita rassenga di dischi del mese, con in cima un meraviglioso figlio di Scozia...
 
 ## Saor – Amidst the Ruins
 
@@ -33,6 +33,15 @@ I Black Narcissus sono un duo belga che fa post-metal strumentale, di quello a c
 
 PS: l'artwork dell'album per me è bellissimo ed è opera dell'artista [Vincent Christiaens](https://www.instagram.com/vincent_christiaens/) (che però su instagram condivide "solo" tatuaggi, boh!)
 
+### Maud the Moth – The Distaff
+
+![Maud the Moth – The Distaff](https://lastfm.freetls.fastly.net/i/u/770x0/42391cd3a9cfac455d34e017273cfc06.jpg)
+
+Io davvero non so che è successo questo febbraio colmo di inediti pazzeschi, album che mi hanno fatto aggiornare di continuo questo postone mettendomi abbastanza in crisi.
+
+maud the moth è un superbo progetto della cantante spagnola Amaya López-Carromero, un goth-avant-garde post-rock boh che mi ha portato alla mente uno strano incontro tra la darkwave di Sopor Aeternus & The Ensemble of Shadows misto a una Kate Bush posseduta da Morticia Addams che canta spagnolo.
+
+Una produzione che ti aspetteresti dal Giappone, però ogni tanto l'Europa si ricorda che queste cose le ha praticamente inventate ed è sempre bello ❤️
 
 ### Estas Tonne - Old Style
 
@@ -50,15 +59,17 @@ Urgh che fatica scrivere di questo disco.
 
 Confido che Cristina Scabbia (cotta eterna da qualche decennio a questa parte) non mi legga mai, ma boh. 
 
-Non saprei proprio spiegare che è successo da Karmacode in poi, nonostante dischi comunque vari e ottime performance dal vivo, i nuovi inediti dei Lacuna non mi hanno più entusiasmato.
+Non saprei proprio spiegare che è successo da Karmacode in poi perché, nonostante dischi comunque vari e ottime performance dal vivo, i nuovi inediti dei Lacuna non mi hanno più entusiasmato.
 
-E io sono uno di quelli che ha consumato _Comalies_ (ricordo ancora quando lo comprai al Virgin di Milano, svariate ere geologiche fa), uno che ama tanto _In a Reverie_ e li ha visti live con sommo piacere in barba a tutti i _trve_ italici che li bollavano come commerciali e blabla.
+E io sono uno di quelli che ha consumato _Comalies_ (ricordo ancora quando lo comprai al Virgin di Milano, svariate ere geologiche fa), che ama tanto _In a Reverie_ e li ha visti live con sommo piacere in barba a tutti i _trve_ italici che li bollavano come commerciali e blabla.
 
-E insomma, che dire di Sleepless Empire? 
+Ma insomma, che dire di Sleepless Empire? 
 
 Che non è male, ci sono canzoni anche simpatiche (_In Nomine Patris_, _Scarecrow_) ma la produzione, la voce di Andrea che come _tizio del growl_ non mi pare adeguatissimo, il mood generale...boh.
 
-I vecchi Lacuna Coil sono ancora lì eh, _In Nomine Patris_ per l'appunto ce l'avrei sentita in qualche vecchio disco, però per qualche motivo il disco mi ha lasciato freddino. Ma meglio di Black Anima, anche se una produzione così pulita con loro ninzò.
+I vecchi Lacuna Coil sono ancora lì eh, _In Nomine Patris_ per l'appunto...Però per qualche motivo anche questo disco mi ha lasciato freddino. 
+
+Meglio di _Black Anima_, ma una produzione così pulita con loro ninzò.
 
 ### Novarupta - Astral Sands
 
