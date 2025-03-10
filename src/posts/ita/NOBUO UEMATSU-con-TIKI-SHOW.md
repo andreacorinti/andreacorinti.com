@@ -32,9 +32,11 @@ Vi giro un po' di account da seguire su Instagram, che è brutto e tutto ma in q
 
 se manca qualcuno, fatemi sapere!
 
-Ringrazio la mia cara combriccola genovese per la compagnia / organizzazione e i beati, faticosissimi giri romani ❤️ 
+Infine, volevo ringraziare la mia cara combriccola genovese per la compagnia / organizzazione e i beati, faticosissimi giri romani ❤️ 
 
 è stato bello anche trovarsi brevemente con Annalisa, tanto per far sapere che la vecchia anima dei mortacci di Cetramod continua a bazzicare da queste parti in barba ai braccobaldi!
 
 ![Final Fantasy VIII OST](/img/Nobuo/ffviii.jpg)
 ![Autografi con Tiki](/img/Nobuo/autografi.jpg)
+
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114137566857680467"></mastodon-comments>
