@@ -38,5 +38,3 @@ Infine, volevo ringraziare la mia cara combriccola genovese per la compagnia / o
 
 ![Final Fantasy VIII OST](/img/Nobuo/ffviii.jpg)
 ![Autografi con Tiki](/img/Nobuo/autografi.jpg)
-
-<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114137566857680467"></mastodon-comments>
