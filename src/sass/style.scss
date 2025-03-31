@@ -1,3 +1,20 @@
+// Import Modules
+@use "theme";
+@use "reset";
+@use "layout";
+@use "sitenav";
+@use "typography";
+@use "buttons";
+@use "card";
+@use "prism";
+@use "utilities";
+@use "tabelle";
+@use "comments";
+@use "social";
+@use "titolo";
+@use "share";
+
+// Custom Fonts
 @font-face {
   font-family: "Baloo 2";
   font-style: normal;
@@ -33,18 +50,3 @@
     url("../fonts/PressStart2P.woff2") format("woff");
   font-display: swap;
 }
-
-@import "theme";
-@import "reset";
-@import "layout";
-@import "sitenav";
-@import "typography";
-@import "buttons";
-@import "card";
-@import "prism";
-@import "utilities";
-@import "tabelle";
-@import "comments";
-@import "social";
-@import "titolo";
-@import "share";

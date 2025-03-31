@@ -1,77 +1,80 @@
-@media only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px)  {
+@use "sass:color";
+@use "theme";
 
-	/* Force table to not be like tables anymore */
-	table, thead, tbody, th, td, tr { 
-		display: block; 
-	}
-	
-	/* Hide table headers (but not display: none;, for accessibility) */
-	thead tr { 
-		position: absolute;
-		top: -9999px;
-		left: -9999px;
-	}
-	
-	td { 
-		/* Behave  like a "row" */
-		border: none;
-		border-bottom: 1px solid #eee; 
-		position: relative;
-		padding-left: 50%; 
-	}
+@media only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px) {
+
+  /* Force table to not be like tables anymore */
+  table, thead, tbody, th, td, tr { 
+    display: block; 
+  }
+  
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr { 
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
+  td { 
+    /* Behave like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee; 
+    position: relative;
+    padding-left: 50%; 
+  }
+
+  td:before { 
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%; 
+    padding-right: 10px; 
+    white-space: nowrap;
+  }
 }
-	
-	td:before { 
-		/* Now like a table header */
-		position: absolute;
-		/* Top/left values mimic padding */
-		top: 6px;
-		left: 6px;
-		width: 45%; 
-		padding-right: 10px; 
-		white-space: nowrap;
-	}
 
 table {
-    margin-bottom: 1em;
-    overflow-x: auto;
-    width: 100%;
-    font-size: 15px;
-    border-collapse: collapse;
-  
-    & + table {
-      margin-top: 1em;
-    }
-  }
-  
-  thead {
-    color: white;
-    background-color: black; // $text-color
-    border-bottom: 2px solid mix(white, black, 25%);
-  }
-  
-  th {
-    padding: 0.5em;
-    font-weight: bold;
-    text-align: left;
-  }
-  
-  td {
-    padding: 0.5em;
-    border-bottom: 1px solid mix($tdbc-color-secondary, $tdbc-color-primary, 55%);
-  }
-  
-  tr,
-  td,
-  th {
-    vertical-align: middle;
-  }
+  margin-bottom: 1em;
+  overflow-x: auto;
+  width: 100%;
+  font-size: 15px;
+  border-collapse: collapse;
 
-  .resumeAvatar {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
-    width: 50%;
+  & + table {
+    margin-top: 1em;
   }
+}
+
+thead {
+  color: white;
+  background-color: black; // Sostituito $text-color con un valore fisso
+  border-bottom: 2px solid color.mix(white, black, 25%); // Sostituito mix() con color.mix()
+}
+
+th {
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em;
+  border-bottom: 1px solid color.mix(theme.$tdbc-color-secondary, theme.$tdbc-color-primary, 55%); // Sostituito mix() con color.mix()
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}
+
+.resumeAvatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 50%;
+}

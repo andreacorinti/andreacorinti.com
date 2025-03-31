@@ -1,15 +1,18 @@
+@use "sass:color";
+@use "theme";
+
 .tdbc-card {
   display: flex;
   position: relative;
   flex-direction: column;
   width: 100%;
-  border-radius: $tdbc-border-radius;
+  border-radius: theme.$tdbc-border-radius; // Corretto con il namespace
   background-color: rgb(5, 5, 5);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
 
   &__title {
     margin-bottom: 1rem;
-    font-size: $tdbc-h4-font-size;
+    font-size: theme.$tdbc-h4-font-size; // Corretto con il namespace
     line-height: 1.15;
     text-decoration: none;
   }
@@ -23,7 +26,7 @@
       width: 100%;
       height: 100%;
       transition: 180ms box-shadow ease-in;
-      border-radius: 8px;
+      border-radius: theme.$tdbc-border-radius; // Corretto con il namespace
       content: "";
     }
 
@@ -31,7 +34,7 @@
       outline: none;
 
       &::before {
-        box-shadow: 0 0 0 3px tdbc-color("primary");
+        box-shadow: 0 0 0 3px theme.tdbc-color("primary"); // Corretto con il namespace
       }
     }
   }
@@ -66,18 +69,18 @@
   }
 
   &:hover a.tdbc-card__title::before {
-    box-shadow: 0 0 0 3px tdbc-color("primary");
+    box-shadow: 0 0 0 3px theme.tdbc-color("primary"); // Corretto con il namespace
   }
 
   img:first-child {
     object-fit: cover;
     max-height: 10em;
-    border-radius: $tdbc-border-radius $tdbc-border-radius 0 0;
+    border-radius: theme.$tdbc-border-radius theme.$tdbc-border-radius 0 0; // Corretto con il namespace
   }
   // stylelint-enable
 
   &--outlined {
-    border: 1px solid scale-color($tdbc-color-gray, $lightness: 50%);
+    border: 1px solid color.scale(theme.tdbc-color("gray"), $lightness: 50%); // Corretto con il namespace
     background-color: transparent;
     box-shadow: none;
   }

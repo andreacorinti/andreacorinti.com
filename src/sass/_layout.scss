@@ -1,17 +1,19 @@
+@use "theme";
+
 // stylelint-disable-next-line selector-max-type
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: tdbc-color("background");
-  color: $tdbc-color-body;
-  font-family: $tdbc-font-family;
+  background-color: theme.tdbc-color("background");
+  color: theme.$tdbc-color-body;
+  font-family: theme.$tdbc-font-family;
 }
 
 // stylelint-disable selector-max-type, selector-no-qualifying-type
 main,
 main.tdbc-container {
-  //padding-top: 5vh;
+  // padding-top: 5vh;
   padding-bottom: 5vh;
 }
 
@@ -70,7 +72,7 @@ ul.tdbc-column-container {
   min-height: 40vh;
   place-content: center;
   padding-top: 5vh;
-  //padding-bottom: 10vh;
+  // padding-bottom: 10vh;
   text-align: center;
 }
 
@@ -96,15 +98,15 @@ ul.tdbc-column-container {
 hr {
   margin-top: 4rem;
   margin-bottom: 4rem;
-  border: 1px solid tdbc-color("secondary");
+  border: 1px solid theme.tdbc-color("secondary");
 }
 
 .avatar {
-max-height: 400px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 60%;
+  max-height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
 
 // link per pagination

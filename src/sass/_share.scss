@@ -1,20 +1,21 @@
+@use "theme";
+
 .share-page {
-    text-align: center;
-    background: $tdbc-color-primary;
-    color: $tdbc-color-secondary;
-    padding: 8px 15px;
-    border-radius: 5px;
-    margin-top: 15px;
+  text-align: center;
+  background: theme.$tdbc-color-primary; // Sostituito con namespace
+  color: theme.$tdbc-color-secondary; // Sostituito con namespace
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-top: 15px;
 
-    a {
-        font-weight: 700;
-        color: rgb(0, 0, 0);
-        margin-left: 10px;
+  a {
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
 
-        &:hover {
-            background-color: black;
-            color: white;
-        }
+    &:hover {
+      background-color: black;
+      color: white;
     }
+  }
 }
-

@@ -1,3 +1,5 @@
+@use "theme";
+
 .tdbc-content-maxlength {
   max-width: 80ch;
 }
@@ -15,9 +17,8 @@
   }
 }
 
-$tdbc-alignments: left, center, right !default;
-
-@each $alignment in $tdbc-alignments {
+// Allineamenti
+@each $alignment in theme.$tdbc-alignments {
   .tdbc-text-align--#{$alignment} {
     text-align: #{$alignment};
 
@@ -29,16 +30,18 @@ $tdbc-alignments: left, center, right !default;
   }
 }
 
-@each $key in $tdbc-background-colors {
+// Colori di sfondo
+@each $key in theme.$tdbc-background-colors {
   .tdbc-background--#{$key} {
-    background-color: tdbc-color($key);
+    background-color: theme.tdbc-color($key);
   }
 }
 
-@each $key in $tdbc-ink-colors {
+// Colori del testo (ink)
+@each $key in theme.$tdbc-ink-colors {
   .tdbc-ink--#{$key},
   a.tdbc-ink--#{$key} {
-    color: tdbc-color(#{$key});
+    color: theme.tdbc-color(#{$key});
   }
 
   .tdbc-ink--#{$key} > a:not(.tdbc-button) {
@@ -51,7 +54,8 @@ $tdbc-alignments: left, center, right !default;
   margin-left: auto;
 }
 
-@each $key, $unit in $tdbc-spacing {
+// Spaziature
+@each $key, $unit in theme.$tdbc-spacing {
   .tdbc-my-#{$key} {
     margin-top: $unit;
     margin-bottom: $unit;
