@@ -1,7 +1,5 @@
 [build]
   publish = "public"
-
-  # Default build command.
   command = "npm run build"
 
   [[redirects]]
@@ -13,4 +11,4 @@
   command = "npm start"
 
 [build.environment]
-  NODE_VERSION = "16"
+  NODE_VERSION = "18"
