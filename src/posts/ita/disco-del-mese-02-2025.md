@@ -112,3 +112,5 @@ E oh, più o meno suonano pure così, anche se forse in realtà hanno più dei c
 Al solito, anche se ho più di qualche remora morale a riguardo, ho un debole per i nuovi gruppi che suonano inediti colmi di classico heavy metal ottantiano.
 
 Molto colpito in particolare dall'ultima traccia, _Maniacs And Madmen_! 
+
+[_**Marzo 2025**_](/posts/ita/disco-del-mese-03-2025)
