@@ -55,5 +55,4 @@ Vedremo nei prossimi mesi!
 
 Il tempo per giocare è quello che è e prima o poi vorrei rispolverare la povera Deck, ma effettivamente rigiocare o scoprire vecchie glorie si conferma la cosa che più amo nel mondo ludico contemporaneo, nulla togliendo a qualche nuovo titolo che comunque mi fa salire almeno un po' l'acquolina.
 
-
-
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114335392793503106"></mastodon-comments>
