@@ -22,7 +22,7 @@ immagine: /img/cv/avatar.jpg
 
 | Period              | Company                            | Position                                   |
 |---------------------|------------------------------------|--------------------------------------------|
-| 11.2020 – Current   | EDIZIONI EDILINGUA                  | Web Editor, Developer Coordinator, Content Reviewer |
+| 11.2020 – Current   | EDIZIONI EDILINGUA                  | Web Editor, Customer Support, Developer Coordinator, Content Reviewer |
 | 6.2020 – 11.2020    | WEBHELP HELLAS                     | Italian Customer Care Advisor - Travel Project |
 | 7.2019 – 5.2020     | TELEPERFORMANCE HELLAS             | Senior IT Support & Financial Customer Care Advisor |
 | 1.2019 – 6.2019     | ISOFTSTONE                          | IA Conversational Speech Quality Analizer |

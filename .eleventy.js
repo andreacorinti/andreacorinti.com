@@ -36,7 +36,13 @@ module.exports = function (eleventyConfig) {
   };  
 
   eleventyConfig.addCollection("searchIndex", function (collection) {
-    return collection.getFilteredByGlob("./src/posts/ita/*.md").map(post => ({
+    const posts = collection.getFilteredByGlob([
+      "./src/posts/ita/**/*.md", // Prima cartella
+      "./src/pages/*.md",      // Seconda cartella
+      "./src/posts/progetti/*.md" // Terza cartella
+    ]);
+
+    return posts.map(post => ({
       title: post.data.title,
       excerpt: post.data.sommario || "",
       url: post.url,
@@ -46,7 +52,7 @@ module.exports = function (eleventyConfig) {
   /* Collezioni */
   
   eleventyConfig.addCollection("blogita", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/ita/*.md").reverse();
+    return collection.getFilteredByGlob("./src/posts/ita/**/*.md").reverse();
   });
   eleventyConfig.addCollection("blogeng", function(collection) {
     return collection.getFilteredByGlob("./src/posts/eng/*.md").reverse();
