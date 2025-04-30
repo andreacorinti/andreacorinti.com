@@ -27,6 +27,22 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("dateDisplay", require("./src/filters/dates.js"));
   eleventyConfig.addFilter("timestamp", require("./src/filters/timestamp.js"));
 
+  /* Ricerca */
+
+  const compareDates = (a, b) => {
+    const dateA = new Date(a.date);
+    const dateB = new Date(b.date);
+    return dateB - dateA; // Ordina dal più recente al più vecchio
+  };  
+
+  eleventyConfig.addCollection("searchIndex", function (collection) {
+    return collection.getFilteredByGlob("./src/posts/**/*.md").map(post => ({
+      title: post.data.title,
+      excerpt: post.data.sommario || "",
+      url: post.url,
+    }));
+  });
+
   /* Collezioni */
   
   eleventyConfig.addCollection("blogita", function(collection) {

@@ -11,48 +11,92 @@
 .tdbc-sitenav {
   background-color: black;
   font-family: Teko;
-
-  &__container,
-  &__navlist {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-
-  &__container {
-    justify-content: space-between;
-    width: 100%;
-    max-width: 120ch;
-    margin: 0 auto;
-    padding: 0.25rem 0.5rem;
-  }
-
-  &__navlist {
-    li + li {
-      margin-left: 0.5rem;
-    }
-  }
-
-  &,
-  a:not(.tdbc-button) {
-    color: theme.tdbc-color("light");
-  }
-
-  a:not(.tdbc-button):focus {
-    border-radius: theme.$tdbc-border-radius;
-    outline-color: transparent;
-    outline-style: solid;
-    box-shadow: 0 0 1px 2px theme.tdbc-color("light");
-  }
-
-  a {
-    text-decoration: none;
-    padding: 0.2vh;
-  }
-
-  a:hover {
-    background-color: white;
-    color: black;
-  }
+  position: relative; /* Permette di posizionare elementi interni */
 }
-// stylelint-enable
+
+.tdbc-sitenav__container {
+  display: flex;
+  justify-content: space-between; /* Allinea il menu a sinistra e la ricerca a destra */
+  align-items: center;
+  width: 100%;
+  max-width: 120ch;
+  margin: 0 auto;
+  padding: 0.25rem 0.5rem;
+}
+
+.tdbc-sitenav__brand {
+  display: flex;
+  align-items: center;
+}
+
+.tdbc-sitenav__navlist {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tdbc-sitenav__navlist li + li {
+  margin-left: 0.5rem;
+}
+
+.tdbc-sitenav__navlist a {
+  text-decoration: none; /* Rimuove il sottolineato */
+}
+
+.search-container {
+  position: relative; /* Rende il contenitore il riferimento per il posizionamento assoluto */
+  display: flex;
+  align-items: center;
+}
+
+#search-input {
+  padding: 0.5rem;
+  padding-right: 2rem; /* Spazio per l'icona */
+  border: 1px solid theme.tdbc-color("light");
+  border-radius: theme.$tdbc-border-radius;
+  background-color: transparent;
+  color: theme.tdbc-color("light");
+  font-size: 1rem;
+  width: 200px; /* Larghezza della barra di ricerca */
+}
+
+.search-icon {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none; /* Disabilita clic sull'icona */
+  color: theme.tdbc-color("light");
+}
+
+#search-results {
+  position: absolute; /* Posiziona i risultati relativamente al contenitore */
+  top: 100%; /* Posiziona sotto la barra di ricerca */
+  left: 0;
+  background-color: black;
+  border: 1px solid theme.tdbc-color("light");
+  border-top: none;
+  max-height: 200px;
+  overflow-y: auto;
+  width: 100%; /* Stessa larghezza della barra di ricerca */
+  z-index: 10; /* Assicura che i risultati siano sopra altri elementi */
+  display: none; /* Nascondi i risultati inizialmente */
+  list-style: none; /* Rimuove i marcatori della lista */
+  padding: 0; /* Rimuove il padding predefinito della lista */
+  margin: 0; /* Rimuove il margine predefinito della lista */
+}
+
+#search-results li {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+#search-results li:hover {
+  background-color: white;
+  color: black;
+}
+
+#search-results li:hover a {
+  color: black; /* Cambia il colore del testo al passaggio del mouse */
+}

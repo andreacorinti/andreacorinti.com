@@ -1,0 +1,22 @@
+/* Stile del campo di ricerca */
+.search-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  #search-input {
+    padding: 0.5rem;
+    padding-right: 2rem; /* Spazio per l'icona */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    width: 200px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none; /* Disabilita clic sull'icona */
+  }
