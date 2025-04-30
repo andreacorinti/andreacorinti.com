@@ -26,3 +26,5 @@ PS: ah anche _Vivre Libre_, cover dei francesi Blaspheme, ha un suo fascino...
 Ma sì dai, ci ho ripensato: buttiamocelo sto disco del mese dai!
 
 ![Arch Enemy - Blood Dynasty album cover](https://lastfm.freetls.fastly.net/i/u/770x0/879c315d8b839ad21109c31ad54a5932.jpg)
+
+[_**Aprile 2025**_](/posts/ita/disco-del-mese-04-2025)
