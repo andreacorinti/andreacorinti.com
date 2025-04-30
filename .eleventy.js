@@ -36,7 +36,7 @@ module.exports = function (eleventyConfig) {
   };  
 
   eleventyConfig.addCollection("searchIndex", function (collection) {
-    return collection.getFilteredByGlob("./src/posts/**/*.md").map(post => ({
+    return collection.getFilteredByGlob("./src/posts/ita/*.md").map(post => ({
       title: post.data.title,
       excerpt: post.data.sommario || "",
       url: post.url,
