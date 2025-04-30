@@ -1,22 +1,41 @@
-/* Stile del campo di ricerca */
+@use "theme";
+
+/* Stile generale per la barra di ricerca */
 .search-container {
-    position: relative;
-    display: inline-block;
-  }
-  
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+#search-input {
+  padding: 0.5rem;
+  padding-right: 2rem; /* Spazio per l'icona */
+  border: 1px solid theme.tdbc-color("light");
+  border-radius: theme.$tdbc-border-radius;
+  background-color: transparent;
+  color: theme.tdbc-color("light");
+  font-size: 1rem;
+  width: 200px; /* Larghezza predefinita */
+  transition: width 0.3s ease; /* Effetto di transizione fluido */
+}
+
+.search-icon {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: theme.tdbc-color("light");
+}
+
+/* Stile per dispositivi mobili */
+@media (max-width: 768px) {
   #search-input {
-    padding: 0.5rem;
-    padding-right: 2rem; /* Spazio per l'icona */
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 1rem;
-    width: 200px;
+    width: 120px; /* Riduci la larghezza su schermi piccoli */
+    font-size: 0.9rem; /* Riduci la dimensione del testo */
   }
-  
-  .search-icon {
-    position: absolute;
-    right: 0.5rem;
-    top: 50%;
-    transform: translateY(-50%);
-    pointer-events: none; /* Disabilita clic sull'icona */
+
+  .search-container {
+    margin-left: auto; /* Allinea a destra */
   }
+}
