@@ -63,4 +63,4 @@ Qui non c'è molto altro da dire, salvo rimandare al solito, bellissimo post di 
 
 [https://www.kwbell.eu/mastonotes/alt-text-for-mastodon-images/](https://www.kwbell.eu/mastonotes/alt-text-for-mastodon-images)
 
-
+<mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114460702662364701"></mastodon-comments>
