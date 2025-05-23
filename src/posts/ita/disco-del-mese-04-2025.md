@@ -54,3 +54,5 @@ _Darkness Dies in Light_ però mi ha preso il giusto (riportandomi un po' a vent
 'Sto mese baro un po', perché The Human Equation (2004) è un disco bellissimo e questo remix è un'ottima occasione per scoprirlo e riscoprirlo, vera perla del progetto proggone di Arjen Anthony Lucassen (nonostante l'ospitata di 	James LaBrie 🫢 ma Devin compensa dai)
 
 Devo dire che la nuova produzione mi piace molto!
+
+[_**Maggio 2025**_](/posts/ita/disco-del-mese-05-2025)
