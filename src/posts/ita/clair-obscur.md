@@ -7,6 +7,8 @@ date: 2025-05-26
 lang: it-IT
 ---
 
+[**_recensione su steam_**](https://steamcommunity.com/id/xabaras89/recommended/1903340)
+
 Ma che vogliamo dirgli alla Francia? 
 
 Coi cugini d'oltralpe possiamo spenderci in tutti i derby e le rivalità del caso eh, ci sta. 
@@ -97,8 +99,6 @@ Se come me avete una storia videogiochistica plasmata dai JRPG, non potete perde
 Che altro dire?
 
 Un'opera straordinaria che dona speranza per il futuro dell'intero settore.
-
-Che dire? 
 
 Bien joué.
 
