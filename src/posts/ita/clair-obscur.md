@@ -13,7 +13,7 @@ Ma che vogliamo dirgli alla Francia?
 
 Coi cugini d'oltralpe possiamo spenderci in tutti i derby e le rivalità del caso eh, ci sta. 
 
-Ma nella musica, nel cinema, nella letteratura e nel fumetto quando entrano in un simile stato di grazia i transalpini hanno il pregio di creare opere meravigliose, credo anche più vicine alle nostre sensibilità proprio in quanto parenti stretti a livello di gusto e cultura. 
+Ma nella musica, nel cinema, nella letteratura e nel fumetto quando entrano in un simile stato di grazia i transalpini hanno il pregio di creare opere meravigliose, credo anche particolarmente vicine alle nostre sensibilità proprio in quanto parenti stretti a livello di gusto e cultura. 
 
 Ma non usciamo troppo dal seminato...E parliamo di videogiochi:
 
