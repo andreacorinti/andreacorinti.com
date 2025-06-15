@@ -27,7 +27,7 @@ I don't like it very much, but for professional stuff I'm also on [LINKEDIN](htt
 
 Want to ask something in particular? 
 
-[**Contact me here**](/contact/) or [send me a post on mastodon](https://livellosegreto.it/@xabacadabra).
+[**Contact me here**](/contact/) or [send me a post on mastodon](https://mastodon.social/@Xabacadabra).
 
 ## You can find me also:
 

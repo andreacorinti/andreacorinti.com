@@ -7,7 +7,7 @@ date: 2025-05-23
 lang: it-IT
 ---
 
-[_**Aprile 2024**_](/posts/ita/disco-del-mese-04-2025)
+[_**Aprile 2025**_](/posts/ita/disco-del-mese-04-2025)
 
 In realtà questa colonna sonora è uscita a fine aprile, ma beh...
 
@@ -70,3 +70,5 @@ E non per nulla, la sua colonna sonora di _Fuga da New York_ e altri film incise
 Considerando quanta gente si è ispirata a lui nell'ultima decade (Carpenter Brut, ti fischiano le orecchie?) mi pare molto bello che, dall'alto dei suoi 77 anni, John Carpenter abbia ancora voglia di fare.
 
 Magnifico sottofondo lavorativo e prodotto in modo divino. O diabolico dai, che con Carpenter funziona meglio.
+
+[_**Giugno 2025**_](/posts/ita/disco-del-mese-06-2025)
