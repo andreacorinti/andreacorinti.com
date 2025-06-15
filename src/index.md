@@ -32,7 +32,7 @@ Want to ask something in particular?
 ## You can find me also:
 
 * Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">**STEAM**</a> 
-* For books, I'm on <a href="https://lore.livellosegreto.it/user/xabacadabra" target="blank" rel="me">**LORE**</a> and <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">**GOODREADS**</a>
+* For books, I'm on <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">**GOODREADS**</a>
 * For movies and shows I use <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">**TVTIME**</a> to keep track the things I watch.
 
 Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
