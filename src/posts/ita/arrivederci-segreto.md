@@ -69,3 +69,4 @@ poi in realtà si vedrà eh, mastodon.social è un twitter dei poveri quindi non
 
 Questo è quanto, auguro tutto il meglio a Livello Segreto e al fediverso in generale!
 
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="114687613635525441"></mastodon-comments>
