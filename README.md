@@ -1,3 +1,2 @@
 - Sistemare l'avatar nella home e nel curriculum
-- Ricerca?
 - Varie ed eventuali
