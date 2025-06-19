@@ -44,7 +44,7 @@ Ci sono però alcuni vantaggi:
 - essendo il luogo più popoloso del fediverso, nel suo mare magnum tra tante schifezze logicamente si trovano anche cose interessanti (come appunto nella timeline Federata)
 - il software è sempre aggiornato e ci sono alcune funzionalità interessanti, come l'attribuzione autore per blog e simili, più alcune feature "da twitter" comunque disattivabili (tendenze ecc.)
 
-sostanzialmente, **parliamo di un Twitter pre-Musk**, anche se meno algoritmo e più rispettoso dei dati (federazione con Threads permettendo).
+sostanzialmente, **parliamo di un Twitter pre-Musk**, anche se meno algoritmico e più rispettoso dei dati (federazione con Threads permettendo).
 
 Per il resto: 
 
