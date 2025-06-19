@@ -27,7 +27,7 @@ I don't like it very much, but for professional stuff I'm also on [LINKEDIN](htt
 
 Want to ask something in particular? 
 
-[**Contact me here**](/contact/) or <a href="https://mastodon.social/@Xabacadabra" target="blank" rel="me">send me a post on mastodon.</a> 
+[**Contact me here**](/contact/) or <a href="https://social.andreacorinti.com/@xabacadabra" target="blank" rel="me">send me a post on the fediverse.</a> 
 
 ## You can find me also:
 
