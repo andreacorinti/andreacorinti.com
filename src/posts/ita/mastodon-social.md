@@ -11,7 +11,7 @@ Trascorso qualche giorno [dalla mia migrazione da LS](/posts/ita/arrivederci-seg
 
 ### Ganci
 
-[Questo post di Ed riguardo Livello Segreto mi è piaciuto molto](https://livellosegreto.it/@ed/114693388826543783), ed effettivamente l'aspetto da "gancio" è quello che in questi anni ho sempre sottovalutato, dando forse fin troppo importanza alla timeline locale nel luogo dove mi trovavo, alla ricerca del famoso senso di community da forum che però è fin troppo utopistico trovare nell'internet odierno.
+[Questo post di Ed riguardo Livello Segreto mi è piaciuto molto](https://livellosegreto.it/@ed/114693388826543783), ed effettivamente l'aspetto da "gancio" è quello che in questi anni ho sempre sottovalutato, dando forse fin troppa importanza alla timeline locale nel luogo dove mi trovavo, alla ricerca del famoso senso di community da forum che però è fin troppo utopistico trovare nell'internet odierno.
 
 ### Istanzine 
 
@@ -64,7 +64,7 @@ Viste le mie remore nei confronti di Mastodon come software e la conclamata cons
 
 Seguendo l'esempio di [TiTiNoNero](https://goto.77nn.it/@77nn), ringraziando un sacco per i consigli [Lorenzo](https://snac.bobadin.icu/lorenzo) e [Cuche](https://cuche.cc/users/mike), ho iniziato a smanettare con [**GoToSocial**](https://gotosocial.org/): 
 
-al momento me ne sono abbastanza innamorato, anche perché erano anni che sognavo una sorta di "fork" di Mastodon (specialmente dopo la federazione con [threads](/posts/ita/threads-e-mastodon)) e beh, altro che fork, al netto del suo essere in costante sviluppo e di aver bisogno di un client esterno (Phanpy, Elk, o le varie app di android disegnate per Mastodon) 
+al momento me ne sono abbastanza innamorato, anche perché erano anni che sognavo una sorta di "fork" di Mastodon (specialmente dopo la federazione con [threads](/posts/ita/threads-e-mastodon)) e beh, altro che fork, al netto del suo essere in costante sviluppo e di aver bisogno di un client esterno (Phanpy, Elk, o le varie app di android disegnate per Mastodon) è davvero fantastico!
 
 in fin dei conti, corrisponderebbe al tipo di utilizzo che sto facendo di mastodon adesso, solo con un totale controllo di ciò che posto (al netto di qualche minimo costo e sbattimento in più).
 
