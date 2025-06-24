@@ -1,14 +1,29 @@
 ---
 title: "Disco del Mese - Giugno 2025"
-subtitle: ""
-sommario: ""
-immagine: 
+subtitle: "Fallujah – Xenotaph"
+sommario: "Disco del mese molto a caldo, ma dai voglio sbilanciarmi sulla fiducia 😌"
+immagine: https://f4.bcbits.com/img/a3844037749_16.jpg
 date: 2025-06-24
 lang: it-IT
 ---
 
 [_**Maggio 2025**_](/posts/ita/disco-del-mese-05-2025)
 
+## Fallujah – Xenotaph
+
+Disco del mese molto a caldo, ma dai voglio sbilanciarmi sulla fiducia 😌 
+
+Technical Death Metal a forti tinte progressive e qualche traccia da voce deathcore (che a me non fa impazzire, ma col growl "normale" e il cantato clean si compensa dai).
+
+Loro li conosco poco (mea culpa), anche se già anni fa con _Dreamless_ mi ero ripromesso di approfondirli a dovere, quindi mai dire mai.
+
+_Xenotaph_ è prodotto alla grandissima, vanta "solo" 42 minuti di durata (un niente per gli standard del genere) e una vaga sensazione di quello che avrebbero potuto diventare i ben più melodici Scar Symmetry ai tempi di Christian Älvestam (ma queste sono perversioni mie).
+
+Consigliato a chiunque bazzichi per il death metal più progressivo e tecnico!
+
+PS: nota di merito alla fantastica cover art di [Peter Mohrbacher](https://www.angelarium.net/), artista che vale la pena di tenere d'occhio e m'ha un po' rimesso voglia di giocare a _Clair Obscur_
+
+canzoni consigliate: _The Crystalline Veil_, _Step Through the Portal and Breathe_ e _Kaleidoscopic Waves_, ma è proprio un bel disco da sentirsi nella sua interezza!
 
 ### Katatonia - Nightmares as Extensions of the Waking State
 
@@ -47,7 +62,6 @@ intendiamoci, ho sempre avuto un debole per il groove/thrash metal solidissimo c
 Per qualche motivo non posso dire di amarli davvero, anche se li ascolto sempre con piacere: le commistioni tra certi mondi mi affascinano sin dai tempi di Danzig e i Social Distortion, quindi sono perfettamente del target, però mi manca ancora qualcosa per fare il salto sul carro del vincitore - tipo _Sad Man's Tongue_.
 
 Molto carina la ballad _Lonely Fields_.
-
 
 ### Quadvium – Tetradōm
 
