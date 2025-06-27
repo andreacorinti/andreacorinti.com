@@ -31,7 +31,7 @@ Ancor di più, l'istanza "primogenia" di mastodon (la solita [mastodon.social di
 
 ### Che problema c'è con mastodon.social?
 
-![fediverso](https://private-user-images.githubusercontent.com/71598437/371764587-ef53f5e9-c0d8-484d-9f53-00efdebb92c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NzYzMTYsIm5iZiI6MTc1MDk3NjAxNiwicGF0aCI6Ii83MTU5ODQzNy8zNzE3NjQ1ODctZWY1M2Y1ZTktYzBkOC00ODRkLTlmNTMtMDBlZmRlYmI5MmMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDIyMTMzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0MTQ2MjljMDkxM2Q3ZjRiYWE2ZWQzMjgyY2M0NWQ3ZTU2OTUzYmQ3YTE2YzBjMjUwNDUyMzc0MDEwNGY0NWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fpxMXlAbfPXHsnjbaF248bT0WHoJaWhEaf713C9xUnE)
+![fediverso](https://blog.joinmastodon.org/2025/02/bringing-quote-posts-to-mastodon/hero.png)
 
 [Raccomando questa lettura su fedi.tips ](https://fedi.tips/its-a-really-bad-idea-to-join-a-big-server/)
 
