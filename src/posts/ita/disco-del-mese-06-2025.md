@@ -23,7 +23,7 @@ Consigliato a chiunque bazzichi per il death metal più progressivo e tecnico!
 
 PS: nota di merito alla fantastica cover art di [Peter Mohrbacher](https://www.angelarium.net/), artista che vale la pena di tenere d'occhio e m'ha un po' rimesso voglia di giocare a _Clair Obscur_
 
-canzoni consigliate: _The Crystalline Veil_, _Step Through the Portal and Breathe_ e _Kaleidoscopic Waves_, ma è proprio un bel disco da sentirsi nella sua interezza!
+canzoni consigliate: _The Crystalline Veil_ e _Step Through the Portal and Breathe_, ma è proprio un bel disco da ascoltarsi nella sua interezza!
 
 ### Katatonia - Nightmares as Extensions of the Waking State
 
