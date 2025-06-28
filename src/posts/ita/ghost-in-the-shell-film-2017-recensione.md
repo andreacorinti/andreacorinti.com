@@ -97,7 +97,7 @@ Che è bella si sapeva, che è brava pure <small>(grazie a Woody Allen più che 
 Salta fuori che, invece, sebbene in una versione scritta da uno struzzo dotato di metalcoperta, **Scarlettuzza porta casa una buona interpretazione**, rivelandosi convincente in un ruolo che forse resta non suo per mere ragioni fisiche.
 
 <img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/scarlett-johansson.jpg" alt='ghost-in-the-shell'>
-<small>che poi il fisico di Scarlett per il mio gusto è meglio di Motoko la Pertica eh</small>
+<small>che poi il fisico di Scarlett io non lo metterò in discussione tipo mai</small>
 </br></br>
 
 ## Batou
