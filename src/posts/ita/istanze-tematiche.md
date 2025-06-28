@@ -1,7 +1,7 @@
 ---
 title: "Teoria sulle Istanze Tematiche per Autostoppisti (niente panico)"
 subtitle: "parole a vanvera, ma decentralizzate"
-sommario: "Tutto quello che state per leggere è puramente ideale e speculativo, ma tiene sempre conto di un preciso capisaldo che non si deve mai dimenticare."
+sommario: "Tutto quello che state per leggere è puramente ideale e speculativo, ma tiene sempre conto di un preciso caposaldo che non si deve mai dimenticare."
 immagine: https://engagemedia.org/wp-content/uploads/2020/07/1024px-Fediverse_mosaic.svg.png
 date: 2025-06-28
 lang: it-IT
@@ -9,7 +9,7 @@ lang: it-IT
 
 ## Premessa
 
-Tutto quello che state per leggere è puramente ideale e speculativo, ma tiene sempre conto di un preciso capisaldo che **non si deve mai dimenticare**.
+Tutto quello che state per leggere è puramente ideale e speculativo, ma tiene sempre conto di un preciso caposaldo che **non si deve mai dimenticare**.
 
 (sul serio eh: il primo che risponde _"vuoi un'istanza dove si parli solo di X"_ lo blocco)
 
