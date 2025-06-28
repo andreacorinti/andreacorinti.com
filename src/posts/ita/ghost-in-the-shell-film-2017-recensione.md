@@ -23,9 +23,6 @@ Non solo:
 
 ## Rispetto
 
-<iframe src="https://www.instagram.com/p/BTEakdvD4Sf/embed" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-
 A differenza dei soliti precedenti **un minimo di terrore reverenziale nei confronti dell'opera di Masamune Shirow esiste e si sente**, ma è più o meno il medesimo che ci si potrebbe aspettare da una fan fiction di seconda categoria.
 
 E siccome mi riesce difficile spiegarne i motivi senza parlarne nel dettaglio, anticipo che quanto seguirà sarà totalmente
