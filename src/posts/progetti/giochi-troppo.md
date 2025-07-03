@@ -2,16 +2,15 @@
 title: "Giochi Troppo!"
 subtitle: "Spegni il computer e vai a dormire!"
 permalink: "projects/giochi-troppo/"
-sommario: "Un film di 10 ore è un mattone.
-Un videogioco di 10 ore è troppo breve."
+sommario: "Un film di 10 ore è un mattone. Un videogioco di 10 ore è troppo breve."
 immagine: /img/giochi-troppo.jpg
 lang: it-IT
 date: 2022-08-14
 ---
 
-# [Link per acquistare il libro](https://www.amazon.it/dp/B0B9LNVLCH)
+# [Link per l'epub su itch.io](https://xabacadabra.itch.io/giochi-troppo)
 
-### [Discussione su Telegram](https://t.me/xabacadabra/111)
+### [Link per acquistare il libro cartaceo su amazon](https://www.amazon.it/dp/B0B9LNVLCH)
 
 Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 
@@ -29,6 +28,4 @@ Questo libro è figlio del lockdown del 2020 e più di vent’anni passati tra i
 
 Tra citazioni e artwork, attraversiamo il mondo videoludico partendo da Monkey Island fino ad approdare alla galassia degli streamers, puntando anche i riflettori sul fenomeno Fortnite e il movimento _“game quitters”_.
 
-Nella seconda parte il libro ospita tre interviste a videogiocatori dai background particolari: una musicista insegnante, un filosofo programmatore e una psicologa: con loro proviamo a fare il punto su cos’è il videogioco oggi, ipotizzando cosa potrebbe diventare domani. 
-
-<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/111" data-width="100%"></script>
+Nella seconda parte il libro ospita tre interviste a videogiocatori dai background particolari: una musicista insegnante, un filosofo programmatore e una psicologa: con loro proviamo a fare il punto su cos’è il videogioco oggi, ipotizzando cosa potrebbe diventare domani.
