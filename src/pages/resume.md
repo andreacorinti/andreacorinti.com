@@ -1,5 +1,5 @@
 ---
-title: "Andrea Corinti Resume"
+title: "Andrea Corinti"
 description: "Web Editor & Senior Technical and Customer Care Support Advisor"
 layout: resume
 immagine: /img/cv/avatar.jpg
@@ -10,7 +10,6 @@ immagine: /img/cv/avatar.jpg
 |                     |                                    |
 |---------------------|------------------------------------|
 | 🏠 Address (Italian) | Via Roscio 28<br>Albavilla (CO)<br>22031 |
-| 🏠 Address (Greek)   | Kikladon 11A<br>Athens<br>(Attica)<br>11361 |
 | ✉ Mail              | corinti@gmx.com                    |
 | ☎️ Phone (Italian)  | +39 348 865 4953                   |
 | ☎️ Phone (Greek)    | +30 694 711 6936                   |
@@ -36,6 +35,7 @@ immagine: /img/cv/avatar.jpg
 | Year                | Title                              |
 |---------------------|------------------------------------|
 | 2022                | [Giochi Troppo!: Spegni il computer e vai a dormire!](https://www.amazon.it/GIochi-Troppo-Spegni-computer-dormire/dp/B0B9LNVLCH/) |
+| 2025                | [Troppo Social](https://xabacadabra.itch.io/troppo-social) |
 
 ### + Education
 

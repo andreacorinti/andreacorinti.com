@@ -5,22 +5,45 @@ layout: base.njk
 <body style="background-color:white;">
 
 <header class="tdbc-hero">
-  <div class="tdbc-container">
-    <h1 class="tdbc-ink--primary tdbc-mb-none" style="color:black">{{ title }}</h1>
+  <div class="tdbc-container" style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+    <!-- Immagine a sinistra -->
     <img src="{{ immagine }}" alt="Andrea Corinti" class="resumeAvatar">
-    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto" style="color:black">
-      {{ description }}
-    </h2>
+
+    <!-- Testo a destra (titolo e descrizione) -->
+    <div>
+      <h1 class="tdbc-ink--primary tdbc-mb-none" style="color:black; margin-top: 0;">{{ title }}</h1>
+      <h2 class="tdbc-lead tdbc-ink--gray tdbc-mt-md" style="color:black; margin-bottom: 0;">
+        {{ description }}
+      </h2>
+    </div>
   </div>
 </header>
-<main class="tdbc-container" style="color:black; a:black">
+
+<main class="tdbc-container" style="color:black;">
   <style>
-a:link {
-  color: blue;
-}
-a:visited {
-  color: blue;
-}</style>
+    a:link { color: blue; }
+    a:visited { color: blue; }
+
+    /* Stile per ridurre le dimensioni dell'immagine */
+    .resumeAvatar {
+      width: 140px;
+      height: auto;
+      border-radius: 10px;
+      flex-shrink: 0;
+    }
+
+    @media (max-width: 600px) {
+      .tdbc-container[style*="flex"] {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .resumeAvatar {
+        margin-bottom: 1rem;
+      }
+    }
+  </style>
+
   <article class="tdbc-mx-auto">
     {{ content | safe }}
   </article>
