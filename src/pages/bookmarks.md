@@ -17,12 +17,11 @@ perpetually work in progress...
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
 | [**Cantina Ragnate.la**](https://cantina.ragnate.la//) | Il bel blog di Edoardo Maria Elidoro, Ed di Livello Segreto! |
-| [**Kenobit.it**](https://www.kenobit.it/) | Homepage di Fabio "Kenobit" Bortolotti, artista e attivista digitale |
 | [**Wok Oblomov**](https://wok.oblomov.eu/) | l'interessante sitone di Oblomov, colmo di riflessioni su politica e web |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
 | [**Nikole Ceccarelli**](https://www.nikolececcarelli.it/blog) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
-| [**Federazione Blog Indipendenti**](https://fediblog.it) | Progetto di TiTiNoNero, interessante aggregatore di blog italiani a cui partecipo |
+| [**Kenobit.it**](https://www.kenobit.it/) | Homepage di Fabio "Kenobit" Bortolotti, artista e attivista digitale |
 | [**Rulatori Solitari**](https://www.ruolatorisolitari.it) | Portale dedicato al GDR in solitaria |
 | [**holism in the attic**](https://blog.zeruhur.icu/) | bel blog a tema geek di zeruhur |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |
@@ -57,3 +56,4 @@ perpetually work in progress...
 | [**The Eye**](https://the-eye.eu/)|Sápere aude!|
 | [**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
 | [**Angry Metal Guy**](https://www.angrymetalguy.com/) | One of the few music review sites I follow |
+| [**The Progressive Subway**](https://theprogressivesubway.com/) | Like AMG, but prog-focused and with also very inspiring articles | 
