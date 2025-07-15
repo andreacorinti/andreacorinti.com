@@ -3,7 +3,7 @@ layout: archivio
 lang: it-IT
 sommario: "Tutti i post dal blog di Andrea Corinti."
 pagination: 
-    data: collections.blogita
+    data: collections.blog
     size: 8
     alias: postita
 permalink: "/italian-{{ pagination.pageNumber }}/"

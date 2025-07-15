@@ -51,6 +51,12 @@ module.exports = function (eleventyConfig) {
 
   /* Collezioni */
   
+  eleventyConfig.addCollection("blog", function(collection) {
+    return collection.getFilteredByGlob([
+      "./src/posts/*.md",
+      "./src/posts/ita/*.md"
+    ]).reverse();
+  });
   eleventyConfig.addCollection("blogita", function(collection) {
     return collection.getFilteredByGlob("./src/posts/ita/**/*.md").reverse();
   });
@@ -59,9 +65,6 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addCollection("blogesp", function(collection) {
     return collection.getFilteredByGlob("./src/posts/esp/*.md").reverse();
-  });
-  eleventyConfig.addCollection("bloggr", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/gr/*.md").reverse();
   });
   eleventyConfig.addCollection("progetti", function(collection) {
     return collection.getFilteredByGlob("./src/posts/progetti/*.md").reverse();

@@ -3,8 +3,8 @@ title: "Akira and Final Fantasy VII"
 subtitle: "Of Motorcycles, Atomic Bombs, and Delinquency. And more!"
 sommario: "I've been thinking about this post for about a year, ever since I read for the first time the manga of the masterpiece by Katsuhiro Otomo, after growing up having watched and rewatched the homonymous movie..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/akira-ff7.jpg
-lang: it-IT
 date: 2023-07-19
+lang: en-US
 ---
 
 _This article was first published on March 14, 2017_ [_and it is also available in Italian._](../../ita/Akira-e-Final-Fantasy-VII/)
