@@ -5,8 +5,9 @@ layout: base.njk
 {# Questo tag è fondamentale per Bridgy Fed. Assicurati che sia nel layout del singolo post. #}
 <a href="https://fed.brid.gy/" hidden></a>
 
-{# Qui dovrai inserire i link per l'endpoint Webmention, solitamente nel <head> del tuo base.njk #}
-{# Esempio per webmention.io. Sostituisci "yourdomain.com" con il tuo dominio reale. #}
+{# Qui dovrai inserire i link per l'endpoint Webmention, solitamente nel <head> del tuo base.njk. #}
+{# Se usi webmention.io, devi aver configurato il tuo dominio lì. #}
+{# Esempio: #}
 {# <link rel="webmention" href="https://webmention.io/yourdomain.com/webmention" /> #}
 {# <link rel="pingback" href="https://webmention.io/yourdomain.com/xmlrpc" /> #}
 
@@ -14,30 +15,46 @@ layout: base.njk
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    <h1 class="tdbc-ink--primary tdbc-mb-none p-name">{{ title }}</h1> {# p-name per il titolo del post #}
-    <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | dateDisplay }}</time> {# dt-published per la data #}
+    {# Il titolo del post con la classe p-name. Va bene qui. #}
+    <h1 class="tdbc-ink--primary tdbc-mb-none p-name">{{ title }}</h1>
+    {# La data di pubblicazione con la classe dt-published. Assicurati che htmlDateString formatti in ISO 8601. #}
+    <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | dateDisplay }}</time>
     <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
+    {# Il sottotitolo/sommario del post con la classe p-summary. #}
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
-      {# p-summary per il sommario del post #}
       <span class="p-summary">{{ subtitle }}</span>
     </h2>
   </div>
 </header>
 
-{# Questo è il contenitore principale del tuo post e dovrebbe avere la classe h-entry #}
-<main class="tdbc-container h-entry">
-  {# L'autore dovrebbe essere un h-card e apparire una sola volta #}
-  <p>Published by <a class="p-author h-card" href="/">Andrea Corinti</a></p>
+{# Questo è il contenitore principale del tuo post e DEVE avere la classe h-entry. #}
+{# Ho spostato l'intera sezione 'main' all'interno di un unico h-entry. #}
+<main class="tdbc-container">
+  <article class="tdbc-mx-auto h-entry">
+    {# L'URL permanente del post con la classe u-url. CRUCIALE per Bridgy Fed. #}
+    <a class="u-url" href="{{ permalink }}" hidden></a>
 
-  {# u-url è l'URL permanente del post. È cruciale per Bridgy Fed. #}
-  <a class="u-url" href="{{ permalink }}" hidden></a>
+    {# L'autore del post con la classe p-author e h-card. #}
+    {# Questo dovrebbe puntare alla tua homepage che contiene il tuo h-card personale. #}
+    <p>Pubblicato da <a class="p-author h-card" href="https://www.andreacorinti.com">Andrea Corinti</a></p>
 
-  {# Il contenuto principale del post, con la classe e-content #}
-  <article class="tdbc-mx-auto e-content">
-    {{ content | safe }}
+    {# Il contenuto effettivo del post con la classe e-content. NON aggiungere qui p-name. #}
+    <div class="e-content">
+      {{ content | safe }}
+    </div>
+
+    {# Se vuoi aggiungere categorie #}
+    {# {% if categories %}
+    <div>
+      Categorizzato in:
+      {% for category in categories %}
+      <a rel="tag" class="p-category" href="/categorie/{{ category | slug }}">{{ category }}</a>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %} #}
+
+    <section>
+      {# La sezione commenti (Utterances) può rimanere, ma non è direttamente legata a Bridgy Fed/Webmention #}
+      </section>
   </article>
-
-  <section>
-    {# La sezione commenti (Utterances) può rimanere, ma non è direttamente collegata a Bridgy Fed/Webmention #}
-    </section>
 </main>

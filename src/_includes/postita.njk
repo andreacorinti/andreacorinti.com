@@ -15,33 +15,43 @@ layout: base.njk
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    {# Il titolo del post con la classe p-name #}
+    {# Il titolo del post con la classe p-name. Va bene qui. #}
     <h1 class="tdbc-ink--primary tdbc-mb-none p-name">{{ title }}</h1>
-    {# La data di pubblicazione con la classe dt-published. Usa un filtro per un formato HTML valido. #}
+    {# La data di pubblicazione con la classe dt-published. Assicurati che htmlDateString formatti in ISO 8601. #}
     <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | dateDisplay }}</time>
     <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
+    {# Il sottotitolo/sommario del post con la classe p-summary. #}
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
-      {# Il sottotitolo o sommario del post con la classe p-summary #}
       <span class="p-summary">{{ subtitle }}</span>
     </h2>
   </div>
 </header>
 
 {# Questo è il contenitore principale del tuo post e DEVE avere la classe h-entry. #}
-{# Ho spostato l'articolo qui per contenere tutto il corpo del post. #}
+{# Ho spostato l'intera sezione 'main' all'interno di un unico h-entry. #}
 <main class="tdbc-container">
   <article class="tdbc-mx-auto h-entry">
     {# L'URL permanente del post con la classe u-url. CRUCIALE per Bridgy Fed. #}
     <a class="u-url" href="{{ permalink }}" hidden></a>
 
     {# L'autore del post con la classe p-author e h-card. #}
-    {# Sostituisci l'URL con il tuo dominio se la tua homepage ha il tuo h-card. #}
+    {# Questo dovrebbe puntare alla tua homepage che contiene il tuo h-card personale. #}
     <p>Pubblicato da <a class="p-author h-card" href="https://www.andreacorinti.com">Andrea Corinti</a></p>
 
-    {# Il contenuto effettivo del post con la classe e-content #}
+    {# Il contenuto effettivo del post con la classe e-content. NON aggiungere qui p-name. #}
     <div class="e-content">
       {{ content | safe }}
     </div>
+
+    {# Se vuoi aggiungere categorie #}
+    {# {% if categories %}
+    <div>
+      Categorizzato in:
+      {% for category in categories %}
+      <a rel="tag" class="p-category" href="/categorie/{{ category | slug }}">{{ category }}</a>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %} #}
 
     <section>
       {# La sezione commenti (Utterances) può rimanere, ma non è direttamente legata a Bridgy Fed/Webmention #}
