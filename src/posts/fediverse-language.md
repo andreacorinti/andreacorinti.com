@@ -89,4 +89,3 @@ Even some of the posts I make here on the blog, like my "record of the month" se
 But for public posts on my profile and for my interactions, I really think I'll start considering using English way more often.
 
 Maybe I'll change my mind, but for now, _que será, será_.
-
