@@ -15,22 +15,37 @@
 }
 ---
 
-<rss version="2.0" xmlns:dc="https://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" {# CORRETTO: Cambiato da https a http #}
+     xml:base="{{ metadata.url }}"
+     xmlns:atom="http://www.w3.org/2005/Atom" {# CORRETTO: Cambiato da https a http #}
+     xmlns:media="http://search.yahoo.com/mrss/"> {# AGGIUNTO: Namespace per Media RSS per le immagini #}
   <channel>
     <title>{{ metadata.title }}</title>
     <link>{{ metadata.url }}</link>
     <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
     <description>{{ metadata.subtitle }}</description>
     <language>it-IT</language>
+    {# Potresti voler aggiungere qui l'immagine del canale (logo del blog) #}
+    {# <image>
+      <url>{{ 'percorso/al/tuo/logo.png' | absoluteUrl(metadata.url) }}</url>
+      <title>{{ metadata.title }}</title>
+      <link>{{ metadata.url }}</link>
+    </image> #}
+    
     {%- for post in collections.blog %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
-      <image>{{ post.data.immagine }}</image>
+      {# CORRETTO: Invece di <image>, usa <media:content> per le immagini degli item #}
+      {% if post.data.immagine %}
+      <media:content url="{{ post.data.immagine | absoluteUrl(metadata.url) }}" medium="image" />
+      {% endif %}
       <description>{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
-      <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
-      <updated>{{ post.date | dateToRfc3339 }}</updated>
+      {# CORRETTO: Usa un filtro per RFC 822. Questo richiederà la definizione di un nuovo filtro in .eleventy.js #}
+      <pubDate>{{ post.date | rssDate }}</pubDate>
+      {# RIMOSSO: <updated> non è un tag RSS 2.0 valido all'interno di <item> #}
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>
