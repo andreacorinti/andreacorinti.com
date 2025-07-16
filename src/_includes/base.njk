@@ -61,17 +61,6 @@
   <body>
     {{ content | safe }}
 
-<!-- h-entry -->
-    <article class="h-entry" style="display: none;">
-      <h1 class="p-name">{{ title }}</h1>
-      <p>Published by <a class="p-author h-card" href="http://www.andreacorinti.com">Andrea Corinti</a>
-      on <time class="dt-published" datetime="{{ date }}">{{ date }}</p>
-      <p class="p-summary">{{ sommario }}</p>
-      <div class="e-content">
-        <p>{{ content | safe }}</p>
-        </div>
-    </article>
-
     <footer class="tdbc-background--secondary">
       <div class="tdbc-container tdbc-text-align-center">
         <div class="tdbc-row tdbc-ink--light tdbc-mx-auto">
