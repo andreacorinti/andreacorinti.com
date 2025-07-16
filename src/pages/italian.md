@@ -6,7 +6,7 @@ pagination:
     data: collections.blog
     size: 8
     alias: postita
-permalink: "/italian-{{ pagination.pageNumber }}/"
+permalink: "/blog-{{ pagination.pageNumber }}/"
 ---
 
 <main class="tdbc-container">
