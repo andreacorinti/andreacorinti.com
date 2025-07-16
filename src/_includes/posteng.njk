@@ -1,59 +1,43 @@
 ---
 layout: base.njk
 ---
+
+{# Questo tag è fondamentale per Bridgy Fed. Assicurati che sia nel layout del singolo post. #}
 <a href="https://fed.brid.gy/" hidden></a>
 
-<span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <meta itemprop="name" content="Andrea Corinti">
-</span>
-
-<span itemprop="publisher" itemscope itemtype="https://schema.org/Person">
-    <!--<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-      <img src="/images/logo.jpg"/>
-      <meta itemprop="url" content="/images/logo.jpg">
-      <meta itemprop="width" content="600">
-      <meta itemprop="height" content="60">
-    </span> /*logo*/--> 
-    <meta itemprop="name" content="Andrea Corinti">
-</span>
-<span itemprop="headline" content="{{ sommario }}"></span>
-
+{# Qui dovrai inserire i link per l'endpoint Webmention, solitamente nel <head> del tuo base.njk #}
+{# Esempio per webmention.io. Sostituisci "yourdomain.com" con il tuo dominio reale. #}
+{# <link rel="webmention" href="https://webmention.io/yourdomain.com/webmention" /> #}
+{# <link rel="pingback" href="https://webmention.io/yourdomain.com/xmlrpc" /> #}
 
 {% include 'sitenav.njk' %}
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
-    <time itemprop="datePublished" class="dt-published" datetime="{{ date }}" content="{{ date }}">{{ date | dateDisplay }}</time>
+    <h1 class="tdbc-ink--primary tdbc-mb-none p-name">{{ title }}</h1> {# p-name per il titolo del post #}
+    <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | dateDisplay }}</time> {# dt-published per la data #}
     <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
-      {{ subtitle }}
+      {# p-summary per il sommario del post #}
+      <span class="p-summary">{{ subtitle }}</span>
     </h2>
   </div>
 </header>
-<main class="tdbc-container h-entry">
-  <article class="tdbc-mx-auto e-content p-name">
-    {{ content | safe }}
-  <section>
-    <!--<h3>Utterances</h3>
-    <script src="https://utteranc.es/client.js"
-        repo="andreacorinti/andreacorinti.com"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-    </script>-->
-    </section>
-  </article>
-</main>
 
-<!-- h-entry -->
-    <article class="h-entry" style="display: none;">
-      <h1 class="p-name">{{ title }}</h1>
-      <p>Published by <a class="p-author h-card" href="http://www.andreacorinti.com">Andrea Corinti</a>
-      on <time class="dt-published" datetime="{{ date }}">{{ date }}</p>
-      <p class="p-summary">{{ sommario }}</p>
-      <div class="e-content">
-        <p>{{ content | safe }}</p>
-        </div>
-    </article>
+{# Questo è il contenitore principale del tuo post e dovrebbe avere la classe h-entry #}
+<main class="tdbc-container h-entry">
+  {# L'autore dovrebbe essere un h-card e apparire una sola volta #}
+  <p>Published by <a class="p-author h-card" href="/">Andrea Corinti</a></p>
+
+  {# u-url è l'URL permanente del post. È cruciale per Bridgy Fed. #}
+  <a class="u-url" href="{{ permalink }}" hidden></a>
+
+  {# Il contenuto principale del post, con la classe e-content #}
+  <article class="tdbc-mx-auto e-content">
+    {{ content | safe }}
+  </article>
+
+  <section>
+    {# La sezione commenti (Utterances) può rimanere, ma non è direttamente collegata a Bridgy Fed/Webmention #}
+    </section>
+</main>
