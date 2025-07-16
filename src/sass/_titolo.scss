@@ -1,5 +1,20 @@
 .titolo {
-  animation: glow 2500ms linear infinite 2000ms; 
+  animation: glow 2500ms linear infinite 2000ms;
+  a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:active {
+    text-decoration: underline;
+  }
 }
 
 @keyframes glow 
