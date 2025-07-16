@@ -68,3 +68,8 @@ $tdbc-spacing: (
 // NUOVA VARIABILE AGGIUNTA
 $tdbc-typography-variants: h1, h2, h3, h4 !default;
 $tdbc-alignments: left, center, right !default;
+
+.u-author-hidden {
+  display: none;
+  /* o visibility: hidden; ma display: none è più comune per elementi non visivi */
+}

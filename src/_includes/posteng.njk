@@ -34,9 +34,8 @@ layout: base.njk
     {# L'URL permanente del post con la classe u-url. CRUCIALE per Bridgy Fed. #}
     <a class="u-url" href="{{ permalink }}" hidden></a>
 
-    {# L'autore del post con la classe p-author e h-card. #}
-    {# Questo dovrebbe puntare alla tua homepage che contiene il tuo h-card personale. #}
-    <p>Pubblicato da <a class="p-author h-card" href="https://www.andreacorinti.com">Andrea Corinti</a></p>
+    {# L'autore del post - Rimosso il <p> esterno, messo direttamente sull'<a> #}
+    <a class="p-author h-card u-author-hidden" href="https://www.andreacorinti.com">Andrea Corinti</a>
 
     {# Il contenuto effettivo del post con la classe e-content. NON aggiungere qui p-name. #}
     <div class="e-content">
