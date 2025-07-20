@@ -39,7 +39,7 @@
   font-style: normal;
   font-weight: normal;
   src: local("Teko"), local("Teko"),
-    url("../fonts/teko.woff") format("woff");
+    url(/fonts/teko.woff) format("woff");
   font-display: swap;
 }
 
@@ -48,6 +48,6 @@
   font-style: normal;
   font-weight: normal;
   src: local("PressStart"), local("PressStart"),
-    url("../fonts/PressStart2P.woff2") format("woff");
+    url(/fonts/PressStart2P.woff2) format("woff");
   font-display: swap;
 }

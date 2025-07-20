@@ -72,3 +72,5 @@ Super duo composto da Steve DiGiorgio (bassista dei Death e un botto di altre ba
 Accompagnati dalla batteria di Yuma van Eekelen (Our Oceans, e Pestilence pure lui) e la chitarra di Eve (Myth Of I, Kaathe) i due bassisti tirano fuori un interessantissimo progetto progressive metal strumentale, di quelli che spesso definisco perfetti per fare da sottofondo al lavoro, e in generale piacevolissimi da ascoltare.
 
 Prodotto in maniera perfetta e logicamente una sorta di pornografia del basso, non posso non consigliarlo a chiunque apprezzi il prog e magari pure a chi viene dal death metal più tecnico.
+
+[_**Luglio 2025**_](/posts/ita/disco-del-mese-07-2025)
