@@ -18,6 +18,7 @@ perpetually work in progress...
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
 | [**Cantina Ragnate.la**](https://cantina.ragnate.la//) | Il bel blog di Edoardo Maria Elidoro, Ed di Livello Segreto! |
 | [**Wok Oblomov**](https://wok.oblomov.eu/) | l'interessante sitone di Oblomov, colmo di riflessioni su politica e web |
+| [**Bu**](https://bu.noblogs.org/) | Il bel blog di Jones, pieno di citazioni di libri interessanti |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
 | [**Nikole Ceccarelli**](https://www.nikolececcarelli.it/blog) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
