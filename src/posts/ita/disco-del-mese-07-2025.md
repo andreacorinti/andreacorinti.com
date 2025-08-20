@@ -86,3 +86,5 @@ Progressive metal con concept album su un racconto di Stephen King e secondo voi
 Purtroppo per me il canto clean di Marcello Vieira mi ha portato troppo verso il lato LaBrie della luna quindi non ho apprezzato del tutto il disco, ma alcune cose interessanti ci sono! 
 
 Non divento matto manco per il tizio del growl della situazione (Gabriel Ricco) ma lo preferisco a Vieira, forse il problema più generale è con la produzione del disco ma chissà. Peccato!
+
+[_**Agosto 2025**_](/posts/ita/disco-del-mese-08-2025)
