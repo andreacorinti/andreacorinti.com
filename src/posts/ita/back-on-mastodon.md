@@ -43,4 +43,4 @@ Ma la dimensione twitter-like (come anche simili facebook, reddit eccetera) non 
 
 Lì alla fine resto, ma principalmente per un paio di bolle private, quindi non credo valga la pena linkarlo da queste parti (posto che linkare Meta è sempre brutto a prescindere)
 
-<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId=""></mastodon-comments>
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115145402599323905"></mastodon-comments>
