@@ -66,3 +66,5 @@ L'ispirazione sarebbe la Grettir''s Saga islandese, ma strumenti, accordi e atmo
 vabbè, linko [qua](https://social.andreacorinti.com/@xabacadabra/statuses/01K31K4ACH3Q2ZR45VHWJS83V7) che facciamo prima 
 
 alcune canzoni mi sono piaciute tanto, altre per nulla, ma mi ha completamente spiazzato nel bene e nel male!
+
+[_**Settembre 2025**_](/posts/ita/disco-del-mese-09-2025)
