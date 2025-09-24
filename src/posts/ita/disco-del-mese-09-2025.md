@@ -7,7 +7,7 @@ date: 2025-09-24
 lang: it-IT
 ---
 
-[_**Agosto 2024**_](/posts/ita/disco-del-mese-08-2025)
+[_**Agosto 2025**_](/posts/ita/disco-del-mese-08-2025)
 
 Beh, con _A Dark Poem Part I: The Shores of Melancholia_ [mi sono dissanguato per il Vinile rosso](mastodon.social/@Xabacadabra/115230596583003216) al Bandcamp friday e per me è potenzialmente il disco dell'anno (in dubbio con un altro paio in realtà, ma se ne riparla a dicembre), quindi che dire?
 
