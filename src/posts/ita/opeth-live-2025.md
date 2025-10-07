@@ -43,7 +43,6 @@ Mikael (MICHELEEEEE) carismatico e meravigliosamente scemo, band che nel comples
   <source src="/video/opeth-deliverance.mp4" type="video/mp4">
 </video>
 
-
 ### Paatos
 
 <video width="320" height="240" controls>
