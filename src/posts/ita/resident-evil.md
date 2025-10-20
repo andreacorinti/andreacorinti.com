@@ -3,7 +3,7 @@ title: "Una veloce retrospettiva su Resident Evil"
 subtitle: "PULGARCITOOOOOOOO"
 sommario: "La saga di Resident Evil ha sempre rappresentato una delle mie lacune più imbarazzanti da videogiocatore. Fin da quando, 199X, provai il primo capitolo da amici e lo snobbai con una frase del tipo..."
 immagine: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0554b945aafc847d55f780f7968de00aafa968a3.600x338.jpg
-date: 2025-10-21
+date: 2025-10-20
 lang: it-IT
 ---
 
