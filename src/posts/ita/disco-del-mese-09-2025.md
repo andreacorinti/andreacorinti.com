@@ -59,3 +59,4 @@ Nefolk norreno dall'Olanda, papabile colonna sonora del vostro _Vikings_ di quar
 
 Certo, come dicevo poco sopra parlando dei ΔYNAMIS, qui siamo entrati un po' nei triti riferimenti che nel genere abbondano...ma d'altronde questi sono Olandesi, quindi Faber Horbach (mente dietro il progetto) non è che potesse attingere a chissà che (o almeno credo).
 
+[_**Ottobre 2025**_](/posts/ita/disco-del-mese-10-2025)

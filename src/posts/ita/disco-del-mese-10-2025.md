@@ -3,7 +3,7 @@ title: "Disco del Mese - Ottobre 2025"
 subtitle: "An Abstract Illusion - The Sleeping City"
 sommario: "Ok, ottobre ricchissimo, con ogni probabilità personale record per questa mia rubrichetta e, siccome mi perdo tra tutti i consigli, ringrazio direttamente Efi e Zel che hanno diffuso molta di questa bella roba!"
 immagine: https://f4.bcbits.com/img/a2524279669_16.jpg
-date: 2025-10-24
+date: 2025-10-22
 lang: it-IT
 ---
 
@@ -11,25 +11,13 @@ lang: it-IT
 
 Ok, ottobre ricchissimo, con ogni probabilità personale record per questa mia rubrichetta e, siccome mi perdo tra tutti i consigli, ringrazio direttamente [Efi](https://electricrequiem.com/@effimera) e [Zel](https://livellosegreto.it/@Zel/) che hanno diffuso molta di questa bella roba!
 
-Come si può vedere comunque, nonostante l'abbondanza The Sleeping City degli An Abstract Illusion vince il mese su tutta la linea per quanto mi concerne e, ma guarda un po', parliamo di prog death metal dalla Svezia! 😏
+In ogni caso, nonostante l'abbondanza _The Sleeping City_ degli An Abstract Illusion vince il mese su tutta la linea per quanto mi concerne e, ma guarda un po', parliamo di prog death metal dalla Svezia! 😏
 
-Contaminazioni da OST anni '80 (da John Carpenter in giù), tastiere proggone, chitarre squisite e tanto tizio del growl a tinte death / black vecchia scuola accompagnate da superbi canti clean.
+Un disco colmo di dontaminazioni da OST anni '80 (da John Carpenter in giù), tastiere proggone, chitarre squisite e tanto tizio del growl a tinte death / black vecchia scuola accompagnate da superbi canti clean.
 
 Papabile disco dell'anno?
 
-Papabile disco dell'anno.
-
-### The Vintage Caravan - Portals
-
-![The Vintage Caravan - Portals](https://f4.bcbits.com/img/a3196112575_16.jpg)
-
-Extramese di poco, con la gradita ospitata di Mikael "Michele" degli Opeth nella prima traccia.
-
-Ho adorato Current e in generale ascoltato volentierissimo tutto il disco che è purisssimo prog rock anni '70 (quel Vintage Caravan dovrà pur voler dire qualcosa d'altronde).
-
-Óskar Logi Ágústsson vocalmente non mi piace sempre (chitarristicamente sì), ma a sentirlo ogni tanto penso _"se questo fumasse un po', ci sarebbero delle potenzialità da Ian Astbury"_
-
-Poi davvero, in _Freedom_ c'è un momento da Jimi Hendrix Experience
+Papabile disco dell'anno: _Frost Flower_ e la title track sono qualcosa di meraviglioso.
 
 ### Amorphis - Borderland 
 
@@ -43,6 +31,18 @@ Borderland è un disco molto carino, non di quelli che ti fanno innamorare, ma c
 
 Mi sono piaciute molto _Tempest_ e _The Lantern_, nel complesso è un ottimo sottofondo lavorativo.
 
+### The Vintage Caravan - Portals
+
+![The Vintage Caravan - Portals](https://f4.bcbits.com/img/a3196112575_16.jpg)
+
+Extramese di poco, con la gradita ospitata di Mikael "Michele" degli Opeth nella prima traccia.
+
+Ho adorato Current e in generale ascoltato volentierissimo tutto il disco che è purissimo prog rock anni '70 (d'altronde quel Vintage Caravan dovrà pur voler dire qualcosa 😌).
+
+Confesso che Óskar Logi Ágústsson vocalmente non mi piace sempre (chitarristicamente invece sì), ma a sentirlo ogni tanto penso _"se questo fumasse un po', ci sarebbero delle potenzialità da Ian Astbury"_
+
+Poi davvero, in _Freedom_ c'è un momento da Jimi Hendrix Experience che portami via! Bello bello.
+
 ### PERTURBATOR - Age of Aquarius
 
 ![### PERTURBATOR - Age of Aquarius](https://f4.bcbits.com/img/a0715522955_16.jpg)
@@ -53,21 +53,29 @@ C'è un aspettto interessante e non casuale di questa nicchia elettronica retrò
 
 Anche per questo, le illustri ospitate dei conterranei Alcest (ovvero il meraviglioso Neige) e dei celeberrimi, magnifici Ulver (che forse, dopo gli esordi black metal la synhtwave hanno contribuito a crearla)
 
-Una pesantissima ost industriale per un mondo cyberpunk molto meno affascinante di lei!
+Sintetizzando, una pesantissima ost industriale per un mondo cyberpunk molto meno affascinante di lei.
 
 ### Telesterion -  Songs of Orpheus
 
 ![Telesterion -  Songs of Orpheus](https://f4.bcbits.com/img/a2938950043_16.jpg)
 
-Doom Metal Ellenico e che faccio, io non lo ascolto? per avermi passato questi sacerdoti di Demetra, mistici e strani nel senso buono, pronti per un eventuale Silent Hill collegato con i miti dionisiaci (?) 
+Doom Metal Ellenico e che faccio, io non lo ascolto? per avermi passato questi sacerdoti di Demetra, mistici e strani nel senso buono, pronti per un eventuale Silent Hill collegato con i miti dionisiaci (?)
+
+Il disco è molto interessante e devo riascoltarmelo ancora un po' di volte per dare un parere più esaustivo, ma intanto se apprezzate il doom e vi piace la mitologia greca (o state giocando troppo a _Hades II_) consiglio assolutamente di recuperarlo.
 
 ### Paradise Lost - Ascension 
 
 ![Paradise Lost - Ascension](https://lastfm.freetls.fastly.net/i/u/770x0/7bd076ed80a84801fa1ff3a84b14bca5.jpg#7bd076ed80a84801fa1ff3a84b14bca5)
 
-Allora: questo disco è piaciuto a tutto il mondo ma a me non ha ancora davvero preso, ma sono abbastanza sicuro sia un limite mio e del mio mood attuale perché a pelle si sente subito che è un grande ritorno di una band storica a cui io devo comunque molto per il meraviglioso _Draconian Times_.
+Dunque.
 
-Diciamo che lo scrivo qui come nodo al fazzoletto per me stesso, perché sicuramente è uno degli album del 2025 che conto di risentire a dovere.
+Questo disco è piaciuto praticamente a tutto il mondo...
+
+Ma a me non ha ancora davvero preso. 
+
+Però sono abbastanza sicuro si tratti di un limite mio e del mio mood attuale, perché a pelle si sente subito che è un grande ritorno di una band storica a cui io devo comunque molto per il meraviglioso _Draconian Times_.
+
+Diciamo che lo scrivo qui come nodo al fazzoletto per me stesso, perché sicuramente è uno degli album del 2025 che conto di risentire per benino.
 
 ### Ültra Raptör – Fossilized
 
@@ -85,13 +93,15 @@ Divertentissimi, perfetti per quando si vuole un po' di classico heavy metal caz
 
 Un classico disco di moderno thrash metal da una delle storiche band del genere. 
 
-Al momento mi verrebbe da dire molto pizzulianamente parlando "tutto molto bello", anche se non quel che si dice memorabile (ma possono pure permetterselo)
+Al momento mi verrebbe da dire molto pizzulianamente parlando "tutto molto bello", anche se non quel che si dice memorabile (ma possono pure permetterselo), ennesimo disco che conto di riascoltare ma che credo mi passerà via in ogni caso senza coinvolgermi più di tanto - ma sono io probabilmente che con il thrash metal oramai ho dato, e oramai ascolto volentieri senza diventarci matto come un tempo.
 
 ### Agriculture - The Spiritual Sound
 
 ![Agriculture - The Spiritual Sound](https://f4.bcbits.com/img/a0401935823_16.jpg)
 
 Black metal molto intrigante (anche se non il mio tipo di Tizia del Growl) ma con notevolissimi arrangiamenti per Flea, Micah e Bodhidharma!
+
+Disco interessante, forse fin troppo estremo per il mio palato, 
 
 ### Sabaton - Legends
 
