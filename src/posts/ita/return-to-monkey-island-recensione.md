@@ -84,9 +84,3 @@ Non saprei dire se mi è piaciuto, lo confesso: di sicuro non mi ha deluso e per
 ## Aveva ragione Gilbert
 
 Alla fine, mi sono ritrovato nella situazione di cui ciarlavo con [l'adattamento Netflix di _Sandman_](/posts/ita/sandman-netflix-recensione/): quella famosa autorialità che non ti dà quello che vorresti, ma quello che nemmeno tu sai di volere.
-
-## Commenti
-
-Al solito, se volete dire quanto un roditore potrebbe rodere il legno o individuare scimmie a tre teste, ci si becca su telegram oppure sulla [recensione steam](https://steamcommunity.com/id/xabaras89/recommended/2060130/)
-
-<script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="xabacadabra/138" data-width="100%"></script>
