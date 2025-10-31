@@ -55,4 +55,4 @@ Ron Gilbert è una leggenda vivente, il gioco è economico e fieramente *AI-free
 
 **Se invece il genere ha cominciato a stancarvi**, potreste voler aspettare qualche aggiornamento futuro prima di provarlo.
 
-<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115468087316239085"></mastodon-comments>
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115453009002581685"></mastodon-comments>
