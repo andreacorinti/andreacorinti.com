@@ -22,7 +22,6 @@ perpetually work in progress...
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |
 | [**77nn.it**](https://77nn.it/) | Il bellissimo blog di TiTiNoNero |
 | [**Nikole Ceccarelli**](https://www.nikolececcarelli.it/blog) | Si dichiara "pessima fonte di saggezza", ma diffidate da quel pessima |
-| [**Kenobit.it**](https://www.kenobit.it/) | Homepage di Fabio "Kenobit" Bortolotti, artista e attivista digitale |
 | [**Rulatori Solitari**](https://www.ruolatorisolitari.it) | Portale dedicato al GDR in solitaria |
 | [**holism in the attic**](https://blog.zeruhur.icu/) | bel blog a tema geek di zeruhur |
 | [**Lucasdelirium**](https://www.lucasdelirium.it/) | Inestimabile risorsa italiana per tutti gli appassionati delle vecchie avventure grafiche Lucasfilms |

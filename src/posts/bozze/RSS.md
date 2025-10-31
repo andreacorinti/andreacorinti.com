@@ -54,7 +54,6 @@ Lascio qui sotto un elenco in aggiornamento perpetuo dove aggiungerò man mano t
 | **Hawksworx** | Phil Hawksworth's home on the web. Read his blog, ask questions, and find coverage of his recent conference talks about web development. | [https://www.hawksworx.com/feed.xml](https://www.hawksworx.com/feed.xml) |
 | **Henry Jenkins** | Reflections on Entertainment, Pop Culture, Activism, Media Literacy, Fandom and More | [https://henryjenkins.org/blog?format=rss](https://henryjenkins.org/blog?format=rss) |
 | **holism in the attic** | Se ascolti il brusio di ogni foglia, sentirai la voce dell'intera foresta | [https://blog.zeruhur.icu/feed/](https://blog.zeruhur.icu/feed/) |
-| **Kenobit** | Pensieri sovversivi in bassa risoluzione | [https://log.livellosegreto.it/kenobit/feed/](https://log.livellosegreto.it/kenobit/feed/) |
 | **Keyezen** | Il mio blog scritto male | [https://log.livellosegreto.it/keyezen/feed/](https://log.livellosegreto.it/keyezen/feed/) |
 | **La cantina dell'appartamento al terzo piano (senza ascensore)** | Appunti vari sui puzzle quotidiani del mondo IT (e non solo) | [https://log.livellosegreto.it/edmael/feed/](https://log.livellosegreto.it/edmael/feed/) |
 | **Notebook From Jason** | Very serious stuff. Typos included. | [https://www.fromjason.xyz/p/notebook/feed/feed.xml](https://www.fromjason.xyz/p/notebook/feed/feed.xml) |
