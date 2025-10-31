@@ -54,3 +54,5 @@ Ron Gilbert è una leggenda vivente, il gioco è economico e fieramente *AI-free
 **Se amate i roguelike**, vi consiglio di valutare un salto in questo coloratissimo Purgatorio digitale. 
 
 **Se invece il genere ha cominciato a stancarvi**, potreste voler aspettare qualche aggiornamento futuro prima di provarlo.
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115468087316239085"></mastodon-comments>
