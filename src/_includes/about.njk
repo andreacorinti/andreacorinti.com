@@ -1,11 +1,18 @@
 ---
-description: Homepage of Andrea Corinti (Xab), Web Editor and Italian Web World citizen.
 layout: base.njk
-templateEngineOverride: md, njk
 ---
 
 {% include 'sitenav.njk' %}
 
+<header class="tdbc-hero">
+  <div class="tdbc-container">
+    <h1 class="tdbc-ink--primary tdbc-mb-none titolo">{{ meta.siteName }}</h1>
+    <img class="u-photo avatar" src="{{ avatar }}" alt="Andrea Corinti">
+    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mx-auto p-note">
+      An Italian Web World Citizen.
+    </h2>
+  </div>
+</header>
 <main class="tdbc-container">
 {{ content | safe }}
 </main>
