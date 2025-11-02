@@ -7,7 +7,7 @@ lang: it-IT
 
 ![gardenight](/img/gardenight2.gif)
 
-Benvenuti nella casa digitale di [Andrea Corinti](/about) dove archivia ciò che scrive e combina in giro per la rete come se fossimo nel 2003.
+Benvenuti nella casa digitale di [Andrea Corinti](/about), dove archivia ciò che scrive e combina in giro per la rete come se fossimo nel 2003.
 
 Questo, per esempio, è l'ultimo post del suo blog:
 
