@@ -74,3 +74,5 @@ Magari!
 * [Blog to the Future](https://www.andreacorinti.com/posts/ita/blog-to-the-future/)
 * [La forza dei Siti Web e i miei 11 anni da Blogger](https://www.andreacorinti.com/posts/ita/blog-11-anni/)
 * [Blog Questions Challenge 2025](https://www.andreacorinti.com/posts/ita/blog-questions-challenge-2025/)
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115496693788505873"></mastodon-comments>
