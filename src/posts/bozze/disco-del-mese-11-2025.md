@@ -14,3 +14,9 @@ lang: it-IT
 Extramese di poco, _Cosmic Doom_ gotico pieno di synth bello ispirato e con collaborazioni eccellenti
 
 ### PSYCHONAUT - World Maker 
+
+![PSYCHONAUT - World Maker](https://f4.bcbits.com/img/a1649894834_16.jpg)
+
+### Bianca 
+
+![Bianca](https://f4.bcbits.com/img/a1326944483_16.jpg)
