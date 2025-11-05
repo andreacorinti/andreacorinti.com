@@ -25,7 +25,7 @@ permalink: "/blog-{{ pagination.pageNumber }}/"
     </ul>
   </div>
   <div id="avanti-indietro">
-    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">PRECEDENTE</a>{% endif %}| 
+    {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">PRECEDENTE&nbsp</a>{% endif %}| 
     {% if pagination.href.next %}<a href="{{ pagination.href.next }}">SUCCESSIVA</a>{% endif %}
    </div>
 </main>
