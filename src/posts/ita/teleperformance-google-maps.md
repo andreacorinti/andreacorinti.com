@@ -38,3 +38,5 @@ PS: Fate attenzione in fase di recruiment se passate tramite agenzia e/o referra
 Ho fatto il ricorso automatico previsto da Google, che però è stato respinto senza troppe motivazioni o cerimonie. 
 
 Ribadisco che non è niente di grave, semmai l'ennesima avvisaglia di quanto sia poco serio affidarsi a determinati servizi e quanta ingerenza possano avere multinazionali milionarie rispetto ai singoli (sì sì, oggi è un po' la fiera delle banalità 😄)
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115514094645144806"></mastodon-comments>
