@@ -135,7 +135,7 @@ class MastodonComments extends HTMLElement {
       </noscript>
 
       <p>Per commentare <a class="link"
-      href="https://${this.host}/@${this.user}/statuses/${this.tootId}">questo post</a> devi avere un account nel Fediverso.
+      href="https://${this.host}/@${this.user}/${this.tootId}">questo post</a> devi avere un account nel Fediverso.
       </p>
       <p id="mastodon-comments-list"></p>
     `;
