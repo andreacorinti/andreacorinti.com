@@ -7,7 +7,7 @@ date: 2025-11-08
 lang: it-IT
 ---
 
-Google Maps ha rimosso una mia vecchia recensione di una delle sedi greche di Teleperformance dove ho lavorato, con queste motivazioni: 
+Google Maps ha rimosso una mia vecchia recensione di una delle sedi greche di Teleperformance dove ho lavorato (sotto le motivazioni).
 
 La recensione è stata scritta credo un 4-5 anni fa, vista parecchie volte, non mi pareva particolarmente negativa e soprattutto non ci ho mai fatto un euro o tratto qualsivoglia vantaggio (non so se si può far qualcosa legalmente parlando ma posso dimostrarlo in allegria).
 
