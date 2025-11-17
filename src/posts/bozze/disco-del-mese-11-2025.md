@@ -1,11 +1,19 @@
 ---
 title: "Disco del Mese - Novembre 2025"
-subtitle: ""
-sommario: ""
-immagine: 
+subtitle: " Asira -  As Ink in Water"
+sommario: "E anche questo mese, il prog metal salverà il mondo! Grazie all'algoritmo di Efi e una loro dubbia promozione memosa scopriamo questo nuovo gruppo prog-blackgaze-postmetal britannico che, aldilà del modo scelto..."
+immagine: https://f4.bcbits.com/img/a1749054154_16.jpg
 date: 2025-11-22
 lang: it-IT
 ---
+
+E anche questo mese, il prog metal salverà il mondo!
+
+Grazie all'algoritmo di Efi e una loro dubbia promozione "memosa" scopriamo questo nuovo gruppo prog-blackgaze-postmetal britannico che, aldilà del modo scelto per promuoversi, musicalmente porta in scena un progetto solido, interessante e soprattutto suonato (e cantato!) alla grande.
+
+Quel cantato vorrei sottolinearlo, perchè la voce di Jack Reynolds è godibilisima in clean, growl e scream e non è affatto scontato (si va dai classici stilemi del prog rock al black metal vecchia maniera).
+
+Fun fact: sono inglesi e non svedesi!! Incredibile!
 
 ### Novembre -  Words Of Indigo
 
@@ -16,12 +24,6 @@ Giustamente a novembre, ritorna lo storico gruppo prog-gothic-doom-black-bohfate
 La nasale voce lamentosa di 'mbare Melo Orlando non è per tutti i palati ma estremamente funzionale al sound malinconico della band.
 
 Tutto molto evocativo, con momenti che mi riportano al gothic dei primi anni 2000 che ascoltavo da pischello e forse anche per questo disco per me assolutamente azzeccato!
-
-### Asira -  As Ink in Water
-
-![Asira -  As Ink in Water](https://f4.bcbits.com/img/a1749054154_16.jpg)
-
-Grazie all'algoritmo di Efi e una loro dubbia promozione "memosa" scopriamo questo nuovo gruppo prog-blackgaze-postmetal britannico che, aldilà del modo scelto per promuoversi, musicalmente porta in scena un progetto molto solido, interessante e suonato alla grande.
 
 ### Remina - The Silver Sea
 
