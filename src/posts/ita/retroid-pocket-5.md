@@ -3,7 +3,7 @@ title: "Retroid Pocket 5"
 subtitle: "impressioni a caldissimo"
 sommario: "non sono così tanto spendaccione, come ribadisco sempre da anni gioco solo su Steam Deck e Miyoo Mini Plus (eventualmente valuterò la Steam Machine, ma nel caso se ne riparla nel 2026)"
 immagine: /img/retroid/6.jpg
-date: 2025-11-18
+date: 2025-11-17
 lang: it-IT
 ---
 
