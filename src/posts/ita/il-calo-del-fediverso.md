@@ -87,3 +87,5 @@ Anche se non esenti da difetti, [gamedev.place](https://mastodon.gamedev.place/e
 Mentre abbozzavo questo post, [Eugen Rochko](https://mastodon.social/@Gargron/115569820207257167) si è dimesso da CEO di Mastodon.
 
 Mo è a caldo, ma valeva la pena riportare la cosa, ci ragioneremo meglio appena ne vedremo a dovere gli effetti!
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115570099598965318"></mastodon-comments>
