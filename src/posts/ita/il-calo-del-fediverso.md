@@ -2,7 +2,7 @@
 title: "Il calo del Fediverso"
 subtitle: "il Fediverso è morto e anche io non mi sento tanto bene?"
 sommario: "Stamane ho postato questo grafico statistico da fedidb e beh, visto che questo post è di appena qualche settimana fa, ho pensato di buttarne giù un altro per fare il punto"
-immagine: https://files.mastodon.social/media_attachments/files/115/569/446/306/552/139/original/f359c0ebba79d724.png
+immagine: /img/mastodon/calo.png
 date: 2025-11-18
 lang: it-IT
 ---
