@@ -108,3 +108,5 @@ Quindi roba gestita da multinazionali brutte che rubano i dati e sollazzano nell
 Ma anche roba a cui, allo stato attuale, il fediverso non mi pare ancora in grado di offrire alternative valide.
 
 PS: ringrazio anche qui "Any" per il bellissimo messaggio, aiuta a sentirsi meno soli sapere che c'è gente che sta nella stessa barca ❤️
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115571649887093965"></mastodon-comments>
