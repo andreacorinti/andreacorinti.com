@@ -109,4 +109,4 @@ Ma anche roba a cui, allo stato attuale, il fediverso non mi pare ancora in grad
 
 PS: ringrazio anche qui "Any" per il bellissimo messaggio, aiuta a sentirsi meno soli sapere che c'è gente che sta nella stessa barca ❤️
 
-<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115571649887093965"></mastodon-comments>
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115571558291893475"></mastodon-comments>
