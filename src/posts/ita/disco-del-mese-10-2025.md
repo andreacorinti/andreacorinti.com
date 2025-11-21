@@ -110,3 +110,5 @@ Disco interessante, forse fin troppo estremo per il mio palato,
 Solito album dei Sabaton?
 
 Solito album dei Sabaton, ma non è un male perché è tutto confezionato in modo certosino e battagliero, pauerone storico che mischia il racconto di battaglie in lungo e in largo per il corso della storia umana.
+
+[_**Novembre 2025**_](/posts/ita/disco-del-mese-11-2025)
