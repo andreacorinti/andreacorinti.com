@@ -11,7 +11,7 @@ Per qualche motivo, quando si parla di Square Enix diventa sempre tutto molto co
 
 Qui per dire abbiamo il porting Steam di _uno_ dei vari remake di Final Fantasy IV, nello specifico quello uscito su DS nel 2007 (arrivato sul mercato mobile nel 2012).
 
-Tutto questo senza considerare le versioni PSP, la recente Pixel Remastered, i sequel e chi più ne ha più ne metta!
+Tutto questo senza considerare le versioni PSP, la recente Pixel Remaster, i sequel e chi più ne ha più ne metta!
 
 ### SNES
 
@@ -19,7 +19,7 @@ Tutto questo senza considerare le versioni PSP, la recente Pixel Remastered, i s
 
 Confesso che in questo caso sono partito avvantaggiato: 
 
-attorno al 2003-2004 giocai all'originale SNES (quello giapponese tradotto amatorialmente in italiano) e per mia fortuna me lo ricordavo molto bene alcune cose che il remake rispetta e riprende paro paro.
+attorno al 2003-2004 giocai all'originale SNES (quello giapponese tradotto amatorialmente in italiano) e per mia fortuna me lo ricordavo molto bene, abbastanza dal notare quanto il remake lo rispetti e riprende paro paro.
 
 E, come più di vent'anni fa, ho sempre la sensazione che **l'originale Final Fantasy IV fu con ogni probabilità il primo _vero_ Final Fantasy per moltissimi aspetti.** 
 
@@ -53,7 +53,7 @@ non voglio dire che tutto il gioco fino a questo momento era fin troppo facile, 
 
 ![Final Fantasy IV](/img/FF4/1.jpg)
 
-Non ci ho ancora messo mano, ma se si vuole recuperare il look&feel dell'originale con ogni probabilità la _Pixel_ Remastered_ è un'ottima opzione (io ho giocato quella di FF e FFVI e mi sono piaciute molto), come anche la versione PSP...
+Non ci ho ancora messo mano, ma se si vuole recuperare il look&feel dell'originale con ogni probabilità la _Pixel_ Remaster_ è un'ottima opzione (io ho giocato quella di FF e FFVI e mi sono piaciute molto), come anche la versione PSP...
 
 Tuttavia il design pupazzoso di questa versione 3D a me piace un sacco e credo che avrebbe meritato più fortuna - anche se forse era giustamente più figlio del mondo Nintendo DS e Nintendo in generale.
 
@@ -63,7 +63,7 @@ Nota di demerito: non mi risulta si possa scegliere il doppiaggio giapponese e q
 
 Al netto delle sue ingenuità e frustrazioni, Final Fantasy IV è tuttora godibilissimo e merita di essere giocato da tutti i fan di Final Fantasy e dei JRPG in generale: 
 
-se l'originale o la pixel remastered dovessero risultare troppo pixellose per i vostri standard, questo remake fa assolutamente al caso vostro.
+se l'originale o la pixel remaster dovessero risultare troppo pixellose per i vostri standard, questo remake fa assolutamente al caso vostro.
 
 Se però siete abbastanza digiuni in termini di JRPG, forse è il caso di farsi le ossa con qualche altro titolo più equilibrato.
 
