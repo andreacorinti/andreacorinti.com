@@ -59,7 +59,7 @@ Ho comprato la Miyoo + SD da 128 giga direttamente da quei fighi di [Mechdiy](ht
 
 1. Se comprate la Miyoo da AliExpress o Amazon, vi ritroverete con ogni probabilità una SD scabercia da buttare
 
-2. Potete acquistare una buona SD a parte (i Mechdiy mi hanno mandato una Sandisk), installarvi OnionOS eccetera, ma avere subito la "pappa pronta" con i set di giochi già belli che scaricati è davvero una manna 
+2. Potete acquistare una buona SD a parte (i Mechdiy mi hanno mandato una Sandisk), installarvi OnionOS eccetera, ma avere subito la "pappa pronta" è davvero una manna 
 
 sfortunatamente non mi pagano per far loro pubblicità eh, ma se riuscite a rimediare qualche codice sconto spendete relativamente poco in più e vi salvate diversi mal di testa, specie se non siete smanettoni (ma anche se lo siete)
 
