@@ -19,13 +19,15 @@ Tutto questo senza considerare le versioni PSP, la recente Pixel Remaster, i seq
 
 Confesso che in questo caso sono partito avvantaggiato: 
 
-attorno al 2003-2004 giocai all'originale SNES (quello giapponese tradotto amatorialmente in italiano) e per mia fortuna me lo ricordavo molto bene, abbastanza dal notare quanto il remake lo rispetti e riprende paro paro.
+attorno al 2003-2004 giocai all'originale SNES (quello giapponese tradotto amatorialmente in italiano) e per mia fortuna me lo ricordavo molto bene, abbastanza dal notare quanto il remake lo rispetti e riprenda paro paro.
 
-E, come più di vent'anni fa, ho sempre la sensazione che **l'originale Final Fantasy IV fu con ogni probabilità il primo _vero_ Final Fantasy per moltissimi aspetti.** 
+E, come più di vent'anni fa, ho sempre la sensazione che **l'originale Final Fantasy IV risulti con ogni probabilità il primo _vero_ Final Fantasy propriamente detto per moltissimi aspetti.** 
 
-Nulla togliendo ai primi tre capitoli per NES, è probabilmente con Cecil e compagni che l'impronta narrativa della _Sacra Scuola Sakaguchi_ cominciò a farsi vedere in modo tanto preponderante: 
+Nulla togliendo ai primi tre capitoli per NES, è con Cecil e compagni che l'impronta narrativa della _Sacra Scuola Sakaguchi_ cominciò a farsi vedere in modo tanto preponderante: 
 
-molti cliché, soliti debiti a _Star Wars_ e alla cultura pop in salsa nipponica eccetera eccetera, certo, ma con scelte coraggiose e sorprendenti per un videogioco del 1991.
+certo c'erano ancora molti cliché, soliti debiti a _Star Wars_ e alla cultura pop in salsa nipponica eccetera eccetera, certo, ma con scelte coraggiose e sorprendenti per un videogioco del 1991.
+
+In buona sostanza, senza Final Fantasy IV non credo avremmo mai avuto un capolavoro assoluto quale Final Fantasy VI e tutto il discorso meraviglioso, celeberrimo e celebrato discorso PS1 di cui ciancio sempre.
 
 ### Gameplay
 
