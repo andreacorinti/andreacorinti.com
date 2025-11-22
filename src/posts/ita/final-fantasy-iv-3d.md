@@ -69,8 +69,9 @@ Se però siete abbastanza digiuni in termini di JRPG, forse è il caso di farsi 
 
 ### Bonus Track
 
-[_Final Fantasy IV: Celtic Moon_](https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_Celtic_Moon), classe 1991, è un piccolo capolavoro in salsa celtica basato sulla colonna sonora pensata dal nostro amato Nobuo Uematsu che vi consiglio con tutto il cuore 
+[_Final Fantasy IV: Celtic Moon_](https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV:_Celtic_Moon), classe 1991, è un piccolo capolavoro in salsa celtica basato sulla colonna sonora pensata dal nostro amato Nobuo Uematsu che vi consiglio con tutto il cuore 😌 un po' come la splendida _Tsuki no Akari_ che troviamo qui (arrangiamento del _Theme of Love_ cantato da 
+Megumi Ida)
 
-E quel _Main Theme of FFIV_ ce lo si porta dietro per sempre 
+E quel _Main Theme of FFIV_ ce lo si porta dietro per sempre.
 
 ![frieren](/img/frieren.gif)
