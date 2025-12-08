@@ -56,3 +56,6 @@ Anche qui extramese (galetto fu Halloween) e grazie a Zel!
 Bel blackkone italico che mi faceva piacere segnalare visto che l'ho apprezzato in più parti nonostante il black puro non sia propriamente la mia tazza di tè (ma in effetti qui parliamo di avantgarde e doom pure, quindi ha senso).
 
 Da segnalare l'interessante combo con la voce clean di "β" che comunque si lancia spesso e volentieri nei gustosi urlacci che del genere sono croce & delizia.
+
+[_**Dicembre 2025**_](/posts/ita/disco-del-mese-12-2025)
+
