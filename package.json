@@ -60,7 +60,7 @@
     "last 2 versions"
   ],
   "dependencies": {
-    "@11ty/eleventy-upgrade-help": "^2.0.5",
+    "@11ty/eleventy-upgrade-help": "^3.0.2",
     "@types/markdown-it": "^14.1.2",
     "axios": "^1.6.5",
     "eleventy-plugin-toc": "^1.1.5",
