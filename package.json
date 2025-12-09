@@ -39,7 +39,7 @@
     "emoji-regex": "^10.3.0",
     "eslint": "^9.39.1",
     "glob": "^13.0.0",
-    "luxon": "^3.4.4",
+    "luxon": "^3.7.2",
     "markdown-it": "^14.0.0",
     "markdown-it-anchor": "^9.2.0",
     "netlify-plugin-cache-folder": "0.0.8",
