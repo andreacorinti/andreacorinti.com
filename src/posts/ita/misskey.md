@@ -47,6 +47,8 @@ Ho provato ad adattare il [solito script di dpecos](https://github.com/dpecos/ma
 
 Se tutto va bene, qua sotto dovreste vedere i commenti cicciare fuori dal solito thread fediverisco.
 
+EDIT: nel caso dovesse servirvi, trovate il js per implementare i commenti con misskey [qui](https://github.com/andreacorinti/misskey-comments)
+
 Tra qualche tempo farò un altro post di aggiornamento per farvi sapere come mi trovo e se l'esperimento continua, oppure resto parcheggiato nel solito mastodon.social vita natural durante!
 
 <misskey-comments 
