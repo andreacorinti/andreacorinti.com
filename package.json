@@ -68,6 +68,6 @@
     "markdown-it-footnote": "^4.0.0",
     "nth-check": "^2.1.1",
     "postcss-selector-parser": "^7.1.0",
-    "typescript": "^5.8.2"
+    "typescript": "^5.9.3"
   }
 }
