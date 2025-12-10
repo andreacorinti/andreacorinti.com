@@ -99,6 +99,11 @@ class MisskeyComments extends HTMLElement {
     return `@${u.username}${u.host ? '@' + u.host : ''}`;
   }
 
+  profileUrl(u) {
+  const host = u.host || this.host;
+  return `https://${host}/@${u.username}${u.host ? '@' + u.host : ''}`;
+  } // prendo l'url dell'account in modo da linkarlo nel nick
+
   async loadComments() {
     if (this.commentsLoaded) return;
     const container = document.getElementById("misskey-comments-list");
@@ -178,8 +183,8 @@ class MisskeyComments extends HTMLElement {
         <div class="author">
           <div class="avatar"><img src="${note.user.avatarUrl}" width="60"></div>
           <div class="details">
-            <a class="name" href="${note.user.url}">${userName}</a>
-            <a class="user" href="${note.user.url}">${this.user_account(note.user)}</a>
+            <a class="name" href="${this.profileUrl(note.user)}"">${userName}</a>
+            <a class="user" href="${this.profileUrl(note.user)}"">${this.user_account(note.user)}</a>
           </div>
           <a class="date" href="https://${this.host}/notes/${note.id}">
             <time datetime="${note.createdAt}">${new Date(note.createdAt).toLocaleString("it-IT")}</time>
