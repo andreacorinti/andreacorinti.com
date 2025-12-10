@@ -52,6 +52,6 @@ Tra qualche tempo farò un altro post di aggiornamento per farvi sapere come mi 
 <misskey-comments 
     host="misskey.social" 
     user="xabacadabra" 
-    noteId="#" 
+    noteId="ag3dzppvzj" 
     style="max-width: 800px;">
 </misskey-comments>
