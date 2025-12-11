@@ -35,7 +35,7 @@
     "autoprefixer": "^10.4.17",
     "cross-env": "^10.1.0",
     "cssnano": "^7.1.2",
-    "dotenv": "^16.3.2",
+    "dotenv": "^17.2.3",
     "emoji-regex": "^10.6.0",
     "eslint": "^9.39.1",
     "glob": "^13.0.0",
