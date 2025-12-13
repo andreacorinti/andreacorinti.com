@@ -7,7 +7,7 @@ date: 2025-11-18
 lang: it-IT
 ---
 
-Stamane ho postato [questo grafico statistico](https://mastodon.social/@Xabacadabra/115569457197032215) da [fedidb](https://fedidb.com/stats) e beh, visto che [questo post](/posts/ita/fediversando-2025/) è di appena qualche settimana fa, ho pensato di buttarne giù un altro per fare il punto. 
+Stamane ho postato [questo grafico statistico](https://misskey.social/@xabacadabra/115569457197032215) da [fedidb](https://fedidb.com/stats) e beh, visto che [questo post](/posts/ita/fediversando-2025/) è di appena qualche settimana fa, ho pensato di buttarne giù un altro per fare il punto. 
 
 ### Dobbiamo portare più gente nel Fediverso, diffondere il verbo!
 
@@ -58,7 +58,7 @@ Sul momento mi verrebbe da dire che il sistema istanze, per quanto bello per mol
 
 Esempio personale:
 
-il mio account attuale ([@Xabacadabra@mastodon.social](https://mastodon.social/@Xabacadabra)) da parecchio è stato silenziato da mastodon.uno: 
+il mio account attuale ([@Xabacadabra@mastodon.social](https://misskey.social/@xabacadabra)) da parecchio è stato silenziato da mastodon.uno: 
 
 non credo sia stato un provvedimento per roba che ho fatto / scritto (anche perché sia la mia monoistanzina che l'account su LS non sono stati silenziati), probabilmente si tratta di un silenziamento automatico dovuto allo spam di mastodon.social e il fatto che il mio account attuale all'epoca era inattivo...
 

@@ -2,4 +2,4 @@
 permalink: /.well-known/me
 --- 
 
-https://mastodon.social/@Xabacadabra
+https://misskey.social/@xabacadabra

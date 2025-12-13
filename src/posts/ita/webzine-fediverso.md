@@ -54,7 +54,7 @@ Io non ne ho voglia, lo confesso:
 
 il mio esperimento su misskey mi ha dato uno sprono a riprendere a partecipare in modo più attivo, ma negli ultimi tempi ho rimuginato molto di chiudere del tutto baracca e burattini: 
 
-[in questo thread](https://mastodon.social/@Xabacadabra/115570099598965318) c'è un po' il succo del discorso.
+[in questo thread](https://misskey.social/@xabacadabra/115570099598965318) c'è un po' il succo del discorso.
 
 Però certo, se ne venisse fuori un qualcosa di interessante sarei ben lieto di collaborare in qualche modo, posto che: 
 

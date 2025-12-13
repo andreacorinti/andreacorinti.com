@@ -35,7 +35,7 @@ scherzi a parte, come detto e ridetto mastodon.social è una vera e propria _clo
 
 Che detta così fa molto economia aziendale, ma la tanto sbandierata _bellezza migratoria_ del Fediverso è certamente una figata, ma non esattamente all'acqua di rose (specie quando si passa da un software all'altro):
 
-per il momento non ho intenzione di migrare (resto [qui](https://mastodon.social/@Xabacadabra) e per qualche tempo giocherò [qua](https://misskey.social/@xabacadabra) per farmi un'idea più approfondita) ma ecco, avviso a chi lo valuta:
+per il momento non ho intenzione di migrare (resto [qui](https://misskey.social/@xabacadabra) e per qualche tempo giocherò [qua](https://misskey.social/@xabacadabra) per farmi un'idea più approfondita) ma ecco, avviso a chi lo valuta:
 
 **anche solo importare un centinaio di follower porta spesso a rate limit ingolfando tutto, richiedendo che la procedura venga ripetuta più volte.**
 
