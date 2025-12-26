@@ -11,9 +11,9 @@ Appunti sparsi sul mio ennesimo esperimento di RPG in solitaria utilizzando il c
 
 ### Cosa sto utilizzando
 
-[Obsidian](https://obsidian.md/), grazie all'ottimo [Iron Vault](https://ironvault.quest/) che automatizza tiri e oracoli in modo molto carino semplificando molto la vita, e campando sempre con la mia amata formattazione markdown ❤️
+[Obsidian](https://obsidian.md/), grazie all'ottimo [Iron Vault](https://ironvault.quest/) che automatizza tiri e oracoli in modo molto carino semplificando molto la vita, campando sempre con la mia amata formattazione markdown ❤️
 
-in effetti è interessante notare che sia un setup completamente gratuito e per ora più convincente di molte opzioni a pagamento!
+in effetti è interessante notare come sia un setup completamente gratuito e per ora più convincente di molte opzioni a pagamento!
 
 ### Le mie Ironlands 
 
