@@ -64,3 +64,5 @@ ci sono urlacci fattoni e riffoni lenti e pesanti, molto spesso non mi sono sent
 serve essere un po' nel mood, ma vanno senz'altro tenuti d'occhio per il futuro.
 
 Tracce preferite: _Pakten_ e _Sol_
+
+[_**Gennaio 2026**_](/posts/ita/2026-01-disco-del-mese)
