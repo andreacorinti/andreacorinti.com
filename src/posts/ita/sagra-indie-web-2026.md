@@ -69,3 +69,10 @@ Ce ne sono sicuramente altri, ma questi sono i primi che mi vengono in mente...
 Sempre dal post di Ed, apprezzo molto il fulcro sul discorso "responsabilizzante" in senso lato (come dice lui, accountability è un po' ostico da rendere decentemente in italiano), dal lato mio ci pensavo giusto in questi giorni quando mi sono porso la lingua (le dita?) per evitare di lamentarmi di un certo tipo di discussioni legate alla cronaca nera e alla politica: 
 
 in passato l'ho già fatto a più riprese e credo che alla lunga facendolo sono diventato parte integrante del problema che volevo combattere, quindi la mia *accountability* mi ha portato un po' a rivedere la mia menosità (almeno in parte)
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="ah210n5vt4" 
+    style="max-width: 800px;">
+</misskey-comments>
