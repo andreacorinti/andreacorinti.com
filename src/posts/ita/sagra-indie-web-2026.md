@@ -68,7 +68,11 @@ Ce ne sono sicuramente altri, ma questi sono i primi che mi vengono in mente...
 
 Sempre dal post di Ed, apprezzo molto il fulcro sul discorso "responsabilizzante" in senso lato (come dice lui, accountability è un po' ostico da rendere decentemente in italiano), dal lato mio ci pensavo giusto in questi giorni quando mi sono porso la lingua (le dita?) per evitare di lamentarmi di un certo tipo di discussioni legate alla cronaca nera e alla politica: 
 
-in passato l'ho già fatto a più riprese e credo che alla lunga facendolo sono diventato parte integrante del problema che volevo combattere, quindi la mia *accountability* mi ha portato un po' a rivedere la mia menosità (almeno in parte)
+in passato l'ho già fatto a più riprese e credo che alla lunga facendolo sono diventato parte integrante del problema che volevo combattere, quindi la mia *accountability* mi ha portato un po' a rivedere la mia menosità (almeno in parte) 
+
+### Risposte 
+
+Segnalo [l'ottima bloggata](https://lab16.neocities.org/FAD/sagra26) di [Ben](https://livellosegreto.it/@Benhellis) che affronta il discorso anche da un punto di vista "pedagogico" (e effettivamente credo che chi insegna ha una accountability bella grossa per forza di cose :D)
 
 <misskey-comments 
     host="misskey.social" 
