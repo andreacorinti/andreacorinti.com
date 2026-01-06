@@ -103,3 +103,10 @@ non per niente la Francia è legata a doppio filo con l'intrattenimento nipponic
 Anche se certe manie esasperano, sarei molto cauto nell'utilizzare termini importati dagli Stati Uniti per definire il fenomeno nostrano: 
 
 negli ultimi vent'anni il villaggio globale del web ha certamente appiattito un po' il discorso, ma non dimenticatevi che nel nostro paese abbiamo trasmesso _Capitan Harlock_ quasi in contemporanea col Giappone e 'sta cosa ha un peso!
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="ah5xcfxdsb" 
+    style="max-width: 800px;">
+</misskey-comments>
