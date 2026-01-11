@@ -72,7 +72,7 @@ in passato l'ho già fatto a più riprese e credo che alla lunga facendolo sono 
 
 ### Risposte 
 
-Segnalo [l'ottima bloggata](https://lab16.neocities.org/FAD/sagra26) di [Ben](https://livellosegreto.it/@Benhellis) che affronta il discorso anche da un punto di vista "pedagogico" (e effettivamente credo che chi insegna ha una accountability bella grossa per forza di cose :D)
+Segnalo [l'ottima bloggata](https://lab16.neocities.org/FAD/sagra26) di [Ben](https://livellosegreto.it/@Benhellis) che affronta il discorso anche da un punto di vista "pedagogico" (e effettivamente credo che chi insegna ha una accountability bella grossa per forza di cose :D) e [quella bella piena di ragù](https://dottorblaster.it/2026/01/accountability-sagra-indieweb-2026-gennaio/) di [Alessio](https://masto.cazzo.lol/@dottorblaster)
 
 <misskey-comments 
     host="misskey.social" 
