@@ -7,6 +7,8 @@ date: 2026-01-20
 lang: it-IT
 ---
 
+[_**Dicembre 2025**_](/posts/ita/disco-del-mese-12-2025)
+
 Baro perché metto in cima uno degli inevitabili recuperoni di dicembre: non che il 2026 non sia partito bene eh, ma _The Splintered Oar_ una menzione di merito come se la meritava tutta.
 
 Segnalato da [Zel](https://misskey.social/@Zel), disco *sublime* del violoncellista dei Panopticon, un black / death metal progressivo vecchia scuola con tratti Opeth di cui mi sono davvero innamorato, fosse uscito prima penso se la sarebbe tranquillamente giocata tra i miei dischi preferiti del 2025 (in 'sto senso, meglio così che già ero abbastanza in crisi...) 
