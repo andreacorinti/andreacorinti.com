@@ -1,5 +1,5 @@
 ---
-title: "Sagra IndieWeb 2026"
+title: "Sagra IndieWeb 2026 - Gennaio"
 subtitle: "prova prova sah sah"
 sommario: "Oh primo post del 2026, buon anno! In realtà questa è una bloggata di risposta a quanto scriveva il buon Ed..."
 immagine: https://upload.wikimedia.org/wikipedia/commons/a/a7/G%C3%A9r%C3%B4me_-_An_Arab_Caravan_outside_a_Fortified_Town%2C_Egypt.jpg
