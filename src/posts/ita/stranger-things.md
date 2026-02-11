@@ -44,3 +44,10 @@ Ci sono scene molto carine (Dustin ❤️) e momenti divertenti, ma più ci pens
 Gran peccato insomma, magari tra qualche anno ci ritorneremo sopra e la ricorderemo con affetto nonostante tutto, con Eleven / Fonzie che salta lo squalo.
 
 ![fonzie-salta-lo-squalo](https://i.pinimg.com/originals/7b/82/40/7b824080fa7cea3902b8b0e10fc94fec.jpg)
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="aillph4bd0" 
+    style="max-width: 800px;">
+</misskey-comments>
