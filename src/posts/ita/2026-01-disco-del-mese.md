@@ -76,3 +76,5 @@ Heavy Thrash onesto anche se nulla di particolarmente memorabile onestamente, ma
 Chitarristicamente molto bello: ci sono momenti che mi hanno ricordato le origini speed dei cari Blind Guardian (sarà la scuola thrash cruccosa?)
 
 Produzione un po' troppo sottovuoto e forse avrei gradito un po' di cattiveria in più (secondo me questi sono meglio in live che in studio, a naso), ma bello! _Sole Voyage_ in particolare una chiusa che vale tutto il disco.
+
+[_**Febbraio 2026**_](/posts/ita/2026-02-disco-del-mese)
