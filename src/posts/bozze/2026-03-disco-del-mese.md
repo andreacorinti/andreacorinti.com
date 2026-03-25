@@ -3,7 +3,7 @@ title: "Disco del Mese - Marzo 2026"
 subtitle: "Speglas - Endarkenment, Being & Death"
 sommario: "Molti di questi dischi in realtà sono usciti a febbraio, ma come dicevo il mese scorso per me è stato monopolizzato dagli Hällas quindi un recuperone mischione era d'obbligo!"
 immagine: https://f4.bcbits.com/img/a1008414107_1x1_700.avif
-date: 2026-03-25
+date: 2026-03-26
 lang: it-IT
 ---
 
