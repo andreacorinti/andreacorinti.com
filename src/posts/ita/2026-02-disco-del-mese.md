@@ -37,3 +37,5 @@ E quindi questo mese, dove pure sono usciti e usciranno un sacco di dischi merit
 Vabbè però il 30, silenzio!
 
 Superfluo dire che abbiamo già il candidato perfetto per il disco dell'anno eh?
+
+[_**Marzo 2026**_](/posts/ita/2026-03-disco-del-mese)
