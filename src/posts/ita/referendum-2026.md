@@ -36,3 +36,10 @@ Poi ehi, come diceva Dewey
 > Non mi aspetto niente, ma sono già deluso
 
 e so per certo che quello che (si spera) verrà fuori mi provocherà diversi mal di pancia senza nessuna forza in grado di rappresentarmi davvero, ma un'alternativa _votabile_ ecco, me la farei andare bene lo stesso.
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="ak9t9lii82" 
+    style="max-width: 800px;">
+</misskey-comments>
