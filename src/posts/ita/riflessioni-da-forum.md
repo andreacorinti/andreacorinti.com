@@ -72,3 +72,10 @@ Mi verrebbe da canticchiare _Cosa resterà?_ come l'ultimo dei Raf!
 In realtà, non lo so proprio: personalmente credo che il mio social web si rintanerà sempre più su Telegram (che a quanto sento dire Calenda vorrebbe chiudere - spot pazzesco per Durov accidenti), qualche sparata su misskey e questo blog dove sparare qualche michiata ogni tanto, sul resto chissà.
 
 In cuor mio, spero che le web community continuino a (r)esistere, anche se probabilmente per mutamenti strutturali / età non penso di poterne più far parte.
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="akgqysrknf" 
+    style="max-width: 800px;">
+</misskey-comments>
