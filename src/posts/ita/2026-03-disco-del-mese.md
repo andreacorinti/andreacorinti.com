@@ -74,3 +74,5 @@ Di norma sarebbe proprio la mia tazza di tè, ma stranamente per una volta è pi
 Bei riff qui e la, buona produzione, vociona interessante (non prettamente il mio) ma nel complesso...mh boh? Non ha nulla che non va, ma l'ho trovato un pelino troppo anonimo e scontato, e come detto io normalmente ho un debole per gruppi nuovi che suonano vecchio quindi è abbastanza strano!
 
 Live comunque me li sparerei molto volentieri dovessi dire 😌
+
+[_**Aprile 2026**_](/posts/ita/2026-04-disco-del-mese)
