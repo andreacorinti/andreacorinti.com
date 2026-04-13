@@ -48,6 +48,6 @@ Vabbè, potrei continuare lo sproloquio, ma per il bene di tutto è meglio se to
 <misskey-comments 
     host="misskey.social" 
     user="xabacadabra" 
-    noteId="" 
+    noteId="al0wtmdepg" 
     style="max-width: 800px;">
 </misskey-comments>
