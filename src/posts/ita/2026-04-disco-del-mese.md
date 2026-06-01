@@ -68,3 +68,5 @@ Probabilmente sentirli live con una buona dose di birrette annesse!
 ![Poison Ruïn - Hymns From The Hills](https://f4.bcbits.com/img/a2444695160_1x1_700.avif)
 
 Chiudiamo con un'altra segnalazione di Zel (che più o meno ha segnalato tutti i dischi di questo post!) e dopo tanto mettiamo in rubrica un bel disco punkettone vecchia scuola con un po' da Misftis periodo Graves, elementi da country che farebbero contenti i Social Distortion e un approccio generale che mi ha ricordato qualcosa dei T.S.O.L (io ascolto poco punk, ma quello che mi piace di solito suona così)
+
+[_**Maggio 2026**_](/posts/ita/2026-05-disco-del-mese)
