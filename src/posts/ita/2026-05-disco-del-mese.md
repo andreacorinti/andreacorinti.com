@@ -44,3 +44,5 @@ Anche qui grazie a Efi per la segnalazione di questo bel prog rock ellenico atmo
 ![A Dream of Poe -  KATABASIS: A Marriage Among Ashes](https://f4.bcbits.com/img/a3290733947_1x1_700.avif)
 
 Grazie a Zel per la segnalazione degli amici portoghesi per questo bel disco melodoom molto interessante e che nella mia testa non può non chiamarsi Cabasisi, _Exhorting Nightmares_ in particolare è proprio un pezzone con ottime intuizioni chitarristiche e sinfoniche, e molto evocativa la canzone in portoghese _À Medida de Damastes_. Disco molto bello in generale!
+
+[_**Giugno 2026**_](/posts/ita/2026-06-disco-del-mese)
