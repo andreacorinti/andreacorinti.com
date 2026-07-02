@@ -11,7 +11,7 @@ lang: it-IT
 
 Qui devo ringraziare sia Zel che mi ha fatto conoscere questa ormai storica band romana che Efi che mi ha regalato lo splendido _Dopoguerra_ (disco del 2005) 😌.
 
-Un po' Cure, un po' Porcupine Tree, un po' new romantic italiano, tanto Anathema, qualcosa degli Oasis incrociati con gli U2 con radici metal al servizio di atmosfere melodiche e atmosferiche che regalano sensazioni bellissime: 
+Un po' Cure, un po' Porcupine Tree, un po' new romantic italiano, tanto Anathema, qualcosa degli Oasis incrociati con gli U2 con radici metal al servizio di atmosfere melodiche e suggestive che regalano sensazioni bellissime: 
 
 Il nuovo _Àmor_ segue questa strada ma su un respiro abbastanza diverso, a tratti parente degli Alcest più melodici, qualcosa che vagamente mi riporta a qualcuno degli ultimi lavori degli Smashing Pumpkins e in generale un grandissimo lavoro per quanto meno nelle mie corde rispetto al sopracitato _Dopoguerra_ (anche se ho apprezzato un sacco _Nexus_ e vari momenti in mezzo ai brani).
 
