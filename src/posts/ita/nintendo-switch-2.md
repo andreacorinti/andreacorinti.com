@@ -68,4 +68,4 @@ Criticare Nintendo per le sue menate legali, i suoi prezzi e il suo hardware "sc
 
 Ma d'altronde, in un periodo in cui studi vengono chiusi e gente del settore si ritrova a spasso, [Nintendo aumenta i salari alle sue maestranze](https://kotaku.com/nintendo-shareholder-qa-salary-10-percent-raise-confusion-2000711937).
 
-E che, egoisticamente parlando, mi ha riportato a un gusto ludico che oramai credevo perso per sempre o necessariamente vincolato al retrogaming ❤️.
+E devo dire che, egoisticamente parlando, mi ha riportato a un gusto ludico che oramai credevo perso per sempre o necessariamente vincolato al retrogaming ❤️.
