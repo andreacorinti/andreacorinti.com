@@ -15,13 +15,7 @@ I don't like it very much, but for professional stuff I'm also on [LINKEDIN](htt
 
 Want to ask something in particular? 
 
-[**Contact me here**](/contact/) or <a href="https://misskey.social/@xabacadabra" target="blank" rel="me">send me a post on the fediverse.</a> 
-
-## You can find me also:
-
-* Gaming wise you can find me on <a href="https://steamcommunity.com/id/xabaras89/" target="blank" rel="me">**STEAM**</a> 
-* For books, I'm on <a href="https://www.goodreads.com/user/show/18004930-andrea-corinti" target="blank" rel="me">**GOODREADS**</a>
-* For movies and shows I use <a href="https://www.tvtime.com/it/user/2987728/profile" rel="me" target="blank">**TVTIME**</a> to keep track the things I watch.
+[**Contact me here**](/contact/) or <a href="https://misskey.social/@xabacadabra" target="blank" rel="me">send me a post on the fediverse.</a>
 
 Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
 
