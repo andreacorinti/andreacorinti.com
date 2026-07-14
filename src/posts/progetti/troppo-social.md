@@ -3,7 +3,7 @@ title: "Troppo Social"
 subtitle: "Ciao Zuck!"
 permalink: "projects/troppo-social/"
 sommario: "Un piccolo saggio per ragionare sulla nostra nefasta esperienza coi social media"
-immagine: /img/troppo-social.png
+immagine: /img/troppo-social.jpg
 lang: it-IT
 date: 2025-07-04
 ---
