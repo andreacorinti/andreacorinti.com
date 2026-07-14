@@ -55,3 +55,10 @@ Compiti a casa per me: tornare a dovere sui Blood Incantation che mi piacciono m
 - Deliverance
 
 ![blood-incantation-bologna-2026](https://www.longliverocknroll.it/wp-content/uploads/2026/07/2026_07_11_Blood_Incantation_Sequoie_Musik_Park_-Bologna_Marco_Lambardi_15.jpg)
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="aomhdiz6zt" 
+    style="max-width: 800px;">
+</misskey-comments>

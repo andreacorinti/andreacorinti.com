@@ -36,3 +36,10 @@ Dopo qualche tempo, però, l'entusiasmo si è un po' spento. Non che le cose da 
 Un bellissimo gioco relax e un ottimo spinoff di una serie che ultimamente non se la passa benissimo, ma personalmente credo fin troppo osannato per quello che offre:
 
 è stato realizzato con cura, è carinissimo ma ho il vago sospetto che, se avessimo giochi Pokémon degni nella serie regolare, Pokopia sarebbe passato più in sordina, posto che come detto non è proprio la mia tazza di tè.
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="an44uqt0y4" 
+    style="max-width: 800px;">
+</misskey-comments>
