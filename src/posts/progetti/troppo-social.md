@@ -8,7 +8,7 @@ lang: it-IT
 date: 2025-07-04
 ---
 
-# [Link per l'epub su itch.io](https://xabacadabra.itch.io/troppo-social)
+## [Link per l'epub su itch.io](https://xabacadabra.itch.io/troppo-social)
 
 Un piccolo saggio per ragionare sulla nostra nefasta esperienza coi social media: quanto tempo ci rubano, quanto dipendiamo da loro?
 
