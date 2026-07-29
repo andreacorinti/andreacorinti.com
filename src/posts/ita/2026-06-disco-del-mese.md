@@ -58,3 +58,6 @@ Forse ci sento pure un po' di nostalgia per i nostrani Lacuna Coil e Theatres de
 ![Khemmis - Khemmis](https://f4.bcbits.com/img/a396333007_1x1_700.avif) 
 
 Onesto heavy doom americano con un'ottima ritmica e belle schitarrate ottantiane, sono un po' incerto sulla voce (che non mi dispiace ma non mi convince del tutto sia in clean che in growl), _Beneath The Scythe_ gran bella cavalcata iron maideniana!
+
+[_**Luglio 2026**_](/posts/ita/2026-07-disco-del-mese)
+
