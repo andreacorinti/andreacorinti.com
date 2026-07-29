@@ -46,3 +46,10 @@ Cast straordinario, ritmo serrato che non ti fa percepire le tre ore di durata, 
 Insomma: magari ne riparliamo a mente fredda, ma per il momento non posso che dirmi felice e ammirato, e di sicuro entra nel novero dei miei film preferiti di Nolan, e probabilmente dell'ultimo lustro.
 
 PS: sulle polemiche relative a casting, etnie e cippa lippa non commento perché non me ne frega una mazza, ciao!
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="apa0v7z1ee" 
+    style="max-width: 800px;">
+</misskey-comments>
