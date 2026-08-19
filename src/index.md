@@ -22,6 +22,8 @@ Questo, per esempio, è l'ultimo post del suo blog:
 
 {% include 'social.njk' %}
 
+Qui [**il mio listone di siti belli**](/bookmarks/) (in perpetuo aggiornamento)
+
 [![Questo sito è su blogroll.it](https://blogroll.it/banner-dark.gif)](https://blogroll.it/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2ce83520-1a8d-4e99-b17c-84de26b48a13/deploy-status)](https://app.netlify.com/sites/andreacorinti/deploys)

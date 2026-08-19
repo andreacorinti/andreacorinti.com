@@ -16,6 +16,7 @@ perpetually work in progress...
 | Website | Description |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
+| [**Note in disordine di Zel**](https://zel.leaflet.pub/) | Blog ad appunti del caro Zello |
 | [**Cantina Ragnate.la**](https://cantina.ragnate.la//) | Il bel blog di Edoardo Maria Elidoro, Ed di Livello Segreto! |
 | [**Wok Oblomov**](https://wok.oblomov.eu/) | l'interessante sitone di Oblomov, colmo di riflessioni su politica e web |
 | [**Bu**](https://bu.noblogs.org/) | Il bel blog di Jones, pieno di citazioni di libri interessanti |
