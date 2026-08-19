@@ -72,3 +72,10 @@ Avendo ribeccato la combriccola genovese, dopo mesi e mesi finalmente sono torna
 Sicuramente mi sto scordando cose...Ah giusto! Dimenticavo la lettura de **_L'amuleto_** di McDowell, bevuto tutto d'un fiato e apprezzato un sacco, escluso il finale che mi ha gettato nella frustrazione più bieca (per una volta che volevo spiegoni, sigh, vabbè)
 
 bon mi rileggo quando riesco, correggo le castronerie che probabilmente ho scritto e nel caso aggiorno con cose che ho dimenticato straaaaaaadaaaaaaa facendoooooooooo (vabbè dai, dopo i Righeira un Baglioni è purificazione divina)
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="aq3s3gm2pz" 
+    style="max-width: 800px;">
+</misskey-comments>
