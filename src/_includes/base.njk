@@ -17,10 +17,10 @@
     <link rel="preload" href="{{ '/fonts/teko.woff' | url }}" as="font" type="font/woff" crossorigin="anonymous">
     <link href="{{ '/css/style.css' | url }}" rel="stylesheet" />
     <link href="https://misskey.social/@xabacadabra" rel="me">
-    <meta name="twitter:card" content="immagine" />
-    {% if meta.twitterUsername %}
-    <meta name="twitter:creator" content="@{{ meta.twitterUsername }}" />
-    {% endif %}
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:creator" content="@XabCorinti" />
+
     <meta name="fediverse:creator" content="@Xabacadabra@misskey.social">
     <meta
       name="twitter:title"
@@ -32,16 +32,16 @@
     />
 
     <meta
-      name="og:title"
+      property="og:title"
       content="{{ title }}"
     />
     <meta
-      name="og:description"
+      property="og:description"
       content="{{ sommario }}"
     />
     <meta property="og:image" content="{{ immagine }}" />
-    <meta name="twitter:image" content="{{ immagine }}" />
-    <meta name="fediverse:creator" content="@Xabacadabra@social.andreacorinti.com">
+    <meta property="twitter:image" content="{{ immagine }}" />
+    <meta property="fediverse:creator" content="@Xabacadabra@social.andreacorinti.com">
 
     <link
       rel="alternate"
