@@ -72,4 +72,4 @@ E, soprattutto, in base a **_dove _navigheremo_**, visto che la rivoluzione di
   
 Va detto poi che se chiunque può scrivere qualsiasi direttamente dal cesso non ci si dovrebbe stupire se in rete si vedono tante cagate (e spesso questo blog non fa eccezione!)
   
-PS: Se vorreste darvi davvero l'idea di com'eravamo come controprova, leggetevi **[questo mio vecchio post](/posts/ita/web-archive/)** e riscopritevi neo-archeologi digitali
+PS: Se vorreste darvi davvero l'idea di com'eravamo come controprova, leggetevi **[questo mio vecchio post](/posts/web-archive/)** e riscopritevi neo-archeologi digitali

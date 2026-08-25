@@ -8,7 +8,7 @@ lang: it-IT
 date: 2021-03-22
 ---
 
-Per l'antefatto, prego [cliccare qui](/posts/ita/basta-videogiochi/).
+Per l'antefatto, prego [cliccare qui](/posts/basta-videogiochi/).
 
 La Discover Weekley di Spotify mi ha messo in cima un bel pezzo dal titolo particolarmente evocativo ed adeguato:
 

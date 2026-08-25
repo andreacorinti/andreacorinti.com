@@ -8,7 +8,7 @@ date: 2025-06-24
 lang: it-IT
 ---
 
-[_**Maggio 2025**_](/posts/ita/disco-del-mese-05-2025)
+[_**Maggio 2025**_](/posts/disco-del-mese-05-2025)
 
 ## Fallujah – Xenotaph
 
@@ -74,4 +74,4 @@ Accompagnati dalla batteria di Yuma van Eekelen (Our Oceans, e Pestilence pure l
 
 Prodotto in maniera perfetta e logicamente una sorta di pornografia del basso, non posso non consigliarlo a chiunque apprezzi il prog e magari pure a chi viene dal death metal più tecnico.
 
-[_**Luglio 2025**_](/posts/ita/disco-del-mese-07-2025)
+[_**Luglio 2025**_](/posts/disco-del-mese-07-2025)

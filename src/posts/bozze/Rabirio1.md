@@ -7,7 +7,7 @@ date: 2023-05-18
 lang: it-IT
 ---
 
-[_Capitolo precedente_](/posts/ita/Rabirio0)
+[_Capitolo precedente_](/posts/Rabirio0)
 
 Seguendo le informazioni ottenute da Isabella riguardo il suo Sire, dopo essersi consultato con Radu e Ludovico, Rabirio decide di partire con Marco alla volta della sua città natale per cercare maggiori informazioni riguardo le sue origini vampiriche e l'identità del suo creatore.
 
@@ -73,4 +73,4 @@ _parte generata_
 
 ![julius](/img/rabirio/julius.png)
 
-[_Capitolo successivo_](/posts/ita/Rabirio2)
+[_Capitolo successivo_](/posts/Rabirio2)

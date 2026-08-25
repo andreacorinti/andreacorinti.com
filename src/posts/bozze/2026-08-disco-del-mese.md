@@ -7,7 +7,7 @@ date: 2026-08-29
 lang: it-IT
 ---
 
-[_**Luglio 2026**_](/posts/ita/2026-08-disco-del-mese)
+[_**Luglio 2026**_](/posts/2026-08-disco-del-mese)
 
 ### Cairiss - Wilderness
 
@@ -15,7 +15,7 @@ lang: it-IT
 
 Il buon Zel segnala dell'ottimo black metal atmosferico da Southampton, molto prossimo anche alla scuola sinfonica scandinava dei primi anni 2000 ma crudo e growloso come i migliori transalpini:
 
-ho amato davvero tutto, e [Metal Temple](https://metal-temple.com/review/cairiss-wilderness/) segnala che in mezzo ci sono pure un po' degli ASIRA, gli stessi [che tanto mi erano piaciuti lo scorso novembre](/posts/ita/disco-del-mese-11-2025/)
+ho amato davvero tutto, e [Metal Temple](https://metal-temple.com/review/cairiss-wilderness/) segnala che in mezzo ci sono pure un po' degli ASIRA, gli stessi [che tanto mi erano piaciuti lo scorso novembre](/posts/disco-del-mese-11-2025/)
 
 Complimentissimi alle voci di Lydia Williams e Freya Brown, a tutti i musicisti e un particolare riguardo alla produzione di Ethan Bishop (anche alle chitarre e voce): riesce davvero difficile pensare che si tratti di un disco indipendente da quanto suona bene, eppure!
 
@@ -25,7 +25,7 @@ Complimentissimi alle voci di Lydia Williams e Freya Brown, a tutti i musicisti 
 
 Sono già passati due anni da quando ho scoperto i Papangu?
 
-Ohibò, [pare di sì!](/posts/ita/disco-del-mese-09-2024) 
+Ohibò, [pare di sì!](/posts/disco-del-mese-09-2024) 
 
 Come passa in fretta il tempo accidenti...ma vabbè, torniamo a noi:
 

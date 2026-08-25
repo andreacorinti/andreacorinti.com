@@ -8,7 +8,7 @@ date: 2025-04-30
 lang: it-IT
 ---
 
-[_**Marzo 2025**_](/posts/ita/disco-del-mese-03-2025)
+[_**Marzo 2025**_](/posts/disco-del-mese-03-2025)
 
 ## Messa - The Spin
 
@@ -44,7 +44,7 @@ Mi ci sono divertito parecchio e mi ha riportato a quando da pischello ascoltavo
 
 Disco carino ma non memorabile?
 
-Non so eh, magari non ero nel mood giusto ma ammetto che [l'album solista di Simone dell'anno scorso](/posts/ita/simone-simons-vermillion/) mi era piaciuto di più.
+Non so eh, magari non ero nel mood giusto ma ammetto che [l'album solista di Simone dell'anno scorso](/posts/simone-simons-vermillion/) mi era piaciuto di più.
 
 _Darkness Dies in Light_ però mi ha preso il giusto (riportandomi un po' a vent'anni fa) quindi prima o poi ci torno sopra. 
 
@@ -56,4 +56,4 @@ _Darkness Dies in Light_ però mi ha preso il giusto (riportandomi un po' a vent
 
 Devo dire che la nuova produzione mi piace molto!
 
-[_**Maggio 2025**_](/posts/ita/disco-del-mese-05-2025)
+[_**Maggio 2025**_](/posts/disco-del-mese-05-2025)

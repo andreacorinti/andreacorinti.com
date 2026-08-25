@@ -18,7 +18,7 @@ Ma nella musica, nel cinema, nella letteratura e nel fumetto quando entrano in u
 
 Ma non usciamo troppo dal seminato...E parliamo di videogiochi:
 
-circa un anno fa scrivevo quanto segue riguardo [Baldur's Gate III](/posts/ita/baldurs-gate-3):
+circa un anno fa scrivevo quanto segue riguardo [Baldur's Gate III](/posts/baldurs-gate-3):
 
 > Baldur's Gate III è la grande smentita per chi taccia di fin troppo facilmente di nostalgia alcuni videogiocatori un po' stagionati (ma col cuore sempre giovane): uno splendido RPG pieno di cura e amore esattamente come i classici di vent'anni fa, unito alle possibilità offerte dalla tecnologia contemporanea.
 Insomma, com'è che diceva il Dottor Frankenstein di Wilder? _SI-PUÒ-FARE!_
@@ -39,7 +39,7 @@ Sono rimasto completamente folgorato dalla trama, non solo per il soggetto (sple
 
 niente spiegoni, partenza in medias res, personaggi credibili e stupendi, dialoghi scritti in modo magnifico, colpi di scena ben orchestrati nei tempi giusti.
 
-Insomma, tutte le cose di cui lamentavo l'assenza in [Metaphor](/posts/ita/metaphor-refantazio/) qui le ho trovate.
+Insomma, tutte le cose di cui lamentavo l'assenza in [Metaphor](/posts/Metaphor-Refantazio/) qui le ho trovate.
 
 E dovessi dire, Expedition 33 ha toccato le mie corde molto più di un Baldur's Gate III o comunque qualsiasi altro gdr occidentale (eccetto forse classici come _Planescape: Torment_ e _Vampire Bloodlines_, ma ci devo ragionare un po').
 
@@ -73,7 +73,7 @@ Certo, si può esplorare ma siamo sempre sui binari, ci si perde in giro ma la l
 
 Una delle colonna sonore più importanti, evocative e ricche che si siano mai ascoltate nel settore.
 
-Ne ho già scritto di più [qui](/posts/ita/disco-del-mese-05-2025), ma davvero: qui giochiamo nel campionato dei Nobuo Uematsu e degli Akira Yamaoka, e infatti Lorien Testard è di diritto un protagonista straordinario di quest'opera magnifica (ed è assurdo pensare sia anche il suo debutto!)
+Ne ho già scritto di più [qui](/posts/disco-del-mese-05-2025), ma davvero: qui giochiamo nel campionato dei Nobuo Uematsu e degli Akira Yamaoka, e infatti Lorien Testard è di diritto un protagonista straordinario di quest'opera magnifica (ed è assurdo pensare sia anche il suo debutto!)
 
 ### Steam Deck 
 

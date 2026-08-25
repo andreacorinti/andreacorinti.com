@@ -8,7 +8,7 @@ date: 2025-11-18
 lang: it-IT
 ---
 
-Visto che [l'altro post](/posts/ita/il-calo-del-fediverso) di oggi ha generato un thread tanto ciccioso e interessante che io per primo non mi ci raccapezzo più (il che già ci porta in argomento 👀) ecco il secondo tempo!
+Visto che [l'altro post](/posts/il-calo-del-fediverso) di oggi ha generato un thread tanto ciccioso e interessante che io per primo non mi ci raccapezzo più (il che già ci porta in argomento 👀) ecco il secondo tempo!
 
 Partiamo dall'osservazione di [BB](https://mastodon.bida.im/@bbacc) che mi ha dato lo spunto per scrivere quanto segue:
 

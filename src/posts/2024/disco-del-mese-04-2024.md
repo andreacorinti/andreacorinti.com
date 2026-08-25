@@ -8,7 +8,7 @@ date: 2024-04-26
 lang: it-IT
 ---
 
-[_**Marzo 2024**_](/posts/ita/disco-del-mese-03-2024)
+[_**Marzo 2024**_](/posts/disco-del-mese-03-2024)
 
 ## Pet Shop Boys - Nonetheless
 
@@ -48,4 +48,4 @@ come album nel complesso ho preferito i primi, però come singola traccia ho app
 
 se bazzicate certe sonorità, consiglio l'ascolto!
 
-[_**Maggio 2024**_](/posts/ita/disco-del-mese-05-2024)
+[_**Maggio 2024**_](/posts/disco-del-mese-05-2024)

@@ -12,7 +12,7 @@ foto di Marco Lambardi per [longliverocknroll.it](https://www.longliverocknroll.
 
 Che bello, che fatica, che caldo, _che tuoni!_
 
-Bellissimo concertone, bellissimo goderselo con Efi e Zel e beh, dopo [qualche mese](/posts/ita/opeth-live-2025/) ho rivisto Michele e soci quindi non posso che essere contento!
+Bellissimo concertone, bellissimo goderselo con Efi e Zel e beh, dopo [qualche mese](/posts/opeth-live-2025/) ho rivisto Michele e soci quindi non posso che essere contento!
 
 Spero che chi è svenuto stia bene (se non altro ci ha offerto l'ottimo siparietto di Mikeal "_ora so cosa provano le boy band"_) e che la mia schiena si riprenda a breve 😭
 

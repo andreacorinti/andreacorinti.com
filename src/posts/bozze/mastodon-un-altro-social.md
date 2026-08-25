@@ -9,8 +9,8 @@ lang: it-IT
 
 _per i profani: la foto sopra cita [due splendide puntate di Boris 3](https://it.wikipedia.org/wiki/Episodi_di_Boris_(terza_stagione)#Un'altra_televisione_%C3%A8_possibile_(prima_parte))_
 
-Questa piccola riflessione nasce in seguito [alle ultime mastodontiche vicende](/posts/ita/mastodon-2023) (dove non ho intenzione di tornare, ve lo anticipo subito).
+Questa piccola riflessione nasce in seguito [alle ultime mastodontiche vicende](/posts/mastodon-2023) (dove non ho intenzione di tornare, ve lo anticipo subito).
 
-Siamo in una fase molto interessante per il social web, per certi versi con un potenziale recupero del ["Web 1.5"](/posts/ita/la-storia-di-internet/) che tanto ho amato in passato:
+Siamo in una fase molto interessante per il social web, per certi versi con un potenziale recupero del ["Web 1.5"](/posts/la-storia-di-internet/) che tanto ho amato in passato:
 
 la lotta contro il rumore e la vacuità effimera propagata dai social network commerciali fatti di numeri mirabolanti ma poche interazioni (dis)umane, 

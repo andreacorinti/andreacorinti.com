@@ -46,7 +46,7 @@ confesso che il personaggio di Robert, vero e proprio deuteragonista, non mi è 
 
 Ovviamente non si parla di difetti, semmai di differenti lunghezze d'onda: probabilmente per le mie corde l'approccio più politico e orwelliano è ciò che suonava meglio, ma non per questo voglio sminuire le vicende di Sara e Robert, anzi: per molti aspetti mi sarebbe piaciuto vederli in una serie tv o in un'avventura grafica stile _Broken Sword_ <small>(ogni tanto il videogame lo devo tirare sindacalmente fuori, abbiate pazienza!)</small>
 
-A proposito di videogiochi, temo che la Delogu non giocherà mai al vecchio [_Xenogears_](/posts/ita/xenogears) ed è un gran peccato, visto che più di qualche aspetto _Contrappasso_ mi ha riportato alla mente il vecchio capolavoro della Squaresoft anni '90.
+A proposito di videogiochi, temo che la Delogu non giocherà mai al vecchio [_Xenogears_](/posts/Xenogears) ed è un gran peccato, visto che più di qualche aspetto _Contrappasso_ mi ha riportato alla mente il vecchio capolavoro della Squaresoft anni '90.
 
 ## SPOILER - Il mio finale
 

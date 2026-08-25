@@ -7,7 +7,7 @@ date: 2023-05-22
 lang: it-IT
 ---
 
-[_Capitolo precedente_](/posts/ita/Rabirio1)
+[_Capitolo precedente_](/posts/Rabirio1)
 
 Dopo aver sedotto e intimidito Claudia Moretti e stretto un legame di sangue con lei, Rabirio riesce a organizzare un piano d'azione con i suoi alleati Nosfeatu e gli altri Tzimisce, infiltrandosi nel rifugio di Julius nel quartiere di Castelletto.
 

@@ -24,7 +24,7 @@ Manco a farlo apposta, nel 2015 io scrissi un post che analizzava **il rapporto 
 
 ## Adattamenti Occidentali
 
-La domanda prendeva esplicitamente in causa il recente live-action di _Ghost in the Shell_ ([qui la mia recensione](/posts/ita/ghost-in-the-shell-film-2017-recensione/)), e la risposta di Sensei Watanabe è stata garbatamente lapidaria:
+La domanda prendeva esplicitamente in causa il recente live-action di _Ghost in the Shell_ ([qui la mia recensione](/posts/ghost-in-the-shell-film-2017-recensione/)), e la risposta di Sensei Watanabe è stata garbatamente lapidaria:
 
 > Io penso che gli adattamenti dovrebbero rispettare le intenzioni dell'autore originale.
 

@@ -8,7 +8,7 @@ date: 2026-02-20
 lang: it-IT
 ---
 
-[_**Gennaio 2026**_](/posts/ita/2026-01-disco-del-mese)
+[_**Gennaio 2026**_](/posts/2026-01-disco-del-mese)
 
 Questo mese mi sono dato prevalentemente a riascolti di classici e sono rimasto completamente galvanizzato da un singolo disco, quindi per una volta è inutile perdersi in listoni:
 
@@ -39,4 +39,4 @@ Vabbè però il 30, silenzio!
 
 Superfluo dire che abbiamo già il candidato perfetto per il disco dell'anno eh?
 
-[_**Marzo 2026**_](/posts/ita/2026-03-disco-del-mese)
+[_**Marzo 2026**_](/posts/2026-03-disco-del-mese)

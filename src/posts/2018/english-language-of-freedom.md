@@ -1,6 +1,7 @@
 ---
 layout: posteng
 templateEngineOverride: njk,md
+lang: en-US
 title: English is the language of freedom
 subtitle: but I'm pretty bad at writing in it
 immagine: /img/english.jpg

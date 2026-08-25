@@ -32,7 +32,7 @@ In realtà ci sarebbero anche quelli di 2023 e 2024, ma questo mi convince ancor
 
 ---
 
-_originariamente scritto [nel 2016](/posts/ita/sanremo-2016):_
+_originariamente scritto [nel 2016](/posts/sanremo-2016):_
 
 ## Perché guardi Sanremo?
 

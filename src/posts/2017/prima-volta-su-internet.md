@@ -14,11 +14,11 @@ Nella fattispecie, della storia _percepita_ dai suoi utenti, ergo più o meno av
 
 <img src='https://5ocietyx.files.wordpress.com/2013/04/follow-the-white-rabbit-screengrab.jpg' alt='matrix-white-rabbit'>
 
-[**Già nel 2013**](/posts/ita/web-archive/) sottolineavo come **il tempo del web scorra ad una velocità del tutto diversa da quello reale**:
+[**Già nel 2013**](/posts/web-archive/) sottolineavo come **il tempo del web scorra ad una velocità del tutto diversa da quello reale**:
 
 > Chi naviga assiduamente da più di una decina d’anni forse se ne è accorto: a percezione un anno su internet ha una durata estremamente diversa da quella di un anno reale.
 
-Sempre su questa linea, [**Nel 2014**](/posts/ita/la-storia-di-internet) analizzavo sommariamente **ciò che ho battezzato come Web 1.5**, ovvero l'_Internet Sociale_ prima dell'arrivo dei _Social Network_.
+Sempre su questa linea, [**Nel 2014**](/posts/la-storia-di-internet) analizzavo sommariamente **ciò che ho battezzato come Web 1.5**, ovvero l'_Internet Sociale_ prima dell'arrivo dei _Social Network_.
 
 Ebbene, riallacciandomi a questo discorso ho iniziato ad indagare un po' **sul primo approdo degli Italiani su Internet**. <small>(Santi, Poeti e <u>Navigatori</u> mica per niente)</small>
 
@@ -39,7 +39,7 @@ Perché certo, [ok...](https://www.youtube.com/embed/T-TA57L0kuc)
 
 Ma una cosa era scaricarsi un mese del calendario di Selen <small>(ehm)</small>, ben altra scambiarsi pareri ed opinioni con altri utenti **facendo "community" tra IRC, Forum e MSN.**
 
-Insomma, **molti dei cosidetti "nativi digitali"** <small>(per dirla alla Google)</small> da noi risultano tali per merito di un medium che, paradossalmente, in Italia fatica ad essere percepito in modo serio ([sempre nel 2013](/posts/ita/divulgazione-culturale-videogioco/) scrissi qualcosa in merito anche a questo).
+Insomma, **molti dei cosidetti "nativi digitali"** <small>(per dirla alla Google)</small> da noi risultano tali per merito di un medium che, paradossalmente, in Italia fatica ad essere percepito in modo serio ([sempre nel 2013](/posts/divulgazione-culturale-videogioco/) scrissi qualcosa in merito anche a questo).
 
 ## Topolino
 

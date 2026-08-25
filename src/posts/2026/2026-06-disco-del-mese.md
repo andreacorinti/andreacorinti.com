@@ -8,7 +8,7 @@ date: 2026-07-02
 lang: it-IT
 ---
 
-[_**Maggio 2026**_](/posts/ita/2026-05-disco-del-mese)
+[_**Maggio 2026**_](/posts/2026-05-disco-del-mese)
 
 Qui devo ringraziare sia Zel che mi ha fatto conoscere questa ormai storica band romana che Efi che mi ha regalato lo splendido _Dopoguerra_ (disco del 2005) 😌.
 
@@ -60,5 +60,5 @@ Forse ci sento pure un po' di nostalgia per i nostrani Lacuna Coil e Theatres de
 
 Onesto heavy doom americano con un'ottima ritmica e belle schitarrate ottantiane, sono un po' incerto sulla voce (che non mi dispiace ma non mi convince del tutto sia in clean che in growl), _Beneath The Scythe_ gran bella cavalcata iron maideniana!
 
-[_**Luglio 2026**_](/posts/ita/2026-07-disco-del-mese)
+[_**Luglio 2026**_](/posts/2026-07-disco-del-mese)
 

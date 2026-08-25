@@ -8,7 +8,7 @@ date: 2025-05-23
 lang: it-IT
 ---
 
-[_**Aprile 2025**_](/posts/ita/disco-del-mese-04-2025)
+[_**Aprile 2025**_](/posts/disco-del-mese-04-2025)
 
 In realtà questa colonna sonora è uscita a fine aprile, ma beh...
 
@@ -72,4 +72,4 @@ Considerando quanta gente si è ispirata a lui nell'ultima decade (Carpenter Bru
 
 Magnifico sottofondo lavorativo e prodotto in modo divino. O diabolico dai, che con Carpenter funziona meglio.
 
-[_**Giugno 2025**_](/posts/ita/disco-del-mese-06-2025)
+[_**Giugno 2025**_](/posts/disco-del-mese-06-2025)

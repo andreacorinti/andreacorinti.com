@@ -8,7 +8,7 @@ date: 2025-01-24
 lang: it-IT
 ---
 
-[_**Dicembre 2024**_](/posts/ita/disco-del-mese-12-2024)
+[_**Dicembre 2024**_](/posts/disco-del-mese-12-2024)
 
 E si riparte con il 2025! Chissà per quanto proseguirò con 'sta rubrica?
 
@@ -20,7 +20,7 @@ Come forse saprete uno dei gruppi che mi porto dietro sin dall'adolescenza sono 
 
 Bene: 
 
-The Halo Effect è un supergruppo che di fatto coinvolge tutti questi nomi storici della sopracitata scena in un nuovo progetto, qualcosa di analogo al per me deludente esperimento gothrock **Cementery Skyline** (dove c'era sempre Stanne alla voce, in questo caso esclusivamente clean - se ne era parlato [lo scorso ottobre](/posts/ita/disco-del-mese-10-2024)).
+The Halo Effect è un supergruppo che di fatto coinvolge tutti questi nomi storici della sopracitata scena in un nuovo progetto, qualcosa di analogo al per me deludente esperimento gothrock **Cementery Skyline** (dove c'era sempre Stanne alla voce, in questo caso esclusivamente clean - se ne era parlato [lo scorso ottobre](/posts/disco-del-mese-10-2024)).
 
 In questo caso, confesso che ero già preso benissimo dai singoli _Detonate_ e dalla vecchia _Feel What I Believe_ (dal precedente Days of the Lost 2022) e oh, non sono stato minimamente deluso: 
 
@@ -141,4 +141,4 @@ Ma onestamente, non fosse per l'utilizzo del francese, credo l'avrei trovato abb
 
 PS: E sì, [Justine Daaé](https://www.elyosemusic.com/media?pgid=khgb6za4-3cf463b9-4283-4257-a5e6-143d4ebb2802) è una bella crushona
 
-[_**Febbraio 2025**_](/posts/ita/disco-del-mese-02-2025)
+[_**Febbraio 2025**_](/posts/disco-del-mese-02-2025)

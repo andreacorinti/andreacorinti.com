@@ -8,7 +8,7 @@ date: 2020-03-24
 lang: it-IT
 ---
 
-Come scrivevo [un paio di giorni fa](/posts/ita/corona-cuba/), nella mia formazione c'è molto Bakunin e c'è molta Anarchia.
+Come scrivevo [un paio di giorni fa](/posts/corona-cuba/), nella mia formazione c'è molto Bakunin e c'è molta Anarchia.
 
 In senso molto vago e romantico, più che sovversivo
 

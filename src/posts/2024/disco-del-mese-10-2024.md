@@ -8,7 +8,7 @@ date: 2024-10-24
 lang: it-IT
 ---
 
-[_**Settembre 2024**_](/posts/ita/disco-del-mese-09-2024)
+[_**Settembre 2024**_](/posts/disco-del-mese-09-2024)
 
 Prima di tutto vorrei esordire con una menzione speciale in memoria del buon Paul Di'Anno: 
 
@@ -114,4 +114,4 @@ Forse sono io che non sono nella fase giusta, ma ci ho sentito molto mestiere e 
 
 Folk punk irlandese (o celtic punk, che dir si voglia), che corrisponde a tutti gli stereotipi del caso, anche perché il gruppo in realtà è ungherese (il cantante Paddy O'Reilly in realtà si chiama Kristóf Oravecz) e trovo la cosa sempre molto divertente: esiste qualcosa di più variopinto dell'appropriazione culturale che il mondo ha attuato nei confronti dell'Irlanda? A parte questo, il disco sarebbe anche simpatico, se non suonasse fin troppo "pulito".
 
-[_**Novembre 2024**_](/posts/ita/disco-del-mese-11-2024)
+[_**Novembre 2024**_](/posts/disco-del-mese-11-2024)

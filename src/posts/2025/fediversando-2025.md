@@ -16,12 +16,12 @@ Da quando me ne sono andato da LS lo scorso giugno...
 
 Anzi vabbè, facciamo prima e mettiamo un po' di post in fila per fare un recap così alleggerisco qui: 
 
-* [Arrivederci Segreto](/posts/ita/arrivederci-segreto/): la migrazione da LS a mastodon.social 
-* [Di Mastodon Social e del concetto d'Istanza](/posts/ita/mastodon-social/): i problemi con social e mastodon più in generale, esperimento gotosocial con monoistanzina
-* [Mastodon VS Fediverso](/posts/ita/mastodon%20e%20fediverso/): remore nei confronti di Mastodon
-* [Fediverso-gram](/posts/ita/fediverso-gram/): il problema del modello "influencer" traslato nel fediverso
-* [La mia data di scadenza sul Fediverso](/posts/ita/scadenza-fediverso/): l'idea di chiudere del tutto la mia esperienza lì
-* [Back on Mastodon](/posts/ita/back-on-mastodon/): il ritorno su mastodon.social 
+* [Arrivederci Segreto](/posts/arrivederci-segreto/): la migrazione da LS a mastodon.social 
+* [Di Mastodon Social e del concetto d'Istanza](/posts/mastodon-social/): i problemi con social e mastodon più in generale, esperimento gotosocial con monoistanzina
+* [Mastodon VS Fediverso](/posts/mastodon%20e%20fediverso/): remore nei confronti di Mastodon
+* [Fediverso-gram](/posts/fediverso-gram/): il problema del modello "influencer" traslato nel fediverso
+* [La mia data di scadenza sul Fediverso](/posts/scadenza-fediverso/): l'idea di chiudere del tutto la mia esperienza lì
+* [Back on Mastodon](/posts/back-on-mastodon/): il ritorno su mastodon.social 
 
 ovviamente in questo blog ci sono parecchi altri post sul tema, ma ho concentrato quelli degli ultimi mesi che, a rileggermi, credo evidenzino un classico senso da _disillusione post-entusiasmo iniziale_, che però vabbè è anche e soprattutto un problema mio...
 

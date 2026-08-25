@@ -1,6 +1,7 @@
 ---
 layout: posteng
 templateEngineOverride: njk,md
+lang: en-US
 title: "11ty, Webmentions and Bridgy part II [WebDev Log 02]" 
 subtitle: "no comments but something"
 immagine: https://brid.gy/static/bridgy_logo.jpg

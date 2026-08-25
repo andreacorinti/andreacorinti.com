@@ -1,6 +1,7 @@
 ---
 layout: posteng
 templateEngineOverride: njk,md
+lang: en-US
 title: On Paper Please
 subtitle: and why all of Europe should play it
 immagine: /img/paper-please.jpeg

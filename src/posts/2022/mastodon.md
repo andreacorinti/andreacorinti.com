@@ -102,4 +102,4 @@ E ricordate sempre che potete mandare un toot con #mastoaiuto se vi doveste trov
 
 ## Update Luglio 2023
 
-Mastodon continua ad essere fighissimo, ma nel frattempo ho cambiato completamente idea su mastodon.uno e sono migrato su LivelloSegreto: per i dettagli, rimando a [questo post](/posts/ita/mastodon-uno).
+Mastodon continua ad essere fighissimo, ma nel frattempo ho cambiato completamente idea su mastodon.uno e sono migrato su LivelloSegreto: per i dettagli, rimando a [questo post](/posts/mastodon-uno).

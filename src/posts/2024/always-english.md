@@ -6,7 +6,7 @@ subtitle: "Linguistic music dullness"
 sommario: "I truly enjoy English. Not only for its cultural significance and relevance in the era in which I was born and reared, but also for the limitless opportunities it provides for communication with individuals all over the world. I absolutely love how English sounds. But..."
 immagine: /img/a-night-at-the-opera1.webp
 date: 2024-01-18
-lang: it-IT
+lang: en-US
 ---
 
 I truly enjoy English.

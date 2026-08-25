@@ -8,7 +8,7 @@ date: 2025-11-18
 lang: it-IT
 ---
 
-Stamane ho postato [questo grafico statistico](https://misskey.social/@xabacadabra/115569457197032215) da [fedidb](https://fedidb.com/stats) e beh, visto che [questo post](/posts/ita/fediversando-2025/) è di appena qualche settimana fa, ho pensato di buttarne giù un altro per fare il punto. 
+Stamane ho postato [questo grafico statistico](https://misskey.social/@xabacadabra/115569457197032215) da [fedidb](https://fedidb.com/stats) e beh, visto che [questo post](/posts/fediversando-2025/) è di appena qualche settimana fa, ho pensato di buttarne giù un altro per fare il punto. 
 
 ### Dobbiamo portare più gente nel Fediverso, diffondere il verbo!
 
@@ -45,7 +45,7 @@ tanti account sono scomparsi, altri ancora ci sono ma postano molto meno, le ist
 
 ### Tutta colpa di Mastodon?
 
-In parte senz'altro (anche se da quanto leggo pixelfed per dire è pure peggio), d'altronde pure questo è un [discorso già affrontato](/posts/ita/mastodon%20e%20fediverso/).
+In parte senz'altro (anche se da quanto leggo pixelfed per dire è pure peggio), d'altronde pure questo è un [discorso già affrontato](/posts/mastodon%20e%20fediverso/).
 
 Ma alla fine parliamoci chiaro: 
 

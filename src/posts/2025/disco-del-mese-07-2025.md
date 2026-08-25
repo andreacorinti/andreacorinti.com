@@ -8,7 +8,7 @@ date: 2025-07-20
 lang: it-IT
 ---
 
-[_**Giugno 2025**_](/posts/ita/disco-del-mese-06-2025)
+[_**Giugno 2025**_](/posts/disco-del-mese-06-2025)
 
 Luglio sorprendentemente ricco per essere stato così mortalmente torrido e incasinato, anche se con qualche delusione di troppo - pur meritevole di menzione nella mia rubrichella senza pretese!
 
@@ -88,4 +88,4 @@ Purtroppo per me il canto clean di Marcello Vieira mi ha portato troppo verso il
 
 Non divento matto manco per il tizio del growl della situazione (Gabriel Ricco) ma lo preferisco a Vieira, forse il problema più generale è con la produzione del disco ma chissà. Peccato!
 
-[_**Agosto 2025**_](/posts/ita/disco-del-mese-08-2025)
+[_**Agosto 2025**_](/posts/disco-del-mese-08-2025)

@@ -10,7 +10,7 @@ lang: it-IT
 
 Inauguro oggi una piccola rubrica musicale per due motivi: 
 
-* tenere traccia dei nuovi dischi che incrocio durante l'anno per tenermi pronto al riepilogone ([vedi quello del 2023](/posts/ita/2023))
+* tenere traccia dei nuovi dischi che incrocio durante l'anno per tenermi pronto al riepilogone ([vedi quello del 2023](/posts/2023))
 
 * era davvero tanto che da queste parti non parlavo un po' di musica!
 
@@ -62,4 +62,4 @@ Ok qui ho barato perché in realtà è uscito lo scorso inverno, però lo segnal
 
 E _Vida Seca_ (con Lenine) un interessantissimo esperimento di..._prog folk brasiliano_? Boh, a me è piaciuta un botto e mi ha messo voglia di rigiocare a _Grandia 2_.
 
-[_**Febbraio 2024**_](/posts/ita/disco-del-mese-02-2024)
+[_**Febbraio 2024**_](/posts/disco-del-mese-02-2024)

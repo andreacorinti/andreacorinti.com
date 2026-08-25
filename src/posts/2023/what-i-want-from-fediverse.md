@@ -1,6 +1,7 @@
 ---
 layout: posteng
 templateEngineOverride: njk,md
+lang: en-US
 title: In the Fediverse I would like
 subtitle: my Fediverse thoughts for 2024
 immagine: https://3.bp.blogspot.com/-nf3R4LROWrE/UG61bzMZ7jI/AAAAAAAAA1M/t3volLopJys/s1600/mulinobianco.jpg
@@ -40,7 +41,7 @@ And, at the same time, **be a small and niche reality with rather low numbers**,
 
 ## Numbers
 
-Recently, in [an Italian post addressing the issue of Threads](../../ita/threads-e-mastodon), I found myself thinking about [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number).
+Recently, in [an Italian post addressing the issue of Threads](../threads-e-mastodon), I found myself thinking about [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number).
 
 I firmly believe that it is very complicated to treat more than 300-400 individuals as authentic people, even superficially.
 

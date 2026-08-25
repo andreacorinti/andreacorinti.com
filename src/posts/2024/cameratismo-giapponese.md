@@ -65,7 +65,7 @@ ecco: dovessi dire, la Base Bianca finì per rappresentare quest'archetipo anche
 
 ![Final-Fantasy-VIII](/img/cameratismo/ff8.jpg)
 
-Come [scritto a più riprese](/posts/ita/Final-Fantasy-VIII), _Final Fantasy VIII_ resta il mio videogioco preferito (pur con tutti i suoi difetti) e non a caso resta forse l'esponente della saga che meglio ha reso il discorso che sto affrontando qui.
+Come [scritto a più riprese](/posts/Final-Fantasy-VIII), _Final Fantasy VIII_ resta il mio videogioco preferito (pur con tutti i suoi difetti) e non a caso resta forse l'esponente della saga che meglio ha reso il discorso che sto affrontando qui.
 
 il Garden di Balamb è infatti contemporaneamente:
 

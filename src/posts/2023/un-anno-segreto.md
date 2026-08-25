@@ -30,7 +30,7 @@ Dopo i casini su Twitter (che in realtà già frequentavo poco di mio) **ho part
 
 (Ora che ci ragiono, è curioso notare come fossero passati quasi due anni esatti dalla mia breve esperienza su mastodon.social. Boh, sarà il mio spirito autunnale)
 
-Comunque, **tra queste pagine digitali ci sono un bel po' di post che spiegano i motivi che mi hanno portato a lasciare M1**, in particolare [qua](/posts/ita/mastodon-migrazione-2/).
+Comunque, **tra queste pagine digitali ci sono un bel po' di post che spiegano i motivi che mi hanno portato a lasciare M1**, in particolare [qua](/posts/mastodon-migrazione-2/).
 
 Mesi dopo, il mio rapporto con M1 si è deteriorato per questioni abbastanza brutte che però non mi pare il caso di rinvangare in questa sede.
 

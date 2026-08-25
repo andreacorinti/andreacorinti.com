@@ -8,7 +8,7 @@ date: 2024-08-26
 lang: it-IT
 ---
 
-[_**Luglio 2024**_](/posts/ita/disco-del-mese-07-2024)
+[_**Luglio 2024**_](/posts/disco-del-mese-07-2024)
 
 ## Dark Tranquillity - Endtime Signal
 
@@ -36,4 +36,4 @@ _Aghori Mhori Mei_ è un palese (tentato) ritorno a _Siamese Dream_ e _Mellon Co
 
 Guazzabuglio strano, chiaramente lontano dai capolavori delle origini, ma per me in definitiva un bel disco.
 
-[_**Settembre 2024**_](/posts/ita/disco-del-mese-09-2024)
+[_**Settembre 2024**_](/posts/disco-del-mese-09-2024)

@@ -8,7 +8,7 @@ date: 2025-10-22
 lang: it-IT
 ---
 
-[_**Settembre 2025**_](/posts/ita/disco-del-mese-09-2025)
+[_**Settembre 2025**_](/posts/disco-del-mese-09-2025)
 
 Ok, ottobre ricchissimo, con ogni probabilità personale record per questa mia rubrichetta e, siccome mi perdo tra tutti i consigli, ringrazio direttamente [Efi](https://electricrequiem.com/@effimera) e [Zel](https://livellosegreto.it/@Zel/) che hanno diffuso molta di questa bella roba!
 
@@ -112,4 +112,4 @@ Solito album dei Sabaton?
 
 Solito album dei Sabaton, ma non è un male perché è tutto confezionato in modo certosino e battagliero, pauerone storico che mischia il racconto di battaglie in lungo e in largo per il corso della storia umana.
 
-[_**Novembre 2025**_](/posts/ita/disco-del-mese-11-2025)
+[_**Novembre 2025**_](/posts/disco-del-mese-11-2025)

@@ -28,7 +28,7 @@ Specifico che, in ogni caso, **le parole che seguiranno non sono assolutamente u
 
 ### Ok, elabora.
 
-Partiamo col dire che, [come per il recente Final Fantasy VII Rebirth](/posts/ita/final-fantasy-vii-rebirth), ho provato un pochino del gioco giocato per poi guardarmi praticamente su YouTube.
+Partiamo col dire che, [come per il recente Final Fantasy VII Rebirth](/posts/final-fantasy-vii-rebirth), ho provato un pochino del gioco giocato per poi guardarmi praticamente su YouTube.
 
 ### Ma perché?!
 

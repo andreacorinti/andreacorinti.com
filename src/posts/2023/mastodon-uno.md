@@ -8,7 +8,7 @@ date: 2023-07-05
 lang: it-IT
 ---
 
-_(Per le puntate precedenti, rimando [al post riassuntivo](/posts/ita/mastodon-2023) di qualche settimana fa)_
+_(Per le puntate precedenti, rimando [al post riassuntivo](/posts/mastodon-2023) di qualche settimana fa)_
 
 Dunque.
 
@@ -55,7 +55,7 @@ Alla fine però, ho deciso di spendere due parole in più per un motivo molto se
 
 A parte una sporadica partentesi su mastodon.social nel 2020, **personalmente ho iniziato ad utilizzare Mastodon nel novembre del 2022 partendo _proprio_ da mastodon.uno**
 
-E di mastodon.uno ho parlato [pure bene](/posts/ita/mastodon/) sostenendo l'istanza per il pochetto che ci sono stato prima della mia migrazione su LS.
+E di mastodon.uno ho parlato [pure bene](/posts/mastodon/) sostenendo l'istanza per il pochetto che ci sono stato prima della mia migrazione su LS.
 
 La sensazione che ho ora è che, preso dall'entusiasmo iniziale per mastodon, io mi sia fatto abbindolare. 
 

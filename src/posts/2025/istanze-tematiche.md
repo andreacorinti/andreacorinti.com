@@ -79,7 +79,7 @@ Eh, è effettivamente un buon punto!
 
 Purtroppo al momento "l'interscambio" tra istanze sembra troppo macchinoso e sporadico anche a me, tanto che mi pare che la tendenza generale preveda poco l'uscire dalla propria local (e d'altronde la timeline federata è spesso più un casino che altro).
 
-Aggiungendo il solito discorso, quello [legato alla poca diffusione degli hashtag](/posts/ita/hashtag-fediverso/),  è lecito riconoscere il problemone.
+Aggiungendo il solito discorso, quello [legato alla poca diffusione degli hashtag](/posts/hashtag-fediverso/),  è lecito riconoscere il problemone.
 
 Però se guardiamo ai vantaggi...
 

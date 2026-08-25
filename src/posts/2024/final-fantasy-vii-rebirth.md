@@ -10,7 +10,7 @@ lang: it-IT
 
 Accidenti com'è difficile tornare da queste parti!
 
-Partiamo col dire che sul Remake ho scritto un bel po' di post e, per comodità, qui linko giusto [questo](/posts/ita/Final-Fantasy-VII-Remake-2/) che tutto sommato resta quello che mi piace di più.
+Partiamo col dire che sul Remake ho scritto un bel po' di post e, per comodità, qui linko giusto [questo](/posts/Final-Fantasy-VII-Remake-2/) che tutto sommato resta quello che mi piace di più.
 
 ## Un hype sgonfiato
 
@@ -73,7 +73,7 @@ Comunque, parlando di gioco giocato, posso dire che:
 
 Sul secondo punto preciso che non ne faccio un discorso qualitativo: 
 
-come ripeto spesso, **negli ultimi anni ho deciso di fare scelte ben ponderate su come trascorro il mio tempo giocando** e, dall'alto delle 120+ ore su [Baldur's Gate III](/posts/ita/baldurs-gate-3), preferisco focalizzarmi solo su elementi di gameplay che mi appasionano e restituiscono qualcosa (per fortuna non sono mai stato un completista): 
+come ripeto spesso, **negli ultimi anni ho deciso di fare scelte ben ponderate su come trascorro il mio tempo giocando** e, dall'alto delle 120+ ore su [Baldur's Gate III](/posts/baldurs-gate-3), preferisco focalizzarmi solo su elementi di gameplay che mi appasionano e restituiscono qualcosa (per fortuna non sono mai stato un completista): 
 
 tutto molto soggettivo eh! 
 

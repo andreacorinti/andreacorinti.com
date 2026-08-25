@@ -8,7 +8,7 @@ date: 2025-08-20
 lang: it-IT
 ---
 
-[_**Luglio 2025**_](/posts/ita/disco-del-mese-07-2025)
+[_**Luglio 2025**_](/posts/disco-del-mese-07-2025)
 
 Agosto è sempre un mese complicato, tra ferie e uscite più difficili da reperire / intercettare (nonché ovviamente ridotte nel numero per forza di cose), ma qualche chicca salta sempre fuori e, nello specifico, c'è una bella botta di nostalgia:
 
@@ -68,4 +68,4 @@ vabbè, linko [qua](https://social.andreacorinti.com/@xabacadabra/statuses/01K31
 
 alcune canzoni mi sono piaciute tanto, altre per nulla, ma mi ha completamente spiazzato nel bene e nel male!
 
-[_**Settembre 2025**_](/posts/ita/disco-del-mese-09-2025)
+[_**Settembre 2025**_](/posts/disco-del-mese-09-2025)

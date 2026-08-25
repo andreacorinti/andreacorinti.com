@@ -8,7 +8,7 @@ date: 2022-08-08
 lang: it-IT
 ---
 
-[Alla fine ho ceduto](/posts/ita/sandman-netflix). La curiosità uccise il gatto ma io sono ancora vivo e vegeto (più o meno)
+[Alla fine ho ceduto](/posts/sandman-netflix). La curiosità uccise il gatto ma io sono ancora vivo e vegeto (più o meno)
 
 ## Cosa mi è piaciuto
 

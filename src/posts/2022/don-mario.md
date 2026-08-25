@@ -12,7 +12,7 @@ date: 2022-04-15
 
 <blockquote class="twitter-tweet"><p lang="it" dir="ltr">Non mi considero credente, però essendo nato a Erba e cresciuto ad Albavilla conoscevo bene la figura di don Mario e mi spiace vedere tante battute (non tutti sanno che parecchi anni fa venne tagliato fuori da <a href="https://twitter.com/hashtag/Radiomaria?src=hash&amp;ref_src=twsrc%5Etfw">#Radiomaria</a>, che poi divenne il buisness che è oggi)<br><br>RIP Don Mario</p>&mdash; Xab (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1515046533850443778?ref_src=twsrc%5Etfw">April 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Don Mario ha fondato Radio Maria dove sono nato io (Erba), quando la radio ha cominciato a diventare un business internazionale è stato tagliato fuori e ha finito per fondarne un'altra, Radio Mater, nel paesino dove sono cresciuto ([Albavilla](/posts/ita/luoghi-albavilla)). 
+Don Mario ha fondato Radio Maria dove sono nato io (Erba), quando la radio ha cominciato a diventare un business internazionale è stato tagliato fuori e ha finito per fondarne un'altra, Radio Mater, nel paesino dove sono cresciuto ([Albavilla](/posts/luoghi-albavilla)). 
 
 La notizia mi è arrivata dalle battute ironiche di Twitter. 
 

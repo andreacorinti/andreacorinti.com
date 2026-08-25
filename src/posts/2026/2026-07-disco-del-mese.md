@@ -8,7 +8,7 @@ date: 2026-07-29
 lang: it-IT
 ---
 
-[_**Giugno 2026**_](/posts/ita/2026-06-disco-del-mese)
+[_**Giugno 2026**_](/posts/2026-06-disco-del-mese)
 
 Extra mese che però ci voleva per forza: progressive Metal con una voce grunge anni '90, bassone potente e assoli da stoner band? E synth da Nobuo Uematsu in carriola?
 

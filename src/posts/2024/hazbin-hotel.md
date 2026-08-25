@@ -12,7 +12,7 @@ Tenterò di essere breve.
 
 In realtà volevo limitarmi a un post su Livello Segreto ([#cartoneSegreto](https://livellosegreto.it/tags/CartoneSegreto)) ma...
 
-beh, i 500 caratteri li sforerò sicuro, visto che in realtà ci rialacciamo al discorso che facevo a proposito del solito [Palworld](/posts/ita/palworld).
+beh, i 500 caratteri li sforerò sicuro, visto che in realtà ci rialacciamo al discorso che facevo a proposito del solito [Palworld](/posts/palworld).
 
 ### Vivienne Medrano
 

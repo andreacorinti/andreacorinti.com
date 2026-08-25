@@ -40,7 +40,7 @@ La verità?
 
 Titoli che m'intrippano ci sono eh, ma so già che non riuscirei a godermeli per via delle proverbiali mille cose da fare, sommate ai miei spostamenti zingareschi in giro per l'Europa.
 
-Non di rado, come fu per [Final Fantasy XVI](/posts/ita/final-fantasy-xvi-noia), vale la logica _"me lo provo da un amicə e poi me lo guardo su youtube come un film"_.
+Non di rado, come fu per [Final Fantasy XVI](/posts/Final-Fantasy-XVI-noia), vale la logica _"me lo provo da un amicə e poi me lo guardo su youtube come un film"_.
 
 Invece rivedere Pokémon Rosso, ma soprattutto tastare il form factor del Game Boy, mi ha dato una vera e propria scossa.
 

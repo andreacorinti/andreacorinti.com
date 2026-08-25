@@ -8,7 +8,7 @@ date: 2024-08-28
 lang: it-IT
 ---
 
-Allora, _Vermillion_ è uscito il 23 Agosto quindi sto barando / mettendo una pezza sul solito post mensile (gli altri dischi sono [_**qui**_](/posts/ita/disco-del-mese-08-2024)). 
+Allora, _Vermillion_ è uscito il 23 Agosto quindi sto barando / mettendo una pezza sul solito post mensile (gli altri dischi sono [_**qui**_](/posts/disco-del-mese-08-2024)). 
 
 Che colpa ne ho io se le case discografiche optano per uscite matte, per giunta nel mese vacanziero per eccellenza?
 

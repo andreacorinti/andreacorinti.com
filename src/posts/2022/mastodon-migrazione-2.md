@@ -10,7 +10,7 @@ lang: it-IT
 
 E ora sono su LivelloSegreto.it?
 
-[(_per le puntate precedenti..._)](/posts/ita/mastodon-migrazione)
+[(_per le puntate precedenti..._)](/posts/mastodon-migrazione)
 
 Cominciamo da una premessa:
 

@@ -30,7 +30,7 @@ Credo che chiunque lo bazzicasse provi sentimenti simili ai miei, e che questo s
 
 Credo che le persone di cui sopra sapessero benissimo che, aldilà di indubbi meriti e virtù delle _piattaforme fricchettone_, la gente resta sempre _gente_ e online oramai è, o meglio siamo, abiutati a forme di comunicazione più o meno nefaste. 
 
-Molti concetti li avevo già espressi in [questo post](/posts/ita/fediverso-fandango/) e, in questo fine Luglio bollente, mi sembra si siano radicati in modo più netto, forse perché c'è un fisiologico calo di attività e il "rumore" soffoca ancora di più le cose belle, forse per la situazione politica internazionale che si mischia con le Olimpiadi e le relative polemiche, tutta roba difficile da filtrare anche per via della scarsa diffusione degli hahshtag.
+Molti concetti li avevo già espressi in [questo post](/posts/fediverso-fandango/) e, in questo fine Luglio bollente, mi sembra si siano radicati in modo più netto, forse perché c'è un fisiologico calo di attività e il "rumore" soffoca ancora di più le cose belle, forse per la situazione politica internazionale che si mischia con le Olimpiadi e le relative polemiche, tutta roba difficile da filtrare anche per via della scarsa diffusione degli hahshtag.
 
 ### La tua istanza non è un Forum
 
@@ -73,7 +73,7 @@ Credo gioverebbe qualche iniziativa dell'amministrazione che porti a scambio e c
 
 [#SapereLibero](https://livellosegreto.it/tags/SapereLibero) è una gran bella iniziativa di [Kenobit](https://livellosegreto.it/@kenobit), però non so quanto funzionale al fediverso e immune da eventuali occasioni di gretto spam (forse è il mio cinismo pessimista a parlare eh), e più che altro mi pare a sua volta molto generalista e non proprio vicina a ciò che vedo in timeline locale tutti i giorni. 
 
-Rileggendo [un mio post di quasi due anni fa](/posts/ita/mastodon-migrazione-2) mi sono ricordato della mia cotta per [warp](https://warp.livellosegreto.it/), che però temo sia rimasta un po' in soffitta (avevo dimenticato pure [#SagraSegreta!](https://livellosegreto.it/tags/SagraSegreta)) 
+Rileggendo [un mio post di quasi due anni fa](/posts/mastodon-migrazione-2) mi sono ricordato della mia cotta per [warp](https://warp.livellosegreto.it/), che però temo sia rimasta un po' in soffitta (avevo dimenticato pure [#SagraSegreta!](https://livellosegreto.it/tags/SagraSegreta)) 
 
 Intendiamoci: queste fasi di stanca sono un po' fisiologiche perché la vita, il lavoro e lo scemare dell'entusiasmo più "endorfinico" fanno il resto, e non è da escludere che superata l'estate ritornerà tutto più bello e collettivo di prima!
 

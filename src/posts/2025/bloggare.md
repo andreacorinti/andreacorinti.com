@@ -12,7 +12,7 @@ Ciciclicamente torno a cianciare sul tema blog (d'altronde su un blog stiamo, oh
 
 ### Il valore del tempo
 
-**I social ci hanno progressivamente abituato a post fugaci, pronti a perdersi come lacrime nella pioggia** (salvo non siano particolarmente controversi e utili per sputtanare l'autore) e risolversi nell'arco di poche ore (o minuti: il modello twitter, che come [scrivevo](/posts/ita/fediversando-2025) si applica anche a mastodon).
+**I social ci hanno progressivamente abituato a post fugaci, pronti a perdersi come lacrime nella pioggia** (salvo non siano particolarmente controversi e utili per sputtanare l'autore) e risolversi nell'arco di poche ore (o minuti: il modello twitter, che come [scrivevo](/posts/fediversando-2025) si applica anche a mastodon).
 
 Stessa cosa ovviamente per storie e affini, anche se Meta furbescamente ci mette una pezza con le sue funzioni "ricordi", utile soprattutto per risvegliare account letargici facendo felici i propri investitori...
 

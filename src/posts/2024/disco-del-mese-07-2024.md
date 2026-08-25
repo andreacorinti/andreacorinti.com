@@ -8,7 +8,7 @@ date: 2024-07-26
 lang: it-IT
 ---
 
-[_**Giugno 2024**_](/posts/ita/disco-del-mese-06-2024)
+[_**Giugno 2024**_](/posts/disco-del-mese-06-2024)
 
 Questo mese causa caldo esagerato e impegni vari ho ascoltato poche novità e molti classici (lo confesso) quindi prendete un po' tutto con le pinze, eccetto...
 
@@ -44,4 +44,4 @@ Heavy Metal teutonico in salsa hair ([letteralmente](https://www.angrymetalguy.c
 
 Un po' dei Ratt, Poison eccetera, tantissimo dei Bon Jovi (sia '80 che 2000), disco ben suonato e prodotto che pare uscito dal 1989 e pertanto originale come un videogioco indie con la grafica pixellosa: nulla di trascendentale, ok, ma il fatto che nuove band portino avanti questo discorso mi rende sempre felice, specie quando in mezzo ci sono tanti bei riff catchy e capacità.
 
-[_**Agosto 2024**_](/posts/ita/disco-del-mese-08-2024)
+[_**Agosto 2024**_](/posts/disco-del-mese-08-2024)

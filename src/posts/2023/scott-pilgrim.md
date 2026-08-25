@@ -34,7 +34,7 @@ Insomma, se siete nel target nerdone, dovreste proprio guardarlo...**_dopo_ aver
 
 ## Rebuild, Remake, Rebus?
 
-Non so più quante volte mi ritrovo a fare questo discorso: che si parli del _Rebuild_ di Evangelion (davvero tante affinità qui) o del remake di _Final Fantasy VII_ (di cui [ho già scritto abbastanza](/posts/ita/Final-Fantasy-VII-Remake-3)) vale lo stesso principio:
+Non so più quante volte mi ritrovo a fare questo discorso: che si parli del _Rebuild_ di Evangelion (davvero tante affinità qui) o del remake di _Final Fantasy VII_ (di cui [ho già scritto abbastanza](/posts/Final-Fantasy-VII-Remake-3)) vale lo stesso principio:
 
 a differenza della vaga sensazione d'inutilità che ci porta risentire la cover di una canzone resa paro paro a come la conosciamo, in questo caso il ritmo e gli accordi sono tutti diversi facendola suonare in modo fantastico, ma completamente diverso.
 

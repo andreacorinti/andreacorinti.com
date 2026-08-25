@@ -12,7 +12,7 @@ _(L'immagine è un'illustrazione di Yoshitaka Amano del personaggio Mog, da Fina
 
 Terzo appuntamento della Sagra, con il tema videogiochi scelto da [Alessio](https://masto.cazzo.lol/@dottorblaster)!  
 
-[Qui trovate il suo post](https://dottorblaster.it/2026/03/videogiochi-sagra-indieweb-2026-marzo/) che per la mia gioia è marcatamente _FinalFantasioso_ e tratta quella che da un annetto buono è la mia amante videoludica preferita (oltre la moglie Steam Deck), ovvero la [Miyoo Mini Plus](/posts/ita/miyoo-mini-plus/)!
+[Qui trovate il suo post](https://dottorblaster.it/2026/03/videogiochi-sagra-indieweb-2026-marzo/) che per la mia gioia è marcatamente _FinalFantasioso_ e tratta quella che da un annetto buono è la mia amante videoludica preferita (oltre la moglie Steam Deck), ovvero la [Miyoo Mini Plus](/posts/miyoo-mini-plus/)!
 
 ### Videogiochi
 

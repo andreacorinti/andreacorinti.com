@@ -10,8 +10,8 @@ date: 2021-03-28
 
 Per le puntate precedenti: 
 
-- [Day 1](/posts/ita/basta-videogiochi/)
-- [Day 7](/posts/ita/basta-videogiochi/)
+- [Day 1](/posts/basta-videogiochi/)
+- [Day 7](/posts/basta-videogiochi/)
 
 Bene, per colpa dello Studio Fow c'è stato il mio primo sgarro, che mi è stato utile proprio per quanto ho trovato deludente _Subverse_ ([qui](https://steamcommunity.com/id/xabaras89/recommended/1034140?snr=1_5_9__402) la mia breve recensione su Steam).
 

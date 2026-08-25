@@ -8,7 +8,7 @@ date: 2024-11-24
 lang: it-IT
 ---
 
-[_**Ottobre 2024**_](/posts/ita/disco-del-mese-10-2024)
+[_**Ottobre 2024**_](/posts/disco-del-mese-10-2024)
 
 Allora, lo dico?
 
@@ -48,7 +48,7 @@ Sapevo già che sarebbe stato impossibile non citare il nuovo inedito di quella 
 
 Confesso che partivo curioso e titubante il giusto: 
 
-preventivavo un disco carino ma dimenticabile, tipo come fu [ad agosto con gli Smashing Pumpkins](/posts/ita/disco-del-mese-08-2024/)...e invece oh, _Songs Of a Lost World_ mi si è incastrato nelle sinapsi come accade solo di rado con gli inediti:
+preventivavo un disco carino ma dimenticabile, tipo come fu [ad agosto con gli Smashing Pumpkins](/posts/disco-del-mese-08-2024/)...e invece oh, _Songs Of a Lost World_ mi si è incastrato nelle sinapsi come accade solo di rado con gli inediti:
 
 produzione stratosferica, synth e ispirazione, disco da ascoltarsi a ripetizione per qualche settimana.
 
@@ -68,7 +68,7 @@ Forse non è sui livelli del recente Empath (ma ve la ricordate _Singularity_? M
 
 Se ne sono dette di ogni sul ritorno dei Linkin Park con la nuova cantante Emily Armstrong a sostituzione del compianto Chester Bennington. 
 
-Ora, come avevo scritto a suo tempo [in questo post dedicato proprio a Chester](/posts/ita/chester-bennington/), io non sono mai stato esattamente un fan dei Linkin Park se escludiamo _A Thousand Suns_ o qualche vecchio singolo, quindi direi che ho potuto ascoltare il disco con la giusta dose di distanza emotiva...
+Ora, come avevo scritto a suo tempo [in questo post dedicato proprio a Chester](/posts/chester-bennington/), io non sono mai stato esattamente un fan dei Linkin Park se escludiamo _A Thousand Suns_ o qualche vecchio singolo, quindi direi che ho potuto ascoltare il disco con la giusta dose di distanza emotiva...
 
 e l'ho trovato molto bello! 
 

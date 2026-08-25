@@ -8,7 +8,7 @@ date: 2024-02-01
 lang: it-IT
 ---
 
-Visto che è appena uscito il [trailer State of Play di **Death Stranding 2**](https://www.youtube.com/watch?v=6cs-A1rNvEE), che personalmente ho trovato meraviglioso (d'altronde [ho amato un sacco il primo DS](/posts/ita/death-stranding-recensione/)), ho notato che nel web si è riproposta per l'ennesima volta quella che io chiamo la "questione Kojima".
+Visto che è appena uscito il [trailer State of Play di **Death Stranding 2**](https://www.youtube.com/watch?v=6cs-A1rNvEE), che personalmente ho trovato meraviglioso (d'altronde [ho amato un sacco il primo DS](/posts/death-stranding-recensione/)), ho notato che nel web si è riproposta per l'ennesima volta quella che io chiamo la "questione Kojima".
 
 ### Hideo Kojima è sopravvalutato e i suoi fan si berrebbero qualsiasi cosa!
 
@@ -26,7 +26,7 @@ Questo per dire che l'ascolto di _Yellow Submarine_ potrà pure farmi venire le 
 
 Forse no, ma ragioniamo un attimo sulla sua carriera: 
 
-Nel 1987, con il primo _Metal Gear_, Kojima definì il canone per il videogame Stealth inserendo una narrazione all'interno di un videogame che avrebbe pure potuto farne a meno (ne parlavo [nel post su Palworld](/posts/ita/palworld))
+Nel 1987, con il primo _Metal Gear_, Kojima definì il canone per il videogame Stealth inserendo una narrazione all'interno di un videogame che avrebbe pure potuto farne a meno (ne parlavo [nel post su Palworld](/posts/palworld))
 
 Da lì in poi, tutti i suoi lavori successivi furono caratterizzati da un fortissimo taglio cinematografico che "rubava" a più non posso dal cinema (vedi _Snatcher_ e _Policenauts_). 
 

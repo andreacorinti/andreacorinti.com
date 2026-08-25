@@ -8,7 +8,7 @@ date: 2025-12-17
 lang: it-IT
 ---
 
-[_**Novembre 2025**_](/posts/ita/disco-del-mese-11-2025)
+[_**Novembre 2025**_](/posts/disco-del-mese-11-2025)
 
 Due anni di fila!
 
@@ -66,4 +66,4 @@ serve essere un po' nel mood, ma vanno senz'altro tenuti d'occhio per il futuro.
 
 Tracce preferite: _Pakten_ e _Sol_
 
-[_**Gennaio 2026**_](/posts/ita/2026-01-disco-del-mese)
+[_**Gennaio 2026**_](/posts/2026-01-disco-del-mese)

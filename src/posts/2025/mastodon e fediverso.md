@@ -28,7 +28,7 @@ a tal proposito, consiglio questo [bel post](https://goto.casasnow.noho.st/@snow
 
 In tutto ciò, dando un'occhiata a [FediDB](https://fedidb.com/software), si può notare quanto **i numeri schiaccianti della piattaforma di Eugen Rochko risultino assolutamente sproporzionati** anche solo rispetto all'attuale seconda (Misskey), figuriamoci col resto.
 
-Ancor di più, l'istanza "primogenia" di mastodon (la solita [mastodon.social di cui parlavo qualche giorno fa](/posts/ita/mastodon-social)) di fatto occupa da sola buona parte dell'intero ecosistema...almeno, senza considerare Threads e Bluesky ovviamente.
+Ancor di più, l'istanza "primogenia" di mastodon (la solita [mastodon.social di cui parlavo qualche giorno fa](/posts/mastodon-social)) di fatto occupa da sola buona parte dell'intero ecosistema...almeno, senza considerare Threads e Bluesky ovviamente.
 
 ### Che problema c'è con mastodon.social?
 
@@ -64,7 +64,7 @@ Non proprio, perché comunque lo sviluppo del software, le risorse [della fondaz
 
 **se mastodon e mastodon.social prendono una scelta, contrastarla o anche solo ignorarla può diventare molto complicato per tutto il Fediverso.**
 
-vedi la questione [Threads](/posts/ita/threads-e-mastodon) o chiedere al buon [Elvecio](https://wizard.casa/@elvecio) che spesso lo ribadisce col discorso CW 😄
+vedi la questione [Threads](/posts/threads-e-mastodon) o chiedere al buon [Elvecio](https://wizard.casa/@elvecio) che spesso lo ribadisce col discorso CW 😄
 
 ### Quindi non si scappa dal centralizzatore di turno
 

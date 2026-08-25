@@ -8,7 +8,7 @@ date: 2024-05-24
 lang: it-IT
 ---
 
-[_**Aprile 2024**_](/posts/ita/disco-del-mese-04-2024)
+[_**Aprile 2024**_](/posts/disco-del-mese-04-2024)
 
 ## Sebastian Bach - Child Within the Man
 
@@ -66,4 +66,4 @@ Poweroni canadesi molto classici, forse un pelo meno esagitati e tamarri dei col
 
 Interessante anche l'approccio sci-fi (sottolineato da abbondanti synth): _Buried in Code_ potrebbe essere l'inno di diversi programmatori e non avrebbe stonato in _Dark Connection_ dei Beast in Black.
 
-[_**Giugno 2024**_](/posts/ita/disco-del-mese-06-2024)
+[_**Giugno 2024**_](/posts/disco-del-mese-06-2024)

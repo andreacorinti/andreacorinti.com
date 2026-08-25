@@ -40,7 +40,7 @@ Penso che tutti i videogiocatori[^videogiocatori] più o meno incalliti abbiano 
 
 [^videogiocatori]: io li chiamo ancora così, sarà perché sono figlio delle riviste ma _gamer_ è un termine che ho sempre detestato in allegria
 
-Il sottoscritto per esempio ha finalmente divorato lo splendido _Dark Souls 3_, si è tuffato nel controverso [_Cyberpunk 2077_](/posts/ita/cyberpunk-2077/) e tolto vari sfizi rimpinguando la sua già ghiotta libreria Steam.
+Il sottoscritto per esempio ha finalmente divorato lo splendido _Dark Souls 3_, si è tuffato nel controverso [_Cyberpunk 2077_](/posts/cyberpunk-2077/) e tolto vari sfizi rimpinguando la sua già ghiotta libreria Steam.
 
 Poi ad un certo punto mi sono fermato, **ragionando sulle mie crisi da ["hikikomori"](https://it.wikipedia.org/wiki/Hikikomori) vissute durante l'adolescenza**, su quanto in un certo senso all'improvviso ci ritrovassimo tutti costretti alla condizione da [_Welcome to the NHK_](https://it.wikipedia.org/wiki/Welcome_to_the_NHK) che alcune persone già vivevano abitualmente...
 

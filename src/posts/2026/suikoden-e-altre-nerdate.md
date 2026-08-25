@@ -59,7 +59,7 @@ Poi cosette sparse:
 
 Avendo ribeccato la combriccola genovese, dopo mesi e mesi finalmente sono tornato al cinema!
 
-- De **_L'Odissea_** di Nolan ho già detto [nell'ultimo post prima di questo](/posts/ita/odissea-nolan/), fantastico!
+- De **_L'Odissea_** di Nolan ho già detto [nell'ultimo post prima di questo](/posts/odissea-nolan/), fantastico!
 
 - L'ultimo **_Spiderman_**, anche qui agevolo misskey che facciam prima: 
 

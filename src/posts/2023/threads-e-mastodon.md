@@ -85,7 +85,7 @@ Quindi, un _e-penis_ più grosso.
 
 Fun fact: 
 
-personalmente, credo che il fediverso sia uno dei pochi angoli del web dove ho potuto comunicare più agevolmente con ispanofonɜ, anglofonɜ e grecofonɜ, ottenendo qualche scambio con persone da istanze di tutto il mondo [(vedi anche questo post)](/posts/eng/fediverse-languages).
+personalmente, credo che il fediverso sia uno dei pochi angoli del web dove ho potuto comunicare più agevolmente con ispanofonɜ, anglofonɜ e grecofonɜ, ottenendo qualche scambio con persone da istanze di tutto il mondo [(vedi anche questo post)](/posts/fediverse-languages).
 
 In precedenza, mi era capitato (molto più occasionalmente) solo su Twitter prima che andasse in vacca: 
 

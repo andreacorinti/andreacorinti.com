@@ -12,7 +12,7 @@ lang: it-IT
 
 Siccome in queste ore l'Italia trabocca di Kingmaker per il Quirinale, mi sono ricordato di inserire qui la piccola recensione che ho fatto su _Pathfinder: Kingmaker_ [su steam](https://steamcommunity.com/id/xabaras89/recommended/640820/).
 
-Lo so, lo so: [le recensioni hanno rotto le balle pure a me](/posts/ita/no-recensioni/), però se ogni tanto vengono mi pare giusto metterle anche qui visto che questo spazio è una specie di archivio delle cose che ho scritto in rete. 
+Lo so, lo so: [le recensioni hanno rotto le balle pure a me](/posts/no-recensioni/), però se ogni tanto vengono mi pare giusto metterle anche qui visto che questo spazio è una specie di archivio delle cose che ho scritto in rete. 
 
 ## Recensione
 

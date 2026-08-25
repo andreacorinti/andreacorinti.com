@@ -8,7 +8,7 @@ date: 2024-09-24
 lang: it-IT
 ---
 
-[_**Agosto 2024**_](/posts/ita/disco-del-mese-08-2024)
+[_**Agosto 2024**_](/posts/disco-del-mese-08-2024)
 
 Questo settembre è stato incredibilmente ricco di uscite fantastiche: alcune le aspettavo da tempo, altre mi sono capitate all'orecchio per puro caso, ma vabbè tentiamo di fare un summa di tutto.
 
@@ -61,7 +61,7 @@ Non sono un ascolto per tutti i palati, inutile dirlo, ma non suonano davvero co
 
 Ho amato in particolare la chitarra per scelte di riff/assoli ed effettistica e il fatto che si chiamino PAPANGU, ovvero uno dei nomi più belli del mondo.
 
-Ah, mia [vecchia battaglia](/posts/eng/always-english/): oltre al discorso linguistico, anche musicalmente l'essenza brasiliana viene fuori alla grande, contribuendo parecchio al discorso originalità di cui sopra.
+Ah, mia [vecchia battaglia](/posts/always-english/): oltre al discorso linguistico, anche musicalmente l'essenza brasiliana viene fuori alla grande, contribuendo parecchio al discorso originalità di cui sopra.
 
 ### David Gilmour - Luck and Strange
 
@@ -95,6 +95,6 @@ però oh, il disco è molto simpatico e suonato bene!
 
 ### Bonus Track: Ulver - Locusts 
 
-Che dire? Prosegue alla grande il [discorso di Luglio](/posts/ita/disco-del-mese-07-2024/) con l'aggiunta di _Locusts_ che è un'altra traccia megagalattica. Nel dubbio, basta ascoltare tutto ciò che Kristoffer Rygg caccia fuori per essere felici.
+Che dire? Prosegue alla grande il [discorso di Luglio](/posts/disco-del-mese-07-2024/) con l'aggiunta di _Locusts_ che è un'altra traccia megagalattica. Nel dubbio, basta ascoltare tutto ciò che Kristoffer Rygg caccia fuori per essere felici.
 
-[_**Ottobre 2024**_](/posts/ita/disco-del-mese-10-2024)
+[_**Ottobre 2024**_](/posts/disco-del-mese-10-2024)

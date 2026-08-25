@@ -34,7 +34,7 @@ Ma vabbè, sto divangando, come al solito!
 
 presto detto: 
 
-visto che ero troppo stanco per il remake di _Resident Evil 2_ ed era un bel po' che non la riprendevo, mi sono messo a spulciare il vasto catalogo della meravigliosa [Miyoo Mini Plus](http://localhost:8080/posts/ita/miyoo-mini-plus-2/).
+visto che ero troppo stanco per il remake di _Resident Evil 2_ ed era un bel po' che non la riprendevo, mi sono messo a spulciare il vasto catalogo della meravigliosa [Miyoo Mini Plus](http://localhost:8080/posts/miyoo-mini-plus-2/).
 
 Bene, aldilà del discorso fatto poco fa, ammetto che ho sempre nutrito un certo gusto squisitamente ludico-meccanico per Poker e Black Jack (no, per le squillo di lusso no), sopratutto il Poker:
 

@@ -10,7 +10,7 @@ lang: it-IT
 
 Ogni tanto, mi devo smentire e cambiare idea. 
 
-Quando uscì il live action di Cowboy Bebop, buttai giù [due righe](/posts/ita/cowboy-bebop-liveaction) che tra le altre cose dicevano questo:
+Quando uscì il live action di Cowboy Bebop, buttai giù [due righe](/posts/cowboy-bebop-liveaction) che tra le altre cose dicevano questo:
 
 _Penso che riciclerò questo post in tutte le occasioni in cui qualcuno mi chiederà "hai visto il live action di x ?" 
 In quella x ci potete mettere quasi tutti i live action: quelli prodotti dalla Disney, la farina del sacco nipponico, alcuni adattamenti fumettistici_ 
@@ -21,7 +21,7 @@ E per fortuna, visto che mi è piaciuto da matti!
 
 ## Perché hai deciso di guardarlo? Dici sempre che i live action ti fanno schifo!
 
-Perché per One Piece ho un debole difficile da spiegare (un po' ne avevo già parlato [qui](/posts/ita/one-piece)). 
+Perché per One Piece ho un debole difficile da spiegare (un po' ne avevo già parlato [qui](/posts/one-piece)). 
 
 Perché è un manga che mi porto dietro da più di vent'anni. 
 

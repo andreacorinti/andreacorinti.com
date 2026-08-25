@@ -1,5 +1,6 @@
 ---
 layout: postita
+lang: it-IT
 title: "Blog Questions Challenge 2025"
 subtitle: "Like good ol'times!" 
 sommario: "Don't be scared by the length of this post! For convenience, I made it both in Italian and English. "
@@ -55,7 +56,7 @@ It depends on the post: if it's something particularly heartfelt and laborious, 
 
 ### What's your favorite post on your blog?
 
-Eeeh! Difficult to choose, but I'm very fond of [this one](/posts/eng/akira-and-final-fantasy-vii) that puts together Akira and Final Fantasy VII.
+Eeeh! Difficult to choose, but I'm very fond of [this one](/posts/akira-and-final-fantasy-vii) that puts together Akira and Final Fantasy VII.
 
 ### Any future plans for your blog?
 
@@ -91,7 +92,7 @@ Dipende dal post: se è qualcosa di particolarmente sentito e laborioso, aspetto
 
 ### Qual è il tuo post preferito sul tuo blog?
 
-Eeeh! Difficile scegliere, ma sono molto affezionato a [questo](/posts/ita/Akira-e-Final-Fantasy-VII) che mette assieme Akira e Final Fantasy VII.
+Eeeh! Difficile scegliere, ma sono molto affezionato a [questo](/posts/Akira-e-Final-Fantasy-VII) che mette assieme Akira e Final Fantasy VII.
 
 ### Qualche progetto per il futuro del tuo blog?
 

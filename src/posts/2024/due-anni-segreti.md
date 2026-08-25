@@ -8,7 +8,7 @@ date: 2024-11-21
 lang: it-IT
 ---
 
-Sono andato a rileggermi il [post](/posts/ita/un-anno-segreto/) dell'anno scorso prima di buttare giù qualcosa:
+Sono andato a rileggermi il [post](/posts/un-anno-segreto/) dell'anno scorso prima di buttare giù qualcosa:
 
 grossomodo, direi che quanto riportato resta valido anche oggi...con un minimo di disincanto in più, ammettiamolo.
 
@@ -77,7 +77,7 @@ Di mio, **penso che forse servirebbe enfatizzare di più Livello Segreto in quan
 
 ![berlusconi](https://i.makeagif.com/media/8-08-2015/rYjtBw.gif)
 
-In parziale contrasto con quanto appena scritto, **confesso di aver maturato un certo scazzo nel leggere roba che non mi piaceva (soprattutto per i toni con cui veniva scritta)** nonché il reiterato ignorare quel minimo di regole presenti sul server (CW e Alt-Text) o dare la sensazione di "partecipare" solo per tentare di promuovere la propria roba (se ne parlava [qui](/posts/ita/account-collettivo/)). 
+In parziale contrasto con quanto appena scritto, **confesso di aver maturato un certo scazzo nel leggere roba che non mi piaceva (soprattutto per i toni con cui veniva scritta)** nonché il reiterato ignorare quel minimo di regole presenti sul server (CW e Alt-Text) o dare la sensazione di "partecipare" solo per tentare di promuovere la propria roba (se ne parlava [qui](/posts/account-collettivo/)). 
 
 Da fine ottobre, ho ripulito un po' la lista di chi seguo per avere una home il più possibile fatta su misura per me e composta principalmente da persone con cui interagisco. 
 
@@ -86,7 +86,7 @@ Certo: la cosa è proprio l'antitesi del discorso comunitario che dovrebbe sempr
 1. gestisco solo me stesso
 2. sono ossessionato dal tempo e da come lo spendo
 
-personalmente ho deciso di rinchiudermi ancora di più nella mia simpatica bollicina (vedi anche questo [post](/posts/ita/torre-d-avorio/))
+personalmente ho deciso di rinchiudermi ancora di più nella mia simpatica bollicina (vedi anche questo [post](/posts/torre-d-avorio/))
 
 Cito uno stralcio di quanto ho scritto il mese scorso con privacy lucchettata (solo follower): 
 

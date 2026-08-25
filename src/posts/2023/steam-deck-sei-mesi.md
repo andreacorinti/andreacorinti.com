@@ -10,7 +10,7 @@ lang: it-IT
 
 [artwork di ExxIon](https://www.reddit.com/r/Steam/comments/tvofg5/steam_deck_pixel_art_i_made_this_a_few_days_ago/)
 
-Sono un felice possessore di Steam Deck [dallo scorso ottobre](/posts/ita/steam-deck) e, sebbene causa vita e lavoro i miei tempi di gioco si siano estremamente ridotti (una media di un'oretta ogni due settimane o giù di lì...) direi che dopo più di sei mesi posso fare un bilancio più concreto di quella che è diventata a tutti gli effetti la mia unica piattaforma di gioco.
+Sono un felice possessore di Steam Deck [dallo scorso ottobre](/posts/steam-deck) e, sebbene causa vita e lavoro i miei tempi di gioco si siano estremamente ridotti (una media di un'oretta ogni due settimane o giù di lì...) direi che dopo più di sei mesi posso fare un bilancio più concreto di quella che è diventata a tutti gli effetti la mia unica piattaforma di gioco.
 
 ## Dock 
 
@@ -52,7 +52,7 @@ Detta così potrebbe sembrare una fregatura, ma si ritorna al discorso che facev
 
 Non sappiamo ancora come si comporterà la macchina di Valve con i titoli di prossima generazione, ed è lecito aspettarsi inevitabili problemi per i videogiochi più _ciccioni_ in programma ma, al tempo stesso, come è accaduto con la Switch penso che molti sviluppatori debbano tenere altamente in considerazione il fattore scalabilità:
 
-l'hardware è importante, ma come _Zelda: Breath of Wild_ ci insegna un gioco lascia il segno per la sua resa d'insieme e per come è capace di sfruttarlo tenendo in considerazione quei limiti che, [come diceva il maestro Nobuo Uematsu](/posts/ita/nobuo-uematsu-e-la-bellezza-dei-limiti/), rappresentano un incentivo naturale per la creatività.
+l'hardware è importante, ma come _Zelda: Breath of Wild_ ci insegna un gioco lascia il segno per la sua resa d'insieme e per come è capace di sfruttarlo tenendo in considerazione quei limiti che, [come diceva il maestro Nobuo Uematsu](/posts/nobuo-uematsu-e-la-bellezza-dei-limiti/), rappresentano un incentivo naturale per la creatività.
 
 ## Considerazioni
 

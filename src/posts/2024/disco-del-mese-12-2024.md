@@ -8,7 +8,7 @@ date: 2024-12-18
 lang: it-IT
 ---
 
-[_**Novembre 2024**_](/posts/ita/disco-del-mese-11-2024)
+[_**Novembre 2024**_](/posts/disco-del-mese-11-2024)
 
 _(questo mese per forza di cose chiudiamo con un po' di anticipo, al massimo si recupera il prossimo gennaio)_
 
@@ -44,7 +44,7 @@ Prodotto bene con riff ispirati e scelte vocali originali, Munoz ha una teatrali
 
 ### Ollie T - Lost Within the Fire
 
-Debutto solista per il chitarrista degli amati Poets of the Fall, gruppo che ci ha regalato dischi stratosferici (e personalmente un [live](/posts/ita/poets-of-the-fall-in-italia-resoconto/) che ricordo con tanto amore) ma che negli ultimi anni mi sembra essersi un po' perso, anche se la loro presenza in _Alan Wake 2_ mi dicono sia una specie di capolavoro (vedremo).
+Debutto solista per il chitarrista degli amati Poets of the Fall, gruppo che ci ha regalato dischi stratosferici (e personalmente un [live](/posts/poets-of-the-fall-in-italia-resoconto/) che ricordo con tanto amore) ma che negli ultimi anni mi sembra essersi un po' perso, anche se la loro presenza in _Alan Wake 2_ mi dicono sia una specie di capolavoro (vedremo).
 
 Partiamo subito con l'ovvio: è un disco di un chitarrista, per altro molto bravo, quindi ci sono un sacco di _pippe_.
 
@@ -68,4 +68,4 @@ Nuovo lavoro del progetto dark ambient / neo folk dello svedese L. Swärd: non �
 
 In particolare, le melodie di _Jord_ mi sono piaciute un botto!
 
-[_**Gennaio 2025**_](/posts/ita/disco-del-mese-01-2025)
+[_**Gennaio 2025**_](/posts/disco-del-mese-01-2025)

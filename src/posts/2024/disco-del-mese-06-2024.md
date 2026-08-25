@@ -8,7 +8,7 @@ date: 2024-06-24
 lang: it-IT
 ---
 
-[_**Maggio 2024**_](/posts/ita/disco-del-mese-05-2024)
+[_**Maggio 2024**_](/posts/disco-del-mese-05-2024)
 
 ## Lindsey Stirling - Duality
 
@@ -82,4 +82,4 @@ Insomma: _Are You Entertained?_
 
 Sì!
 
-[_**Luglio 2024**_](/posts/ita/disco-del-mese-07-2024)
+[_**Luglio 2024**_](/posts/disco-del-mese-07-2024)

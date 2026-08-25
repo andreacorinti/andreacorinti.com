@@ -72,7 +72,7 @@ Posso dirmi complessivamente molto contento, e da qualche mese ho notato un paio
 
 La cosa che mi ha davvero stupito?
 
-Anche il mio [megapostone su _Metaphor: ReFantazio_](/posts/ita/Metaphor-Refantazio) è stato cagato _pochissimo_!
+Anche il mio [megapostone su _Metaphor: ReFantazio_](/posts/Metaphor-Refantazio) è stato cagato _pochissimo_!
 
 Intendiamoci:
 
@@ -97,7 +97,7 @@ per dire, io:
 - detesto i giochi online
 - non gioco a sparatutto da quando hanno conosciuto l'alta definizione
 - difficilmente impazzisco per i giochi d'azione
-- ho mollato [Elden Ring](/posts/ita/elden-ring/)
+- ho mollato [Elden Ring](/posts/elden-ring/)
 - gioco poco, e tendenzialmente mi sparo giusto indie o vado di retrogame (specie Final Fantasy, ça va sans dire)
 - gioco solo su Steam Deck
 
@@ -111,7 +111,7 @@ Non solo:
 
 per intenderci, se nella timeline mi salta fuori un link a Polygon, IGN, Multiplayer e compagnia cantante io me lo salto a piè pari.
 
-**Mi piace leggere post personali e sentiti (posto che il gioco in questione mi possa interessare)**, o al massimo le recensioni su Steam...È un discorso che [ho già affrontato](/posts/ita/account-collettivo/) nel dettaglio qualche mese fa.
+**Mi piace leggere post personali e sentiti (posto che il gioco in questione mi possa interessare)**, o al massimo le recensioni su Steam...È un discorso che [ho già affrontato](/posts/account-collettivo/) nel dettaglio qualche mese fa.
 
 ah, e come potete notare da questo post sono l'esatto opposto del famigerato TL;DR (_Too Long; Didn't Read_ - ennesimo orrido acronimo anglofono): 
 

@@ -8,7 +8,7 @@ date: 2025-02-27
 lang: it-IT
 ---
 
-[_**Gennaio 2025**_](/posts/ita/disco-del-mese-01-2025)
+[_**Gennaio 2025**_](/posts/disco-del-mese-01-2025)
 
 Lasciamoci alle spalle un Sanremo orrendo (in cui mio malgrado ho dovuto rivalutare Fedez...) e andiamo alla mia solita rassenga di dischi del mese, con in cima un meraviglioso figlio di Scozia...
 
@@ -114,4 +114,4 @@ Al solito, anche se ho più di qualche remora morale a riguardo, ho un debole pe
 
 Molto colpito in particolare dall'ultima traccia, _Maniacs And Madmen_! 
 
-[_**Marzo 2025**_](/posts/ita/disco-del-mese-03-2025)
+[_**Marzo 2025**_](/posts/disco-del-mese-03-2025)

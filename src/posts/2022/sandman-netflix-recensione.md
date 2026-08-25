@@ -10,8 +10,8 @@ lang: it-IT
 
 Per le puntate precedenti:
 
-* [Previsioni](/posts/ita/sandman-netflix/)
-* [Episodio 1](/posts/ita/sandman-netflix-episodio-1/)
+* [Previsioni](/posts/sandman-netflix/)
+* [Episodio 1](/posts/sandman-netflix-episodio-1/)
 
 Diciamolo subito: superato il primo tiepido episodio, direi che c'è stato un netto miglioramento nella serie: 
 

@@ -19,8 +19,8 @@ Per prima cosa, un mio breve e incompleto recap videoludico:
 - PlayStation 2
 - PC (da qui in poi ovunque)
 - PlayStation 3 (ma l'ha sfruttata - e la sfrutta tuttora - più che altro mio fratello)
-- [Steam Deck](/posts/ita/steam-deck/)
-- [Miyoo Mini Plus](/posts/ita/miyoo-mini-plus-2/)
+- [Steam Deck](/posts/steam-deck/)
+- [Miyoo Mini Plus](/posts/miyoo-mini-plus-2/)
 - Nintendo Switch 2
 
 In mezzo più che altro hanno dominato vari PC (principalmente portatili) che però da anni uso principalmente per lavoro, bloggare e un po' tutto, anzi sul Lenovo Legion che ho preso lo scorso dicembre (piazzandoci sopra l'ottimo Linux Mint) ho installato Steam solo per sport, perché da quando nel 2022 è arrivata la Steam Deck non concepisco altri modi di videogiocare che non siano handheld!
@@ -59,7 +59,7 @@ Ora, chiaramente pure Nintendo è parte in causa del discorso e mediamente l'eve
 
 Però è anche vero che se prendo in prestito da mio fratello un gioco per la Switch 1 comprato 6 anni fa la Switch 2 _me lo fa partire_.
 
-Che se tra qualche mese gliene dovessi regalare una, potrei pure dargli il mio Pokopia visto che, [come si diceva qui](/posts/ita/Pokopia/), oramai con me prenderà polvere.
+Che se tra qualche mese gliene dovessi regalare una, potrei pure dargli il mio Pokopia visto che, [come si diceva qui](/posts/Pokopia/), oramai con me prenderà polvere.
 
 Che da non collezionista, tornare a prendere in mano la cassettina di un gioco con tutta la ritualità del caso mi ha comunque emozionato.
 

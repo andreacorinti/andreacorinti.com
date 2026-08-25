@@ -8,7 +8,7 @@ date: 2025-03-31
 lang: it-IT
 ---
 
-[_**Febbraio 2025**_](/posts/ita/disco-del-mese-02-2025)
+[_**Febbraio 2025**_](/posts/disco-del-mese-02-2025)
 
 Allora...questo marzo l'ho passato a zonzo per l'Italia e i pochi ascolti che mi sono concesso sono stati prevalentemente di dischi usciti già da un bel po'.
 
@@ -28,4 +28,4 @@ Ma sì dai, ci ho ripensato: buttiamocelo sto disco del mese dai!
 
 ![Arch Enemy - Blood Dynasty album cover](https://lastfm.freetls.fastly.net/i/u/770x0/879c315d8b839ad21109c31ad54a5932.jpg)
 
-[_**Aprile 2025**_](/posts/ita/disco-del-mese-04-2025)
+[_**Aprile 2025**_](/posts/disco-del-mese-04-2025)

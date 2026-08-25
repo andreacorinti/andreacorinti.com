@@ -8,7 +8,7 @@ date: 2026-04-27
 lang: it-IT
 ---
 
-[_**Marzo 2026**_](/posts/ita/2026-03-disco-del-mese)
+[_**Marzo 2026**_](/posts/2026-03-disco-del-mese)
 
 Aprile per me lo vincono i Miserere Luminis con Sidera, Black metal atmosferico e francofono (ma dal Québec!)
 
@@ -28,7 +28,7 @@ Purtroppo è l'ultimo disco della band di Nate Garrett che ha evidentemente deci
 
 ![Green Carnation - A Dark Poem, Part II: Sanguis](https://f4.bcbits.com/img/a3736480861_1x1_700.avif)
 
-[Lo scorso settembre](/posts/ita/disco-del-mese-09-2025/) sono impazzito talmente tanto con la parte I del progetto che mi sono accaparrato il vinilone rosso, e un insano spirito completista mi vorrebbe naturalmente portarmi a comprare pure questo...
+[Lo scorso settembre](/posts/disco-del-mese-09-2025/) sono impazzito talmente tanto con la parte I del progetto che mi sono accaparrato il vinilone rosso, e un insano spirito completista mi vorrebbe naturalmente portarmi a comprare pure questo...
 
 Che per inciso è un altro disco bellissimo, anche se al momento ha fatto meno click (ma forse devo essere nella fase giusta)
 
@@ -44,7 +44,7 @@ Southern goth post rock dalla Svezia bello disperato ed evocativo, con bel vocio
 
 ![Crippled Black Phoenix - Sceaduhelm](https://f4.bcbits.com/img/a1017352535_1x1_700.avif)
 
-[Due anni dopo](/posts/ita/disco-del-mese-11-2024/) rieccoci col post rock gothicone!
+[Due anni dopo](/posts/disco-del-mese-11-2024/) rieccoci col post rock gothicone!
 
 Ho amato davvero molto _No Epitaph / The Precipice_, apprezzato _Vampire Grave_ e _Under the Eye_ e più generalmente tutto il disco, anche se personalmente lo trovo lontano dalle vette raggiunte da _The Wolf Changes Its Fur But Not Its Nature_:
 
@@ -70,4 +70,4 @@ Probabilmente sentirli live con una buona dose di birrette annesse!
 
 Chiudiamo con un'altra segnalazione di Zel (che più o meno ha segnalato tutti i dischi di questo post!) e dopo tanto mettiamo in rubrica un bel disco punkettone vecchia scuola con un po' da Misftis periodo Graves, elementi da country che farebbero contenti i Social Distortion e un approccio generale che mi ha ricordato qualcosa dei T.S.O.L (io ascolto poco punk, ma quello che mi piace di solito suona così)
 
-[_**Maggio 2026**_](/posts/ita/2026-05-disco-del-mese)
+[_**Maggio 2026**_](/posts/2026-05-disco-del-mese)

@@ -8,7 +8,7 @@ date: 2024-02-29
 lang: it-IT
 ---
 
-[_**Gennaio 2024**_](/posts/ita/disco-del-mese-01-2024)
+[_**Gennaio 2024**_](/posts/disco-del-mese-01-2024)
 
 ## Borknagar - Fall
 
@@ -30,7 +30,7 @@ Tanto amore davvero: non fosse stato per i Borknagar sarebbe stato sicuramente i
 
 ### Hazbin Hotel Original Soundtrack
 
-Vedi anche [il mio post su Hazbin Hotel](/posts/ita/hazbin-hotel).
+Vedi anche [il mio post su Hazbin Hotel](/posts/hazbin-hotel).
 
 Beh che dire? La colonna sonora di questo gioiellino dell'animazione è senza dubbio uno dei suoi punti di forza, quindi non potevo non ricicciarlo fuori pure qua.
 
@@ -42,4 +42,4 @@ Progressive death metal da Andorra (!) li devo tenere d'occhio perché sono inte
 
 A parte la sanremese _Tuta Gold_ (come dicevo già da Sanremo è un pezzone da pop internazionale, e i numeri mi stanno dando ragione) non mi ha preso molto, ma ci sono alcune cose che vorrei riascoltare per benino (e mi ero ripromesso di includere almeno un disco sanremese da queste parti)
 
-[_**Marzo 2024**_](/posts/ita/disco-del-mese-03-2024)
+[_**Marzo 2024**_](/posts/disco-del-mese-03-2024)

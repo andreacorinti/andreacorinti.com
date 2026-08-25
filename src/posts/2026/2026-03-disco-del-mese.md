@@ -8,7 +8,7 @@ date: 2026-03-26
 lang: it-IT
 ---
 
-[_**Febbraio 2026**_](/posts/ita/2026-02-disco-del-mese)
+[_**Febbraio 2026**_](/posts/2026-02-disco-del-mese)
 
 Molti di questi dischi in realtà sono usciti a febbraio, ma come dicevo il mese scorso per me è stato monopolizzato dagli Hällas quindi un recuperone mischione era d'obbligo!
 
@@ -76,4 +76,4 @@ Bei riff qui e la, buona produzione, vociona interessante (non prettamente il mi
 
 Live comunque me li sparerei molto volentieri dovessi dire 😌
 
-[_**Aprile 2026**_](/posts/ita/2026-04-disco-del-mese)
+[_**Aprile 2026**_](/posts/2026-04-disco-del-mese)

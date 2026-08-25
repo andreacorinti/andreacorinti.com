@@ -10,7 +10,7 @@ lang: it-IT
 
 Disincanto è finito, ma soprattutto ha compiuto la bellezza di cinque anni e personalmente ho fatto fatica a rendermene conto:
 
-forse perché, banalmente, i fratelloni Futurama e Simpson vivono e lottano assieme a noi da svariati decenni (nel caso di Futurama, con varie morti e resurrezioni come [già dicevamo qui](/posts/ita/futurama)) oppure perché a causa della pandemia c'è sempre la vaga sensazione di essersi persi un paio d'anni per strada.
+forse perché, banalmente, i fratelloni Futurama e Simpson vivono e lottano assieme a noi da svariati decenni (nel caso di Futurama, con varie morti e resurrezioni come [già dicevamo qui](/posts/futurama-2023)) oppure perché a causa della pandemia c'è sempre la vaga sensazione di essersi persi un paio d'anni per strada.
 
 Nella mia testa, sembra sempre un cartone animato uscito da molto meno tempo.
 

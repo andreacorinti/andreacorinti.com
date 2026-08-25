@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="{%- if lang -%}{{ lang }}{%- else -%}it{%- endif -%}">
-{%- set pageTitle %}{% if title %}{{ title }} | {% endif %}{{ meta.siteName }}{% endset -%}
-{%- set pageOgTitle %}{% if title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %}{% endset -%}
+{# seoTitle overrides `title` for <title>/og:title/twitter:title only —
+   for pages where `title` is also rendered as visible content (e.g. the
+   resume's H1 is the person's name), seoTitle lets the browser-tab/SERP
+   title differ from that without changing the visible page. #}
+{%- set effectiveTitle %}{% if seoTitle %}{{ seoTitle }}{% else %}{{ title }}{% endif %}{% endset -%}
+{%- set pageTitle %}{% if effectiveTitle %}{{ effectiveTitle }} | {% endif %}{{ meta.siteName }}{% endset -%}
+{%- set pageOgTitle %}{% if effectiveTitle %}{{ effectiveTitle }}{% else %}{{ meta.siteName }}{% endif %}{% endset -%}
 {%- set pageDescription %}{% if sommario %}{{ sommario }}{% elif description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
 {# Pages without their own `immagine` fell back to /previews/{slug}.png,
    a path nothing in this project ever generates — a permanently-broken
@@ -39,8 +44,35 @@
     <meta property="og:image" content="{{ socialImage }}" />
     <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
     <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="{{ meta.siteName }}" />
 
     <meta name="fediverse:creator" content="@Xabacadabra@social.andreacorinti.com">
+
+    {# There's a footballer with the same name; this Person entity with
+       sameAs links to verified profiles is the standard signal for search
+       engines to tell the two apart, rather than relying on text alone. #}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Andrea Corinti",
+      "alternateName": "Xab",
+      "url": "{{ meta.url }}",
+      "image": "{{ meta.url }}/img/avatar3.jpg",
+      "jobTitle": "Web Editor",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Edizioni Edilingua"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/andrea-corinti/",
+        "https://misskey.social/@xabacadabra",
+        "https://www.instagram.com/xabacadabra/",
+        "https://x.com/XabCorinti",
+        "https://github.com/andreacorinti"
+      ]
+    }
+    </script>
 
     <link
       rel="alternate"

@@ -42,11 +42,11 @@ Non per niente, la storia è piena di imitatori di quello stile più o meno deme
 
 Tutto questo per dire quanto tutti noi dovremmo tenere conto delle difficoltà che tornare sulla saga dopo tanti anni ha certamente comportato. 
 
-Detto ciò, vorrei però spezzare diverse lance a favore dei critici (ovviamente quelli seri e pacati, non i pazzi che insultano o minacciano), discorso che parzialmente ho affrontato parlando anche dei famigerati [nostalgia-fag](/posts/ita/nostalgia-fag):
+Detto ciò, vorrei però spezzare diverse lance a favore dei critici (ovviamente quelli seri e pacati, non i pazzi che insultano o minacciano), discorso che parzialmente ho affrontato parlando anche dei famigerati [nostalgia-fag](/posts/nostalgia-fag):
 
 **Gilbert era perfettamente consapevole di quello a cui sarebbe andato incontro realizzando _Return_.**
 
-Del resto, giusto qualche anno fa realizzò egli stesso una sorta di (ottima) operazione nostalgia con l'ottimo [_Thimbleweed Park_](/posts/ita/thimbleweed-park).
+Del resto, giusto qualche anno fa realizzò egli stesso una sorta di (ottima) operazione nostalgia con l'ottimo [_Thimbleweed Park_](/posts/thimbleweed-park).
 
 Questo significa che la scelta grafica e l'approccio generale avuto con _Return_ non potevano non aver messo in conto tutto il vespaio che sarebbe andato a generarsi e, pur amandolo, ammetto che alcune dichiarazioni di Ron non mi sono piaciute molto.
 
@@ -72,7 +72,7 @@ Dicevo all'inizio che mi stavo mentalmente preparando a scrivere un post negativ
 
 Credo sia la prima volta che mi capita di vedere qualcosa di così squistamente nostalgico unito ad un'opera veramente nuova: 
 
-qui per intenderci non vale il discorso del buon [Pillars of Eternity](/posts/ita/pillars-of-eternity), non c'è un mero _scimmiottamento_ (pun intended) dei classici, c'è un nuovo metro di paragone per le moderne Avventure Grafiche, un gioco concepito tenendo a mente i classici enigmi tanto quanto una perfetta performance e la compatibilità con sistemi come la Nintendo Switch o altre console.
+qui per intenderci non vale il discorso del buon [Pillars of Eternity](/posts/pillars-of-eternity), non c'è un mero _scimmiottamento_ (pun intended) dei classici, c'è un nuovo metro di paragone per le moderne Avventure Grafiche, un gioco concepito tenendo a mente i classici enigmi tanto quanto una perfetta performance e la compatibilità con sistemi come la Nintendo Switch o altre console.
 
 Return of Monkey Island è un terzo capitolo perfetto proprio perché non ha fatto la scelta "facile" sedendosi sui vecchi SCUMM e grafiche retrò come sarebbe stato in suo pieno diritto.
 
@@ -80,8 +80,8 @@ Return of Monkey Island è un terzo capitolo perfetto proprio perché non ha fat
 
 ![elaine](https://returntomonkeyisland.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F10.0701842a.png&w=1920&q=75)
 
-Non saprei dire se mi è piaciuto, lo confesso: di sicuro non mi ha deluso e per molti aspetti un po' me l'aspettavo: è un sapore dolceamaro e consapevole di esserlo, per tanti motivi per me stretto parente di quello di [Thimbleweed Park](/posts/ita/thimbleweed-park).
+Non saprei dire se mi è piaciuto, lo confesso: di sicuro non mi ha deluso e per molti aspetti un po' me l'aspettavo: è un sapore dolceamaro e consapevole di esserlo, per tanti motivi per me stretto parente di quello di [Thimbleweed Park](/posts/thimbleweed-park).
 
 ## Aveva ragione Gilbert
 
-Alla fine, mi sono ritrovato nella situazione di cui ciarlavo con [l'adattamento Netflix di _Sandman_](/posts/ita/sandman-netflix-recensione/): quella famosa autorialità che non ti dà quello che vorresti, ma quello che nemmeno tu sai di volere.
+Alla fine, mi sono ritrovato nella situazione di cui ciarlavo con [l'adattamento Netflix di _Sandman_](/posts/sandman-netflix-recensione/): quella famosa autorialità che non ti dà quello che vorresti, ma quello che nemmeno tu sai di volere.

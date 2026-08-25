@@ -8,7 +8,7 @@ date: 2025-11-21
 lang: it-IT
 ---
 
-[_**Ottobre 2025**_](/posts/ita/disco-del-mese-10-2025)
+[_**Ottobre 2025**_](/posts/disco-del-mese-10-2025)
 
 E anche questo mese, il prog metal salverà il mondo!
 
@@ -58,5 +58,5 @@ Bel blackkone italico che mi faceva piacere segnalare visto che l'ho apprezzato 
 
 Da segnalare l'interessante combo con la voce clean di "β" che comunque si lancia spesso e volentieri nei gustosi urlacci che del genere sono croce & delizia.
 
-[_**Dicembre 2025**_](/posts/ita/disco-del-mese-12-2025)
+[_**Dicembre 2025**_](/posts/disco-del-mese-12-2025)
 

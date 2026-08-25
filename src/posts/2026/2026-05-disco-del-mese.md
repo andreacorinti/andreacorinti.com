@@ -8,7 +8,7 @@ date: 2026-06-01
 lang: it-IT
 ---
 
-[_**Aprile 2026**_](/posts/ita/2026-04-disco-del-mese)
+[_**Aprile 2026**_](/posts/2026-04-disco-del-mese)
 
 Devin è tornato!
 
@@ -46,4 +46,4 @@ Anche qui grazie a Efi per la segnalazione di questo bel prog rock ellenico atmo
 
 Grazie a Zel per la segnalazione degli amici portoghesi per questo bel disco melodoom molto interessante e che nella mia testa non può non chiamarsi Cabasisi, _Exhorting Nightmares_ in particolare è proprio un pezzone con ottime intuizioni chitarristiche e sinfoniche, e molto evocativa la canzone in portoghese _À Medida de Damastes_. Disco molto bello in generale!
 
-[_**Giugno 2026**_](/posts/ita/2026-06-disco-del-mese)
+[_**Giugno 2026**_](/posts/2026-06-disco-del-mese)

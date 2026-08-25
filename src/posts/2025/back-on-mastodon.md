@@ -10,17 +10,17 @@ lang: it-IT
 
 ### Fine della Monoistanza
 
-ho deciso di chiudere la mia monoistanzina GoToSocial: mi ci sono trovato benissimo e credo sia stato un esperimento molto figo, ma diciamo che il mio problema è col fediverso nel complesso ([qui](/posts/ita/scadenza-fediverso) avevo già elencato i dettagli) 
+ho deciso di chiudere la mia monoistanzina GoToSocial: mi ci sono trovato benissimo e credo sia stato un esperimento molto figo, ma diciamo che il mio problema è col fediverso nel complesso ([qui](/posts/scadenza-fediverso) avevo già elencato i dettagli) 
 
 ### Ritorno su Mastodon.social 
 
-Mastodon.social mi fa schifo e come [già scrissi](/posts/ita/mastodon%20e%20fediverso/) ho più di qualche problema con Mastodon.
+Mastodon.social mi fa schifo e come [già scrissi](/posts/mastodon%20e%20fediverso/) ho più di qualche problema con Mastodon.
 
 Tuttavia, al momento questo account è la soluzione più pratica per non perdere i contatti che ho in giro e avere occasione di farmi vivo ogni tanto!
 
 ### Bot-umano 
 
-Anche qui, è un discorso [già affrontato](/posts/ita/fediverso-gram/) e mi sto abbastanza sulle palle da solo per aver "ceduto" a questa idea, ma credo sia la soluzione più onesta e comoda: 
+Anche qui, è un discorso [già affrontato](/posts/fediverso-gram/) e mi sto abbastanza sulle palle da solo per aver "ceduto" a questa idea, ma credo sia la soluzione più onesta e comoda: 
 
 continuerò a partecipare come al solito, ma di tanto in tanto probabilmente **il mio account mastodon.social sarà principalmente un Feed RSS + sistema di commenti per questo blog.**
 

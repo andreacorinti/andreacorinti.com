@@ -20,7 +20,7 @@ Per me, è molto complicato parlare di Baldur's Gate III.
 
 ### Perché?
 
-* Da bimbo Baldur's Gate I e (soprattutto) II furono importantissimi nella mia carriera di giocatore: ne parlavo un po' [qualche anno fa.](/posts/ita/baldurs-gate)
+* Da bimbo Baldur's Gate I e (soprattutto) II furono importantissimi nella mia carriera di giocatore: ne parlavo un po' [qualche anno fa.](/posts/baldurs-gate)
 
 * Ho scritto [_Giochi Troppo!_](/projects/giochi-troppo/) e, avendo abbondantemente superato le 100 ore, BG3 è decisamente un titolo che mi ha fatto giocare troppo, portandomi via un sacco di tempo di vita che rimpiangerò di non aver dedicato ad altro...
 
@@ -30,7 +30,7 @@ Per me, è molto complicato parlare di Baldur's Gate III.
 
 Ho qualche remora, ma squisitamente personale:
 
-A parte i vecchi Baldur's Gate, ho amato alla follia Planescape Torment e speso le mie beate ore di gioco nei vari Neverwinter Nights, Icewind Dale e (uscendo dai Forgotten Realms) Kotor, Mass Effect...insomma, fin troppi RPG di matrice Bioware & derivati (vedi anche [Pillars of Eternity](/posts/ita/pillars-of-eternity) o [Pathfinder](/posts/ita/pathfinder)).
+A parte i vecchi Baldur's Gate, ho amato alla follia Planescape Torment e speso le mie beate ore di gioco nei vari Neverwinter Nights, Icewind Dale e (uscendo dai Forgotten Realms) Kotor, Mass Effect...insomma, fin troppi RPG di matrice Bioware & derivati (vedi anche [Pillars of Eternity](/posts/pillars-of-eternity) o [Pathfinder](/posts/pathfinder)).
 
 Questo credo **mi abbia reso piuttosto freddo in un sacco di situazioni da romance e scelte di dialogo:** 
 

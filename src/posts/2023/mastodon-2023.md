@@ -16,7 +16,7 @@ Siccome le "cose dell'internet" mi interessano da sempre, Mastodon mi piace un s
 
 ## Commenti, repliche e precisazioni 
 
-Dico da subito che alla fine del post metterò il link a un toot dove chiunque potrà dire la sua ed evidenziare elementi che ho tralasciato: tenterò di avere un approccio il più possibile neutrale ma, come spiegherò meglio nelle considerazioni sotto, un'opninione me la sono fatta e sicuramente questo post va visto come parziale perché figlio della stessa (ma io sono pur sempre quello dei [_Braccobaldi_](/posts/ita/braccobaldi/), quindi l'oggettività non è di casa da queste parti).
+Dico da subito che alla fine del post metterò il link a un toot dove chiunque potrà dire la sua ed evidenziare elementi che ho tralasciato: tenterò di avere un approccio il più possibile neutrale ma, come spiegherò meglio nelle considerazioni sotto, un'opninione me la sono fatta e sicuramente questo post va visto come parziale perché figlio della stessa (ma io sono pur sempre quello dei [_Braccobaldi_](/posts/braccobaldi/), quindi l'oggettività non è di casa da queste parti).
 
 ## Antefatto: Il brandjacking di Mastodon.uno 
 
@@ -77,7 +77,7 @@ quel difendersi lo metto tra virgolette perché in primis non nutro particolare 
 
 ## Considerazioni
 
-Come molti, Mastodon l'ho fondamentalmente scoperto grazie a mastodon.uno ([qui spiegavo i perché della mia migrazione](/posts/ita/mastodon-migrazione-2/)), mi ci sono trovato bene, ho stretto amicizie e contatti con cui mi fa molto piacere interagire e con cui ho continuato a mantenere un bello scambio pure dopo la mia migrazione grazie alla bellezza del fediverso ([Ciubekka](https://livellosegreto.it/@Lucatermite@mastodon.uno) l'ho pure incontrato dal vivo ad Atene!): 
+Come molti, Mastodon l'ho fondamentalmente scoperto grazie a mastodon.uno ([qui spiegavo i perché della mia migrazione](/posts/mastodon-migrazione-2/)), mi ci sono trovato bene, ho stretto amicizie e contatti con cui mi fa molto piacere interagire e con cui ho continuato a mantenere un bello scambio pure dopo la mia migrazione grazie alla bellezza del fediverso ([Ciubekka](https://livellosegreto.it/@Lucatermite@mastodon.uno) l'ho pure incontrato dal vivo ad Atene!): 
 
 anche per questo, l'idea che per un toot _sbagliato_ potrei venire silenziato e isolato da loro senza alcuna spiegazione mi mette addosso un certo disagio...senza contare i possibili fraintendimenti: 
 
@@ -174,7 +174,7 @@ Una spiegazione grafica qui:
 
 ## Sequel
 
-Visto che questo post stava diventava enorme, la questione è proseguita [qui](/posts/ita/mastodon-uno)
+Visto che questo post stava diventava enorme, la questione è proseguita [qui](/posts/mastodon-uno)
 
 Come detto, per qualsiasi osservazione o commento metto a disposizione questo post:
 

@@ -1,5 +1,5 @@
 ---
-layout: postita
+layout: posteng
 title: "Akira and Final Fantasy VII"
 subtitle: "Of Motorcycles, Atomic Bombs, and Delinquency. And more!"
 sommario: "I've been thinking about this post for about a year, ever since I read for the first time the manga of the masterpiece by Katsuhiro Otomo, after growing up having watched and rewatched the homonymous movie..."
@@ -8,7 +8,7 @@ date: 2023-07-19
 lang: en-US
 ---
 
-_This article was first published on March 14, 2017_ [_and it is also available in Italian._](../../ita/Akira-e-Final-Fantasy-VII/)
+_This article was first published on March 14, 2017_ [_and it is also available in Italian._](../Akira-e-Final-Fantasy-VII/)
 
 **WARNING! In this post, I try not to reveal anything about the plots of the two works in question. That being said, I advise you to continue reading only if you are familiar with both of them!**
 

@@ -8,7 +8,7 @@ date: 2026-01-20
 lang: it-IT
 ---
 
-[_**Dicembre 2025**_](/posts/ita/disco-del-mese-12-2025)
+[_**Dicembre 2025**_](/posts/disco-del-mese-12-2025)
 
 Baro perché metto in cima uno degli inevitabili recuperoni di dicembre: non che il 2026 non sia partito bene eh, ma _The Splintered Oar_ una menzione di merito come se la meritava tutta.
 
@@ -78,4 +78,4 @@ Chitarristicamente molto bello: ci sono momenti che mi hanno ricordato le origin
 
 Produzione un po' troppo sottovuoto e forse avrei gradito un po' di cattiveria in più (secondo me questi sono meglio in live che in studio, a naso), ma bello! _Sole Voyage_ in particolare una chiusa che vale tutto il disco.
 
-[_**Febbraio 2026**_](/posts/ita/2026-02-disco-del-mese)
+[_**Febbraio 2026**_](/posts/2026-02-disco-del-mese)

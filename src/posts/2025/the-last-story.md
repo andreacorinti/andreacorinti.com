@@ -28,7 +28,7 @@ Il canovaccio è dei più classici, con tutti i cliché del caso.
 
 Tuttavia regia, direzione artistica e personaggi hanno quel "qualcosa" di magico che oh, mi conquista ogni santissima volta: 
 
-sono un po' i fattori di cui lamentavo la mancanza in [Metaphor](/posts/ita/Metaphor-Refantazio) per intenderci.
+sono un po' i fattori di cui lamentavo la mancanza in [Metaphor](/posts/Metaphor-Refantazio) per intenderci.
 
 Poi...
 

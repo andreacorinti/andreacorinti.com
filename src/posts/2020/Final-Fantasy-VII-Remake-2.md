@@ -28,7 +28,7 @@ Siccome immagino che l'algoritmo di Google sia molto confuso al momento (sperand
 
 <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/FFVIInomuracastdesigns.JPG" alt="Final_Fantasy_VII">
 
-Come ne scrissi tempo fa rapportandolo ad [Akira](/posts/ita/akira-e-final-fantasy-vii/), **il Final Fantasy VII originale rappresentò uno sforzo economico devastante**, con ogni probabilità non più replicabile:
+Come ne scrissi tempo fa rapportandolo ad [Akira](/posts/Akira-e-Final-Fantasy-VII/), **il Final Fantasy VII originale rappresentò uno sforzo economico devastante**, con ogni probabilità non più replicabile:
 
 [**Final Fantasy VII è l'unico videogioco uscito prima del 2000 a rientrare saldamente tra le produzioni più costose della storia**](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop), ovvero ben prima che l'industria videoludica surclassasse ogni altro settore dell'intrattenimento. [^soldi]
 

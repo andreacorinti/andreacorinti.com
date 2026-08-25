@@ -1,6 +1,7 @@
 ---
 layout: posteng
 templateEngineOverride: njk,md
+lang: en-US
 title: "VampireMV Devlog 01" 
 subtitle: A journey on a path made of blood. And JavaScript.
 immagine: https://www.gry-online.pl/i/h/1/240887640.jpg

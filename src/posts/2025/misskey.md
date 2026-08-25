@@ -29,7 +29,7 @@ scherzi a parte, come detto e ridetto mastodon.social è una vera e propria _clo
 ### Contro di Misskey
 
 - Pieno di chincaglierie, anche carine, ma un po' confusionarie (si può personalizzare un po' tutto, ma bisogna spenderci tempo)
-- Restiamo nel medesimo contesto estemporaneo-twitter like di Mastodon, con tutti gli stessi problemi che ne conseguono ([qui per i dettagli](/posts/ita/fediversando-2025/))
+- Restiamo nel medesimo contesto estemporaneo-twitter like di Mastodon, con tutti gli stessi problemi che ne conseguono ([qui per i dettagli](/posts/fediversando-2025/))
 - il rovescio della medaglia dell'otaku-wave di cui sopra: timore di finire nel gorgo delle schifezze tipiche di un certo mondo pedo-hentai (ma su misskey.social al momento non ho visto niente di strano per fortuna), d'altronde da [questo](https://mastodon.social/@Gargron) a [questo](https://misskey.io/@syuilo) ce ne passa!
 
 ### Le complicazione degli Import / Export

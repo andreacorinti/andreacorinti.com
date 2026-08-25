@@ -180,7 +180,7 @@ sei anni fa, alle prese con queste riflessioni che col tempo si sono radicate se
 
 esempi come quello di [Zach Leatherman](https://www.zachleat.com/) (autore del fenomenale [11ty](https://www.11ty.dev/), ovvero il mio generatore di siti statici preferito), [Stephanie Eckles](https://thinkdobecreate.com/) o [Phil Hawksworth](https://www.hawksworx.com/) furono fondamentali per radicare ulteriormente la mia scelta.
 
-Scelta che nell'ultimo anno si è rivelata particolarmente azzeccata grazie al **Fediverso** e la community di [LivelloSegreto](https://livellosegreto.it/), come ho già avuto modo di scrivere [qui](/posts/ita/un-anno-segreto):
+Scelta che nell'ultimo anno si è rivelata particolarmente azzeccata grazie al **Fediverso** e la community di [LivelloSegreto](https://livellosegreto.it/), come ho già avuto modo di scrivere [qui](/posts/un-anno-segreto):
 
 cose che nel 2018 non esistevano e non potevo immaginare sarebbero nate, esattamente come non avrei potuto immaginare **l'inesorabile declino di Facebook e Twitter**, TikTok o la conversione ai Reel di Instagram eccetera.
 

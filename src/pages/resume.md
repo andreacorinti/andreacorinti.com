@@ -1,5 +1,6 @@
 ---
 title: "Andrea Corinti"
+seoTitle: "Resume"
 description: "Web Editor & Senior Technical and Customer Care Support Advisor"
 layout: resume
 immagine: /img/cv/avatar.jpg

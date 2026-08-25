@@ -50,7 +50,7 @@ Del resto, i post che scrivo derivano principalmente da due elementi:
 1. Sento il bisogno di scrivere su un argomento che mi ha colpito/appassionato.
 2. Scrivo un post che mi piacerebbe leggere ma che, per vari motivi, non esiste ancora. E quindi, lo faccio io!
 
-Per quanto riguarda il Fediverso e come voglio viverlo, ho scritto un post in inglese che riassume bene tutto ciò che volevo dire: [_In the Fediverse I would like_](/posts/eng/what-i-want-from-fediverse/). 
+Per quanto riguarda il Fediverso e come voglio viverlo, ho scritto un post in inglese che riassume bene tutto ciò che volevo dire: [_In the Fediverse I would like_](/posts/what-i-want-from-fediverse/). 
 
 Il Fediverso è diventato un tema che mi è entrato rapidamente nel cuore perciò sono sicuro che ne parlerò ancora in futuro, ma solo a determinate condizioni.
 
@@ -58,7 +58,7 @@ Il Fediverso è diventato un tema che mi è entrato rapidamente nel cuore perci�
 
 Evitare polemiche retoriche e stantie.
 
-Ne ho parlato un po' quando ho spiegato [le ragioni della mia migrazione da mastodon.uno a livellosegreto.it](/posts/ita/mastodon-migrazione-2/) (se non l'avete mai letto, sappiate che è precedente a tutti i successivi casotti).
+Ne ho parlato un po' quando ho spiegato [le ragioni della mia migrazione da mastodon.uno a livellosegreto.it](/posts/mastodon-migrazione-2/) (se non l'avete mai letto, sappiate che è precedente a tutti i successivi casotti).
 
 Cito i punti salienti (non è egocentrismo fidatevi, è pigrizia):
 

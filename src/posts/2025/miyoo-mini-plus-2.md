@@ -8,7 +8,7 @@ date: 2025-04-14
 lang: it-IT
 ---
 
-Per l'impatto della prima settimana, rimando al [post di febbraio](/posts/ita/miyoo-mini-plus)
+Per l'impatto della prima settimana, rimando al [post di febbraio](/posts/miyoo-mini-plus)
 
 Bene: dopo due mesi e 100 ore giocate, credo di poter parlare con un po' più di cognizione di causa di questo magnifico aggeggino.
 

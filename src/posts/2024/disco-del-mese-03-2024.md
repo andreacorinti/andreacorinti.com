@@ -8,7 +8,7 @@ date: 2024-03-26
 lang: it-IT
 ---
 
-[_**Febbraio 2024**_](/posts/ita/disco-del-mese-02-2024)
+[_**Febbraio 2024**_](/posts/disco-del-mese-02-2024)
 
 ## Judas Priest - Invincible Shield
 
@@ -54,4 +54,4 @@ considerate che una delle mie band preferite in assoluto sono i **Dark Tranquill
 
 E sì, per chi se lo stesse chiedendo, dubito che il nome del gruppo sia un caso visto che più di una sonorità mi pare parli la lingua degli **Opeth**.
 
-[_**Aprile 2024**_](/posts/ita/disco-del-mese-04-2024)
+[_**Aprile 2024**_](/posts/disco-del-mese-04-2024)

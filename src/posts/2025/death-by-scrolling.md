@@ -8,7 +8,7 @@ date: 2025-10-28
 lang: it-IT
 ---
 
-Con il buon vecchio Ron ["grumpygamer"](https://mastodon.gamedev.place/@grumpygamer) Gilbert ci eravamo lasciati qualche anno fa con il suo [Return to Monkey Island](/posts/ita/return-to-monkey-island-recensione/) e, come ben sapeva chi lo segue nel Fediverso grazie ai numerosi *dev-log*, lo ritroviamo a debuttare nel famigerato mondo dei roguelike con il suo ultimo titolo: **Death by Scrolling**.
+Con il buon vecchio Ron ["grumpygamer"](https://mastodon.gamedev.place/@grumpygamer) Gilbert ci eravamo lasciati qualche anno fa con il suo [Return to Monkey Island](/posts/return-to-monkey-island-recensione/) e, come ben sapeva chi lo segue nel Fediverso grazie ai numerosi *dev-log*, lo ritroviamo a debuttare nel famigerato mondo dei roguelike con il suo ultimo titolo: **Death by Scrolling**.
 
 ## Galeotto fu Vampire Survivors?
 

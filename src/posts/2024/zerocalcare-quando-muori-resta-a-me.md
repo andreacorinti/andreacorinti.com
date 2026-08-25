@@ -32,7 +32,7 @@ O meglio, sì ma non proprio:
 
 è un fumetto che ha tutto del Michele Rech più intimista e autobiografico che ha conquistato il fumetto italiano, sommato a scelte stilistiche interessanti per raccontare un certo passato del veneto profondo (che mi hanno ricordato il miglior Gipi).
 
-Eppure, **l'ho trovato molto meno galvanizzante di _Scheletri_ e _Macerie Prime_**, come anche meno d'impatto delle due serie animate su Netflix (in particolar modo [_Questo mondo non mi renderà cattivo_](/posts/ita/questo-mondo-non-mi-render%C3%A0-cattivo/)), per non parlare delle storie e cose più propriamente "politiche" della sua produzione recente (posto che tutto è politica eccetera)
+Eppure, **l'ho trovato molto meno galvanizzante di _Scheletri_ e _Macerie Prime_**, come anche meno d'impatto delle due serie animate su Netflix (in particolar modo [_Questo mondo non mi renderà cattivo_](/posts/questo-mondo-non-mi-render%C3%A0-cattivo/)), per non parlare delle storie e cose più propriamente "politiche" della sua produzione recente (posto che tutto è politica eccetera)
 
 ### Quindi stai dicendo Zerocalcare è calato?
 

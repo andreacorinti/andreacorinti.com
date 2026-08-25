@@ -16,7 +16,7 @@ Sì.
 
 È un film divertente, con una gran colonna sonora <small>(...arriverei a dire che è fin troppo cantato e ballato, ma è una faccenda di gusti)</small> un ottimo ritmo e una produzione di tutto rispetto: 
 
-vale sicuramente la pena guardarlo, anche se mi rendo conto di come la sua martellante onnipresenza stia rasentando l'effetto [_Mercoledì_](/posts/ita/mercoledi-netflix).
+vale sicuramente la pena guardarlo, anche se mi rendo conto di come la sua martellante onnipresenza stia rasentando l'effetto [_Mercoledì_](/posts/mercoledi-netflix).
 
 Detto ciò, leviamoci la questione più spinosa:
 

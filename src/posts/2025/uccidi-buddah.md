@@ -73,7 +73,7 @@ D'altronde, **il grosso della storia umana ha sempre visto piccole sacche di ari
 
 ![Olympia](https://upload.wikimedia.org/wikipedia/en/9/9d/Olympia_%28Part_1%29_poster.jpg)
 
-[Otto anni fai incontrai Shin'ichiro Watanabe](/posts/ita/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/), autore di _Cowboy Bebop_, al Cartoons on the Bay di Torino del 2017.
+[Otto anni fai incontrai Shin'ichiro Watanabe](/posts/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/), autore di _Cowboy Bebop_, al Cartoons on the Bay di Torino del 2017.
 
 Alla richiesta di _spiegazioni canoniche_ riguardo il finale dell'anime, rispose più o meno con queste parole: 
 

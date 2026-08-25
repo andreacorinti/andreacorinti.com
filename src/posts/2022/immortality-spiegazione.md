@@ -12,7 +12,7 @@ lang: it-IT
 
 Tutto ciò che seguirà è assolutamente **SPOILER**.
 
-Vi consiglio caldamente di giocare e sperimentare con Immortality per i fatti vostri (per [**la recensione del gioco senza spoiler, vi rimando qui**](/posts/ita/immortality-recensione-videogioco/)) pure se non state capendo niente, e finite per tornare eternamente sulle stesse scene.
+Vi consiglio caldamente di giocare e sperimentare con Immortality per i fatti vostri (per [**la recensione del gioco senza spoiler, vi rimando qui**](/posts/immortality-recensione-videogioco/)) pure se non state capendo niente, e finite per tornare eternamente sulle stesse scene.
 
 So che a molti sembrerà strano, ma questi vicoli ciechi perpetui costituiscono una parte rilevantissima del fascino dell'opera che Sam Barlow ci ha messo di fronte: 
 

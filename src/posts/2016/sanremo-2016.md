@@ -10,9 +10,9 @@ lang: it-IT
 
 Me lo chiedono ogni anno in molti, ed è curioso notare come in tre anni di blog io abbia sommariamente "recensito" tutte le edizioni senza fare una piega:
 
-1. [Sanremo 2013](/posts/ita/sanremo-2013/)
-2. [Sanremo 2014](/posts/ita/sanremo-2014/)
-3. [Sanremo 2015](/posts/ita/sanremo-2015/)
+1. [Sanremo 2013](/posts/sanremo-2013/)
+2. [Sanremo 2014](/posts/sanremo-2014/)
+3. [Sanremo 2015](/posts/sanremo-2015/)
 
 *Sanremo fa schifo* è uno slogan parecchio facilone, anche se spesso veritiero, come veritieri sono l'immane spesa ed il considerevole intrallazzo che ogni anno il festival si porta appresso.
 

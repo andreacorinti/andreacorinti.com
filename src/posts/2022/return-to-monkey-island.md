@@ -16,6 +16,6 @@ In questo senso, oggi mi risveglio felice ma un po' preoccupato perché nella _b
 
 In ogni modo, la felicità resta: Ron Gilbert finalmente realizzerà il suo terzo capitolo, che per forza di cose non potrà misurarsi con la nostra nostalgia (lo disse bene lo stesso Ron nel 2013) ma nella migliore delle ipotesi riportarci tra le scimmie, i cannibali, il grog e tanti altri elementi meravigliosi che hanno contribuito a formare il nostro senso dell'umorismo.
 
-Cinque anni fa scrissi [una pseudo-recensione dell'ottimo Thimbleweed Park](/posts/ita/thimbleweed-park), e credo che grossomodo valga bene ancora adesso, sebbene l'entusiasmo sia di una portata del tutto maggiore.
+Cinque anni fa scrissi [una pseudo-recensione dell'ottimo Thimbleweed Park](/posts/thimbleweed-park), e credo che grossomodo valga bene ancora adesso, sebbene l'entusiasmo sia di una portata del tutto maggiore.
 
 LE SCIMMIE!

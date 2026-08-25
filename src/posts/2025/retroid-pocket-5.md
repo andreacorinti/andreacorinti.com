@@ -74,9 +74,9 @@ In questo senso, per le mie esigenze la Miyoo Mini resta il non plus ultra assol
 
 ### Sul tema
 
-- [Steam Deck: prime impressioni e primi troubleshooting](/posts/ita/steam-deck/)
+- [Steam Deck: prime impressioni e primi troubleshooting](/posts/steam-deck/)
 - [Steam Deck: opinioni più di sei mesi dopo](/posts/steam-deck-sei-mesi/)
-- [Miyoo Mini Plus](/posts/ita/miyoo-mini-plus/)
-- [Le prime 100 ore di Miyoo Mini Plus](/posts/ita/miyoo-mini-plus-2/)
+- [Miyoo Mini Plus](/posts/miyoo-mini-plus/)
+- [Le prime 100 ore di Miyoo Mini Plus](/posts/miyoo-mini-plus-2/)
 
 <mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115564433186083571"></mastodon-comments>

@@ -8,7 +8,7 @@ date: 2025-06-19
 lang: it-IT
 ---
 
-Trascorso qualche giorno [dalla mia migrazione da LS](/posts/ita/arrivederci-segreto), direi che posso fare un attimo il punto sulla mia esperienza nella megaistanzona mastodon.social e sulle istanze in generale!
+Trascorso qualche giorno [dalla mia migrazione da LS](/posts/arrivederci-segreto), direi che posso fare un attimo il punto sulla mia esperienza nella megaistanzona mastodon.social e sulle istanze in generale!
 
 ### Ganci
 
@@ -65,7 +65,7 @@ Viste le mie remore nei confronti di Mastodon come software e la conclamata cons
 
 Seguendo l'esempio di [TiTiNoNero](https://goto.77nn.it/@77nn), ringraziando un sacco per i consigli [Lorenzo](https://snac.bobadin.icu/lorenzo) e [Cuche](https://cuche.cc/users/mike), ho iniziato a smanettare con [**GoToSocial**](https://gotosocial.org/): 
 
-al momento me ne sono abbastanza innamorato, anche perché erano anni che sognavo una sorta di "fork" di Mastodon (specialmente dopo la federazione con [threads](/posts/ita/threads-e-mastodon)) e beh, altro che fork, al netto del suo essere in costante sviluppo e di aver bisogno di un client esterno (Phanpy, Elk, o le varie app di android disegnate per Mastodon) è davvero fantastico!
+al momento me ne sono abbastanza innamorato, anche perché erano anni che sognavo una sorta di "fork" di Mastodon (specialmente dopo la federazione con [threads](/posts/threads-e-mastodon)) e beh, altro che fork, al netto del suo essere in costante sviluppo e di aver bisogno di un client esterno (Phanpy, Elk, o le varie app di android disegnate per Mastodon) è davvero fantastico!
 
 in fin dei conti, corrisponderebbe al tipo di utilizzo che sto facendo di mastodon adesso, solo con un totale controllo di ciò che posto (al netto di qualche minimo costo e sbattimento in più).
 
