@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Valheim - #Basta Videogiochi - Un mese dopo"
 subtitle: "Valheim, amore odio"
 sommario: "Valheim, amore odio"

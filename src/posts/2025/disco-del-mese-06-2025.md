@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Giugno 2025"
 subtitle: "Fallujah – Xenotaph"
 sommario: "Disco del mese molto a caldo, ma dai voglio sbilanciarmi sulla fiducia 😌"

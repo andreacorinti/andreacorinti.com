@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Febbraio 2024"
 subtitle: "Borknagar - Fall"
 sommario: "Vichinghi uniti!"

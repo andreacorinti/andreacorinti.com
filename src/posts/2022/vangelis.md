@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Vangelis"
 subtitle: "Ci ha lasciato il compositore di Blade Runner, l'Orfeo del cyberpunk"
 sommario: "Ci ha lasciato il compositore di Blade Runner, l'Orfeo del cyberpunk"

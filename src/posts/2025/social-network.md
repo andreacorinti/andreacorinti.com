@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Social Network"
 subtitle: "allargando il discorso dal solito Fediverso"
 sommario: "Visto che l'altro post di oggi ha generato un thread tanto ciccioso e interessante che io per primo non mi ci raccapezzo più (il che già ci porta in argomento 👀) ecco il secondo tempo! Partiamo dall'osservazione di BB che mi ha dato lo spunto per scrivere quanto segue"
@@ -74,7 +75,7 @@ Anche per questi motivi, credo che molta gente se ne sia andata o abbia smesso d
 
 Ora: non siamo nel 2022 con l'arrivo di massa che ben presto ha levato le tende, ho ragione di credere che molta della gente che ha smesso di stare qui abitasse il fediverso da parecchio tempo.
 
-[Ci sono passato anche io d'altronde](https://www.andreacorinti.com/posts/ita/scadenza-fediverso/), e credo che se in qualche gruppo telegram fossimo un pochino più numerosi e attivi e non mi dispiacesse troppo perdere bellissimi contatti mastodontici il salto lo avrei fatto anche io. 
+[Ci sono passato anche io d'altronde](https://www.andreacorinti.com/posts/scadenza-fediverso/), e credo che se in qualche gruppo telegram fossimo un pochino più numerosi e attivi e non mi dispiacesse troppo perdere bellissimi contatti mastodontici il salto lo avrei fatto anche io. 
 
 ### Sì ma sta a te saper gestire la tua esperienza, gestire chi seguire, chi bloccare, chi silenziare...
 

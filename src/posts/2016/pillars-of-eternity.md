@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Pillars of Eternity"
 subtitle: "recensione"
 sommario: "Bene. è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve."

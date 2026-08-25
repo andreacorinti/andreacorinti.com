@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Settembre 2024"
 subtitle: "Nightwish - Yesterwynde"
 sommario: "Questo settembre è stato incredibilmente ricco di uscite fantastiche, alcune le aspettavo da tempo, altre mi sono capitate all'orecchio per puro caso, ma vabbè tentiamo di fare un summa di tutto..."

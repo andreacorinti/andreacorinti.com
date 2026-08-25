@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Gennaio 2025"
 subtitle: "The Halo Effect - March Of The Unheard"
 sommario: "E si riparte con il 2025! Chissà per quanto proseguirò con 'sta rubrica?"

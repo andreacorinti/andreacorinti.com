@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Ottobre 2024"
 subtitle: "Lazer Club - A Summer Story"
 sommario: "Prima di tutto vorrei esordire con una menzione speciale in memoria del buon Paul Di'Anno..."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sandman Netflix - chissà se lo guarderò"
 subtitle: La paura è tanta
 sommario: "Non ho ancora visto la serie e non so se lo farò, ma visto che alcuni amici che conoscono il mio fanatismo mi hanno chiesto opinioni butto qui un paio di parole."
@@ -35,7 +36,7 @@ Non so bene perché, ma c'è qualche magia strana nel modo di scrivere di Gaiman
 
 ## Tempi
 
-Sandman fumetto è nato nel 1988 e finito nel 1996, ed è la quintessenza dello spirito del periodo: per certi versi un discorso simile a quello che facevo per [_Il Corvo_](https://www.andreacorinti.com/posts/ita/il-corvo/), sono portatori sani di un'estetica e logiche che sono assolutamente figlie dei loro anni, e anche per questo immortali.
+Sandman fumetto è nato nel 1988 e finito nel 1996, ed è la quintessenza dello spirito del periodo: per certi versi un discorso simile a quello che facevo per [_Il Corvo_](https://www.andreacorinti.com/posts/il-corvo/), sono portatori sani di un'estetica e logiche che sono assolutamente figlie dei loro anni, e anche per questo immortali.
 
 ## La vedrò?
 

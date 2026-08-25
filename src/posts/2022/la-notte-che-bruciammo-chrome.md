@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La notte che bruciammo Chrome"
 subtitle: "Osservazioni sulla raccolta di racconti di William Gibson."
 sommario: "Osservazioni sulla raccolta di racconti di William Gibson."

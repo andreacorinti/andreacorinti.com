@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sagra IndieWeb 2026 - Febbraio"
 subtitle: "Fediverso"
 sommario: "Seconda puntata del bell'esperimento bloggoso lanciato da Ed sul Fediverso! Fediverso che, dietro mia proposta, è pure il tema di questo mese"

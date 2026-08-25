@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Su Chester Bennington"
 subtitle: "E di come fu la rabbia del 2000"
 date: 2018-03-24

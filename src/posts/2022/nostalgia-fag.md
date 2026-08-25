@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Nostalgia Fag"
 subtitle: "è davvero sempre e solo una questione di nostalgia?"
 sommario: "Tutto parte della dittatura dei fandom che spesso e volentieri ha pressato e condizionato alcune scelte di importanti aziende dell'intrattenimento."
@@ -37,7 +38,7 @@ Secondo me biasimare la nostra nostalgia ha perfettamente senso: i nostalgia gla
 
 Eppure, credo che questa critica sacrosanta sia un po' uscita dal binario: 
 
-per dire, a me lo stile grafico di Return of Monkey Island (che ho preordinato) non piace affatto, ma mica perché volevo la stessa identica grafica dei primi due capitoli: semplicemente questo stile non mi convince e, [come scrivevo qualche tempo fa](https://www.andreacorinti.com/posts/ita/return-to-monkey-island/), rimpiango Purcell o comunque un artista più affine a lui, ma sono gusti: i disegni di Curse of Monkey Island per esempio mi piacquero ancora meno.
+per dire, a me lo stile grafico di Return of Monkey Island (che ho preordinato) non piace affatto, ma mica perché volevo la stessa identica grafica dei primi due capitoli: semplicemente questo stile non mi convince e, [come scrivevo qualche tempo fa](https://www.andreacorinti.com/posts/return-to-monkey-island/), rimpiango Purcell o comunque un artista più affine a lui, ma sono gusti: i disegni di Curse of Monkey Island per esempio mi piacquero ancora meno.
 
 ## Amare un periodo
 
@@ -47,7 +48,7 @@ io amo i film italiani e la musica degli anni '70, ma sono nato nel 1989: che no
 
 Semplicemente, lo trovo esteticamente più entusiasmante e lo preferisco esattamente come boh, il barocco rispetto al futurismo.
 
-Stesso discorso per [Final Fantasy VII e il suo remake](https://www.andreacorinti.com/posts/ita/final-fantasy-vii-remake-3/) oppure [Sandman](https://www.andreacorinti.com/posts/ita/sandman-netflix/), dove lì _ovviamente_ un po' la nostalgia ci mette del suo, sia chiaro, ma non credo sia il punto fondamentale del discorso.
+Stesso discorso per [Final Fantasy VII e il suo remake](https://www.andreacorinti.com/posts/final-fantasy-vii-remake-3/) oppure [Sandman](https://www.andreacorinti.com/posts/sandman-netflix/), dove lì _ovviamente_ un po' la nostalgia ci mette del suo, sia chiaro, ma non credo sia il punto fondamentale del discorso.
 
 ## Derby
 

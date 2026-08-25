@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La Storia di Internet e il Web 1.5"
 subtitle: "Si stava meglio quando si stava 56k"
 sommario: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."

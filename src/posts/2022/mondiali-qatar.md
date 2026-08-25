@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "L'esacerbante conflitto morale dei Mondiali in Qatar"
 subtitle: "Conflitti calcistici"
 sommario: "Volo pindarico: ma quanto sarebbe bello se le logiche open e pulite che vediamo su Mastodon e in ambito tecnologico toccassero anche altre realtà come lo sport?"
@@ -7,7 +8,7 @@ date: 2022-11-13
 lang: it-IT
 ---
 
-[_post también disponible en español_](https://www.andreacorinti.com/posts/esp/mundial-qatar/) 
+[_post también disponible en español_](https://www.andreacorinti.com/posts/mundial-qatar/) 
 
 Volo pindarico: ma quanto sarebbe bello se le logiche open e pulite che vediamo su Mastodon e in ambito tecnologico toccassero anche altre realtà come lo sport?
 
@@ -23,7 +24,7 @@ Pur con tutti i suoi limiti, negli anni passati **mi sono innamorato dell'Urugua
 
 Sono diventato abbastanza ostile a questo mondo [nel 2007](https://it.wikipedia.org/wiki/Filippo_Raciti): 
 
-all'epoca vivevo in provincia di Catania e la morte di Raciti mi colpì moltissimo, quindi nell'ultimo decennio abbondate ho seguito tutto in modo molto più sporadico (la nazionale e ogni tanto qualcosa in [spagnolo](https://www.andreacorinti.com/posts/esp/la-charla-del-flaco-gareca/)).
+all'epoca vivevo in provincia di Catania e la morte di Raciti mi colpì moltissimo, quindi nell'ultimo decennio abbondate ho seguito tutto in modo molto più sporadico (la nazionale e ogni tanto qualcosa in [spagnolo](https://www.andreacorinti.com/posts/la-charla-del-flaco-gareca/)).
 
 ## Mondiali in Qatar 
 

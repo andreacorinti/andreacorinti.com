@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sagra IndieWeb 2026 - Gennaio"
 subtitle: "prova prova sah sah"
 sommario: "Oh primo post del 2026, buon anno! In realtà questa è una bloggata di risposta a quanto scriveva il buon Ed..."

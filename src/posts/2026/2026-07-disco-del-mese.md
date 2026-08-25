@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Luglio 2026"
 subtitle: "SLIFT - FANTASIA"
 sommario: "Extra mese che però ci voleva per forza: progressive Metal con una voce grunge anni '90, bassone potente e assoli da stoner band? E synth da Nobuo Uematsu in carriola?"

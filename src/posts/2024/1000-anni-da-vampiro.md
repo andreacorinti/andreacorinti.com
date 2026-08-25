@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Recensione 1000 Anni da Vampiro"
 subtitle: "Solo RPG al sangue, prego"
 sommario: "Tagliamo subito la testa al pipistrello, se non avete quella strana alienazione mentale che vi porta a godere nel creare background e storie per i vostri personaggi nei giochi di ruolo, 1000 Anni da Vampiro non è roba per voi..."

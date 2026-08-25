@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy VI Pixel Remaster - prime impressioni "
 subtitle: "Impressioni così a caldo da bruciare il Castello di Figaro."
 sommario: "Impressioni così a caldo da bruciare il Castello di Figaro."

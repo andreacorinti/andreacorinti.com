@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Natura in Pixel"
 subtitle: "progetto libroso di beneficienza"
 sommario: "Natura in Pixel è una raccoltona di articoli curata da Francesco Toniolo e Chiara Ambrogio che porta in scena il discorso ambientale rapportato al mondo dei videogiochi..."

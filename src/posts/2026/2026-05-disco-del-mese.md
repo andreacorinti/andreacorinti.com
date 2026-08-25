@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Maggio 2026"
 subtitle: "Devin Townsend - The Moth"
 sommario: "Devin è tornato! E questa volta l'ho trovato meno overprodotto rispetto agli ultimi dischi (per fortuna!)"

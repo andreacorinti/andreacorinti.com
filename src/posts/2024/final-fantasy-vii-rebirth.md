@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy VII Rebirth"
 subtitle: "Se guardandoti negli occhi / sapessi dirti basta / ti guarderei"
 sommario: "Accidenti com'è difficile tornare da queste parti!"

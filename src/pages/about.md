@@ -9,7 +9,7 @@ _Bio is a Poison-elemental attack that can inflict the Poison status._
 
 ## Resume 
 
-Here is my online [**professional resume**](/resume), a smaller [PDF version](/img/Andrea-Corinti-Resume.pdf) is available as well.
+Here is my online [**professional resume**](/resume).
 
 I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
 

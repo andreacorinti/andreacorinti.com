@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Perché me ne sono andato da Mastodon.uno?"
 subtitle: Spiegazione
 sommario: "Cominciamo da una premessa: mastodon.uno è bello, ha delle regole che condivido e in meno di un mesetto ci ho conosciuto persone splendide ed interessanti..."
@@ -90,7 +91,7 @@ E la dicono in una forma di _pappagallismo simultaneo_ (con qualche raro lampo d
 
 Ma soprattutto è anche un tam-tam che, in fin dei conti, nell'economia dei destini dell'universo, non cambia un emerito cazzo.
 
-Se pensate che [perculare Salvini / la Meloni o chi vi pare in una bolla che li schifa di suo](https://www.youtube.com/watch?v=j-WrzQ1a_CU) serva a qualcosa, mi sa che non vi ricordate bene cos'è successo con Berlusconi - ma qui sto sconfinando e il discorso l'ho già in parte trattato [qui.](https://www.andreacorinti.com/posts/ita/elezioni-politiche-2022/)
+Se pensate che [perculare Salvini / la Meloni o chi vi pare in una bolla che li schifa di suo](https://www.youtube.com/watch?v=j-WrzQ1a_CU) serva a qualcosa, mi sa che non vi ricordate bene cos'è successo con Berlusconi - ma qui sto sconfinando e il discorso l'ho già in parte trattato [qui.](https://www.andreacorinti.com/posts/elezioni-politiche-2022/)
 
 ### Rifuggire l'attualità?
 

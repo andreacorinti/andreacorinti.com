@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Agosto 2024"
 subtitle: "Dark Tranquillity - Endtime Signal"
 sommario: "Eh che ci volete fare, ogni tanto il mio animo da fanboy salta fuori."

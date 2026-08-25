@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Death by Scrolling - Recensione"
 subtitle: "Ron Gilbert's Survivors?"
 sommario: "Con il buon vecchio Ron grumpygamer Gilbert ci eravamo lasciati qualche anno fa con il suo Return to Monkey Island e, come ben sapeva chi lo segue nel Fediverso.."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Novembre 2025"
 subtitle: "Asira -  As Ink in Water"
 sommario: "E anche questo mese, il prog metal salverà il mondo! Grazie all'algoritmo di Efi e una loro dubbia promozione memosa scopriamo questo nuovo gruppo prog-blackgaze-postmetal britannico che, aldilà del modo scelto..."

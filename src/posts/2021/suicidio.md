@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Suicidio?"
 subtitle: "."
 sommario: "."

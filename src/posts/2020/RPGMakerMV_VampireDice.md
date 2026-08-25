@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: "RPG Maker MV Vampire Dice" 
 subtitle: D10 Storyteller in a JRPG? Why not!
 immagine: https://cf.geekdo-images.com/thumb/img/cuDjrsSQcc4RAqv2472v6Ajgo54=/fit-in/200x150/pic1259009.png

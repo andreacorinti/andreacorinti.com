@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Mi manca Franco Battiato"
 subtitle: "E temo mi mancherà sempre di più"
 sommario: "E temo mi mancherà sempre di più"

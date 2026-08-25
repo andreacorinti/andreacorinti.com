@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy VIII"
 subtitle: "Una dichiarazione d'amore"
 sommario: "Final Fantasy VIII per me è l'esperienza videoludica più bella, intensa e suggestiva di sempre."

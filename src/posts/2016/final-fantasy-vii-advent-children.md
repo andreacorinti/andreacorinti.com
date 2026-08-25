@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy VII - Advent Children"
 subtitle: "Storia di un amore deluso"
 sommario: "Prima di tutto la verità: Advent Children è un pessimo film. Ma questa, intendiamoci, è la verità del senno di poi."

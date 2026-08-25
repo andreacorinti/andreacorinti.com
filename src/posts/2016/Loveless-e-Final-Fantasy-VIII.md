@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Loveless e Final Fantasy VIII"
 subtitle: Esplorando Squaresoft
 sommario: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."

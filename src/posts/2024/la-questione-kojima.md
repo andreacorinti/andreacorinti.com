@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La questione Kojima"
 subtitle: "Cécile Cosima Caminades?"
 sommario: "Visto che è appena uscito il trailer State of Play di Death Stranding 2, che personalmente ho trovato meraviglioso (d'altronde ho amato un sacco il primo DS..."

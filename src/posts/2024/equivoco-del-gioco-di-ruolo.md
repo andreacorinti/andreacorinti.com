@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "L'equivoco del videogioco di ruolo"
 subtitle: "Ruolate, Sciocchi!"
 sommario: "Uno dei termini nerd più snaturati del suo significato originale: role playing game (gioco di ruolo) applicato al videogioco."

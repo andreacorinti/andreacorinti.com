@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il significato del finale di Birdman [SPOILER]"
 sommario: "Come avrete visto nel titolo e dovrebbe essere ovvio, questo post è totalmente spoiler..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/Ilsignificatodelfinaledibirdman.jpg

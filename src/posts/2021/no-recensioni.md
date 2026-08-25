@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Possiamo leggere e scrivere di videogiochi smettendola con le recensioni?"
 subtitle: "è il tempo di dire basta"
 sommario: "è il tempo di dire basta"

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Metaphor: ReFantazio"
 subtitle: "Recensione"
 sommario: "Cosa succede se prendiamo un JRPG con una concezione da PlayStation 1, con le limature e migliorie (il famigerato \"quality of life improvement\") del mondo ludico contemporaneo?"

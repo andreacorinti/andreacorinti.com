@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "El conflicto moral del Mundial de Qatar"
 subtitle: "Conflictos de fútbol"
 sommario: "Qué grande sería que la lógica abierta y limpia que vemos en Mastodon y en la tecnología tocara también otras realidades como el deporte?"
@@ -7,7 +8,7 @@ date: 2022-11-14
 lang: es-AR
 ---
 
-[_post también disponible en italiano_](https://www.andreacorinti.com/posts/ita/mondiali-qatar/) 
+[_post también disponible en italiano_](https://www.andreacorinti.com/posts/mondiali-qatar/) 
 
 Qué grande sería que la lógica abierta y limpia que vemos en Mastodon y en la tecnología tocara también otras realidades como el deporte?
 
@@ -23,7 +24,7 @@ Aun con todas sus limitaciones, en los últimos años **me enamoré del Uruguay 
 
 Me volví bastante hostil a este mundo [en 2007](https://en.wikipedia.org/wiki/Catania_football_riot#Filippo_Raciti): 
 
-Yo vivía en la provincia de Catania y la muerte de Raciti me afectó mucho, por lo que desde hace una década (más o menos) sigo todo de forma mucho más esporádica (la selección Italiana y, de vez en cuando, algo en [español](https://www.andreacorinti.com/posts/esp/la-charla-del-flaco-gareca)).
+Yo vivía en la provincia de Catania y la muerte de Raciti me afectó mucho, por lo que desde hace una década (más o menos) sigo todo de forma mucho más esporádica (la selección Italiana y, de vez en cuando, algo en [español](https://www.andreacorinti.com/posts/la-charla-del-flaco-gareca)).
 
 ## Copa del Mundo en Qatar
 

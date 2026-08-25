@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "One Piece - Il Live Action di Netflix"
 subtitle: "Il primo live action che io abbia mai amato"
 sommario: "Ogni tanto, mi devo smentire e cambiare idea. Quando uscì il live action di Cowboy Bebop, buttai giù due righe che tra le altre cose dicevano questo..."

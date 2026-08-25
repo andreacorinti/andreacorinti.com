@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Di account individuali e account collettivi"
 subtitle: "O di Persone vs Entità"
 sommario: "Un postino per il compleanno (tanti auguri a me!) di un tema di cui credo di aver già discusso, ma su cui non mi pare di aver mai incentrato un vero e proprio post:"

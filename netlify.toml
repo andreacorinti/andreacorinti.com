@@ -7,6 +7,29 @@
     to = "/feed.xml"
     status = 200
 
+  # Blog posts used to live under a language-coded path (/posts/ita/,
+  # /posts/eng/) from when the blog was multilingual; URLs are now flat
+  # (/posts/slug/). 301s preserve external backlinks and search ranking.
+  # /posts/esp/ is included even though no post currently lives there, in
+  # case any old external link to a Spanish post from that era still exists.
+  [[redirects]]
+    from = "/posts/ita/*"
+    to = "/posts/:splat"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/posts/eng/*"
+    to = "/posts/:splat"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/posts/esp/*"
+    to = "/posts/:splat"
+    status = 301
+    force = true
+
 [dev]
   command = "npm start"
 

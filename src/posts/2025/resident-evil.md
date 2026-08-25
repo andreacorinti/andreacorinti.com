@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Una veloce retrospettiva su Resident Evil"
 subtitle: "PULGARCITOOOOOOOO"
 sommario: "La saga di Resident Evil ha sempre rappresentato una delle mie lacune più imbarazzanti da videogiocatore. Fin da quando, 199X, provai il primo capitolo da amici e lo snobbai con una frase del tipo..."

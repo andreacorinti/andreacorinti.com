@@ -47,11 +47,14 @@ module.exports = function (eleventyConfig) {
   };  
 
   eleventyConfig.addCollection("searchIndex", function (collection) {
+    // ita posts now live in year folders alongside eng ones (see the
+    // blog/blogita/blogeng collections above) — filter by layout instead
+    // of the old ita/ folder to keep excluding English posts as before.
     const posts = collection.getFilteredByGlob([
-      "./src/posts/ita/**/*.md", // Prima cartella
+      "./src/posts/20*/*.md", // Prima cartella
       "./src/pages/*.md",      // Seconda cartella
       "./src/posts/progetti/*.md" // Terza cartella
-    ]);
+    ]).filter((item) => item.data.layout !== "posteng");
 
     return posts.map(post => ({
       title: post.data.title,
@@ -61,21 +64,37 @@ module.exports = function (eleventyConfig) {
   });
 
   /* Collezioni */
-  
+
+  // Posts used to live in per-language folders (posts/ita/, posts/eng/,
+  // posts/esp/), which is what these collections originally globbed by.
+  // They're now merged into per-year folders (posts/2013/, posts/2014/,
+  // ...) for the author's own organization, so language is no longer a
+  // folder — it's the explicit `layout` each post carries (postita/
+  // posteng/postesp), which is what these filter on instead. "./src/posts/
+  // 20*/*.md" scopes this to the year folders only, leaving loose files
+  // directly under posts/ (e.g. fediverse-language.md) and the untouched
+  // bozze/ and progetti/ folders alone, exactly as before.
   eleventyConfig.addCollection("blog", function(collection) {
     return collection.getFilteredByGlob([
       "./src/posts/*.md",
-      "./src/posts/ita/*.md"
-    ]).reverse();
+      "./src/posts/20*/*.md"
+    ]).filter((item) => !/\/posts\/20\d\d\//.test(item.inputPath) || item.data.layout === "postita")
+      .reverse();
   });
   eleventyConfig.addCollection("blogita", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/ita/**/*.md").reverse();
+    return collection.getFilteredByGlob("./src/posts/20*/*.md")
+      .filter((item) => item.data.layout === "postita")
+      .reverse();
   });
   eleventyConfig.addCollection("blogeng", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/eng/*.md").reverse();
+    return collection.getFilteredByGlob("./src/posts/20*/*.md")
+      .filter((item) => item.data.layout === "posteng")
+      .reverse();
   });
   eleventyConfig.addCollection("blogesp", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/esp/*.md").reverse();
+    return collection.getFilteredByGlob("./src/posts/20*/*.md")
+      .filter((item) => item.data.layout === "postesp")
+      .reverse();
   });
   eleventyConfig.addCollection("progetti", function(collection) {
     return collection.getFilteredByGlob("./src/posts/progetti/*.md").reverse();
@@ -91,6 +110,30 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
+
+  // Used only by the print layout of /resume: splits the rendered resume
+  // HTML (a flat run of <h3 id="...">...</h3> + <table>/<p> pairs) into
+  // groups by heading id, keeping only the requested ids and in the given
+  // order — regardless of their original order in the document. This lets
+  // the print stylesheet render "Contacts, Skills, Languages, Certifications"
+  // as one contiguous sidebar column and "Work Experience, Publications,
+  // Education" as a separate main column, each flowing independently, while
+  // the on-screen page keeps the original single-column reading order.
+  // Strips each section's id (only the print duplicate's copy) to avoid two
+  // elements sharing the same id in the final page.
+  eleventyConfig.addFilter("resumeSection", (html, ids) => {
+    if (!html || !Array.isArray(ids)) return "";
+
+    const sections = {};
+    html.split(/(?=<h3 id="[^"]*")/).forEach((chunk) => {
+      const match = chunk.match(/^<h3 id="([^"]*)"/);
+      if (match) {
+        sections[match[1]] = chunk.replace(/ id="[^"]*"/, "");
+      }
+    });
+
+    return ids.map((id) => sections[id] || "").join("\n");
+  });
 
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) {

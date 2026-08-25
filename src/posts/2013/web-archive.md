@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Web Archive: Archeologia Cybernetica"
 subtitle: "e il Tempo di Internet"
 sommario: "Chi vive internet, o meglio chi ha vissuto un certo tipo di internet, penso sia senza ombra di dubbio invecchiato precocemente..."

@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html lang="{%- if lang -%}{{ lang }}{%- else -%}it{%- endif -%}">
 {%- set pageTitle %}{% if title %}{{ title }} | {% endif %}{{ meta.siteName }}{% endset -%}
-{%- set pageDescription %}{% if description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
-{%- set pageSocialImg %}{{ meta.url }}/previews/{% if title %}{{ title | slug }}{% else %}home{% endif %}.png{% endset -%}
+{%- set pageOgTitle %}{% if title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %}{% endset -%}
+{%- set pageDescription %}{% if sommario %}{{ sommario }}{% elif description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
+{# Pages without their own `immagine` fell back to /previews/{slug}.png,
+   a path nothing in this project ever generates — a permanently-broken
+   social preview image on every page that hits this branch (homepage,
+   about, contact, projects...). Falls back to the site's own avatar
+   (already used elsewhere, e.g. the homepage) instead of a dead link. #}
+{%- set pageSocialImg %}{{ meta.url }}/img/avatar3.jpg{% endset -%}
 <head>
-    <!-- Generated from the 11ty Netlify Jumpstart: https://github.com/5t3ph/11ty-netlify-jumpstart -->   
-    
+    <!-- Generated from the 11ty Netlify Jumpstart: https://github.com/5t3ph/11ty-netlify-jumpstart -->
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{pageTitle}}</title>
+    <title>{{ pageTitle | safe }}</title>
     <meta
       name="description"
-      content="{{ sommario }}"
+      content="{{ pageDescription | safe }}"
     />
+    <link rel="canonical" href="{{ meta.url }}{{ page.url }}" />
     <link rel="icon" href="{{ '/favicon.png' | url }}" />
     <link rel="preload" href="{{ '/fonts/teko.woff' | url }}" as="font" type="font/woff" crossorigin="anonymous">
     <link href="{{ '/css/style.css' | url }}" rel="stylesheet" />
@@ -23,12 +30,12 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@XabCorinti" />
     <meta name="fediverse:creator" content="@Xabacadabra@misskey.social">
-    <meta name="twitter:title" content="{{ title }}" />
-    <meta name="twitter:description" content="{{ sommario }}" />
+    <meta name="twitter:title" content="{{ pageOgTitle | safe }}" />
+    <meta name="twitter:description" content="{{ pageDescription | safe }}" />
     <meta name="twitter:image" content="{{ socialImage }}" />
 
-    <meta property="og:title" content="{{ title }}" />
-    <meta property="og:description" content="{{ sommario }}" />
+    <meta property="og:title" content="{{ pageOgTitle | safe }}" />
+    <meta property="og:description" content="{{ pageDescription | safe }}" />
     <meta property="og:image" content="{{ socialImage }}" />
     <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
     <meta property="og:type" content="article" />

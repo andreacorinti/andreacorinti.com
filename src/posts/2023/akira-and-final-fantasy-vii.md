@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Akira and Final Fantasy VII"
 subtitle: "Of Motorcycles, Atomic Bombs, and Delinquency. And more!"
 sommario: "I've been thinking about this post for about a year, ever since I read for the first time the manga of the masterpiece by Katsuhiro Otomo, after growing up having watched and rewatched the homonymous movie..."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy Pixel Remaster"
 subtitle: "Bella e povera, anche se costa cara"
 sommario: "Bella e povera, anche se costa cara"

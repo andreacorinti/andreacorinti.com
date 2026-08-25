@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Più Bullet Journal e meno Instagram"
 subtitle: "Ottobrate varie"
 sommario: "A quanto ho capito bazzicando per la rete il Bullet Journal è stata una faccenda spaventosamente di moda qualche anno fa, ma personalmente l'ho scoperta solo da qualche settimana dopo un articolo che parlava di agende."

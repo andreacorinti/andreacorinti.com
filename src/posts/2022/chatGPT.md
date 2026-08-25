@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "ChatGPT: ho accidentalmente intervistato un'IA"
 subtitle: "more human than human"
 sommario: "Dopo una domanda stupida per testarne le potenzialità, mi sono messo a intervistare l'IA di ChatGPT di Open AI (potete provarla gratuitamente qui.."

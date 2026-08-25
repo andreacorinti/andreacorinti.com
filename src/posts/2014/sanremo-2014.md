@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sanremo 2014"
 subtitle: "Osservazioni sparse d'attualità televisiva e politica (che in Italia sono poi la stessa cosa)..."
 sommario: "Osservazioni sparse d'attualità televisiva e politica (che in Italia sono poi la stessa cosa)..."

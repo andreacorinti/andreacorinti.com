@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il Metal"
 subtitle: "cos'è il metal?"
 sommario: "Un variopinto genere musicale. Bene, se vi interessano le definizioni oggettive potete fermarvi qui, perché tutto il resto è pure più personale del solito."

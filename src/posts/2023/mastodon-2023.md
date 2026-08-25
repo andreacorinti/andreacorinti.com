@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Cos'è successo su Mastodon.uno"
 subtitle: E il resto del fediverso
 sommario: "Questo post non ha intenti polemici, nasce più che altro per fare un po' il punto sul casino che si è recentemente sviluppato tra mastodon.uno e il silenziamento di alcuni utenti di altre istanze."

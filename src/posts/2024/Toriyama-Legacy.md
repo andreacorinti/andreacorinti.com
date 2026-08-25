@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La Legacy di Akira Toriyama"
 subtitle: "Fushigi na yume o mi ni yukouuuuuuuu"
 sommario: "Ho aspettato un po' prima di metabolizzare la morte di Akira Toriyama e scriverne qui."
@@ -31,7 +32,7 @@ Le riporto qui per come sono venute fuori, perdonate il testo raffazzonato alla 
 
 Qui la faccio semplice: con Metal Gear Solid, Monkey Island e soprattutto Final Fantasy VIII, VII e VI (non a caso suoi stretti parenti) Chrono Trigger resta nell'olimpo dei miei giochi preferiti in assoluto.
 
-Stando nel settore, Sakaguchi ha amato talmente tanto Toriyama che ho il vago sospetto producesse videogiochi apposta per averlo come designer (anzi, [lo disse proprio in un'intervista di qualche anno fa che tradussi qui](https://www.andreacorinti.com/posts/ita/intervista-hironobu-sakaguchi/))
+Stando nel settore, Sakaguchi ha amato talmente tanto Toriyama che ho il vago sospetto producesse videogiochi apposta per averlo come designer (anzi, [lo disse proprio in un'intervista di qualche anno fa che tradussi qui](https://www.andreacorinti.com/posts/intervista-hironobu-sakaguchi/))
 
 ## Impatto
 

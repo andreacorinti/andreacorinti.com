@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sperimentando con Ironsworn"
 subtitle: "Appunti a caldo del primo playtest solo RPG"
 sommario: "Appunti sparsi sul mio ennesimo esperimento di RPG in solitaria utilizzando il celeberrimo Ironsworn, che una volta tanto è un sistema effettivamente *pensato* per i ruolismo solista 🙂‍↕️"

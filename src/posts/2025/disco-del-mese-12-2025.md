@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Dicembre 2025"
 subtitle: "L.O.E - Chiaroscuro"
 sommario: "Due anni di fila! Non avrei mai pensato di andare avanti tanto a lungo con questa rubrica, ma grazie al proficuo scambio con i cari Efi e Zel (grazie!!) anche quest'anno sono stato particolarmente motivato all'ascolto di un sacco di novità"

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Perché ho mollato Elden Ring"
 subtitle: "e i Souls in generale"
 sommario: "Ho iniziato questo post più di un anno fa, ma per qualche motivo non sono mai riuscito a riprenderlo in mano...oggi ci riprovo, sperando di non metterci troppe castronerie!"

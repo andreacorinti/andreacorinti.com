@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "#BastaVideogiochi - Day 7"
 subtitle: "Una settimana dopo"
 sommario: "Sono diventato Carlo Calenda?"

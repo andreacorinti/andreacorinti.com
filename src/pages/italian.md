@@ -1,7 +1,14 @@
 ---
 layout: archivio
 lang: it-IT
-sommario: "Tutti i post dal blog di Andrea Corinti."
+# Each paginated page (/blog-0/, /blog-1/, ...) rendered with the same
+# static title/sommario, which search engines flag as duplicate content
+# across ~30 URLs. eleventyComputed re-renders these through the page's
+# own (Liquid) engine per pagination instance, so each page gets a
+# distinct title/description instead.
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Blog - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Blog{% endif %}"
+  sommario: "{% if pagination.pageNumber > 0 %}Tutti i post dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Tutti i post dal blog di Andrea Corinti.{% endif %}"
 pagination: 
     data: collections.blog
     size: 8

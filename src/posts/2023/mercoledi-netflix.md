@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Mercoledì è bello, anche se ha fatto di tutto per farsi odiare"
 subtitle: "Il balletto ha rotto le palle, ma non la serie"
 sommario: "Se usate Instagram o TikTok, credo che vi siate lecitamente trovati nella mia situazione, il bombardamento social è stato talmente vasto e variegato che, in confidenza, pianificavo di vedermi la serie nel 2024 oppure non vederla affatto..."

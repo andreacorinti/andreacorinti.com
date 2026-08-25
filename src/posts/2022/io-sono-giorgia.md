@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Io sono Giorgia"
 subtitle: "Ho letto il libro di Giorgia Meloni"
 sommario: "Da IRC a Palazzo Chigi il passo è breve."

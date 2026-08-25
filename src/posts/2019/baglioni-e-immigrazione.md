@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Baglioni e gli Immigrati"
 subtitle: "Canta che ti resta"
 date: 2019-01-12

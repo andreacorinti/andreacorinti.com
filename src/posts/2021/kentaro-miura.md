@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Grazie Kentaro Miura"
 subtitle: "Perché Berserk ha significato tanto"
 sommario: "Berserk è stato un fenomeno seminale per tanti di noi"

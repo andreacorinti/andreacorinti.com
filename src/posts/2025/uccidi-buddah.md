@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Se incontri il Buddha per la strada, uccidilo"
 subtitle: "di Idoli d'oro e altre facezie"
 sommario: "Ringrazio CapeTaun per aver riportato quest'ottima ricostruzione dell'orrida vicenda legata a Neil Gaiman. Se v'interessa, qui c'è tutto il thread su Livello Segreto..."

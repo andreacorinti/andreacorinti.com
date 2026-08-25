@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Immortality - possibile spiegazione ed elenco delle scene segrete del gioco"
 subtitle: "Proviamo ad avanzare ipotesi sul significato del capolavoro di Sam Barlow."
 date: 2022-09-05

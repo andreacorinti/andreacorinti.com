@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Threads, Mastodon e i Numeri del Fediverso"
 subtitle: "Quanto contano i numeri nel Fediverso?"
 sommario: "Se bazzicate nelle varie istanze, come forse saprete Threads è approdato nel Fediverso. Ora, non parlerò nel dettaglio della questione, perché l'ho già ampiamente discussa..."

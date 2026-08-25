@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La fine di Stranger Things"
 subtitle: "e la sua importanza"
 sommario: "Dunque, premessa cruciale: a me Stranger Things ha sempre divertito senza farmi impazzire. Tuttavia, un aspetto che tendiamo molto spesso a sottovalutare..."

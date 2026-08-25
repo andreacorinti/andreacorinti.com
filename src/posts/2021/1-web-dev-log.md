@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: "11ty, Webmentions and Bridgy [WebDev Log 01]" 
 subtitle: going crazy with style
 immagine: https://indieweb.org/img/indiewebcamp.svg

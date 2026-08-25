@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Reddito Base"
 subtitle: "Firma & Sostegno alla proposta UE"
 sommario: "Firma & Sostegno alla proposta UE"

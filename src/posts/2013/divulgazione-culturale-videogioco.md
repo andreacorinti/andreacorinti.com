@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Divulgazione Culturale del Videogioco"
 subtitle: "Videogiochi, arte, cultura e potenziale formativo"
 sommario: "Che il Videogioco sia ascrivibile o meno allo stato di Arte è sempre stato un dibattito in cui non me la sono mai sentita di prendere una posizione netta, forse anche per il concetto abbastanza vago che si ha di Arte e Artista"

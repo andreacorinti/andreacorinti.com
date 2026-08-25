@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Due anni segreti"
 subtitle: "secondo compleanno mastodontico"
 sommario: "Sono andato a rileggermi il post dell'anno scorso prima di buttare giù qualcosa: grossomodo, direi che quanto riportato resta valido anche oggi...con un minimo di disincanto in più, ammettiamolo."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Dark Mode"
 subtitle: "Diari della Seconda Ondata #1"
 sommario: "In un impeto di crisi da pseudo-secondo lockdown, nel cuore della notte con sveglia presto per lavoro"

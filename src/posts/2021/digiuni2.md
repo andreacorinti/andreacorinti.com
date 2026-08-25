@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Come sta andando l'astinenza da Social Network"
 subtitle: "recap degli ultimi due mesi"
 sommario: "recap degli ultimi due mesi"

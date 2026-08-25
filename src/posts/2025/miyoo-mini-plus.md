@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Miyoo Mini Plus"
 subtitle: "Resoconto dopo una settimana"
 sommario: "Siccome sono in Italia, a inzio febbraio ho avuto un attacco di nostalgia e recuperato il mio vetusto, impolverato e scassatissimo (ma più o meno funzionante) Game Boy..."

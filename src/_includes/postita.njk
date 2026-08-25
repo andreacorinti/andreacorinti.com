@@ -29,7 +29,7 @@ layout: base.njk
 <main class="tdbc-container">
   <article class="tdbc-mx-auto h-entry">
     {# L'URL permanente del post con la classe u-url. CRUCIALE per Bridgy Fed. #}
-    <a class="u-url" href="{{ permalink }}" hidden></a>
+    <a class="u-url" href="{{ meta.url }}{{ page.url }}" hidden></a>
 
     {# L'autore del post - Rimosso il <p> esterno, messo direttamente sull'<a> #}
     <a class="p-author h-card u-author-hidden" href="https://www.andreacorinti.com">Andrea Corinti</a>

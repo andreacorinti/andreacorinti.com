@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Di Mastodon Social e del concetto d'Istanza"
 subtitle: "fediversando"
 sommario: "Dopo un paio di giorni dalla mia migrazione da LS, direi che posso fare un attimo il punto sulla mia esperienza nella megaistanzona mastodon.social e sulle istanze in generale!"
@@ -36,7 +37,7 @@ Beh.
 
 Un _fottuto delirio!_
 
-**La timeline locale è una maionese impazzita pressoché identica alla federata**, la sensazione è che ci sia una scarsa (nulla?) moderazione, posto che **con numeri simili una moderazione decente sarebbe praticamente impossibile da gestire su base volontaria** (ma pure complicato per un team di lavoro vero e proprio, [conosco l'argomento abbastanza bene](https://www.andreacorinti.com/posts/ita/moderando/), fidatevi).
+**La timeline locale è una maionese impazzita pressoché identica alla federata**, la sensazione è che ci sia una scarsa (nulla?) moderazione, posto che **con numeri simili una moderazione decente sarebbe praticamente impossibile da gestire su base volontaria** (ma pure complicato per un team di lavoro vero e proprio, [conosco l'argomento abbastanza bene](https://www.andreacorinti.com/posts/moderando/), fidatevi).
 
 Ci sono però alcuni vantaggi: 
 

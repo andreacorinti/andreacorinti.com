@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Di Suikoden e altre nerdate"
 subtitle: "nerdate estive sparse"
 sommario: "Agosto sta finendo, così come l'estate, così come il mio cervello che immancabilmente si è sintonizzato sui Righeira (languidi brividi!)"
@@ -27,7 +28,7 @@ Suikoden II invece...beh sì, è un gioco memorabile e straordinario, anche lui 
 
 forse l'unico gioco a rendere in modo così perfetto questo delicato equilibrio assieme al meraviglioso _Final Fantasy Tactics_, a cui d'altronde mi sono ritrovato a pensare a più riprese.
 
-C'è poi anche la quintessenza di un vecchio discorso di cui ho già parlato tempo fa: [**il seducente cameratismo da nave nipponica**](https://www.andreacorinti.com/posts/ita/cameratismo-giapponese/).
+C'è poi anche la quintessenza di un vecchio discorso di cui ho già parlato tempo fa: [**il seducente cameratismo da nave nipponica**](https://www.andreacorinti.com/posts/cameratismo-giapponese/).
 
 Ho giocato la remastered su Switch 2, Konami certamente poteva fare parecchio di più in alcuni elementi da quality of life (l'inventario, il fast travel, gli inutilissimi autosalvataggi...) ma nel complesso sono fatte bene, degni porting dalla versione PSP (se non erro).
 

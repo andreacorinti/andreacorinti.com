@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Pearl Jam – Lightning Bolt"
 subtitle: "Recensione senza impegno"
 sommario: "Eddie Vedder inizia ad andare per la cinquantina, e questo mi porta a sentire l'infanzia più remota e lontana..."

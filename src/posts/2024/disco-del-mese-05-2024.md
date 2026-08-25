@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Maggio 2024"
 subtitle: "Sebastian Bach - Child Within the Man"
 sommario: "Lo so, sono retorico"

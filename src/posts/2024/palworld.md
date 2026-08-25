@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il mio problema con Palworld"
 subtitle: "Da leggere con calma please"
 sommario: "Partiamo col dire che la natura di Palworld non sarà il punto del mio post."

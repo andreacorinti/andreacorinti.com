@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Vegas Stakes"
 subtitle: "Retrospettiva"
 sommario: "Ho una confessione da fare! Sebbene disprezzi i Casinò dal punto di vista etico/sociale e sarei ben felice venissero rasi al suolo..."

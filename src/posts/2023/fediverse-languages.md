@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: Fediverse Languages
 subtitle: A good Babel?
 immagine: https://engagemedia.org/wp-content/uploads/2020/07/1024px-Fediverse_mosaic.svg.png

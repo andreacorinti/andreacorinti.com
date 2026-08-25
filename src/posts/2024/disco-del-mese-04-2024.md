@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Aprile 2024"
 subtitle: "Pet Shop Boys - Nonetheless"
 sommario: "Altra vecchianza!"

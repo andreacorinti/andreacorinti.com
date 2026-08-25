@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Beyond: Due Anime"
 subtitle: "Altrimenti detto David Cage Begins."
 date: 2013-11-21

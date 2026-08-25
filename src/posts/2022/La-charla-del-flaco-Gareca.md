@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La charla del flaco Gareca"
 subtitle: "Reflexión sobre el comentario de Ricardo Gareca en #ESNF90"
 sommario: "Reflexión sobre el comentario de Ricardo Gareca en #ESNF90"

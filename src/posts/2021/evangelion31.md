@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Evangelion 3.0+1.0: Thrice upon a time"
 subtitle: ".さらばさらばの手にかかる霞かな"
 sommario: "Grazie per non fuggire più, Hideaki Anno"

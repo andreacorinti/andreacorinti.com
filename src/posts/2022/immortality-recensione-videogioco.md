@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Immortality - Recensione del videogioco di Sam Barlow"
 subtitle: "Straordinario e sorprendentemente nuovo nella sua essenzialità."
 date: 2022-08-31

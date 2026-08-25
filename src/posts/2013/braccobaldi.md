@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "I Braccobaldi"
 subtitle: "E le loro peripezie"
 sommario: "Questi sconosciuti. Correva l'anno 2008, se le mie idiozie erano ancora più..)"

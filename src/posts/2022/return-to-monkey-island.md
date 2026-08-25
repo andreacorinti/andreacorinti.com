@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Return to Monkey Island"
 subtitle: RON GILBERT!
 sommario: "Non posso ancora morire!"

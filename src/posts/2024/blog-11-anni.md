@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La forza dei Siti Web e i miei 11 anni da Blogger"
 subtitle: "Tutti i miei Blog. Tipo Tutte le donne di Dylan Dog"
 sommario: "Un personale spaccato dell'internet dell'ultima decade con qualche riflessione su passato, presente e futuro dello scrivere in rete."
@@ -7,7 +8,7 @@ date: 2024-01-14
 lang: it-IT
 ---
 
-Già [quattro anni fa](https://www.andreacorinti.com/posts/ita/blog-to-the-future/) affrontavo parzialmente il discorso che voglio rispolverare e approfondire oggi.
+Già [quattro anni fa](https://www.andreacorinti.com/posts/blog-to-the-future/) affrontavo parzialmente il discorso che voglio rispolverare e approfondire oggi.
 
 Il mese prossimo, la mia "carriera" da blogger compirà ufficialmente **11 anni** e credo sia qualcosa d'impressionante, nonché una delle poche (sane) abitudini che ho mantenuto così a lungo nella mia vita.
 
@@ -41,7 +42,7 @@ sempre più devastato dalla loro perdita d'influenza per via dell'esplosione dei
 
 Un po' per reazione un po' per disperazione, nel 2013 arrivai a lanciare **Xaba Cadabra**, nato come blog personale su blogspot. 
 
-Siccome **post come [questo](https://www.andreacorinti.com/posts/ita/il-significato-del-finale-di-birdman/) mi fecero addirittura guadagnare qualche euro** con google adsense e raggiungere numeri (nel mio piccolo) abbastanza interessanti, iniziai a maturare l'idea di realizzare una vera e propria "webzine" con piani editoriali, budget e collaborazioni esterne.
+Siccome **post come [questo](https://www.andreacorinti.com/posts/il-significato-del-finale-di-birdman/) mi fecero addirittura guadagnare qualche euro** con google adsense e raggiungere numeri (nel mio piccolo) abbastanza interessanti, iniziai a maturare l'idea di realizzare una vera e propria "webzine" con piani editoriali, budget e collaborazioni esterne.
 
 ### Clickbait Flame
 

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Fare musica con LMMS"
 subtitle: Linux MultiMedia Studio
 sommario: "Chi s'interessa di produzione musicale conoscerà più o meno bene Ableton Live, Ardour, FL Studio..."

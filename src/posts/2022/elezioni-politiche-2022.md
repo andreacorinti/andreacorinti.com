@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Elezioni Politiche 2022"
 subtitle: "Commentino"
 sommario: "Stiamo all'oggi: dire e condividere che la Meloni è una fascista mascherata a cosa serve?"

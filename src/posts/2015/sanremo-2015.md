@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sanremo 2015"
 subtitle: "Pagellone & Resoconto"
 sommario: "Pagellone & Resoconto"

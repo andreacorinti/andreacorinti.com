@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Opeth e Blood Incantation - Live Sequoie Music Park di Bologna 2026"
 subtitle: "resoconto"
 sommario: "Che bello, che fatica, che caldo, che tuoni! Bellissimo concertone, bellissimo goderselo con Efi e Zel e beh, dopo qualche mese ho rivisto Michele e soci quindi non posso che essere contento!"

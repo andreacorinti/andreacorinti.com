@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "I Medici Cubani"
 subtitle: "Diari della Quarantena #3"
 sommario: "A Cuba ci sono stato quand'ero solo un pischelletto, perciò tutto quello che ricordo ha i connotati della cartolina sbiadita"

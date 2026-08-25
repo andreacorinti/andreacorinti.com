@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sanremo 2024"
 subtitle: "Amadeus Amadeus"
 sommario: "È un grottesco spettacolo barocco con tutti gli arcinoti difetti che puntualmente si sente il bisogno di rimarcare ogni anno? Sì."

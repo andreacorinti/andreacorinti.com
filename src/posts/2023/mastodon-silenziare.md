@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Cosa succede se un utente viene silenziato su Mastodon?"
 subtitle: "Esperimenti e scoperte"
 sommario: "Cosa succede se un'istanza di Mastodon decide di silenziare o bloccare un utente?"

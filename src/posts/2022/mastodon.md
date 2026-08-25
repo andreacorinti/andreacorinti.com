@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Mastodon è la rivoluzione che serve al social web"
 subtitle: Bilancio dopo una settimana su mastodon.uno
 sommario: "Non serve riportare quello che sta accadendo con Elon Musk e Twitter, ma penso possa essere utile scrivere qualche righa a proposito della mia prima settimana su Mastodon..."

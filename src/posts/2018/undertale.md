@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Undertale"
 subtitle: "Recensione"
 sommario: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava avere come missione lo starmi sulle balle."

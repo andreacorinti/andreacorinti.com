@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy IV (3D)"
 subtitle: "I chocobo puzzano!"
 sommario: "Per qualche motivo, quando si parla di Square Enix diventa sempre tutto molto complicato. Qui per dire abbiamo il porting Steam di uno dei vari remake di Final Fantasy IV"

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Ma Occidentali de che?"
 subtitle: "Hagia Sophia Fandango"
 sommario: "Erdogan non m'è simpatico, diciamolo subito"

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Dimmi perché posti?"
 subtitle: "È perchè mi va"
 sommario: "Oggi mi è arrivato questo messaggio nel contact form e ho già risposto via email a G con una bozza di quanto segue, anticipando che avrei usato il suo messaggio come spunto per un post più generale."

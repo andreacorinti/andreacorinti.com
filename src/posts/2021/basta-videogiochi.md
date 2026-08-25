@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Basta Videogiochi!"
 subtitle: "What Am I Doing With My Life?"
 sommario: "Lo ammetto subito - Il titolo è volutamente provocatorio e strizza l'occhio a certe realtà piuttosto vive nel mondo anglosassone. "

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Metal Gear Solid 5 - The Phantom Pain"
 subtitle: "recensione"
 sommario: "Il mio personale diario di viaggio nelle lande dell'ultimo capitolo di Metal Gear Solid."

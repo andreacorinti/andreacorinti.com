@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Romanzo Quirinale 2022"
 subtitle: "Dite ad Asuka Meloni di stare attenta a Shinji Salvini"
 sommario: "Appunti sparsi, più che altro per il me stesso del futuro, ma se qualcuno vuole favorire non faccia complimenti."

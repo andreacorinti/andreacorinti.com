@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Moderando s’impara?"
 subtitle: "Forse no"
 sommario: "Nell'ultimo fine settimana ho staccato dal social web (che nel mio caso significa Livello Segreto nel fediverso e Instagram nel bruttomondo)..."

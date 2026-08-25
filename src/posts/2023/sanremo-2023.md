@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sanremo 2023"
 subtitle: "Un po' di fregnacce nazionalpopolari"
 sommario: "Amadeus Amadeus, oh oh Amadeus?"

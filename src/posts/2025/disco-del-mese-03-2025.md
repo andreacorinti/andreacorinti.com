@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Marzo 2025"
 subtitle: "S.V. - o forse no!"
 sommario: "Allora...questo marzo l'ho passato a zonzo per l'Italia e i pochi ascolti che mi sono concesso sono stati prevalentemente di dischi usciti già da un bel po'..."

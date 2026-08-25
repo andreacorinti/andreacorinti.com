@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Intrattenimento Politico"
 subtitle: "Show must go on (?)"
 sommario: "Se navigate un po' nell'internet del mondo arabofono o seguite l'informazione internazionale, sicuramente cconoscerete il fenomeno di Bassem Youssef, diventato particolarmente virale dopo questa intervista..."

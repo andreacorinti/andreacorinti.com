@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La guerra tra Russia e Ucraina"
 subtitle: ""
 sommario: "Scrivo due righe su quest'argomento per mero egoismo: mi piace rivedere i miei vecchi post e collegarli a qualcosa che stava succedendo in un dato periodo."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Blog Questions Challenge 2025"
 subtitle: "Like good ol'times!" 
 sommario: "Don't be scared by the length of this post! For convenience, I made it both in Italian and English. "

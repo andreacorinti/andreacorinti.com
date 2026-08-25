@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il Corvo - Una retrospettiva"
 subtitle: "L'Impatto del corvo."
 sommario: "Io faccio parte di una generazione strana, tocca sempre ribadirlo."

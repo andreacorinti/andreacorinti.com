@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Poets of the Fall in Italia [2015]"
 subtitle: "Resoconto del concerto a Trezzo"
 sommario: "L'acustica forse forse non delle migliori, il pubblico poco (ma buono, diciamocelo da soli: di quelli che sanno farsi sentire)..."

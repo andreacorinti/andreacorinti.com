@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Perché non guarderò il live action di Cowboy Bebop"
 subtitle: "e nessun altro live action in generale"
 sommario: "e nessun altro live action in generale"

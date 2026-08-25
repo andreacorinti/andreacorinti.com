@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disincanto è finito. Com'è stato?"
 subtitle: "Disincantato ma non troppo"
 sommario: "Disincanto è finito, ma soprattutto ha compiuto la bellezza di cinque anni e personalmente ho fatto fatica a rendermene conto..."

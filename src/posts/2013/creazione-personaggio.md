@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La Creazione Personaggio nei Videogiochi"
 subtitle: "Gioco ergo sum"
 sommario: "La libertà di fare praticamente tutto, andare ovunque, interagire con ogni cosa e l'idea stessa di creare un personaggio..."

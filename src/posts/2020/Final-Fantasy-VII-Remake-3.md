@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy VII Remake è un fallimento di lusso"
 subtitle: "Non fa schifo, non ci assolve da tutti i nostri peccati"
 sommario: "Attenzione: possibili spoiler, evitate di leggere se volete evitarveli"
@@ -13,7 +14,7 @@ Partiamo dalle cose buone.
 
 ## Avalanche, Midgar e nostalgia
 
-**Sul piano artistico il remake è proprio bello**, personalmente ho vissuto meno l'impatto perché quella verginità lì l'ho persa con [Advent Children](https://www.andreacorinti.com/posts/ita/final-fantasy-vii-advent-children/).
+**Sul piano artistico il remake è proprio bello**, personalmente ho vissuto meno l'impatto perché quella verginità lì l'ho persa con [Advent Children](https://www.andreacorinti.com/posts/final-fantasy-vii-advent-children/).
 
 Ma in generale, rivedere la cura con cui tante cose sono state ricreate è commovente ed emozionante.
 
@@ -51,5 +52,5 @@ Grossomodo, mi trovo più o meno sulla stessa lunghezza d'onda dell'ottimo [dunk
 
 ## Per le puntate precedenti:
 
-* [Final Fantasy VII Remake](https://www.andreacorinti.com/posts/ita/Final-Fantasy-VII-Remake-2/)
-* [Del Remake di Final Fantasy VII](https://www.andreacorinti.com/posts/ita/Final-Fantasy-VII-Remake/)
+* [Final Fantasy VII Remake](https://www.andreacorinti.com/posts/Final-Fantasy-VII-Remake-2/)
+* [Del Remake di Final Fantasy VII](https://www.andreacorinti.com/posts/Final-Fantasy-VII-Remake/)

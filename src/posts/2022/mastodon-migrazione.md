@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Come migrare da un'istanza all'altra su Mastodon"
 subtitle: E cosa succede
 sommario: "Sono appena migrato dall'istanza mastodon.uno a livellosegreto.it! 

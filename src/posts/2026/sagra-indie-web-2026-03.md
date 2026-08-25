@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sagra IndieWeb 2026 - Marzo"
 subtitle: "Videogiochi"
 sommario: "Terzo appuntamento della Sagra, con il tema videogiochi scelto da Alessio!"

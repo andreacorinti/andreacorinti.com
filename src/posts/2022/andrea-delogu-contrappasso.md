@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Contrappasso - Andrea Delogu"
 subtitle: "Recensione e la mia decisione di Sara"
 date: 2022-09-28

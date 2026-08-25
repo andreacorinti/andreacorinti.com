@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La prima volta su internet"
 subtitle: "Voi vi ricordate come siete capitati su Internet per la prima volta ?"
 sommario: "Anche se non sembra, uno dei temi fondanti di questo sito è sempre stato La Storia di Internet."

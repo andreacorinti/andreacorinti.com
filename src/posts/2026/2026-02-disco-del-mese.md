@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Febbraio 2026"
 subtitle: "Hällas - Panorama"
 sommario: "Questo mese mi sono dato prevalentemente a riascolti di classici e sono rimasto completamente galvanizzato da un singolo disco, quindi per una volta è inutile perdersi in listoni"

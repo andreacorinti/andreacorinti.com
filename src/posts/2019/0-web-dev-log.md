@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: "Html Lang [WebDev Log 0]" 
 subtitle: a simple & dirty cheap trick in yaml
 immagine: /img/yaml.png

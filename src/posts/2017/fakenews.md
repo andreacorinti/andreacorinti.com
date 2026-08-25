@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il problema non è la Fake News, ma chi la legge"
 subtitle: "Storie di bufale"
 sommario: "L’ossessione collettiva nei confronti del fenomeno delle “Fake News” suona

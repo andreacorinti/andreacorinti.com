@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "The Last Story - Retrospettiva"
 subtitle: "Un figliol prodigo, ma anche un prodigio"
 sommario: "Dopo giusto quella decina di anni, fedele allo spirito del #BacklogPass, ho finalmente deciso di colmare una delle varie lacune che mi porto dietro da troppo tempo..."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Parlare di tutto su Internet"
 subtitle: "Un'analisi spiccia dell'evoluzione della comunicazione su Internet"
 sommario: "Da quando sono entrato a far parte di Livello Segreto quasi un anno fa...Ma un attimo, facciamo un passo indietro..."

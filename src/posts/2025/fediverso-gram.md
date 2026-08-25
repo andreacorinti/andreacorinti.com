@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Fediverso-gram"
 subtitle: ""
 sommario: "tutto ciò che scriverò nei seguenti paragrafi è soggettivo, non conosco come funzionino certe realtà nel dettaglio, è possibile che io mi stia pigliando cantonate giganti..."

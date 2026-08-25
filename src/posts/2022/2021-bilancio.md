@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Cose che mi sono piaciute nel 2021"
 subtitle: "Un bilancio su alcune delle cose che mi sono piaciute di più dell'anno passato"
 sommario: "Un bilancio su alcune delle cose che mi sono piaciute di più dell'anno passato"
@@ -18,7 +19,7 @@ Ecco, nel 2022 come buon proposito direi che in cima ho "mettermi al passo con i
 
 Questo è molto facile:
 
-[**Evangelion 3.0+1.0: Thrice upon a time**](https://www.andreacorinti.com/posts/ita/evangelion31/) vince su tutto, Hideaki Anno ti voglio bene.
+[**Evangelion 3.0+1.0: Thrice upon a time**](https://www.andreacorinti.com/posts/evangelion31/) vince su tutto, Hideaki Anno ti voglio bene.
 
 C'è da dire poi che non ho visto Dune (e onestamente non mi attira anche se me ne hanno parlato bene) e Spider-Man: No Way Home (che se non altro mi incuriosisce), ma sono ragionevolmente sicuro che entrambi non potrebbero manco avvicinarsi al buon Eva 3.0+1.0+porcoshinjiquantinumeri. 
 
@@ -42,7 +43,7 @@ Ho giocato solo due cose uscite nel 2021: _Valheim_ e _Final Fantasy Pixel Remas
 
 Final Fantasy l'ho finito ([anche se non lo consiglio](https://steamcommunity.com/id/xabaras89/recommended/1173770/)), Valheim l'ho mollato alla grande quindi vabbè, che devo dire?
 
-Per me il 2021 è stato per massima parte l'anno del digiuno ludico (si vedano i vecchi post a riguardo) ma soprattutto di [_Death Stranding_](https://www.andreacorinti.com/posts/ita/death-stranding-recensione/)
+Per me il 2021 è stato per massima parte l'anno del digiuno ludico (si vedano i vecchi post a riguardo) ma soprattutto di [_Death Stranding_](https://www.andreacorinti.com/posts/death-stranding-recensione/)
 
 Purtroppo siccome è del 2019 è fuori classifica, idem lo splendido _Disco Elysium_ che in ogni caso ho un po' parcheggiato (shame on me).
 

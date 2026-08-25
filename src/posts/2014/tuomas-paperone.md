@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Tuomas Holopainen - The Life and Times of Scrooge"
 subtitle: "Un disco su Zio Paperone dal leader dei Nightwish. Sì, avete letto bene"
 sommario: "Tuomas Holopainen è noto principalmente per essere un figo pazzesco: il tastierista / leader/ compositore/ anima / corepulsante dei Nightwish..."

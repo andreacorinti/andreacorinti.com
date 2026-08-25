@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "David Bowie"
 subtitle: "Can you hear me, Major Tom?"
 sommario: "Sono un po' scosso.

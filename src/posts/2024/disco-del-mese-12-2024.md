@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Dicembre 2024"
 subtitle: "Akira Yamaoka - SILENT HILL 2 ORIGINAL SOUNDTRACK -2024-"
 sommario: "E siamo arrivati alla fine del 2024! Confesso di essere impressionato dalla mia costanza..."

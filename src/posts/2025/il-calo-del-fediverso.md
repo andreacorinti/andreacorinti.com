@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il calo del Fediverso"
 subtitle: "il Fediverso è morto e anche io non mi sento tanto bene?"
 sommario: "Stamane ho postato questo grafico statistico da fedidb e beh, visto che questo post è di appena qualche settimana fa, ho pensato di buttarne giù un altro per fare il punto"

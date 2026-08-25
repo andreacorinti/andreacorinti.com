@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Settembre 2025"
 subtitle: "Green Carnation – A Dark Poem Part I: The Shores of Melancholia"
 sommario: "Beh, con A Dark Poem Part I The Shores of Melancholia mi sono dissanguato per il Vinile rosso al Bandcamp friday e per me è potenzialmente il disco dell'anno (in dubbio con un altro paio..."

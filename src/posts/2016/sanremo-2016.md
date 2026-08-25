@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sanremo 2016"
 subtitle: "Perché guardi Sanremo?"
 sommario: "Perché guardi Sanremo?"

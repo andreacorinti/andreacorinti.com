@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il finale di Game of Thrones"
 subtitle: "Attenzione: questo post contiene SPOILER."
 sommario: "Game of Thrones è uno dei pochi memorabili lasciti di un’epoca priva di memoria e perennemente schiacciata sull’oggi."

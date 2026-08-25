@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "One Piece è il fumetto più importante della storia"
 subtitle: "E no, non è una battuta."
 sommario: "Lo so. Akira, Watchmen, Sandman, Maus, Zanardi, V per Vendetta, Berserk, Il ritorno del Cavaliere Oscuro, Dragon Ball, Devilman, 20th Century Boys..."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Distant Worlds - Milano"
 subtitle: Resoconto del primo concerto in Italia
 sommario: Anticipo da subito che questo resoconto è una faccenda parecchio personale...
@@ -17,7 +18,7 @@ Il fatto è che, come spiegavo un paio di settimane fa, la musica di Nobuo Uemat
 
 <small>Nobuo Uematsu [(fonte)](https://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview) </small>
 
-Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](https://www.andreacorinti.com/posts/ita/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
+Anni fa citavo lo stesso Uematsu per trattare [**la questione dei limiti tecnici**](https://www.andreacorinti.com/posts/nobuo-uematsu-e-la-bellezza-dei-limiti/) e di quanto quest'ultimi (per paradosso) abbiano spinto oltre in termini di creatività parecchi autori e artisti legati al meraviglioso mondo dei videogames.
 
 ## Soundfont
 

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Atene e la Grecia ai tempi del Corona"
 subtitle: "Diari della Quarantena #2"
 sommario: "Molte volte ho pensato di scrivere della mia esperienza greca"

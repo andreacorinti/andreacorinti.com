@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Questo mondo non mi renderà cattivo è addirittura meglio di Strappare lungo i bordi"
 subtitle: "Zerocalcare colpisce ancora"
 sommario: "Il titolo è un po' provocatorio, e dico subito che Strappare lungo i bordi l'ho amata tantissimo, come del resto ho amato l'intera produzione di Michele..."
@@ -17,7 +18,7 @@ dico generazionale perché, come mi è capitato di scrivere altre volte, a mio m
 
 E vale sempre la pena ribadirlo perché questa è prima di tutto la sua cifra, il racconto dell'ansia e del disagio con ottimo umorismo condito della cultura pop con cui un bel po' di gente è stata svezzata e cresciuta.
 
-Ma questa storia animata per Netflix porta ad un salto estremamente delicato e difficile, che mi ha riportato alla mente un vecchio discorso che facevo sulla sinistra (o più in generale l'opposizione) [commentando la vittoria della Meloni alle ultime elezioni.](https://www.andreacorinti.com/posts/ita/elezioni-politiche-2022/).
+Ma questa storia animata per Netflix porta ad un salto estremamente delicato e difficile, che mi ha riportato alla mente un vecchio discorso che facevo sulla sinistra (o più in generale l'opposizione) [commentando la vittoria della Meloni alle ultime elezioni.](https://www.andreacorinti.com/posts/elezioni-politiche-2022/).
 
 Sarà che ho incontrato tante _giraffe_, sarà che ho conosciuto più di una persona meritevole affascinata da mondi orrendi (non necessariamente politici) semplicemente perché altrove non la volevano, ma ho trovato _Questo mondo non mi renderà cattivo_ straordinariamente utile ed empatico, cosa che mio malgrado non mi sento di dire di massima parte dell'intrattenimento contemporaneo.
 

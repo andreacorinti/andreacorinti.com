@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Dritte da Mastodon"
 subtitle: "appunti vari dopo un paio d'anni di uso quotidiano"
 sommario: "Consigli spassionati dopo qualche anno d'esperienza!"

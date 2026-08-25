@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Switch 2 e il mio ritorno da Nintendo"
 subtitle: "Disclaimer: Questo post non è pagato da Nintendo (purtroppo)"
 sommario: "Lo scorso aprile ho comprato una Nintendo Switch 2. E sì, mentre lo scrivo mi sto dicendo da solo e sti cazzi?"

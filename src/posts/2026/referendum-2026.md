@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Postumi del Referendum Giustizia 2026"
 subtitle: "(Sì, questo è il No di Pedro in Excel Saga)"
 sommario: "Era da parecchio che non mettevo qualcosa di politico su questo blog: come scritto in passato, nutro un certo senso di disgusto e disaffezione per la materia..."

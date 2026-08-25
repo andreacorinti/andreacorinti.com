@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Perché I molti santi del New Jersey è brutto"
 subtitle: "Ciò che non funziona in The Many Saints of Newark"
 sommario: "Ok - brutto è un po' estremo, me ne rendo conto, e per gli standard di internet so già che verrà immediatamente tradotto con un generico e ingiustissimo fa schifo..."

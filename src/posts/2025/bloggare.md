@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Preparandosi a bloggare nel 2026"
 subtitle: "Se vi state chiedendo perché c'è Selphie qui sopra, o non avete giocato a Final Fantasy VIII oppure l'avete fatto in modo distratto."
 sommario: "Ciciclicamente torno a cianciare sul tema blog (d'altronde su un blog stiamo, oh!) e, considerando che ridendo e scherzando da queste parti faccio mediamente almeno una trentina di post l'anno"
@@ -55,7 +56,7 @@ Poi, e questo è un grandioso vantaggio di mastodon, **un post da blog volendo p
 
 Esempio a caso? 
 
-[Questo post di gennaio](https://www.andreacorinti.com/posts/ita/uccidi-buddah/) sul tema idolatria, che ha generato un bel dibattito.
+[Questo post di gennaio](https://www.andreacorinti.com/posts/uccidi-buddah/) sul tema idolatria, che ha generato un bel dibattito.
 
 Purtroppo le dinamiche da timeline e l'eliminazione automatica dei post vigente per molti account su mastodon in questo senso non aiutano, ma oh, _piutost che nient l'è mej piutost_.
 
@@ -71,8 +72,8 @@ Magari!
 
 ### Altri post a tema blog
 
-* [Blog to the Future](https://www.andreacorinti.com/posts/ita/blog-to-the-future/)
-* [La forza dei Siti Web e i miei 11 anni da Blogger](https://www.andreacorinti.com/posts/ita/blog-11-anni/)
-* [Blog Questions Challenge 2025](https://www.andreacorinti.com/posts/ita/blog-questions-challenge-2025/)
+* [Blog to the Future](https://www.andreacorinti.com/posts/blog-to-the-future/)
+* [La forza dei Siti Web e i miei 11 anni da Blogger](https://www.andreacorinti.com/posts/blog-11-anni/)
+* [Blog Questions Challenge 2025](https://www.andreacorinti.com/posts/blog-questions-challenge-2025/)
 
 <mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="115496693788505873"></mastodon-comments>

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Fediverso Fandango"
 subtitle: "Note sparse su CW, politica, alt-text e altro"
 sommario: "Ci sono cose che covo da un po' e che post-europee mi andava di fissare meglio scrivendole qui senza limiti di 500 caratteri, anche perché sono parecchie e il rischio di fraintendersi resta sempre alto."
@@ -31,7 +32,7 @@ Ovviamente, visto l'approccio collettivo che LS comunque si porta dietro, ci sta
 
 Perché _certo_, tutto è politica, ma credo basti un minimo di buonsenso per comprendere gli opportuni distinguo che passano dalla riflessione su _La Repubblica_ di Platone e il riportare le stronzate del Generale Vannacci, no?
 
-Potrei fare un discorso più largo sulla cronaca e l'argomento del giorno, ma di 'sta cosa ne ho già [parlato](https://www.andreacorinti.com/posts/ita/mastodon-migrazione-2/) ed è una faccenda molto personale. 
+Potrei fare un discorso più largo sulla cronaca e l'argomento del giorno, ma di 'sta cosa ne ho già [parlato](https://www.andreacorinti.com/posts/mastodon-migrazione-2/) ed è una faccenda molto personale. 
 
 ### Ma se non ti interessi di politica, non per questo la politica smetterà di interessarsi di te! Comodo postare solo nerdate!
 

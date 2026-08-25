@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Nobuo Uematsu e la bellezza dei limiti"
 subtitle: "Il compositore di Final Fantasy e qualche riflessione"
 sommario: "Essendo un retrogamer, ci penso spesso. Avendo un rapporto conflittuale con il videogame moderno, ci rimugino molto..."

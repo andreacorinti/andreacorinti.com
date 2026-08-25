@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Di Teleperformance, Google e recensioni nascoste"
 subtitle: "censuraaaaa (no dai, si scherza)"
 sommario: "Google Maps ha rimosso una mia vecchia recensione di una delle sedi greche di Teleperformance dove ho lavorato"

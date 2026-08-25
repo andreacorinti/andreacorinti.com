@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Cyberpunk 2077 è la fiera dei rimpianti"
 subtitle: "Una pseudo recensione spassionata"
 sommario: "Si è già detto tutto, il suo contrario ed in generale troppo, salvo (inevitabilmente) ritrovarsi a parlare poco del gioco in quanto tale, ovvero ciò che proverò a trattare in queste righe."

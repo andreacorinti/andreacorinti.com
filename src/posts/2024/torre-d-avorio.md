@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Nella mia Web-Torre d'Avorio"  
 subtitle: "O tempora, o mores!"  
 sommario: "Faccio questo post per cercare di isolare definitivamente un concetto che, in un modo o nell'altro, mi trovo spesso a riprendere (almeno così potrò eventualmente linkarlo in futuro, visto che sono pigro)."  

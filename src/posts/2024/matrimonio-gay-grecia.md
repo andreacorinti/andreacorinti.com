@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Grecia - approvato il matrimonio tra persone dello stesso sesso"
 subtitle: "Piccola Riflessione Politica"
 sommario: "Per scelta e benessere di solito evito di parlare di politica da queste parti (diciamo pure che evito di farlo su internet in generale), però in questi giorni..."

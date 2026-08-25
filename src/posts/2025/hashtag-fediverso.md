@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Gli Hashtag e il Fediverso"
 subtitle: "A Musk gli hashtag non piacciono, quindi sono bellissimi."
 sommario: "A Musk gli hashtag non piacciono, quindi sono bellissimi. Se postiamo qualcosa nel Fediverso, tendenzialmente speriamo che venga letta da qualcuno, giusto?"

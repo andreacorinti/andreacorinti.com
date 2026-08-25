@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: In the Fediverse I would like
 subtitle: my Fediverse thoughts for 2024
 immagine: https://3.bp.blogspot.com/-nf3R4LROWrE/UG61bzMZ7jI/AAAAAAAAA1M/t3volLopJys/s1600/mulinobianco.jpg

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Arrivederci Segreto"
 subtitle: "ci vediamo nel fediverso"
 sommario: "arrivederci perché una migrazione non significa un addio e il grosso dei miei contatti nel fediverso fa parte di Livello Segreto, che dal 2022 è stata senza dubbio la mia istanza preferita (spoiler: tutto sommato lo è ancora)."
@@ -31,7 +32,7 @@ personalmente trovo che così si perda un po' il senso del concetto delle istanz
 
 Ecco, confesso che io in questo forse sono un pelo troppo manicheo.
 
-Intanto, diciamo che se c'è una regola vorrei fosse fatta sempre rispettare, pur con i dovuti distinguo (famoso discorso CW, rimando [qui](https://www.andreacorinti.com/posts/ita/cw/) per i dettagli), ma credo pure che certi fuochi serva spegnerli sul nascere:
+Intanto, diciamo che se c'è una regola vorrei fosse fatta sempre rispettare, pur con i dovuti distinguo (famoso discorso CW, rimando [qui](https://www.andreacorinti.com/posts/cw/) per i dettagli), ma credo pure che certi fuochi serva spegnerli sul nascere:
 
 parliamoci chiaro: 
 

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Barbie - il film"
 subtitle: "Hi Hype! Hi Web!"
 sommario: "Partiamo dalle cose semplici...Il film di Barbie è bello?"

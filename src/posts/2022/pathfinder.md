@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Pathfinder: Kingmaker"
 subtitle: ""
 sommario: "Siccome in queste ore l'Italia trabocca di Kingmaker per il Quirinale, mi sono ricordato di inserire qui la piccola recensione che ho fatto su Pathfinder: Kingmaker su steam."

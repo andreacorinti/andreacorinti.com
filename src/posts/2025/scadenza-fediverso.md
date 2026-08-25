@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La mia data di scadenza sul Fediverso"
 subtitle: "Dicembre 2025"
 sommario: "Mi concederò tre mesetti per fare un po' il punto sulla mia triennale esperienza nel Fediverso, che oramai ho la vaga sensazione sia andata esaurendosi"

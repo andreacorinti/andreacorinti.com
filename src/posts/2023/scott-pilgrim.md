@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Scott Pilgrim Takes Off visto da un non-fan di Scott Pilgrim"
 subtitle: "Ma che almeno un po' si è convertito"
 sommario: "Ok, visto che sotto la prenderò larga, partiamo dalle utili banalità. Scott Pilgrim Takes Off è delizioso e sorprendente."

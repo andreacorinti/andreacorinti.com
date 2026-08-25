@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Europee 2024"
 subtitle: "Un paio di parole al volo"
 sommario: "Mi levo 'sto dente per poi tornare a cose più belle e costruttive"

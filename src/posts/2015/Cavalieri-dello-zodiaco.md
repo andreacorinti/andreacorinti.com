@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "I Cavalieri dello Zodiaco - La Leggenda del Grande Tempio"
 subtitle: "Recensione"
 sommario: "Altrimenti detto Saint Seiya - Legend of the Sanctuary. Ossia Malessere, tanto malessere."

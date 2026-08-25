@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Cosa ne penso dei trailer di Final Fantasy XVI"
 subtitle: "Fantasie Finali poco fantasiose"
 sommario: "Ho scritto cosa ne penso nel titolo per un paio di motivi."

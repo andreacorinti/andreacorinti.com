@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Addio Chris Cornell"
 subtitle: "Qualche parola a braccio"
 sommario: "Qualche parola a braccio."

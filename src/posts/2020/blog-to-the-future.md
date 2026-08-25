@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Blog to the Future"
 subtitle: "Blogs of Future Past?"
 sommario: "Sono giorni interessanti (e stressanti) per tante ragioni, quindi tutti i miei rancori per il social web scottano più del solito."

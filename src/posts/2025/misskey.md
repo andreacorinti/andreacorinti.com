@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Provando Misskey"
 subtitle: "prime impressioni gattare"
 sommario: "Escludendo il solito mondo social-centralizzato (Threads, Bluesky), Misskey è uno dei software più utilizzati del Fediverso dopo Mastodon"

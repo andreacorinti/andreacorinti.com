@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Simone Simons - Vermillion"
 subtitle: "PS al solito disco del mese"
 sommario: "Allora, Vermillion è uscito il 23 Agosto quindi sto barando e mettendo una pezza sul solito post mensile..."

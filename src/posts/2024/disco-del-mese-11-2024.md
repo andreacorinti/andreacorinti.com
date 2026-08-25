@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Novembre 2024"
 subtitle: "Crippled Black Phoenix - The Wolf Changes Its Fur But Not Its Nature"
 sommario: "Allora, lo dico? Lo dico. questo novembre è stato straordinario, e i primi quattro dischi li potrei tranquillamente mettere a pari merito qui in cima da quanto mi sono piaciuti (tutti potenziali dischi dell'anno)"

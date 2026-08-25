@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Le prime 100 ore di Miyoo Mini Plus"
 subtitle: "Piccole gioie tascabili"
 sommario: "dopo due mesi e 100 ore giocate, credo di poter parlare con un po' più di cognizione di causa di questo magnifico aggeggino."

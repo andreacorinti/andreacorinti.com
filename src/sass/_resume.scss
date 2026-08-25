@@ -1,0 +1,287 @@
+@use "sass:color";
+@use "theme";
+
+// Scoped styles for the /resume page: compact on screen,
+// tuned to fit cleanly on A4 when printed / exported to PDF.
+.resume-page {
+  // The site's default link color is white (meant for the dark theme);
+  // this page forces a white background for its own content, so links
+  // there need their own color. Scoped to main, not the whole page: the
+  // footer keeps its own dark background (shared with the rest of the
+  // site) and must keep the sitewide white/yellow link color, not this.
+  main a:link,
+  main a:visited {
+    color: #1a4fd6;
+  }
+
+  // Compact header instead of the site's full-height hero
+  .tdbc-hero {
+    display: block;
+    min-height: 0;
+    padding: 2rem 0 1.5rem;
+    text-align: left;
+  }
+
+  .resumeAvatar {
+    width: 120px;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+
+  // Sits at the end of the header's flex row instead of its own
+  // full-width block above the content
+  .resume-print-btn {
+    margin-left: auto;
+  }
+
+  article {
+    max-width: 78ch;
+  }
+
+  h3 {
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 2px solid theme.tdbc-color("secondary");
+    font-size: 1.4rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    &:first-of-type {
+      margin-top: 1.5rem;
+    }
+  }
+
+  // Resume tables read as key/value or CV rows, not data grids:
+  // ditch the site-wide black header bar for something quieter.
+  table {
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+  }
+
+  // Visually hidden, not display:none: keeps column names available
+  // to screen readers without showing the site-wide black header bar.
+  thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  td {
+    padding: 0.4em 0.6em 0.4em 0;
+    border-bottom: 1px solid color.mix(theme.tdbc-color("secondary"), white, 15%);
+    vertical-align: top;
+
+    &:first-child:not(:only-child) {
+      width: 26%;
+      padding-right: 1em;
+      font-weight: theme.$tdbc-strong-font-weight;
+      white-space: nowrap;
+    }
+  }
+
+  // Certifications: lay the images out as a compact grid instead of
+  // one full-width image after another; each links to the full-size file
+  h3:last-of-type + p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+
+    a {
+      display: inline-flex;
+      transition: transform 150ms ease-in-out;
+
+      &:hover,
+      &:focus-visible {
+        transform: scale(1.06);
+      }
+    }
+
+    img {
+      height: 90px;
+      width: auto;
+      border-radius: 4px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .tdbc-hero > div[style] {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .resume-print-btn {
+      margin-left: 0;
+      width: 100%;
+    }
+
+    td:first-child {
+      width: auto;
+      white-space: normal;
+    }
+  }
+
+  // Print-only duplicate (see resume.njk / the resumeSection filter):
+  // hidden on screen, shown only under @media print below.
+  .print-only {
+    display: none;
+  }
+}
+
+// Printing / "save as PDF": a distinct, classic two-column CV layout —
+// sidebar (contacts/skills) + main column (experience/publications/
+// education/languages/certifications) — instead of the single-column
+// web page. The exact grouping lives in resume.njk's two resumeSection
+// calls, not here — this file only lays out whatever ends up in each.
+//
+// This can't be done by re-flowing the single-column article with CSS
+// alone: CSS Grid ties both columns' rows to a shared track height (gaps
+// under whichever column's row is shorter), and floats can't rise above
+// an earlier float regardless of side (so a later, opposite-side float
+// trails behind whatever came before it in source order) — both were
+// tried and both produced visibly broken pagination. Instead resume.njk
+// renders the same content twice: once as-is (hidden here via .no-print)
+// and once split by the resumeSection filter into two contiguous,
+// independent groups, which is what the rules below actually lay out.
+@media print {
+  @page {
+    margin: 1cm;
+  }
+
+  .resume-page {
+    .no-print,
+    .emoji {
+      display: none !important;
+    }
+
+    // main's sitewide 5vh bottom padding is ~1.5cm of dead space on a
+    // print page; zero it out here
+    main {
+      padding-bottom: 0;
+    }
+
+    // Photo top-left, name/title beside it, thin rule under — a classic
+    // CV masthead instead of the site's centered hero. Forcing flexbox
+    // row/justify-content here fought the header markup's sitewide
+    // `flex-direction: column` and lost in testing, so this floats the
+    // photo left instead: a float always pulls the following text beside
+    // it in normal flow, with no flex specificity to fight.
+    .tdbc-hero {
+      padding: 0;
+      margin-bottom: 0.5rem;
+      border-bottom: 1.5px solid black;
+      text-align: left;
+
+      > div[style] {
+        display: block !important;
+        padding-bottom: 0.3rem;
+
+        &::after {
+          display: table;
+          clear: both;
+          content: "";
+        }
+      }
+    }
+
+    .resumeAvatar {
+      float: left;
+      width: 85px;
+      margin-right: 0.9rem;
+      border-radius: 4px;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+    }
+
+    h2.tdbc-lead {
+      margin-top: 0.15em;
+      font-size: 0.9rem;
+    }
+
+    .print-only {
+      display: block;
+    }
+
+    // Two genuinely independent columns: a flex row with exactly two
+    // children, each free to size to its own content with no row-by-row
+    // sync between them.
+    .resume-print-columns {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .resume-print-sidebar {
+      flex: 0 0 29%;
+    }
+
+    .resume-print-main {
+      flex: 1 1 auto;
+    }
+
+    // The regrouped print duplicate's first item in each column shouldn't
+    // carry the top margin meant for a section that follows another one
+    .resume-print-sidebar > :first-child,
+    .resume-print-main > :first-child {
+      margin-top: 0;
+    }
+
+    // (the first heading in each column has its margin-top zeroed above,
+    // next to the two-column rules — not repeated here as :first-of-type
+    // since that's relative to h3 siblings only, not the mixed h3/table
+    // children these columns actually contain)
+    h3 {
+      margin-top: 0.5rem;
+      margin-bottom: 0.2rem;
+      padding-bottom: 0.1rem;
+      font-size: 0.9rem;
+      line-height: 1.1;
+      break-after: avoid;
+    }
+
+    table {
+      margin-bottom: 0.1rem;
+      font-size: 0.68rem;
+      line-height: 1.25;
+    }
+
+    td {
+      padding: 0.1em 0.4em 0.1em 0;
+
+      // Matches the screen rule's specificity (:first-child:not(:only-child))
+      // so this override actually wins in print instead of losing the cascade
+      &:first-child:not(:only-child) {
+        width: auto;
+        white-space: normal;
+      }
+    }
+
+    tr {
+      break-inside: avoid;
+    }
+
+    h3:last-of-type + p {
+      gap: 0.4rem;
+
+      img {
+        height: 38px;
+      }
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+  }
+
+  footer {
+    display: none !important;
+  }
+}

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Aprile 2025"
 subtitle: "Messa - The Spin"
 sommario: "Questo mese si vince facile visto che il buon Zel mi ha ricordato l'uscita del nuovo disco dei meravigliosi doomoni di Cittadella..."

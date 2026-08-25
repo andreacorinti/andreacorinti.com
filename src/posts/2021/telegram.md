@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: "What will happen to my Telegram account when I’ll die?" 
 subtitle: Happy New Year!
 immagine: https://miro.medium.com/max/1280/0*dwMDnBTHREC4OxiW.jpg

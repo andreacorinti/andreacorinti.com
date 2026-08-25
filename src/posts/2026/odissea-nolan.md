@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "L’Odissea di Nolan"
 subtitle: "Impressioni a caldo su un peplum in anno domini 2026"
 sommario: "Un kolossal umano, poco divino e sorprendentemente sentito"

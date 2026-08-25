@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Clair Obscur: Expedition 33"
 subtitle: "Une vie à t'aimer"
 sommario: "Ma che vogliamo dirgli alla Francia? Coi cugini d'oltralpe possiamo spenderci in tutti i derby e le rivalità del caso eh, ci sta..."

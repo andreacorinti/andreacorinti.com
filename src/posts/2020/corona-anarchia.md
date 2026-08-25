@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Anarchia e Corona Virus"
 subtitle: "Diari della Quarantena #4"
 sommario: "Potevo attraversare litri e litri di corallo per raggiungere un posto che si chiamasse Anarchia"

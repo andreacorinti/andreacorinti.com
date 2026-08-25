@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Luglio 2025"
 subtitle: "Wytch Hazel – V: Lamentation"
 sommario: "Luglio sorprendentemente ricco per essere stato così mortalmente torrido e incasinato..."

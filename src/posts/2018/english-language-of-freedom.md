@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: English is the language of freedom
 subtitle: but I'm pretty bad at writing in it
 immagine: /img/english.jpg

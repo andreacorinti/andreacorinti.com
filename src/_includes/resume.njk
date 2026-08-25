@@ -2,10 +2,10 @@
 layout: base.njk
 ---
 
-<body style="background-color:white;">
+<body class="resume-page" style="background-color:white;">
 
 <header class="tdbc-hero">
-  <div class="tdbc-container" style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+  <div class="tdbc-container" style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
     <!-- Immagine a sinistra -->
     <img src="{{ immagine }}" alt="Andrea Corinti" class="resumeAvatar">
 
@@ -16,35 +16,25 @@ layout: base.njk
         {{ description }}
       </h2>
     </div>
+
+    <button type="button" class="tdbc-button tdbc-button--small resume-print-btn no-print" onclick="window.print()">🖨️ Stampa / PDF</button>
   </div>
 </header>
 
 <main class="tdbc-container" style="color:black;">
-  <style>
-    a:link { color: blue; }
-    a:visited { color: blue; }
-
-    /* Stile per ridurre le dimensioni dell'immagine */
-    .resumeAvatar {
-      width: 140px;
-      height: auto;
-      border-radius: 10px;
-      flex-shrink: 0;
-    }
-
-    @media (max-width: 600px) {
-      .tdbc-container[style*="flex"] {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      .resumeAvatar {
-        margin-bottom: 1rem;
-      }
-    }
-  </style>
-
-  <article class="tdbc-mx-auto">
+  <article class="tdbc-mx-auto no-print">
     {{ content | safe }}
   </article>
+
+  <!-- Print-only duplicate: same content regrouped into a classic CV
+       sidebar + main column. Hidden on screen; see resumeSection in
+       .eleventy.js and the print rules in _resume.scss. -->
+  <div class="resume-print-columns print-only" aria-hidden="true">
+    <div class="resume-print-sidebar">
+      {{ content | resumeSection(["--contacts-and-personal-info", "--it-skills", "--other-skills"]) | safe }}
+    </div>
+    <div class="resume-print-main">
+      {{ content | resumeSection(["--work-experience", "--publications", "--education", "--languages", "--certifications"]) | safe }}
+    </div>
+  </div>
 </main>

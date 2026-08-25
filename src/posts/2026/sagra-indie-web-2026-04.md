@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Sagra IndieWeb 2026 - Aprile"
 subtitle: "Sovranità digitale"
 sommario: "Quarto appuntamento della Sagra, con il tema Sovranità Digitale scelto da Gilberto"

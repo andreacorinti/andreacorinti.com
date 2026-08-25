@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Corona Virus"
 subtitle: "Diari della Quarantena"
 sommario: "È un periodo terribile e molto strano, di cui credo avremo la giusta misura solo quando l'emergenza sarà terminata"

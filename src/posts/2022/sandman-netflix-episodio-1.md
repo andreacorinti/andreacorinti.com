@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "The Sandman Episodio 1 - Sleep of the Just"
 subtitle: Bella voce, ottimi attori, musica e fotografia così così
 sommario: "Tutto davvero molto fedele al fumetto, Tom Sturridge mi ha sorpreso molto in positivo (non ce lo vedevo molto nel ruolo di Sogno, ma mi sono dovuto ricredere), benissimo anche Boyd Holbrook nel ruolo del mio simpatico parente, il Corinthian. Ma la fotografia..."

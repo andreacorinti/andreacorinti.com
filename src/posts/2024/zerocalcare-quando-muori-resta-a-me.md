@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Il grosso boh di Zerocalcare - Quando muori resta a me"
 subtitle: "Segue un discorso complesso"
 sommario: "Ho aspettato un mese esatto prima di scrivere due righe di riflessione sull'ultimo fumettone di Michele Rech che, diciamolo subito, come al solito è molto bello..."

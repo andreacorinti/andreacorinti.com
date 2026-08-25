@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Steam Deck: opinioni più di sei mesi dopo"
 subtitle: "Dock, emudeck e considerazioni generali"
 sommario: "Sono un felice possessore di Steam Deck dallo scorso ottobre e, sebbene causa vita e lavoro i miei tempi di gioco si siano estremamente ridotti (una media di un'oretta ogni due settimane o giù di lì..."

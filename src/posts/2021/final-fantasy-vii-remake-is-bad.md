@@ -1,4 +1,6 @@
 ---
+layout: posteng
+templateEngineOverride: njk,md
 title: Final Fantasy VII Remake is bad
 subtitle: And fans deserve it
 immagine: https://miro.medium.com/max/875/0*JDN3FqDwaQLzjyXy.jpg

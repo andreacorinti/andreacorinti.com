@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Return to Monkey Island - Recensione"
 subtitle: "l'amore vince sempre sull'invidia e sull'odio"
 sommario: "l'amore vince sempre sull'invidia e sull'odio"
@@ -11,7 +12,7 @@ lang: it-IT
 
 Lo ammetto: ancor prima di iniziarlo, mi stavo preparando psicologicamente a scriverne male.
 
-Dopo l'incredibile hype iniziale, tutta la polemica riguardo lo stile grafico ([che non mi entusiasmava](https://www.andreacorinti.com/posts/ita/return-to-monkey-island/)) ma soprattutto la sovrabbondanza di immagini e trailer negli ultimi mesi mi aveva fatto un po'perdere interesse, come se tutta l'enorme bolla derivata dal _Ron Gilbert torna su Monkey Island dopo 30 anni_ fosse improvvisamente esplosa dopo troppe chiacchere e tanta attesa...
+Dopo l'incredibile hype iniziale, tutta la polemica riguardo lo stile grafico ([che non mi entusiasmava](https://www.andreacorinti.com/posts/return-to-monkey-island/)) ma soprattutto la sovrabbondanza di immagini e trailer negli ultimi mesi mi aveva fatto un po'perdere interesse, come se tutta l'enorme bolla derivata dal _Ron Gilbert torna su Monkey Island dopo 30 anni_ fosse improvvisamente esplosa dopo troppe chiacchere e tanta attesa...
 
 nemmeno troppa, mi rendo conto, ma nel 2022 fatto di social, comunicazioni istantanee e ritmi indiavolati, tutto invecchia molto velocemente. 
 

@@ -9,12 +9,12 @@ immagine: /img/cv/avatar.jpg
 
 |                     |                                    |
 |---------------------|------------------------------------|
-| 🏠 Address (Italian) | Via Roscio 28<br>Albavilla (CO)<br>22031 |
-| ✉ Mail              | corinti@gmx.com                    |
-| ☎️ Phone (Italian)  | +39 348 865 4953                   |
-| ☎️ Phone (Greek)    | +30 694 711 6936                   |
-| 🌐 Website           | andreacorinti.com                  |
-| Nationality         | Italian 🇮🇹                       |
+| <span class="emoji">🏠</span> Address (Italian) | Via Roscio 28<br>Albavilla (CO)<br>22031 |
+| <span class="emoji">✉</span> Mail              | corinti@gmx.com                    |
+| <span class="emoji">☎️</span> Phone (Italian)  | +39 348 865 4953                   |
+| <span class="emoji">☎️</span> Phone (Greek)    | +30 694 711 6936                   |
+| <span class="emoji">🌐</span> Website           | andreacorinti.com                  |
+| Nationality         | Italian <span class="emoji">🇮🇹</span>                       |
 | Date of Birth       | 17/06/1989                         |
 
 ### + Work Experience
@@ -50,11 +50,11 @@ immagine: /img/cv/avatar.jpg
 
 | Category            | Skills                             |
 |---------------------|------------------------------------|
-| Operating Systems   | Windows 95 – 11, Android, iOS, macOS, Linux (Arch, Debian/Ubuntu) |
+| Operating Systems   | Windows, Android, iOS, macOS, Linux (Arch, Debian/Ubuntu, Mint) |
 | Web Development     | HTML5, CCS3, Javascript, 11ty, Netlify, Wordpress, Jekyll, Bootstrap, Github Pages, Google Analytics, Google Ads, Google Search Console |
-| Programming languages| Java                               |
-| Production Software | Microsoft Office Suite, Visual Studio Code, ATOM, IntelliJ IDEA, Adobe Suite, LibreOffice, Trello, many others |
-| Design Software      | Adobe Photoshop, Sony Vegas Pro, Adobe Illustrator, Inkscape, GIMP |
+| Production Software | Visual Studio Code, Microsoft Office Suite, IntelliJ IDEA, Adobe Suite, LibreOffice, many others |
+| AI | Claude, Gemini, ChatGPT, Qwen |
+| Design Software      | Adobe Photoshop, Adobe Illustrator, Krita, GIMP |
 
 ### + Other Skills
 
@@ -73,7 +73,7 @@ immagine: /img/cv/avatar.jpg
 
 ### + Certifications
 
-![Google Certification](/img/cv/google1.jpg)
-![freeCodeCamp Certification](/img/cv/freecodecamp1.png)
-![MOOC Certification](/img/cv/mooc.jpg)
-![Salute Sicurezza Certification](/img/cv/salutesicurezza.jpg)
+<a href="/img/cv/google1.jpg" target="_blank" rel="noopener">![Google Certification](/img/cv/google1.jpg)</a>
+<a href="/img/cv/freecodecamp1.png" target="_blank" rel="noopener">![freeCodeCamp Certification](/img/cv/freecodecamp1.png)</a>
+<a href="/img/cv/mooc.jpg" target="_blank" rel="noopener">![MOOC Certification](/img/cv/mooc.jpg)</a>
+<a href="/img/cv/salutesicurezza.jpg" target="_blank" rel="noopener">![Salute Sicurezza Certification](/img/cv/salutesicurezza.jpg)</a>

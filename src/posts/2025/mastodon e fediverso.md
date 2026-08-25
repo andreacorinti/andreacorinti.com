@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Mastodon VS Fediverso"
 subtitle: "Chi decentralizza i decentralizzatori?"
 sommario: "Mastodon non è il Fediverso. Ma in parte sì."

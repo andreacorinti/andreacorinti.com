@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Marzo 2026"
 subtitle: "Speglas - Endarkenment, Being & Death"
 sommario: "Molti di questi dischi in realtà sono usciti a febbraio, ma come dicevo il mese scorso per me è stato monopolizzato dagli Hällas quindi un recuperone mischione era d'obbligo!"

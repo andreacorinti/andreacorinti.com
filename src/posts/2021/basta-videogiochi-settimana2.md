@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Subverse! #BastaVideogiochi - Day 14"
 subtitle: "Dopo due settimane, il primo sgarro"
 sommario: "Dopo due settimane, il primo sgarro per colpa dello Studio Fow"
@@ -20,7 +21,7 @@ Ci ho giocato meno di due ore, annoiandomi per circa il 95% del tempo visto che 
 
 Qui abbiamo un mediocre gioco sconcio che potenzialmente poteva essere una bella serie sporcacciona, tra l'altro prodotta con ogni probabilità in meno tempo.
 
-Strano a dirsi, mi sono ritrovato a pensare a [cyberpunk2077](https://www.andreacorinti.com/posts/ita/cyberpunk-2077/) e ho chiesto un rimborso delle 25 carte.
+Strano a dirsi, mi sono ritrovato a pensare a [cyberpunk2077](https://www.andreacorinti.com/posts/cyberpunk-2077/) e ho chiesto un rimborso delle 25 carte.
 
 ## Sì ma è un accesso anticipato
 

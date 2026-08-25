@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Final Fantasy VII Remake"
 subtitle: "Ma non so spiegarti / Che il nostro amore appena nato / È già finito"
 sommario: "Se Stairway to Heaven uscisse domani, sarebbe la Stairway to Heaven che conosciamo? No"

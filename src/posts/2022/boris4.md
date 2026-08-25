@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Boris 4"
 subtitle: "Una serie a cui si vuole bene"
 sommario: "Non parlerò di Boris in generale, è superfluo perché è un cult assoluto che nel corso degli anni si è radicato nel linguaggio di un certo internet italiano..."

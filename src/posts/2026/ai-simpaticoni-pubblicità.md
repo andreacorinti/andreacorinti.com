@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Pubblicità, simpaticoni e Intelligenza Artificiale"
 subtitle: "per la serie ragionamenti afosi a random"
 sommario: "Oramai è parecchio che la bolla AI imperversa nel globo, e i vari modelli hanno fatto un sacco di strada rispetto alle follie generate da Midjourney o Centipede Diffusion solo una manciata di anni fa."

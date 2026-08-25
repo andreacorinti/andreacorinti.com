@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Uscire dalla regione uscire dalla ragione"
 subtitle: "Diari della Quarantena #5"
 sommario: "Sfogo di un iscritto all'AIRE in Italia durante il COVID"

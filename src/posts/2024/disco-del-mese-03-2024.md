@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Marzo 2024"
 subtitle: "Judas Priest - Invincible Shield"
 sommario: "Potere della vecchianza"

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Xenogears - Recensione"
 subtitle: "Il capolavoro nascosto di Squaresoft"
 sommario: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che..."

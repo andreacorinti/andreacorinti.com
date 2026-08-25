@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Don Mario Galbiati"
 subtitle: "fondatore di Radio Maria e Radio Mater"
 sommario: "è successa una cosa che mi ha fatto un po' riflettere: oggi è morto Don Mario Galbiati, fondatore di Radio Maria e Radio Mater."

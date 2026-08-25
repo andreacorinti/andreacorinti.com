@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Luglio 2024"
 subtitle: "Ulver - Hollywood Babylon"
 sommario: "Kristoffer Rygg colpisce ancora"

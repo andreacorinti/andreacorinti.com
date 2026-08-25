@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Quanti italiani ci sono su Mastodon?"
 subtitle: Commento al sondaggio
 sommario: "Prima di tutto vorrei ringraziare moltissimo le più di 2000 persone che hanno partecipato al mio sondaggio..."

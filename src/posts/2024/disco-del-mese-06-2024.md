@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Disco del Mese - Giugno 2024"
 subtitle: "Lindsey Stirling - Duality"
 sommario: "Un po' di modernità ogni tanto!"

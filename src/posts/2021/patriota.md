@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La Patria è un'invenzione - Martìn (Hache)"
 subtitle: "Colui che si sente patriota, che crede di appartenere ad un paese, è un tarato mentale."
 sommario: "Colui che si sente patriota, che crede di appartenere ad un paese, è un tarato mentale."

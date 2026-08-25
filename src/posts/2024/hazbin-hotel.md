@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Fenomenologia di Hazbin Hotel"
 subtitle: ""
 sommario: "Tenterò di essere breve. In realtà volevo limitarmi a un post su Livello Segreto ma..."

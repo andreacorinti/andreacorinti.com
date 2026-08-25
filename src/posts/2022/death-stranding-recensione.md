@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Death Stranding"
 subtitle: "Se odiate Death Stranding, vi posso capire. Anche se mi dispiace molto per voi."
 sommario: "Se odiate Death Stranding, vi posso capire. Anche se mi dispiace molto per voi."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Until Then"
 subtitle: "Recensione"
 sommario: "Questo gioco mi ha spremuto il cuore. Sì, messa così sembra l'introduzione di una canzone indie da quattro soldi, ma è la prima cosa che mi andava di scrivere..."

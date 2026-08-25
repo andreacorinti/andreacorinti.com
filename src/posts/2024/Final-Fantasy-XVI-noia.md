@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "La Noia di Final Fantasy XVI"
 subtitle: "Una corona di spine sarà l'Eikon per la mia festa "
 sommario: "Sì, il titolo di questo post è un featuring immaginario tra Angelina Mango e Final Fantasy XVI, perdonatemi."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Baldur’s Gate III"
 subtitle: "Colpisci agli occhi, Boo! COLPISCI AGLI OCCHI! AAAAAAAAAARGH!"
 sommario: "Per me, è molto complicato parlare di Baldur's Gate III. E sto pure alla seconda run!"

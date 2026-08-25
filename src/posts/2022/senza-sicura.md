@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Senza Sicura - Le ragioni del mio cuore e Specchio che non vede"
 subtitle: "Sia lode a Zerocalcare"
 sommario: "Sia lode a Zerocalcare"

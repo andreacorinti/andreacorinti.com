@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Digiuni Social"
 subtitle: "Tante diete tranne quelle per la panza"
 sommario: "Tante diete tranne quelle per la panza"

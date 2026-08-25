@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Akira e Final Fantasy VII"
 subtitle: "Di moto, bombe atomiche e teppismo. Ma non solo"
 sommario: Penso a questo post da circa un annetto, da quando cioè lessi per la prima volta il manga del capolavoro di Katsuhiro Otomo...

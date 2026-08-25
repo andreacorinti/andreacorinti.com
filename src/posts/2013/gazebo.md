@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Gazebo"
 subtitle: "We like Chopin"
 sommario: "Perché Gazebo è in una botta sola la salvezza di TV, twitter, satira e approfondimento politico in Italia."

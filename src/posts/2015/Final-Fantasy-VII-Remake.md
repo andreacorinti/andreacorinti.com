@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Del Remake di Final Fantasy VII"
 subtitle: "Fai meno il pupazzo e seguimi"
 sommario: "Visto ? Tanto lo so che l'avrete già visto per forza, nel bene o nel male c'ha fatto andare il sabato sera di traverso a tutti..."

@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Acid Muffin"
 subtitle: "Grunge Nostrano"
 date: 2017-02-27

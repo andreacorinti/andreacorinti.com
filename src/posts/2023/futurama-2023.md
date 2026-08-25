@@ -1,4 +1,5 @@
 ---
+layout: postita
 title: "Futurama al tramonto del 2023"
 subtitle: "Giorni di un futuro passato"
 sommario: "Ho da poco visto il primo episodio dell'ottava stagione di Futurama, Il flusso impossibile, uscito lo scorso 24 Luglio su Hulu e distribuito in Italia su Disney+"
