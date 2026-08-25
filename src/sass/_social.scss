@@ -18,31 +18,31 @@
  fill: #00acee;
 }
 .twitter:hover {
-    fill: white;
+    fill: var(--tdbc-link-hover);
 }
 .instagram{
  fill: #E1306C;
 }
 .instagram:hover {
-    fill: white;
+    fill: var(--tdbc-link-hover);
 }
 .github{
  fill: rgb(161, 161, 161);
 }
 .github:hover{
-    fill: white;
+    fill: var(--tdbc-link-hover);
    }
 .lastfm{
     fill: red;
 }
 .lastfm:hover {
-    fill: white;
+    fill: var(--tdbc-link-hover);
 }
 .rss{
   fill: orange;
 }
 .rss:hover {
-  fill: white;
+  fill: var(--tdbc-link-hover);
 }
 
 
