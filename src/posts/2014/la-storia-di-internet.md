@@ -4,6 +4,7 @@ title: "La Storia di Internet e il Web 1.5"
 subtitle: "Si stava meglio quando si stava 56k"
 sommario: "Ovunque esistono i pionieri. Quelli che sono arrivati per primi, hanno edificato qualcosa in una landa inesplorata e vi hanno messo radici..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/storiainternet.jpg
+tags: ["internet"]
 date: 2014-10-28
 lang: it-IT
 ---

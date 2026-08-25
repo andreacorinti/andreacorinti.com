@@ -5,6 +5,7 @@ subtitle: E cosa succede
 sommario: "Sono appena migrato dall'istanza mastodon.uno a livellosegreto.it! 
 Dei dettagli e perché / per come del caso ne parlerò in un altro post, qui mi andava di fare una mini guida riguardo quello che il procedimento comporta..."
 immagine: /img/mastodon/mastodon-migrare.jpg
+tags: ["internet"]
 date: 2022-11-24
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Return to Monkey Island - Pseudo-recensione"
 subtitle: "l'amore vince sempre sull'invidia e sull'odio"
 sommario: "l'amore vince sempre sull'invidia e sull'odio"
 immagine: /img/return-to-monkey-island.jpg
+tags: ["videogiochi"]
 date: 2022-09-24
 lang: it-IT
 ---

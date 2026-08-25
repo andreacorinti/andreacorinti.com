@@ -4,6 +4,7 @@ title: "The Sandman - serie Netflix"
 subtitle: Sogno è bravo ma non si applica
 sommario: "Diciamolo subito: superato il primo tiepido episodio, direi che c'è stato un netto miglioramento nella serie: La puntata con Lucifero, il personaggio forzatamente nuovo (questioni di diritti) di Johanna Constantine, l'ottimo David Thewlis su John Dee (splendido l'episodio nella tavola calda) e soprattutto..."
 immagine: /img/sandman-netflix.jpeg
+tags: ["film-serie"]
 date: 2022-08-27
 lang: it-IT
 ---

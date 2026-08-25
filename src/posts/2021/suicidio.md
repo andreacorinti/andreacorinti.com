@@ -4,6 +4,7 @@ title: "Suicidio?"
 subtitle: "."
 sommario: "."
 immagine: https://www.andreacorinti.com/img/suicidio.jpg
+tags: ["xabologia"]
 date: 2021-12-20
 lang: it-IT
 ---

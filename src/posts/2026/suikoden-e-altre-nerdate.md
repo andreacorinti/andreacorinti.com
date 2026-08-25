@@ -4,6 +4,7 @@ title: "Di Suikoden e altre nerdate"
 subtitle: "nerdate estive sparse"
 sommario: "Agosto sta finendo, così come l'estate, così come il mio cervello che immancabilmente si è sintonizzato sui Righeira (languidi brividi!)"
 immagine: /img/suikoden.jpg
+tags: ["videogiochi"]
 date: 2026-08-19
 lang: it-IT
 ---

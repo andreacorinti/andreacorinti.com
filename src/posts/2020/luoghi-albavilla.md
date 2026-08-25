@@ -4,6 +4,7 @@ title: "Albavilla"
 subtitle: "Le mie città #1"
 sommario: "Ho deciso di scrivere qualche riga sui luoghi dove ho vissuto, una sorta di origin story da personaggio dei fumetti"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Albavilla-vista_chiesa.JPG/800px-Albavilla-vista_chiesa.JPG
+tags: ["xabologia"]
 date: 2020-06-17
 lang: it-IT
 ---

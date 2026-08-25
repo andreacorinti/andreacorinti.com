@@ -4,6 +4,7 @@ title: "Moderando s’impara?"
 subtitle: "Forse no"
 sommario: "Nell'ultimo fine settimana ho staccato dal social web (che nel mio caso significa Livello Segreto nel fediverso e Instagram nel bruttomondo)..."
 immagine: https://upload.wikimedia.org/wikipedia/commons/7/73/Mobile-phone-426559_1920.jpg
+tags: ["internet"]
 date: 2025-01-12
 lang: it-IT
 ---

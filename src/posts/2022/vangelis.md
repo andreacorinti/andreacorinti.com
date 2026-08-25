@@ -4,6 +4,7 @@ title: "Vangelis"
 subtitle: "Ci ha lasciato il compositore di Blade Runner, l'Orfeo del cyberpunk"
 sommario: "Ci ha lasciato il compositore di Blade Runner, l'Orfeo del cyberpunk"
 immagine:  https://upload.wikimedia.org/wikipedia/commons/d/da/Vangelis%2C_26_July_2012.jpg
+tags: ["musica"]
 date: 2022-05-19
 lang: it-IT
 ---

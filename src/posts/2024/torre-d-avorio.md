@@ -4,6 +4,7 @@ title: "Nella mia Web-Torre d'Avorio"
 subtitle: "O tempora, o mores!"  
 sommario: "Faccio questo post per cercare di isolare definitivamente un concetto che, in un modo o nell'altro, mi trovo spesso a riprendere (almeno così potrò eventualmente linkarlo in futuro, visto che sono pigro)."  
 immagine: https://upload.wikimedia.org/wikipedia/commons/2/29/Stained_glass_Tower_of_Ivory.jpg  
+tags: ["xabologia"]
 date: 2024-10-03  
 lang: it-IT  
 ---

@@ -4,6 +4,7 @@ title: "Digiuni Social"
 subtitle: "Tante diete tranne quelle per la panza"
 sommario: "Tante diete tranne quelle per la panza"
 immagine: https://upload.wikimedia.org/wikipedia/commons/d/d6/St.-Jerome-In-His-Study.jpg
+tags: ["internet"]
 date: 2021-09-28
 lang: it-IT
 ---

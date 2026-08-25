@@ -4,6 +4,7 @@ title: "Sanremo 2016"
 subtitle: "Perché guardi Sanremo?"
 sommario: "Perché guardi Sanremo?"
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/perche-sanremo.jpg
+tags: ["musica"]
 date: 2016-02-08
 lang: it-IT
 ---

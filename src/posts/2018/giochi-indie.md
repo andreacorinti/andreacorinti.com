@@ -4,6 +4,7 @@ title: "Giochi Indie"
 subtitle: "Consiglio agli sviluppatori"
 sommario: "Da consumatore attento (e compulsivo) di titoli appartenenti alla fantomatica scena indie, spesso mi diverto a seguirne le peripezie nell'universo sociale del web..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/giochi-indie.jpg
+tags: ["videogiochi"]
 date: 2018-03-15
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Come sta andando l'astinenza da Social Network"
 subtitle: "recap degli ultimi due mesi"
 sommario: "recap degli ultimi due mesi"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Interface_Message_Processor_Front_Panel.jpg/1280px-Interface_Message_Processor_Front_Panel.jpg 
+tags: ["internet"]
 date: 2021-11-10
 lang: it-IT
 ---

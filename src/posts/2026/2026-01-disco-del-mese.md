@@ -4,6 +4,7 @@ title: "Disco del Mese - Gennaio 2026"
 subtitle: "Weft - The Splintered Oar"
 sommario: "Baro perché metto in cima uno degli inevitabili recuperoni di dicembre: non che il 2026 non sia partito bene eh, ma The Splintered Oar una menzione di merito come se la meritava tutta."
 immagine: https://f4.bcbits.com/img/a2973501593_16.jpg
+tags: ["musica"]
 date: 2026-01-20
 lang: it-IT
 ---

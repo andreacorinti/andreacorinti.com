@@ -4,6 +4,7 @@ title: "Mercoledì è bello, anche se ha fatto di tutto per farsi odiare"
 subtitle: "Il balletto ha rotto le palle, ma non la serie"
 sommario: "Se usate Instagram o TikTok, credo che vi siate lecitamente trovati nella mia situazione, il bombardamento social è stato talmente vasto e variegato che, in confidenza, pianificavo di vedermi la serie nel 2024 oppure non vederla affatto..."
 immagine: https://i.guim.co.uk/img/media/4df0f504cefb4a5a19966d7dd0f8787b45c6d4ff/259_0_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=39bc597b181b507e50198d6f4984274d
+tags: ["film-serie"]
 date: 2023-02-02
 lang: it-IT
 ---

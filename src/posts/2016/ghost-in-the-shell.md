@@ -4,6 +4,7 @@ title: "Ghost in the Shell"
 subtitle: "Una veloce panoramica"
 sommario: "È dal 2013, quando ho aperto questo blog, che vorrei scrivere qualcosa a riguardo. Pure prima, in verità..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ghost-in-the-shell.jpg
+tags: ["fumettame"]
 date: 2016-11-13
 lang: it-IT
 ---

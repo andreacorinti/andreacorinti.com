@@ -4,6 +4,7 @@ title: "El conflicto moral del Mundial de Qatar"
 subtitle: "Conflictos de fútbol"
 sommario: "Qué grande sería que la lógica abierta y limpia que vemos en Mastodon y en la tecnología tocara también otras realidades como el deporte?"
 immagine: /img/Campionato_mondiale_di_calcio_2022_logo.png
+tags: ["xabologia"]
 date: 2022-11-14
 lang: es-AR
 ---

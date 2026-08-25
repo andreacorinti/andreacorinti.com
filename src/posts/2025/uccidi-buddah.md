@@ -4,6 +4,7 @@ title: "Se incontri il Buddha per la strada, uccidilo"
 subtitle: "di Idoli d'oro e altre facezie"
 sommario: "Ringrazio CapeTaun per aver riportato quest'ottima ricostruzione dell'orrida vicenda legata a Neil Gaiman. Se v'interessa, qui c'è tutto il thread su Livello Segreto..."
 immagine: https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg
+tags: ["xabologia"]
 date: 2025-01-14
 lang: it-IT
 ---

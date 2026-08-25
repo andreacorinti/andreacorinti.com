@@ -4,6 +4,7 @@ title: "Perché me ne sono andato da Mastodon.uno?"
 subtitle: Spiegazione
 sommario: "Cominciamo da una premessa: mastodon.uno è bello, ha delle regole che condivido e in meno di un mesetto ci ho conosciuto persone splendide ed interessanti..."
 immagine: /img/mina.jpg
+tags: ["internet"]
 date: 2022-11-26
 lang: it-IT
 ---

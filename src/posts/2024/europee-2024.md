@@ -4,6 +4,7 @@ title: "Europee 2024"
 subtitle: "Un paio di parole al volo"
 sommario: "Mi levo 'sto dente per poi tornare a cose più belle e costruttive"
 immagine: https://elections.europa.eu/assets/img/logos/logo-ee24-it.svg
+tags: ["xabologia"]
 date: 2024-06-10
 lang: it-IT
 ---

@@ -5,6 +5,7 @@ subtitle: "Appunti a caldo del primo playtest solo RPG"
 sommario: "Appunti sparsi sul mio ennesimo esperimento di RPG in solitaria utilizzando il celeberrimo Ironsworn, che una volta tanto è un sistema effettivamente *pensato* per i ruolismo solista 🙂‍↕️"
 immagine: https://img.itch.zone/aW1nLzE3OTgwODguanBn/original/gRDqF5.jpg
 lang: it-IT
+tags: ["videogiochi"]
 date: 2025-12-26
 ---
 

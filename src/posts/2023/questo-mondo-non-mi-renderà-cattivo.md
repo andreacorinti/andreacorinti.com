@@ -4,6 +4,7 @@ title: "Questo mondo non mi renderà cattivo è addirittura meglio di Strappare 
 subtitle: "Zerocalcare colpisce ancora"
 sommario: "Il titolo è un po' provocatorio, e dico subito che Strappare lungo i bordi l'ho amata tantissimo, come del resto ho amato l'intera produzione di Michele..."
 immagine: https://upload.wikimedia.org/wikipedia/it/4/44/Questo_mondo_non_mi_render%C3%A0_cattivo.jpg
+tags: ["fumettame"]
 date: 2023-06-12
 lang: it-IT
 ---

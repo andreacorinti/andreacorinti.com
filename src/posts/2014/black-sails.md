@@ -4,6 +4,7 @@ title: "Black Sails"
 subtitle: "Recensione"
 sommario: "Black Sails è una di quelle serie che scopri in sordina, che non ha sulla carta il cast (né le pretese) di lavori più impegnati quali..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/black-sails.jpg
+tags: ["film-serie"]
 date: 2014-10-22
 lang: it-IT
 ---

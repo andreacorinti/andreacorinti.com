@@ -4,6 +4,7 @@ title: "Un anno segreto"
 subtitle: "Recap di un anno mastodontico"
 sommario: "Il tempo vola quando ti diverti, eh? Confesso, A me le ricorrenze non piacciono granché, ma riconosco quanto rappresentino un'ottima occasione per fare un bilancio per capire dov'ero, dove sono e dove sto andando (possibilmente non affanculo, anche se ogni tanto mi ci mando pure da solo)."
 immagine: https://cdn.masto.host/livellosegretoit/site_uploads/files/000/000/005/@1x/ae2c2ed79689631b.png 
+tags: ["xabologia"]
 date: 2023-11-21
 lang: it-IT
 ---

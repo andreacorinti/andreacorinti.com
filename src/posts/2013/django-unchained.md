@@ -4,6 +4,7 @@ title: "Django Unchained"
 subtitle: "Recensione"
 sommario: "Se è mai esistito qualcuno in grado di fondere assieme lo Spaghetti Western con la _Blaxploitation_ quel qualcuno non poteva essere nient'altro che il caro vecchio **Quentin Tarantino**"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/djangounchained.jpg
+tags: ["film-serie"]
 date: 2013-04-02
 lang: it-IT
 ---

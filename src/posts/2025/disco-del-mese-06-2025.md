@@ -4,6 +4,7 @@ title: "Disco del Mese - Giugno 2025"
 subtitle: "Fallujah – Xenotaph"
 sommario: "Disco del mese molto a caldo, ma dai voglio sbilanciarmi sulla fiducia 😌"
 immagine: https://f4.bcbits.com/img/a3844037749_16.jpg
+tags: ["musica"]
 date: 2025-06-24
 lang: it-IT
 ---

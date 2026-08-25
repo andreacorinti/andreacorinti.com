@@ -4,6 +4,7 @@ title: "Steam Deck: opinioni più di sei mesi dopo"
 subtitle: "Dock, emudeck e considerazioni generali"
 sommario: "Sono un felice possessore di Steam Deck dallo scorso ottobre e, sebbene causa vita e lavoro i miei tempi di gioco si siano estremamente ridotti (una media di un'oretta ogni due settimane o giù di lì..."
 immagine: https://i.redd.it/wfrk9x4uoer81.png
+tags: ["videogiochi"]
 date: 2023-04-12
 lang: it-IT
 ---

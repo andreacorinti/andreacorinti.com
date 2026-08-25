@@ -5,6 +5,7 @@ subtitle: "Una settimana dopo"
 sommario: "Sono diventato Carlo Calenda?"
 immagine: https://gamequitters.com/wp-content/uploads/how-to-quit-playing-video-games-1.jpg
 lang: it-IT
+tags: ["videogiochi"]
 date: 2021-03-22
 ---
 

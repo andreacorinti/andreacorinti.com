@@ -4,6 +4,7 @@ title: "Reddito Base"
 subtitle: "Firma & Sostegno alla proposta UE"
 sommario: "Firma & Sostegno alla proposta UE"
 immagine: https://www.bin-italia.org/wp-content/uploads/2020/07/Logo_ICE_2020_HD-1568x1524-1.png 
+tags: ["xabologia"]
 date: 2022-02-10
 lang: it-IT
 ---

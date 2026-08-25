@@ -4,6 +4,7 @@ title: "Il grosso boh di Zerocalcare - Quando muori resta a me"
 subtitle: "Segue un discorso complesso"
 sommario: "Ho aspettato un mese esatto prima di scrivere due righe di riflessione sull'ultimo fumettone di Michele Rech che, diciamolo subito, come al solito è molto bello..."
 immagine:  https://www.zerocalcare.net/wp-content/uploads/2024/04/Quando-muori-resta-a-me-REGULAR-mockup-sito-e1712573754357.jpeg 
+tags: ["fumettame"]
 date: 2024-06-07
 lang: it-IT
 ---

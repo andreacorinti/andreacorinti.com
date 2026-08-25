@@ -3,6 +3,7 @@ layout: postita
 title: "Fare musica con LMMS"
 subtitle: Linux MultiMedia Studio
 sommario: "Chi s'interessa di produzione musicale conoscerà più o meno bene Ableton Live, Ardour, FL Studio..."
+tags: ["musica"]
 date: 2019-04-01
 immagine: https://www.andreacorinti.com/img/lmms.jpg
 lang: it-IT

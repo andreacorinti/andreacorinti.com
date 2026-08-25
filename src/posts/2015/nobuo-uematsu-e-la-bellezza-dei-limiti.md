@@ -4,6 +4,7 @@ title: "Nobuo Uematsu e la bellezza dei limiti"
 subtitle: "Il compositore di Final Fantasy e qualche riflessione"
 sommario: "Essendo un retrogamer, ci penso spesso. Avendo un rapporto conflittuale con il videogame moderno, ci rimugino molto..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/nobuo.jpg
+tags: ["musica"]
 date: 2015-09-24
 lang: it-IT
 ---

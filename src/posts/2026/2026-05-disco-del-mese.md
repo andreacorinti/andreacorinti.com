@@ -4,6 +4,7 @@ title: "Disco del Mese - Maggio 2026"
 subtitle: "Devin Townsend - The Moth"
 sommario: "Devin è tornato! E questa volta l'ho trovato meno overprodotto rispetto agli ultimi dischi (per fortuna!)"
 immagine: https://f4.bcbits.com/img/a910306015_1x1_700.avif
+tags: ["musica"]
 date: 2026-06-01
 lang: it-IT
 ---

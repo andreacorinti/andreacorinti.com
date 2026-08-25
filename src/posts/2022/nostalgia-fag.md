@@ -4,6 +4,7 @@ title: "Nostalgia Fag"
 subtitle: "è davvero sempre e solo una questione di nostalgia?"
 sommario: "Tutto parte della dittatura dei fandom che spesso e volentieri ha pressato e condizionato alcune scelte di importanti aziende dell'intrattenimento."
 immagine: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1685%2F2975%2Fproducts%2FMember_Berries_grande.jpg
+tags: ["xabologia"]
 date: 2022-08-24
 lang: it-IT
 ---

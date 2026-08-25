@@ -4,6 +4,7 @@ title: "L'esacerbante conflitto morale dei Mondiali in Qatar"
 subtitle: "Conflitti calcistici"
 sommario: "Volo pindarico: ma quanto sarebbe bello se le logiche open e pulite che vediamo su Mastodon e in ambito tecnologico toccassero anche altre realtà come lo sport?"
 immagine: /img/Campionato_mondiale_di_calcio_2022_logo.png
+tags: ["xabologia"]
 date: 2022-11-13
 lang: it-IT
 ---

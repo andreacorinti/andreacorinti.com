@@ -4,6 +4,7 @@ title: "Riflessioni da Forum"
 subtitle: "c'eravamo tanto amati"
 sommario: "Visto che ne ho blaterato a più non posso, spiegando a più riprese quanto i forum restino la forma di comunicazione online che amo di più e di cui più sento la mancanza, lo scorso febbraio ho fatto un piccolo esperimento e ne ho lanciato uno"
 immagine: /img/nerdaccio.png
+tags: ["internet"]
 date: 2026-03-30
 lang: it-IT
 ---

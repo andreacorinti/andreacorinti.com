@@ -5,6 +5,7 @@ subtitle: "Un figliol prodigo, ma anche un prodigio"
 sommario: "Dopo giusto quella decina di anni, fedele allo spirito del #BacklogPass, ho finalmente deciso di colmare una delle varie lacune che mi porto dietro da troppo tempo..."
 immagine: https://upload.wikimedia.org/wikipedia/en/d/d8/Last_Story_Box_Art.jpg
 lang: it-IT
+tags: ["videogiochi"]
 date: 2025-01-08
 ---
 

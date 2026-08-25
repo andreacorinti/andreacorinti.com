@@ -4,6 +4,7 @@ title: "Fenomenologia di Hazbin Hotel"
 subtitle: ""
 sommario: "Tenterò di essere breve. In realtà volevo limitarmi a un post su Livello Segreto ma..."
 immagine: https://hazbinhotel.com/cdn/shop/t/3/assets/trailer-poster-2733748e.jpg
+tags: ["fumettame"]
 date: 2024-02-02
 lang: it-IT
 ---

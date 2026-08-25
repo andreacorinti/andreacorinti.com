@@ -4,6 +4,7 @@ title: "Final Fantasy VII Remake"
 subtitle: "Ma non so spiegarti / Che il nostro amore appena nato / È già finito"
 sommario: "Se Stairway to Heaven uscisse domani, sarebbe la Stairway to Heaven che conosciamo? No"
 immagine:  https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Final_Fantasy_VII_Remake_logo.PNG/1024px-Final_Fantasy_VII_Remake_logo.PNG
+tags: ["videogiochi"]
 date: 2020-04-14
 lang: it-IT
 ---

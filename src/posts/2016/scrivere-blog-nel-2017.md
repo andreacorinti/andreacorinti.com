@@ -4,6 +4,7 @@ title: "10 suggerimenti per scrivere Blog nel 2017"
 subtitle: "Ha ancora un senso?"
 sommario: "Ha ancora un senso? La risposta è la solita: dipende..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/blog-2016.jpg
+tags: ["xabologia"]
 date: 2016-10-28
 lang: it-IT
 ---

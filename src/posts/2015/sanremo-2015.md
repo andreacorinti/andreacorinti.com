@@ -4,6 +4,7 @@ title: "Sanremo 2015"
 subtitle: "Pagellone & Resoconto"
 sommario: "Pagellone & Resoconto"
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/sanremo2015.jpg
+tags: ["musica"]
 date: 2015-02-15
 lang: it-IT
 ---

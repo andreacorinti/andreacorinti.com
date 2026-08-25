@@ -4,6 +4,7 @@ title: "Romanzo Quirinale 2022"
 subtitle: "Dite ad Asuka Meloni di stare attenta a Shinji Salvini"
 sommario: "Appunti sparsi, più che altro per il me stesso del futuro, ma se qualcuno vuole favorire non faccia complimenti."
 immagine: https://static.open.online/wp-content/uploads/2022/01/mattapio.jpg
+tags: ["xabologia"]
 date: 2022-01-30
 lang: it-IT
 ---

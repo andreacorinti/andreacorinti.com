@@ -4,6 +4,7 @@ title: "The Hateful Eight"
 subtitle: "Recensione"
 sommario: "The Hateful Eight è riuscito a farmi reinnamorare del cinema di Tarantino."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/the-hateful-eight.jpg
+tags: ["film-serie"]
 date: 2016-03-03
 lang: it-IT
 ---

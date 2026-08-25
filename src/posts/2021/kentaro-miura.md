@@ -5,6 +5,7 @@ subtitle: "Perché Berserk ha significato tanto"
 sommario: "Berserk è stato un fenomeno seminale per tanti di noi"
 immagine: https://pbs.twimg.com/media/E1zzm2eXsAMlaj-?format=png&name=medium
 lang: it-IT
+tags: ["fumettame"]
 date: 2021-05-21
 ---
 

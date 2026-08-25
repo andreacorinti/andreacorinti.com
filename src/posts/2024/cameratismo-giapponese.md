@@ -4,6 +4,7 @@ title: "Il seducente cameratismo da nave nipponica"
 subtitle: "Ciurma!"
 sommario: "Come avrete intuito dal titolo da Lina Wertmüller, questo sarà un post strano, frutto di un'epifania che covo da un po' e vorrei metabolizzare a dovere."
 immagine: /img/cameratismo/nadia2.jpg
+tags: ["fumettame"]
 date: 2024-01-17
 lang: it-IT
 ---

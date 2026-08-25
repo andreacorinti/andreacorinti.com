@@ -4,6 +4,7 @@ title: "Il Metal"
 subtitle: "cos'è il metal?"
 sommario: "Un variopinto genere musicale. Bene, se vi interessano le definizioni oggettive potete fermarvi qui, perché tutto il resto è pure più personale del solito."
 immagine: https://upload.wikimedia.org/wikipedia/commons/f/fc/Black_Sabbath_%281970%29.jpg
+tags: ["musica"]
 date: 2025-07-25
 lang: it-IT
 ---

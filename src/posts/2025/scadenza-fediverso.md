@@ -4,6 +4,7 @@ title: "La mia data di scadenza sul Fediverso"
 subtitle: "Dicembre 2025"
 sommario: "Mi concederò tre mesetti per fare un po' il punto sulla mia triennale esperienza nel Fediverso, che oramai ho la vaga sensazione sia andata esaurendosi"
 immagine: https://upload.wikimedia.org/wikipedia/commons/2/2a/FoilMilkBottleTop.JPG
+tags: ["internet"]
 date: 2025-08-21
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Anarchia e Corona Virus"
 subtitle: "Diari della Quarantena #4"
 sommario: "Potevo attraversare litri e litri di corallo per raggiungere un posto che si chiamasse Anarchia"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bakunin_Bronze_by_Garbade.jpg/1280px-Bakunin_Bronze_by_Garbade.jpg
+tags: ["xabologia"]
 date: 2020-03-24
 lang: it-IT
 ---

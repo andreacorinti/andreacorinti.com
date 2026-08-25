@@ -4,6 +4,7 @@ title: "Sagra IndieWeb 2026 - Febbraio"
 subtitle: "Fediverso"
 sommario: "Seconda puntata del bell'esperimento bloggoso lanciato da Ed sul Fediverso! Fediverso che, dietro mia proposta, è pure il tema di questo mese"
 immagine: https://upload.wikimedia.org/wikipedia/commons/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
+tags: ["internet"]
 date: 2026-02-02
 lang: it-IT
 ---

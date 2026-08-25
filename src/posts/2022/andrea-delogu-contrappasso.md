@@ -2,6 +2,7 @@
 layout: postita
 title: "Contrappasso - Andrea Delogu"
 subtitle: "Recensione e la mia decisione di Sara"
+tags: ["film-serie"]
 date: 2022-09-28
 sommario: "Contrappasso è una distopia futuristica radicalmente ancorata sull'oggi, uno specchio distorto che miscela le sensazioni della pandemia del 2020 con il crescente sentimento animalista/ecologista/vegano che ha interessato l'ultimo decennio..."
 immagine: /img/contrappasso.jpg

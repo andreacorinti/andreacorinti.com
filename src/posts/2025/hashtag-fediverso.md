@@ -4,6 +4,7 @@ title: "Gli Hashtag e il Fediverso"
 subtitle: "A Musk gli hashtag non piacciono, quindi sono bellissimi."
 sommario: "A Musk gli hashtag non piacciono, quindi sono bellissimi. Se postiamo qualcosa nel Fediverso, tendenzialmente speriamo che venga letta da qualcuno, giusto?"
 immagine: https://upload.wikimedia.org/wikipedia/commons/a/a2/Ruter_logo_%28number_sign%29.png
+tags: ["internet"]
 date: 2025-01-26
 lang: it-IT
 ---

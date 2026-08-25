@@ -4,6 +4,7 @@ title: "Grecia - approvato il matrimonio tra persone dello stesso sesso"
 subtitle: "Piccola Riflessione Politica"
 sommario: "Per scelta e benessere di solito evito di parlare di politica da queste parti (diciamo pure che evito di farlo su internet in generale), però in questi giorni..."
 immagine: https://www.ekathimerini.com/wp-content/uploads/2024/02/AP24046826042873-1-960x600.jpg
+tags: ["xabologia"]
 date: 2024-02-16
 lang: it-IT
 ---

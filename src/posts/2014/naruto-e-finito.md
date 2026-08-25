@@ -4,6 +4,7 @@ title: "Naruto è finito. NARUTO È UNA CAGATA PAZZESCA"
 subtitle: "Round finale"
 sommario: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta, il discorso complessivo sul mio allontanamento dai manga cosa recente."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/narutocagata.jpg
+tags: ["fumettame"]
 date: 2014-08-11
 lang: it-IT
 ---

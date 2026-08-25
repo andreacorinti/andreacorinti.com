@@ -3,6 +3,7 @@ layout: postita
 title: "Lemmy"
 subtitle: Nice guy after all
 sommario: "Non è facile. Continuo a scrivere frasi su frasi solo per poi massacrare il tasto backspace e cancellarle."
+tags: ["musica"]
 date: 2015-12-29
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/lemmy.jpg
 lang: it-IT

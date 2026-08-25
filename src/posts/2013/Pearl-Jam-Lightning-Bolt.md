@@ -4,6 +4,7 @@ title: "Pearl Jam – Lightning Bolt"
 subtitle: "Recensione senza impegno"
 sommario: "Eddie Vedder inizia ad andare per la cinquantina, e questo mi porta a sentire l'infanzia più remota e lontana..."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/pearljam.jpg
+tags: ["musica"]
 date: 2013-10-06
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Disco del Mese - Giugno 2024"
 subtitle: "Lindsey Stirling - Duality"
 sommario: "Un po' di modernità ogni tanto!"
 immagine: https://lastfm.freetls.fastly.net/i/u/770x0/95716b6e75284516307f57088aa41cf5.jpg
+tags: ["musica"]
 date: 2024-06-24
 lang: it-IT
 ---

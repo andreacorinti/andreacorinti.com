@@ -4,6 +4,7 @@ title: "Perché Sanremo è Sanremo? Edizione 2025"
 subtitle: "Con un po' di 2016"
 sommario: "Credo che il primo post archiviato da queste parti sia un riepiloghetto del Sanremo 2013 a conduzione Fazio, riesumato da uno dei miei antichi blog."
 immagine: https://upload.wikimedia.org/wikipedia/it/e/e8/Festival_di_Sanremo_2025_logo.jpg
+tags: ["musica"]
 date: 2025-02-12
 lang: it-IT
 ---

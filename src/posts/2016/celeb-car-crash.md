@@ -4,6 +4,7 @@ title: "Celeb Car Crash - People Are The Best Show"
 subtitle: "Recensione"
 sommario: "I Celeb Car Crash sono una band italiana che in realtà d'italiano ha ben poco. Ecco: stop, rewind e qualche precisazione:"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/celeb-car-crash.jpg
+tags: ["musica"]
 date: 2016-10-24
 lang: it-IT
 ---

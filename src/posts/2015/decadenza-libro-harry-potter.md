@@ -4,6 +4,7 @@ title: "La dolce decadenza dell'ultimo libro di Harry Potter"
 subtitle: "#potterpuzza"
 sommario: "Tutti i miei coscritti (la classe '89) e le generazioni a noi più prossime abbiamo avuto due elementi comuni a condizionare le rispettive infanzie: La Playstation ed Harry Potter"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/decadenza-finale-harry-potter.jpg
+tags: ["film-serie"]
 date: 2015-03-06
 lang: it-IT
 ---

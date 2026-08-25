@@ -4,6 +4,7 @@ title: "Perché I molti santi del New Jersey è brutto"
 subtitle: "Ciò che non funziona in The Many Saints of Newark"
 sommario: "Ok - brutto è un po' estremo, me ne rendo conto, e per gli standard di internet so già che verrà immediatamente tradotto con un generico e ingiustissimo fa schifo..."
 immagine: https://www.tvinsider.com/wp-content/uploads/2021/06/the-many-saints-of-newark-movie-cast-1014x570.jpeg
+tags: ["film-serie"]
 date: 2022-10-10
 lang: it-IT
 ---

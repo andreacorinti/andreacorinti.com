@@ -5,6 +5,7 @@ subtitle: "Can you hear me, Major Tom?"
 sommario: "Sono un po' scosso.
 Sembra che questo blog stia diventando una sorta di enorme necrologio..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/davidbowie.jpg
+tags: ["musica"]
 date: 2016-01-11
 lang: it-IT
 ---

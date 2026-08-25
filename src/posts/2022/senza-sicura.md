@@ -4,6 +4,7 @@ title: "Senza Sicura - Le ragioni del mio cuore e Specchio che non vede"
 subtitle: "Sia lode a Zerocalcare"
 sommario: "Sia lode a Zerocalcare"
 immagine:  https://i.discogs.com/ltJzgMdou1h_xE5Tfsx2sWptsJkf0O8tr18OOEC9_Zo/rs:fit/g:sm/q:90/h:300/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMzUx/ODUtMTQxNDQwMTI3/MS02NzYwLmpwZWc.jpeg
+tags: ["musica"]
 date: 2022-10-22
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Provando Misskey"
 subtitle: "prime impressioni gattare"
 sommario: "Escludendo il solito mondo social-centralizzato (Threads, Bluesky), Misskey è uno dei software più utilizzati del Fediverso dopo Mastodon"
 immagine: /img/mastodon/misskey.svg
+tags: ["internet"]
 date: 2025-12-10
 lang: it-IT
 ---

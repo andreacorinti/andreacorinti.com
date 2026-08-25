@@ -4,6 +4,7 @@ title: "Mastodon VS Fediverso"
 subtitle: "Chi decentralizza i decentralizzatori?"
 sommario: "Mastodon non è il Fediverso. Ma in parte sì."
 immagine: /img/mastodonvsfediverso.jpg
+tags: ["internet"]
 date: 2025-06-27
 lang: it-IT
 ---

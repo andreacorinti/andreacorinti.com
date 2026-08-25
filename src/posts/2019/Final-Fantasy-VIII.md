@@ -4,6 +4,7 @@ title: "Final Fantasy VIII"
 subtitle: "Una dichiarazione d'amore"
 sommario: "Final Fantasy VIII per me è l'esperienza videoludica più bella, intensa e suggestiva di sempre."
 immagine:  https://images-na.ssl-images-amazon.com/images/I/71WjPKvGpaL._SL1420_.jpg
+tags: ["videogiochi"]
 date: 2019-06-17
 lang: it-IT
 ---

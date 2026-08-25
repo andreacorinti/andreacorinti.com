@@ -5,6 +5,7 @@ subtitle: "fondatore di Radio Maria e Radio Mater"
 sommario: "è successa una cosa che mi ha fatto un po' riflettere: oggi è morto Don Mario Galbiati, fondatore di Radio Maria e Radio Mater."
 immagine: https://storage.laprovinciadicomo.it/media/photologue/2022/4/4/photos/cache/addio-a-don-mario-fondatore-di-radio-maria-e-radio-mater_953be280-bc26-11ec-b27c-457e8e8a6220_1600_636_original.jpg
 lang: it-IT
+tags: ["xabologia"]
 date: 2022-04-15
 ---
 

@@ -4,6 +4,7 @@ title: "Yoshitaka Amano Corpus Animae"
 subtitle: "Fabbrica del Vapore di Milano"
 sommario: "Non devo ribadire la mia fissa per Final Fantasy eh? Mbè, nulla togliendo a Nomura (che sbertuccio sempre per sport, ma ha fatto illustrazioni meravigliose) il maestro Yoshitaka Amano..."
 immagine: "/img/Amano/ff-anniversario.jpg"
+tags: ["videogiochi"]
 date: 2025-02-16
 lang: it-IT
 ---

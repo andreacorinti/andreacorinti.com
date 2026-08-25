@@ -4,6 +4,7 @@ title: "Cosa succede se un utente viene silenziato su Mastodon?"
 subtitle: "Esperimenti e scoperte"
 sommario: "Cosa succede se un'istanza di Mastodon decide di silenziare o bloccare un utente?"
 immagine: https://upload.wikimedia.org/wikipedia/commons/7/72/Mastodon_La_Brea.jpg
+tags: ["internet"]
 date: 2023-07-13
 lang: it-IT 
 ---

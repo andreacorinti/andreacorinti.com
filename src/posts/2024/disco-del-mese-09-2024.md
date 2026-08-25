@@ -4,6 +4,7 @@ title: "Disco del Mese - Settembre 2024"
 subtitle: "Nightwish - Yesterwynde"
 sommario: "Questo settembre è stato incredibilmente ricco di uscite fantastiche, alcune le aspettavo da tempo, altre mi sono capitate all'orecchio per puro caso, ma vabbè tentiamo di fare un summa di tutto..."
 immagine: https://lastfm.freetls.fastly.net/i/u/770x0/58637e02c851686cd3a7c41e04caff3e.jpg
+tags: ["musica"]
 date: 2024-09-24
 lang: it-IT
 ---

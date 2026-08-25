@@ -4,6 +4,7 @@ title: "Marvel's Jessica Jones"
 subtitle: "Recensione S1"
 sommario: "Jessica Jones è una bella serie. Un tributo ad un certo stile telefilmico anni '90, ma privo di censure e filleraggio dettati dalla televisività..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/jessicajones.jpg
+tags: ["film-serie"]
 date: 2015-11-27
 lang: it-IT
 ---

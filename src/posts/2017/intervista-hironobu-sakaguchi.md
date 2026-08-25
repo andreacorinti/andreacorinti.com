@@ -4,6 +4,7 @@ title: "Intervista a Hironobu Sakaguchi"
 subtitle: "Traduzione in italiano dell'intervista di James Mielke"
 sommario: "A proposito di Final Fantasy XV, Remake, il rapporto con Akira Toriyama e molto altro. Traduzione in italiano dell'intervista di James Mielke"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/intervista-sakaguchi.jpg
+tags: ["videogiochi"]
 date: 2017-01-01
 lang: it-IT
 ---

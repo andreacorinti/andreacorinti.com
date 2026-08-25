@@ -4,6 +4,7 @@ title: "Perché non guarderò il live action di Cowboy Bebop"
 subtitle: "e nessun altro live action in generale"
 sommario: "e nessun altro live action in generale"
 immagine: https://occ-0-5493-784.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXdURQ1hiusGIZOHinvp5HVC9a5JkL0H58X0cYIwA7T0cEhktJYujzG-XaM4ISs5ARIrlE7bOWQGe411xpzsXd6D3MCD.jpg
+tags: ["film-serie"]
 date: 2021-11-15
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Il Cinema non è all'altezza dei Videogiochi"
 subtitle: "L'industria dei playoff"
 sommario: "Storicamente il Cinema è stato tutelato più o meno da tutta l'intellighenzia moderna, mentre solo in tempi recenti il videogame ha acquisito un minimo di dignità pubblicamente riconosciuta:..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/cinema-videogiochi.jpg
+tags: ["videogiochi"]
 date: 2017-03-21
 lang: it-IT
 ---

@@ -2,6 +2,7 @@
 layout: postita
 title: "Immortality - Recensione del videogioco di Sam Barlow"
 subtitle: "Straordinario e sorprendentemente nuovo nella sua essenzialità."
+tags: ["videogiochi"]
 date: 2022-08-31
 sommario: Coincidenza volle che io abbia appena finito di leggere Il Monaco di Lewis (è un libro bellissimo che porta egregiamente i suoi più di 200 anni, consigliato a tutti i fan del gotico) perciò mi sono ritrovato con un passaporto privilegiato per entrare in questo nuovo, splendido figlio di Sam Barlow.
 immagine: /img/immortality-sam-barlow.jpg

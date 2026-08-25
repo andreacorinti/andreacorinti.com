@@ -4,6 +4,7 @@ title: "Batman V Superman"
 subtitle: "Recensione"
 sommario: "Checché ne dica Marvel Studios, la vera Civil War s'è scatenata tra gli spettatori di questo film..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/batman-v-superman.jpg
+tags: ["film-serie"]
 date: 2016-03-30
 lang: it-IT
 ---

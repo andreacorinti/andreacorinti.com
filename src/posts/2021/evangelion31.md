@@ -5,6 +5,7 @@ subtitle: ".さらばさらばの手にかかる霞かな"
 sommario: "Grazie per non fuggire più, Hideaki Anno"
 immagine: https://cyhour.com/wp-content/uploads/2021/07/1693_20210702_082849.png
 lang: it-IT
+tags: ["fumettame"]
 date: 2021-08-14
 ---
 

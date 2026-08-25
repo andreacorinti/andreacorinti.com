@@ -4,6 +4,7 @@ title: "La fine di Stranger Things"
 subtitle: "e la sua importanza"
 sommario: "Dunque, premessa cruciale: a me Stranger Things ha sempre divertito senza farmi impazzire. Tuttavia, un aspetto che tendiamo molto spesso a sottovalutare..."
 immagine: https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png
+tags: ["film-serie"]
 date: 2026-02-11
 lang: it-IT
 ---

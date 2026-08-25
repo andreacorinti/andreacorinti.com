@@ -4,6 +4,7 @@ title: "Cosa ne penso dei trailer di Final Fantasy XVI"
 subtitle: "Fantasie Finali poco fantasiose"
 sommario: "Ho scritto cosa ne penso nel titolo per un paio di motivi."
 immagine: https://upload.wikimedia.org/wikipedia/en/5/58/Final_Fantasy_XVI_Key_Art.png
+tags: ["videogiochi"]
 date: 2023-05-02
 lang: it-IT
 ---

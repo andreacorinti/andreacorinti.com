@@ -4,6 +4,7 @@ title: "Sagra IndieWeb 2026 - Marzo"
 subtitle: "Videogiochi"
 sommario: "Terzo appuntamento della Sagra, con il tema videogiochi scelto da Alessio!"
 immagine: https://static.wikia.nocookie.net/finalfantasy/images/5/5c/Ff6mogart.jpg/
+tags: ["internet"]
 date: 2026-03-09
 lang: it-IT
 ---

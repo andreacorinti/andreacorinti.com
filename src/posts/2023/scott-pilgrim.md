@@ -4,6 +4,7 @@ title: "Scott Pilgrim Takes Off visto da un non-fan di Scott Pilgrim"
 subtitle: "Ma che almeno un po' si è convertito"
 sommario: "Ok, visto che sotto la prenderò larga, partiamo dalle utili banalità. Scott Pilgrim Takes Off è delizioso e sorprendente."
 immagine: https://occ-0-784-778.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUiYFQ346CHvmnh-cRc8EO4F_LP7aI8ybcQz1vhaNzxCRVz-AWEOTr8r8ZGshNahxzci8pwJs4Da11h_ZaBRbXEMJATvyi1xe_QXk02tpdUy15uFrDx-6nR1.jpg?r=b2d 
+tags: ["fumettame"]
 date: 2023-11-26
 lang: it-IT
 ---

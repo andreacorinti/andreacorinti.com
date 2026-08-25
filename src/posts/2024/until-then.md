@@ -4,6 +4,7 @@ title: "Until Then"
 subtitle: "Recensione"
 sommario: "Questo gioco mi ha spremuto il cuore. Sì, messa così sembra l'introduzione di una canzone indie da quattro soldi, ma è la prima cosa che mi andava di scrivere..."
 immagine: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1574820/header.jpg
+tags: ["videogiochi"]
 date: 2024-10-05
 lang: it-IT
 ---

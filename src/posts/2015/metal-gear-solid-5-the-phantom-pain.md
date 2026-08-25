@@ -4,6 +4,7 @@ title: "Metal Gear Solid 5 - The Phantom Pain"
 subtitle: "recensione"
 sommario: "Il mio personale diario di viaggio nelle lande dell'ultimo capitolo di Metal Gear Solid."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsv1.jpg
+tags: ["videogiochi"]
 date: 2015-09-02
 lang: it-IT
 ---

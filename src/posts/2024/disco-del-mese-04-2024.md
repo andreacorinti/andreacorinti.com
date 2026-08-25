@@ -4,6 +4,7 @@ title: "Disco del Mese - Aprile 2024"
 subtitle: "Pet Shop Boys - Nonetheless"
 sommario: "Altra vecchianza!"
 immagine: https://lastfm.freetls.fastly.net/i/u/770x0/1f91b9ace1f98b3fecf6bfa2075cb785.jpg#1f91b9ace1f98b3fecf6bfa2075cb785
+tags: ["musica"]
 date: 2024-04-26
 lang: it-IT
 ---

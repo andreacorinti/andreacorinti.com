@@ -4,6 +4,7 @@ title: "L'equivoco del videogioco di ruolo"
 subtitle: "Ruolate, Sciocchi!"
 sommario: "Uno dei termini nerd più snaturati del suo significato originale: role playing game (gioco di ruolo) applicato al videogioco."
 immagine:  https://upload.wikimedia.org/wikipedia/commons/9/98/Dungeons_%26_Dragons_Dice.jpg
+tags: ["videogiochi"]
 date: 2024-01-05
 lang: it-IT
 ---

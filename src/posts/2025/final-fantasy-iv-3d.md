@@ -4,6 +4,7 @@ title: "Final Fantasy IV (3D)"
 subtitle: "I chocobo puzzano!"
 sommario: "Per qualche motivo, quando si parla di Square Enix diventa sempre tutto molto complicato. Qui per dire abbiamo il porting Steam di uno dei vari remake di Final Fantasy IV"
 immagine: "/img/FF4/logo.jpg"
+tags: ["videogiochi"]
 date: 2025-11-22
 lang: it-IT
 ---

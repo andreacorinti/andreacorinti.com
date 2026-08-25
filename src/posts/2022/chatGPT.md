@@ -5,6 +5,7 @@ subtitle: "more human than human"
 sommario: "Dopo una domanda stupida per testarne le potenzialità, mi sono messo a intervistare l'IA di ChatGPT di Open AI (potete provarla gratuitamente qui.."
 immagine: "/img/more-human.jpg"
 lang: it-IT
+tags: ["internet"]
 date: 2022-12-05
 ---
 

@@ -4,6 +4,7 @@ title: "Sanremo 2024"
 subtitle: "Amadeus Amadeus"
 sommario: "È un grottesco spettacolo barocco con tutti gli arcinoti difetti che puntualmente si sente il bisogno di rimarcare ogni anno? Sì."
 immagine: https://upload.wikimedia.org/wikipedia/it/c/c1/Festival_di_Sanremo_2024_logo.png
+tags: ["musica"]
 date: 2024-02-07
 lang: it-IT
 ---

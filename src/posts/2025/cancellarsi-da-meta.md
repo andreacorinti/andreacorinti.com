@@ -4,6 +4,7 @@ title: "Cancellarsi da Meta?"
 subtitle: "Mi si nota di più se mi cancello in disparte o se non mi cancello per niente?"
 sommario: "questa è una riflessione che mi è saltata in testa leggendo i thread di @frandemartino e @claudiamaltese su Livello Segreto, ma che potremmo allargare a tutto il clima da esodo scaturito dopo l'insediamento di Trump."
 immagine: https://cms.qz.com/wp-content/uploads/2018/04/zuckerberg-facebook-hearing-e1523653772551.jpg
+tags: ["internet"]
 date: 2025-01-27
 lang: it-IT
 ---

@@ -5,6 +5,7 @@ subtitle: "Recensione"
 sommario: "Cosa succede se prendiamo un JRPG con una concezione da PlayStation 1, con le limature e migliorie (il famigerato \"quality of life improvement\") del mondo ludico contemporaneo?"
 immagine: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg?
 lang: it-IT
+tags: ["videogiochi"]
 date: 2024-11-16
 ---
 

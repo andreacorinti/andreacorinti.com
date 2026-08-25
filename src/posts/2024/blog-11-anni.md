@@ -4,6 +4,7 @@ title: "La forza dei Siti Web e i miei 11 anni da Blogger"
 subtitle: "Tutti i miei Blog. Tipo Tutte le donne di Dylan Dog"
 sommario: "Un personale spaccato dell'internet dell'ultima decade con qualche riflessione su passato, presente e futuro dello scrivere in rete."
 immagine: /img/xabacadabra.jpg
+tags: ["xabologia"]
 date: 2024-01-14
 lang: it-IT
 ---

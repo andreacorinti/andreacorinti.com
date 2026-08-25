@@ -4,6 +4,7 @@ title: "8 suggerimenti per il Videogioco di Ruolo ideale"
 subtitle: "Rischiate!"
 sommario: "no, Mass Effect, Fallout e Dragon Age per me non sono abbastanza. Diamine, hanno scelte e binari più ridotti del già citato Planescape: Torment, o Vampire the Masquerade: Bloodlines, che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/suggerimenti-videogioco.jpg
+tags: ["videogiochi"]
 date: 2015-03-01
 lang: it-IT
 ---

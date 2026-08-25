@@ -4,6 +4,7 @@ title: "Blog to the Future"
 subtitle: "Blogs of Future Past?"
 sommario: "Sono giorni interessanti (e stressanti) per tante ragioni, quindi tutti i miei rancori per il social web scottano più del solito."
 immagine: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ritornoalfuturo-1521733618.jpg
+tags: ["xabologia"]
 date: 2020-06-16
 lang: it-IT
 ---

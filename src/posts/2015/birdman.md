@@ -4,6 +4,7 @@ title: "Birdman"
 subtitle: "Recensione"
 sommario: "Ho sentito quel qualcosa che mi facevano sentire i film di Kubrick."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/birdmanrecensione.jpg
+tags: ["film-serie"]
 date: 2015-02-22
 lang: it-IT
 ---

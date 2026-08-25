@@ -4,6 +4,7 @@ title: "Cos'è successo su Mastodon.uno"
 subtitle: E il resto del fediverso
 sommario: "Questo post non ha intenti polemici, nasce più che altro per fare un po' il punto sul casino che si è recentemente sviluppato tra mastodon.uno e il silenziamento di alcuni utenti di altre istanze."
 immagine: https://upload.wikimedia.org/wikipedia/commons/d/d7/Knight_Mastodon.jpg
+tags: ["internet"]
 date: 2023-06-23
 lang: it-IT
 ---

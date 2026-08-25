@@ -4,6 +4,7 @@ title: "Cuphead"
 subtitle: "Un vero assaggio di Next-gen"
 sommario: "Niente recensione e/o altri termini altisonanti. Solo qualche piccolo appunto, quasi solo squisitamente tecnico..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/cuphead.jpg
+tags: ["videogiochi"]
 date: 2017-10-16
 lang: it-IT
 ---

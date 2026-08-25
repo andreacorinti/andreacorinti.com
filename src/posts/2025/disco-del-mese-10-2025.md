@@ -4,6 +4,7 @@ title: "Disco del Mese - Ottobre 2025"
 subtitle: "An Abstract Illusion - The Sleeping City"
 sommario: "Ok, ottobre ricchissimo, con ogni probabilità personale record per questa mia rubrichetta e, siccome mi perdo tra tutti i consigli, ringrazio direttamente Efi e Zel che hanno diffuso molta di questa bella roba!"
 immagine: https://f4.bcbits.com/img/a2524279669_16.jpg
+tags: ["musica"]
 date: 2025-10-22
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Steam Deck: prime impressioni e primi troubleshooting"
 subtitle: "Un mini PC per smanettoni"
 sommario: "Il 14/10 mi è arrivata la Steam Deck e, più che a giocarci, confesso che ho cominciato subito a smanettarci..."
 immagine: /img/steamdeck.jpg
+tags: ["videogiochi"]
 date: 2022-10-17
 lang: it-IT
 ---

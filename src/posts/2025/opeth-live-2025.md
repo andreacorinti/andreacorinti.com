@@ -4,6 +4,7 @@ title: "Opeth - Live all'Alcatraz di Milano 2025"
 subtitle: "resoconto"
 sommario: "Il problema di gruppi con una decennale storia alle spalle è che c'è una discografia sterminata da cui attingere..."
 immagine: /img/opeth-2025.jpg
+tags: ["musica"]
 date: 2025-10-07
 lang: it-IT
 ---

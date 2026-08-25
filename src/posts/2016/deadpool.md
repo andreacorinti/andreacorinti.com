@@ -4,6 +4,7 @@ title: "Deadpool"
 subtitle: "Recensione"
 sommario: "Togliamoci subito il dente avvelenato. Deadpool è un film costruito per Internet. Come tale, è un film che nella sua promozione..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/deadpool.jpg
+tags: ["film-serie"]
 date: 2016-02-21
 lang: it-IT
 ---

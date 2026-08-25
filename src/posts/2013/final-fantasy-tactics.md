@@ -4,6 +4,7 @@ title: "Final Fantasy Tactics"
 subtitle: "Recensione"
 sommario: "Final Fantasy Tactics è uno spin-off della celeberrima serie, dato alle stampe nel 1998..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/finalfantasytacticsrecensione.jpg
+tags: ["videogiochi"]
 date: 2013-05-10
 lang: it-IT
 ---

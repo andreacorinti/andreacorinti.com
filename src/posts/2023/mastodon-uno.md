@@ -4,6 +4,7 @@ title: "Diorama e Mastodon.uno"
 subtitle: "Un aggiornamento sul recente passato di M1"
 sommario: "Dunque. Ho già aggiornato il vecchio post con la parte che riporto pure in apertura qui - Il 4 Luglio 2023 diorama (firma del blog che ha accusato mastodon.uno di brandjacking) mi ha contattato dal form del mio sito, riportando tra le altre cose quanto segue..."
 immagine: https://ia803400.us.archive.org/5/items/20210513-meneaame-es-it-diggita/astroturfing-is-watching-you.jpg
+tags: ["internet"]
 date: 2023-07-05
 lang: it-IT
 ---

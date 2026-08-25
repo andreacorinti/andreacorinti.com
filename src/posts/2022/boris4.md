@@ -4,6 +4,7 @@ title: "Boris 4"
 subtitle: "Una serie a cui si vuole bene"
 sommario: "Non parlerò di Boris in generale, è superfluo perché è un cult assoluto che nel corso degli anni si è radicato nel linguaggio di un certo internet italiano..."
 immagine: /img/boris4.jpeg
+tags: ["film-serie"]
 date: 2022-10-27
 lang: it-IT
 ---

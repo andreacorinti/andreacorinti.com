@@ -4,6 +4,7 @@ title: "I Braccobaldi"
 subtitle: "E le loro peripezie"
 sommario: "Questi sconosciuti. Correva l'anno 2008, se le mie idiozie erano ancora più..)"
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/braccobaldi.jpg
+tags: ["fumettame"]
 date: 2013-02-17
 lang: it-IT
 ---

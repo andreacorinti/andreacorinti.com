@@ -4,6 +4,7 @@ title: "Capricciosa Orange Road"
 subtitle: "È quasi magia Johnny"
 sommario: "Se vent'anni fa aveste domandato agli adolescenti quale fosse il triangolo amoroso per eccellenza probabilmente vi avrebbero snocciolato il celeberrimo Brenda - Dylan - Kelly...ma, interpellando i più pischelli, la risposta sarebbe stata una sola: Sabrina - Johnny - Tinetta (o, canonicamente parlando, Madoka - Kyusuke - Hikaru).."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/orange-road-e-quasi-magia-johnny.jpg
+tags: ["fumettame"]
 date: 2014-12-15
 lang: it-IT
 ---

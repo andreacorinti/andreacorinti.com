@@ -4,6 +4,7 @@ title: "Social Network"
 subtitle: "allargando il discorso dal solito Fediverso"
 sommario: "Visto che l'altro post di oggi ha generato un thread tanto ciccioso e interessante che io per primo non mi ci raccapezzo più (il che già ci porta in argomento 👀) ecco il secondo tempo! Partiamo dall'osservazione di BB che mi ha dato lo spunto per scrivere quanto segue"
 immagine: /img/mastodon/social.jpg
+tags: ["internet"]
 date: 2025-11-18
 lang: it-IT
 ---

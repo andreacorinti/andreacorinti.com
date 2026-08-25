@@ -4,6 +4,7 @@ title: "Disco del Mese - Agosto 2025"
 subtitle: "Onmyo-Za - Ginmio Gozen (吟澪御前)"
 sommario: "Agosto è sempre un mese complicato, tra ferie e uscite più difficili da reperire / intercettare (nonché ovviamente ridotte nel numero per forza di cose), ma qualche chicca salta sempre fuori..."
 immagine: https://www.onmyo-za.net/nimages/grgz/jk.jpg
+tags: ["musica"]
 date: 2025-08-20
 lang: it-IT
 ---

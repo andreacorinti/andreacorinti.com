@@ -4,6 +4,7 @@ title: "Logan - The Wolverine"
 subtitle: "Recensione"
 sommario: "Logan è un bel film. Soprattutto, è un Film e non l'episodio della gargantuesca serie tv rappresentata dal Marvel Cinematic Universe: vale insomma ciò che scrissi per Batman V Superman...."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/logan-the-wolverine.jpg
+tags: ["film-serie"]
 date: 2017-03-12
 lang: it-IT
 ---

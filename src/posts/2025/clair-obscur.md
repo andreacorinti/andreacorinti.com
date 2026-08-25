@@ -4,6 +4,7 @@ title: "Clair Obscur: Expedition 33"
 subtitle: "Une vie à t'aimer"
 sommario: "Ma che vogliamo dirgli alla Francia? Coi cugini d'oltralpe possiamo spenderci in tutti i derby e le rivalità del caso eh, ci sta..."
 immagine: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg
+tags: ["videogiochi"]
 date: 2025-05-26
 lang: it-IT
 ---

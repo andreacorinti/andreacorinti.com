@@ -4,6 +4,7 @@ title: "Vegas Stakes"
 subtitle: "Retrospettiva"
 sommario: "Ho una confessione da fare! Sebbene disprezzi i Casinò dal punto di vista etico/sociale e sarei ben felice venissero rasi al suolo..."
 immagine: https://upload.wikimedia.org/wikipedia/en/5/57/VegasstakesSNES_boxart.jpg
+tags: ["videogiochi"]
 date: 2025-07-10
 lang: it-IT
 ---

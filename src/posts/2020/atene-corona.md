@@ -4,6 +4,7 @@ title: "Atene e la Grecia ai tempi del Corona"
 subtitle: "Diari della Quarantena #2"
 sommario: "Molte volte ho pensato di scrivere della mia esperienza greca"
 immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/1024px-The_Parthenon_in_Athens.jpg
+tags: ["xabologia"]
 date: 2020-03-21
 lang: it-IT
 ---

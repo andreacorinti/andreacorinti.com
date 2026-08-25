@@ -4,6 +4,7 @@ title: "Auguri, scongiurando il Death Stranding"
 subtitle: "Kojima power"
 sommario: "Ultimo post del 2021 per finirlo con una nota più positiva dell'ultimo (sto bene, tranquilli, sono quei momenti di sconforto che assalgono per svariati motivi)"
 immagine: https://www.andreacorinti.com/img/death-stranding.jpg
+tags: ["videogiochi"]
 date: 2021-12-24
 lang: it-IT
 ---

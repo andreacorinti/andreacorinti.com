@@ -112,6 +112,31 @@
   // stylelint-enable
 }
 
+.tdbc-categorie-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 1.5rem;
+
+  @media (min-width: 768px) {
+    justify-content: center;
+  }
+
+  a.is-active {
+    background-color: theme.tdbc-color("primary");
+    color: theme.tdbc-color("dark");
+  }
+
+  // The outlined button's :hover lightens the background (see
+  // .tdbc-button-outlined above), but the site-wide `a:hover` rule turns
+  // link text yellow — yellow-on-near-white is nearly unreadable. Force
+  // dark text on hover here instead, matching the .is-active state.
+  a:hover,
+  a:focus {
+    color: theme.tdbc-color("dark");
+  }
+}
+
 .tdbc-button__icon,
 .tdbc-icon-button {
   display: inline-flex;

@@ -4,6 +4,7 @@ title: "Final Fantasy Pixel Remaster"
 subtitle: "Bella e povera, anche se costa cara"
 sommario: "Bella e povera, anche se costa cara"
 immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/1173770/header.jpg
+tags: ["videogiochi"]
 date: 2022-02-12
 lang: it-IT
 ---

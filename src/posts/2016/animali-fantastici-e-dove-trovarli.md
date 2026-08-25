@@ -4,6 +4,7 @@ title: "Animali Fantastici e dove trovarli"
 subtitle: "Recensione"
 sommario: "Partiamo subito con le cose importanti. Senza girarci troppo attorno, Animali Fantastici è un film splendido...."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/animali-fantastici.jpg
+tags: ["film-serie"]
 date: 2016-11-20
 lang: it-IT
 ---

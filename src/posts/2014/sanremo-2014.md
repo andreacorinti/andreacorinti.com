@@ -4,6 +4,7 @@ title: "Sanremo 2014"
 subtitle: "Osservazioni sparse d'attualità televisiva e politica (che in Italia sono poi la stessa cosa)..."
 sommario: "Osservazioni sparse d'attualità televisiva e politica (che in Italia sono poi la stessa cosa)..."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/sanremo2014.jpg
+tags: ["musica"]
 date: 2014-02-16
 lang: it-IT
 ---

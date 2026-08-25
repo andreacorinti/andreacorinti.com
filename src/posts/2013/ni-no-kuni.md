@@ -4,6 +4,7 @@ title: "Ni no Kuni"
 subtitle: "Recensione"
 sommario: "Sintetizzandola in breve, potrei dire da subito che Ni no Kuni è la testimonianza vivente dell'..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ninokunirecensione.jpg
+tags: ["videogiochi"]
 date: 2013-05-15
 lang: it-IT
 ---

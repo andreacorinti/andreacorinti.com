@@ -4,6 +4,7 @@ title: "Connessioni - da Kojima a Uspenskij, con in mezzo Summer Time Rendering"
 subtitle: "Connessi dal gene del talento"
 sommario: "Questo è un post particolare, che vuole in breve spiegare quanto le connessioni, i collegamenti, o meglio i meme nel senso propriamente detto (e di cui non per niente proprio Hideo Kojima ha parlato nel suo libro)..."
 immagine: https://upload.wikimedia.org/wikipedia/commons/4/41/Sistema_hipertextual.jpg
+tags: ["videogiochi"]
 date: 2023-08-01
 lang: it-IT
 ---

@@ -4,6 +4,7 @@ title: "Return to Monkey Island"
 subtitle: RON GILBERT!
 sommario: "Non posso ancora morire!"
 immagine: https://cdn.arstechnica.net/wp-content/uploads/2022/04/monkeyreturnlisting-800x366.png
+tags: ["videogiochi"]
 date: 2022-04-05
 lang: it-IT
 ---

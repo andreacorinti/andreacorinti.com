@@ -4,6 +4,7 @@ title: "I Cavalieri dello Zodiaco - La Leggenda del Grande Tempio"
 subtitle: "Recensione"
 sommario: "Altrimenti detto Saint Seiya - Legend of the Sanctuary. Ossia Malessere, tanto malessere."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/legend-of-the-sanctuary.jpg
+tags: ["fumettame"]
 date: 2015-01-13
 lang: it-IT
 ---

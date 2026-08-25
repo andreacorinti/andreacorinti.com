@@ -4,6 +4,7 @@ title: "Grandia 2"
 subtitle: "Recensione"
 sommario: "La serie di JRPG Grandia è composta da tre episodi ufficiali più vari spin-off, ma è opportuno considerare..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/Grandia2Recensione.jpg
+tags: ["videogiochi"]
 date: 2013-02-18
 lang: it-IT
 ---

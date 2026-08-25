@@ -4,6 +4,7 @@ title: "Nobuo Uematsu con TIKI Show, Roma 7 Marzo 2025"
 subtitle: "Resoconto ❤️"
 sommario: "Allora. È difficile spiegare a parole quanto abbia signifcato per me la musica di Nobuo Uematsu (parlano da soli i numeri del mio last.fm) e quanto abbia inciso in modo fondamentale nel mio amore per la serie Final Fantasy, quindi è inutile ribadirlo qui."
 immagine: /img/Nobuo/cover.jpg
+tags: ["musica"]
 date: 2025-03-10
 lang: it-IT
 ---

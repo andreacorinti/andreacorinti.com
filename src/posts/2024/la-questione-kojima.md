@@ -4,6 +4,7 @@ title: "La questione Kojima"
 subtitle: "Cécile Cosima Caminades?"
 sommario: "Visto che è appena uscito il trailer State of Play di Death Stranding 2, che personalmente ho trovato meraviglioso (d'altronde ho amato un sacco il primo DS..."
 immagine: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.thegamerimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F12%2FHideo-kojima-standing-next-to-kojima-productions-logo.jpg
+tags: ["videogiochi"]
 date: 2024-02-01
 lang: it-IT
 ---

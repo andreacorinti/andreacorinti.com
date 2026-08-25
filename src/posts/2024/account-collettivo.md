@@ -4,6 +4,7 @@ title: "Di account individuali e account collettivi"
 subtitle: "O di Persone vs Entità"
 sommario: "Un postino per il compleanno (tanti auguri a me!) di un tema di cui credo di aver già discusso, ma su cui non mi pare di aver mai incentrato un vero e proprio post:"
 immagine: https://upload.wikimedia.org/wikipedia/commons/a/a8/Koala_Country_Doors_Menu.jpg
+tags: ["internet"]
 date: 2024-06-17
 lang: it-IT
 ---

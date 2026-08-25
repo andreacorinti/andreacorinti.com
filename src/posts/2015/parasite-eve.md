@@ -4,6 +4,7 @@ title: "Parasite Eve"
 subtitle: "Recensione"
 sommario: "Un anno dopo il successo di Final Fantasy VII, Squaresoft proseguì la propria linea narrativa più spiccatamente fanta-urbano-cyberpunkettona con..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/parasiteve.jpg
+tags: ["videogiochi"]
 date: 2015-12-05
 lang: it-IT
 ---

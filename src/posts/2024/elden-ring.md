@@ -4,6 +4,7 @@ title: "Perché ho mollato Elden Ring"
 subtitle: "e i Souls in generale"
 sommario: "Ho iniziato questo post più di un anno fa, ma per qualche motivo non sono mai riuscito a riprenderlo in mano...oggi ci riprovo, sperando di non metterci troppe castronerie!"
 immagine: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_510a02cf3045e841e180f2b77fb87545e0c8b59d.600x338.jpg
+tags: ["videogiochi"]
 date: 2024-12-06
 lang: it-IT
 ---

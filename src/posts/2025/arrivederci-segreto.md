@@ -4,6 +4,7 @@ title: "Arrivederci Segreto"
 subtitle: "ci vediamo nel fediverso"
 sommario: "arrivederci perché una migrazione non significa un addio e il grosso dei miei contatti nel fediverso fa parte di Livello Segreto, che dal 2022 è stata senza dubbio la mia istanza preferita (spoiler: tutto sommato lo è ancora)."
 immagine: https://scarletboulevard.com/wp-content/uploads/2019/04/laurel-and-hardy-laurel-and-hardy-30795541-1024-768.jpg
+tags: ["xabologia"]
 date: 2025-06-15
 lang: it-IT
 ---

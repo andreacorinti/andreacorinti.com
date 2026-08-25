@@ -4,6 +4,7 @@ title: "Teoria sulle Istanze Tematiche per Autostoppisti (niente panico)"
 subtitle: "parole a vanvera, ma decentralizzate"
 sommario: "Tutto quello che state per leggere è puramente ideale e speculativo, ma tiene sempre conto di un preciso caposaldo che non si deve mai dimenticare."
 immagine: https://engagemedia.org/wp-content/uploads/2020/07/1024px-Fediverse_mosaic.svg.png
+tags: ["internet"]
 date: 2025-06-28
 lang: it-IT
 ---

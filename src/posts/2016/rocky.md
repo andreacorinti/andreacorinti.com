@@ -4,6 +4,7 @@ title: "Rocky Balboa"
 subtitle: "Analisi di una Leggenda"
 sommario: "Vista l'uscita di Creed (che devo assolutamente vedere) piuttosto che una futura ed interminabile premessa ho pensato fosse il caso di scrivere un bel post dedicato a Rocky Balboa..."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/rocky.jpg
+tags: ["film-serie"]
 date: 2016-01-17
 lang: it-IT
 ---

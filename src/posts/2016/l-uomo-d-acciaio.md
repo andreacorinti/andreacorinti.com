@@ -4,6 +4,7 @@ title: "L'Uomo d'Acciaio"
 subtitle: "Recensione"
 sommario: "Considerando che Batman V Superman m'ispira poco ma m'incuriosisce tanto, l'altro giorno ho finalmente colto la palla mediaset al balzo..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/man-of-steel.jpg
+tags: ["film-serie"]
 date: 2016-03-27
 lang: it-IT
 ---

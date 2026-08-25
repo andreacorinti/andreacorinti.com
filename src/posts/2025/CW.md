@@ -5,6 +5,7 @@ title: "CW su Livello Segreto"
 subtitle: "Ancora tu, ma non dovevamo rivederci più?" 
 sommario: "Se mi seguite su Livello Segreto e non mi avete ancora silenziato, grazie in anticipo perché so che sul tema sto diventando un disco rotto."
 immagine: https://upload.wikimedia.org/wikipedia/commons/1/16/Aappj.gif
+tags: ["internet"]
 date: 2025-02-07
 ---
 

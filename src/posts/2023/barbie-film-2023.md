@@ -4,6 +4,7 @@ title: "Barbie - il film"
 subtitle: "Hi Hype! Hi Web!"
 sommario: "Partiamo dalle cose semplici...Il film di Barbie è bello?"
 immagine: /img/barbie/cover.jpg
+tags: ["film-serie"]
 date: 2023-07-22
 lang: it-IT
 ---

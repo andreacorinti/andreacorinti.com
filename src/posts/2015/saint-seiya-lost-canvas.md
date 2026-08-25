@@ -4,6 +4,7 @@ title: "Saint Seiya - Lost Canvas"
 subtitle: "C'è del marcio in Giappolandia"
 sommario: "C'è del marcio in Giappolandia. Non vi è davvero altra spiegazione plausibile, mi trovo a dover riconfermare quanto già detto qualche mese fa."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/lost-canvas.jpg
+tags: ["fumettame"]
 date: 2015-04-01
 lang: it-IT
 ---

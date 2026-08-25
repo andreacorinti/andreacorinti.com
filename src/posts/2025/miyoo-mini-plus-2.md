@@ -4,6 +4,7 @@ title: "Le prime 100 ore di Miyoo Mini Plus"
 subtitle: "Piccole gioie tascabili"
 sommario: "dopo due mesi e 100 ore giocate, credo di poter parlare con un po' più di cognizione di causa di questo magnifico aggeggino."
 immagine: "/img/miyoo-mini-plus-100.jpg"
+tags: ["videogiochi"]
 date: 2025-04-14
 lang: it-IT
 ---

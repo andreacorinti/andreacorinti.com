@@ -17,6 +17,15 @@ permalink: "/blog-{{ pagination.pageNumber }}/"
 ---
 
 <main id="main-content" class="tdbc-container">
+  <nav class="tdbc-categorie-nav" aria-label="Categorie del blog">
+    <a href="/blog-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-active">Tutti</a>
+    <a href="/categoria/videogiochi-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Videogiochi</a>
+    <a href="/categoria/musica-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Musica</a>
+    <a href="/categoria/internet-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Internet</a>
+    <a href="/categoria/film-serie-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Film &amp; Serie</a>
+    <a href="/categoria/fumettame-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Fumettame</a>
+    <a href="/categoria/xabologia-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Xabologia</a>
+  </nav>
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
       {%- for post in postita -%}

@@ -4,6 +4,7 @@ title: "Gazebo"
 subtitle: "We like Chopin"
 sommario: "Perché Gazebo è in una botta sola la salvezza di TV, twitter, satira e approfondimento politico in Italia."
 immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/gazebo.jpg
+tags: ["film-serie"]
 date: 2013-11-19
 lang: it-IT
 ---

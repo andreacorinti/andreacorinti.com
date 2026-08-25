@@ -4,6 +4,7 @@ title: "Dragon Ball in Italia"
 subtitle: "Barlafusi e pubblicità"
 sommario: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è la Rai..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/dragonballitalia.jpg
+tags: ["fumettame"]
 date: 2013-02-28
 lang: it-IT
 ---

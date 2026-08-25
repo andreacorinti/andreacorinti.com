@@ -5,6 +5,7 @@ subtitle: "è il tempo di dire basta"
 sommario: "è il tempo di dire basta"
 immagine: https://upload.wikimedia.org/wikipedia/commons/f/fd/E3_showfloor_sony_stand_2006.JPG
 lang: it-IT
+tags: ["videogiochi"]
 date: 2021-11-11
 ---
 

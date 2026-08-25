@@ -4,6 +4,7 @@ title: "Harry Potter e la maledizione dell'erede"
 subtitle: "Recensione"
 sommario: "Prima di tutto enuncerò alcuni punti chiave: l'ho letto tutto d'un fiato in due orette scarse, contiene momenti bellissimi, sfrutta l'espediente narrativo più stupido, pericoloso e sputtanante presente nella serie originale:..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/harry-potter-e-la-maledizione-dell-erede-recensione.jpg
+tags: ["film-serie"]
 date: 2017-04-05
 lang: it-IT
 ---

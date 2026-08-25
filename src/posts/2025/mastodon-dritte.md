@@ -4,6 +4,7 @@ title: "Dritte da Mastodon"
 subtitle: "appunti vari dopo un paio d'anni di uso quotidiano"
 sommario: "Consigli spassionati dopo qualche anno d'esperienza!"
 immagine: https://upload.wikimedia.org/wikipedia/commons/7/70/BlankMastodon.jpg
+tags: ["internet"]
 date: 2025-05-06
 lang: it-IT
 ---

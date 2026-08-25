@@ -4,6 +4,7 @@ title: "Una WebZine per il Fediverso italofono?"
 subtitle: "idee a vanvera"
 sommario: "Faccio un post da blog non per altro, ma perché quando voglio riordinare le idee e mi perdo tra thread, timeline, chat ne sento proprio il bisogno fisico, ma tenterò di essere sintetico!"
 immagine: https://upload.wikimedia.org/wikipedia/commons/b/b0/Gutenberg_Bible.jpg
+tags: ["internet"]
 date: 2025-12-11
 lang: it-IT
 ---

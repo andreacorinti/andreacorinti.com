@@ -4,6 +4,7 @@ title: "Loveless e Final Fantasy VIII"
 subtitle: Esplorando Squaresoft
 sommario: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/loveless.jpg
+tags: ["videogiochi"]
 date: 2016-01-02
 lang: it-IT
 ---
