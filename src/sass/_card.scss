@@ -73,8 +73,13 @@
   }
 
   img:first-child {
+    // Fixed width+height (not just max-height) reserves this box before
+    // the image loads, regardless of its actual dimensions — otherwise
+    // the browser doesn't know the image's size until it arrives and the
+    // card list jumps as each one loads in (layout shift).
+    width: 100%;
+    height: 10em;
     object-fit: cover;
-    max-height: 10em;
     border-radius: theme.$tdbc-border-radius theme.$tdbc-border-radius 0 0; // Corretto con il namespace
   }
   // stylelint-enable

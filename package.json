@@ -10,7 +10,7 @@
     "build:sass-social": "sass  --no-source-map src/sass/social.scss social/style.css",
     "build:sass": "npm-run-all --parallel build:sass-site",
     "build:eleventy": "eleventy",
-    "postbuild": "postcss public/css/*.css -u autoprefixer cssnano -r",
+    "postbuild": "node scripts/minify-css.js",
     "start": "cross-env ELEVENTY_ENV=dev npm-run-all build:sass --parallel watch:*",
     "build": "cross-env ELEVENTY_ENV=prod npm-run-all build:sass build:eleventy",
     "lint": "stylelint 'src/sass/**/*.scss' 'src/sass/**/**/*.scss' 'src/sass/**/**/**/*.scss'",
@@ -57,7 +57,7 @@
     "stylelint-selector-bem-pattern": "^4.0.1"
   },
   "browserslist": [
-    "last 2 versions"
+    "defaults"
   ],
   "dependencies": {
     "@11ty/eleventy-upgrade-help": "^3.0.2",

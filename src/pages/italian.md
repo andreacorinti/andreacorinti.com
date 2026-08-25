@@ -23,7 +23,7 @@ permalink: "/blog-{{ pagination.pageNumber }}/"
       <li class="tdbc-card">
         <div class="tdbc-card__content">
           <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
-          <img :first-child src="{{ post.data.immagine}}" alt="{{ post.data.title }}"></img>
+          <img src="{{ post.data.immagine }}" alt="{{ post.data.title }}" {% if forloop.index > 2 %}loading="lazy"{% endif %} decoding="async">
           <time>{{ post.data.date | dateDisplay }}</time>
           <p>{{ post.data.sommario }}</p>
         </div>
