@@ -4,7 +4,7 @@ title: "Death by Scrolling"
 subtitle: "Ron Gilbert's Survivors?"
 sommario: "Con il buon vecchio Ron grumpygamer Gilbert ci eravamo lasciati qualche anno fa con il suo Return to Monkey Island e, come ben sapeva chi lo segue nel Fediverso.."
 immagine: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3773590/9cd376df797bcc9198e886fc4739663f04c6af89/header.jpg
-tags: ["internet"]
+tags: ["videogiochi"]
 date: 2025-10-28
 lang: it-IT
 ---

@@ -19,6 +19,18 @@
 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {# Inline and synchronous (not deferred) on purpose: it has to set
+       data-theme before the stylesheet below paints, or a light-mode
+       visitor sees a flash of the dark theme on every page load. #}
+    <script>
+      (function () {
+        try {
+          if (localStorage.getItem("theme") === "light") {
+            document.documentElement.setAttribute("data-theme", "light");
+          }
+        } catch (e) {}
+      })();
+    </script>
     <title>{{ pageTitle | safe }}</title>
     <meta
       name="description"
@@ -119,5 +131,6 @@
     </footer>
         <!-- ricerca -->
     <script src="/js/search.js" defer></script>
+    <script src="/js/theme-toggle.js" defer></script>
   </body>
 </html>

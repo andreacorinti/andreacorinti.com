@@ -3,7 +3,7 @@ layout: postita
 title: "La charla del flaco Gareca"
 subtitle: "Reflexión sobre el comentario de Ricardo Gareca en #ESNF90"
 sommario: "Reflexión sobre el comentario de Ricardo Gareca en #ESNF90"
-immagine: https://i.ytimg.com/vi/hB-dCP_ycaY/maxresdefault.jpg
+immagine: https://i.ytimg.com/vi/9JL34Kygsxw/maxresdefault.jpg
 lang: es-AR
 tags: ["xabologia"]
 date: 2022-05-12

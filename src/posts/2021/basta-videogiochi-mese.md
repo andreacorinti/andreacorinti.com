@@ -3,7 +3,7 @@ layout: postita
 title: "Valheim - #Basta Videogiochi - Un mese dopo"
 subtitle: "Valheim, amore odio"
 sommario: "Valheim, amore odio"
-immagine: https://images.squarespace-cdn.com/content/v1/5e203941ee6ea226e307532c/1610100154181-LMILNLUGAKGR6CHGS39Q/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/ss_b03d2b4f5a248c20f6f9f254602d1754332a43ed.jpg
+immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg
 lang: it-IT
 tags: ["videogiochi"]
 date: 2021-04-13

@@ -27,7 +27,7 @@
   &:focus {
     outline-color: transparent;
     outline-style: solid;
-    box-shadow: 0 0 0 3px color.scale(theme.tdbc-color("primary"), $lightness: -30%);
+    box-shadow: 0 0 0 3px var(--tdbc-focus-ring);
   }
 
   &--small {
@@ -66,7 +66,7 @@
 
     &:hover,
     &:focus {
-      background-color: color.scale(theme.tdbc-color("primary"), $lightness: 80%);
+      background-color: var(--tdbc-hover-bg);
     }
   }
 
@@ -122,9 +122,12 @@
     justify-content: center;
   }
 
+  // Inverted pill: background swaps to the theme's text color, so the label
+  // needs the theme's *background* color to stay readable in both themes
+  // (unlike the hover state below, this background actually flips).
   a.is-active {
-    background-color: theme.tdbc-color("primary");
-    color: theme.tdbc-color("dark");
+    background-color: var(--tdbc-text);
+    color: var(--tdbc-bg);
   }
 
   // The outlined button's :hover lightens the background (see

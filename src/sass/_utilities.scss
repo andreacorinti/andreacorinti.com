@@ -93,7 +93,7 @@
   z-index: 100;
   padding: 0.5em 1em;
   background-color: theme.tdbc-color("background");
-  color: theme.$tdbc-color-body;
+  color: var(--tdbc-body-text);
   border: 1px solid theme.tdbc-color("primary");
   border-radius: theme.$tdbc-border-radius;
 

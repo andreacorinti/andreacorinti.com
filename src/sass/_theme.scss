@@ -28,8 +28,29 @@ $tdbc-colors: map.merge(
   )
 );
 
-// Funzione per ottenere un colore dalla mappa
+// Funzione per ottenere un colore dalla mappa.
+// primary/background/text/gray sono le tonalità che cambiano tra tema scuro
+// e chiaro: per queste la funzione restituisce una CSS custom property
+// (definita in _reset.scss, dark su :root, light su :root[data-theme="light"])
+// invece del valore Sass statico, così ogni classe/regola che la richiama
+// diventa automaticamente sensibile al tema senza bisogno di toccarla.
+// secondary/light/dark restano costanti nei due temi (vedi _reset.scss per
+// il motivo caso per caso) e continuano a risolversi al valore Sass reale —
+// serve perché alcuni punti (es. color.scale()) fanno matematica sul colore
+// a compile-time e non possono operare su una stringa var().
 @function tdbc-color($key) {
+  @if $key == "primary" {
+    @return var(--tdbc-text);
+  }
+  @if $key == "background" {
+    @return var(--tdbc-bg);
+  }
+  @if $key == "text" {
+    @return var(--tdbc-body-text);
+  }
+  @if $key == "gray" {
+    @return var(--tdbc-muted);
+  }
   @return map.get($tdbc-colors, $key);
 }
 
@@ -39,8 +60,12 @@ $tdbc-ink-colors: ("primary", "secondary", "text", "gray", "light", "dark") !def
 // Configurazione delle classi di sfondo
 $tdbc-background-colors: ("primary", "secondary", "background", "gray", "light") !default;
 
-// Varianti dei pulsanti
-$tdbc-button-variants: ("primary", "secondary", "light", "gray") !default;
+// Varianti dei pulsanti. "gray" non genera output (nessun .tdbc-button--gray
+// in uso) e va escluso qui: userebbe color.scale() a compile-time sul token
+// "gray", che dal tema chiaro/scuro in poi è una CSS var(), non un colore
+// Sass — l'aritmetica su un colore statico non ha comunque senso per un
+// token che cambia a runtime.
+$tdbc-button-variants: ("primary", "secondary", "light") !default;
 
 // Altri stili
 $tdbc-link-color: tdbc-color("primary") !default;

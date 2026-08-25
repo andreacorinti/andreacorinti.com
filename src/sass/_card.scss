@@ -7,7 +7,7 @@
   flex-direction: column;
   width: 100%;
   border-radius: theme.$tdbc-border-radius; // Corretto con il namespace
-  background-color: rgb(5, 5, 5);
+  background-color: var(--tdbc-surface);
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
 
   &__title {
@@ -85,7 +85,7 @@
   // stylelint-enable
 
   &--outlined {
-    border: 1px solid color.scale(theme.tdbc-color("gray"), $lightness: 50%); // Corretto con il namespace
+    border: 1px solid var(--tdbc-border-subtle);
     background-color: transparent;
     box-shadow: none;
   }

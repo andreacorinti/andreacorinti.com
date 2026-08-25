@@ -1,26 +1,24 @@
 const styles = `
-:root {
-  --font-color: #e0e0e0; 
+misskey-comments {
+  --font-color: #e0e0e0;
   --font-size: 1.0rem;
-  --main-background: #1e1e1e; 
+  --main-background: #1e1e1e;
   --block-border-width: 1px;
   --block-border-radius: 5px;
-  --block-border-color: #333333; 
-  --block-background-color: #282828; 
-  --comment-indent: 40px; 
-}
+  --block-border-color: #333333;
+  --block-background-color: #282828;
+  --comment-indent: 40px;
 
-misskey-comments {
   font-size: var(--font-size);
   color: var(--font-color);
   background-color: var(--main-background);
-  padding: 15px; 
-  display: block; 
+  padding: 15px;
+  display: block;
 }
 
-h2 { color: #f0f0f0; margin-top: 0; margin-bottom: 1.5rem; }
-p { margin: 0 0 1rem 0; color: var(--font-color); }
-a { color: #6a9fb5; }
+misskey-comments h2 { color: #f0f0f0; margin-top: 0; margin-bottom: 1.5rem; }
+misskey-comments p { margin: 0 0 1rem 0; color: var(--font-color); }
+misskey-comments a { color: #6a9fb5; }
 
 #misskey-comments-list {
   margin: 0 auto;
@@ -57,7 +55,7 @@ a { color: #6a9fb5; }
 .misskey-comment .content { margin: 15px 0; line-height: 1.5em; }
 .misskey-comment .attachments img { max-width: 100%; }
 
-#error { color: #ff6161; }
+misskey-comments #error { color: #ff6161; }
 `;
 
 

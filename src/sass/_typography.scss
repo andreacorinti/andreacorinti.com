@@ -78,7 +78,7 @@ a:not(.tdbc-button) {
 }
 
 a:hover {
-  color: #fdeb37;
+  color: var(--tdbc-link-hover);
 }
 
 code:not([class*="language"]) {
@@ -89,7 +89,9 @@ code:not([class*="language"]) {
   // only hits ~2.6:1 against this light code background — fails WCAG AA.
   color: #4a4a4a;
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  border: 1px solid color.scale(theme.tdbc-color("gray"), $lightness: 50%);
+  // Chip a sfondo chiaro fisso in entrambi i temi (vedi sopra), quindi
+  // anche il bordo resta un valore letterale invece che un token tema.
+  border: 1px solid #d6d6de;
   border-radius: 2px;
   font-size: 0.75em;
   line-height: 1.1;
@@ -105,7 +107,7 @@ blockquote {
   margin-left: 0;
   margin-right: 0;
   padding-left: 1.5rem;
-  border-left: 2px solid theme.tdbc-color("secondary");
+  border-left: 2px solid var(--tdbc-border-subtle);
   color: theme.tdbc-color("gray");
 
   &,
@@ -137,6 +139,6 @@ blockquote {
 time {
   text-align: center;
   font-size: smaller;
-  color: #868686;
+  color: var(--tdbc-muted);
   padding: 2vh;
 }

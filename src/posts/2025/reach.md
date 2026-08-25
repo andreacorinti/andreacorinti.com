@@ -4,7 +4,7 @@ title: "Reach"
 subtitle: "Walking on the beaches looking at the peaches"
 sommario: "Questo post mi è stato ispirato da un leggero alterco saltato fuori su Livello Segreto, partito dal discorso fatto da Archimed3 e altr* riguardo il limite di 500 caratteri vigente nell'istanza..."
 immagine: https://cdn.gelestatic.it/kataweb/tvzap/2013/07/00650.jpg
-tags: ["videogiochi"]
+tags: ["xabologia"]
 date: 2025-01-17
 lang: it-IT
 ---

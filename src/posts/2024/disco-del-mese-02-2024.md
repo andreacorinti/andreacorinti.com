@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Febbraio 2024"
 subtitle: "Borknagar - Fall"
 sommario: "Vichinghi uniti!"
-immagine: https://borknagar.com/wp-content/uploads/2023/12/Borknagar_Fall_1223_750-1100.webp
+immagine: https://upload.wikimedia.org/wikipedia/en/7/7b/BorknagarFall.jpg
 tags: ["musica"]
 date: 2024-02-29
 lang: it-IT

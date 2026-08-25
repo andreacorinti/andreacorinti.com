@@ -3,6 +3,37 @@
  * @link https://github.com/hankchizljaw/modern-css-reset
 */
 
+// Tema chiaro/scuro. Scuro resta il default a prescindere dalle preferenze
+// del sistema operativo (è l'identità storica del sito, vedi il post "Dark
+// Mode" del 2020) — il chiaro si attiva solo con il toggle in sitenav.njk,
+// che imposta data-theme="light" su <html> e lo ricorda in localStorage.
+:root {
+  --tdbc-bg: #121212;
+  --tdbc-surface: #050505;
+  --tdbc-text: #ffffff;
+  --tdbc-body-text: #d9d9d9;
+  --tdbc-muted: #939393;
+  --tdbc-hover-bg: #f2f2f2;
+  --tdbc-focus-ring: rgba(255, 255, 255, 0.35);
+  --tdbc-border-subtle: #7a7a7a;
+  --tdbc-link-hover: #fdeb37;
+}
+
+:root[data-theme="light"] {
+  --tdbc-bg: #f5f4ef;
+  --tdbc-surface: #ffffff;
+  --tdbc-text: #17140f;
+  --tdbc-body-text: #2b2822;
+  --tdbc-muted: #5c5949;
+  --tdbc-hover-bg: #e7e4da;
+  --tdbc-focus-ring: rgba(23, 20, 15, 0.35);
+  --tdbc-border-subtle: #cfc9ba;
+  // Il giallo brillante di --tdbc-link-hover in scuro non è abbastanza
+  // leggibile su sfondo chiaro (contrasto ~1.6:1) — questo ambra scuro
+  // resta nella stessa famiglia cromatica ma supera 4.5:1 su #f5f4ef.
+  --tdbc-link-hover: #8a6200;
+}
+
 /* Box sizing rules */
 *,
 *::before,

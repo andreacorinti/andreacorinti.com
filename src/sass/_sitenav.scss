@@ -9,7 +9,7 @@
 @use "theme";
 
 .tdbc-sitenav {
-  background-color: black;
+  background-color: var(--tdbc-bg);
   font-family: Teko;
   position: relative; /* Permette di posizionare elementi interni */
 }
@@ -53,12 +53,13 @@
 #search-input {
   padding: 0.5rem;
   padding-right: 2rem; /* Spazio per l'icona */
-  border: 1px solid theme.tdbc-color("light");
+  border: 1px solid var(--tdbc-text);
   border-radius: theme.$tdbc-border-radius;
   background-color: transparent;
-  color: theme.tdbc-color("light");
+  color: var(--tdbc-text);
   font-size: 1rem;
   width: 200px; /* Larghezza della barra di ricerca */
+  transition: width 0.3s ease;
 }
 
 .search-icon {
@@ -67,15 +68,15 @@
   top: 50%;
   transform: translateY(-50%);
   pointer-events: none; /* Disabilita clic sull'icona */
-  color: theme.tdbc-color("light");
+  color: var(--tdbc-text);
 }
 
 #search-results {
   position: absolute; /* Posiziona i risultati relativamente al contenitore */
   top: 100%; /* Posiziona sotto la barra di ricerca */
   left: 0;
-  background-color: black;
-  border: 1px solid theme.tdbc-color("light");
+  background-color: var(--tdbc-bg);
+  border: 1px solid var(--tdbc-text);
   border-top: none;
   max-height: 200px;
   overflow-y: auto;
@@ -99,4 +100,34 @@
 
 #search-results li:hover a {
   color: black; /* Cambia il colore del testo al passaggio del mouse */
+}
+
+// Il bottone mostra l'icona di ciò che si otterrebbe cliccando (sole =
+// passa al chiaro, luna = torna allo scuro), non il tema attuale.
+#theme-toggle {
+  flex-shrink: 0;
+  margin-left: 0.75rem;
+  color: var(--tdbc-text);
+
+  // stylelint-disable-next-line selector-max-type
+  svg {
+    // L'opacità 0.7 ereditata da .tdbc-icon-button lo rendeva troppo
+    // tenue accanto alla lente di ricerca (sempre a piena opacità): è
+    // un controllo di navigazione primario, non un'icona decorativa.
+    opacity: 1;
+  }
+
+  .theme-toggle__icon--moon {
+    display: none;
+  }
+
+  :root[data-theme="light"] & {
+    .theme-toggle__icon--sun {
+      display: none;
+    }
+
+    .theme-toggle__icon--moon {
+      display: inline-flex;
+    }
+  }
 }

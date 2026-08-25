@@ -3,7 +3,7 @@ layout: postita
 title: "Evangelion 3.0+1.0: Thrice upon a time"
 subtitle: ".さらばさらばの手にかかる霞かな"
 sommario: "Grazie per non fuggire più, Hideaki Anno"
-immagine: https://cyhour.com/wp-content/uploads/2021/07/1693_20210702_082849.png
+immagine: https://image.tmdb.org/t/p/w1280/7WZRRres3z73WOFN9dh4EhiV1sW.jpg
 lang: it-IT
 tags: ["fumettame"]
 date: 2021-08-14

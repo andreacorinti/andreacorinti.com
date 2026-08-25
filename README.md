@@ -1,2 +1,3 @@
 - Sistemare l'avatar nella home e nel curriculum
+- Valutare "post correlati" in fondo ai post: con solo 6 tag ampi il match automatico sarebbe più "altri post della categoria" che correlazione vera — o etichettarlo come tale, o aggiungere un campo frontmatter manuale per i post dove conta di più
 - Varie ed eventuali
