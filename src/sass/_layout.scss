@@ -15,6 +15,12 @@ main,
 main.tdbc-container {
   // padding-top: 5vh;
   padding-bottom: 5vh;
+
+  > img {
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 
 footer {
