@@ -26,6 +26,20 @@ main.tdbc-container {
 
 footer {
   margin-top: auto;
+
+  // Il footer resta sempre su sfondo nero (.tdbc-background--secondary),
+  // a prescindere dal tema. .tdbc-ink--light copre solo i link che sono
+  // figli diretti del contenitore o che portano la classe loro stessi: il
+  // link al nome del sito, annidato dentro un <p>, ricadeva sulla regola
+  // globale a:not(.tdbc-button) (var(--tdbc-text)), quasi nero in tema
+  // chiaro e quindi invisibile sul nero del footer.
+  a:not(.tdbc-button) {
+    color: #eceef7;
+  }
+
+  a:not(.tdbc-button):hover {
+    color: #fdeb37;
+  }
 }
 
 article {
