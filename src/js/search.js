@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const searchInput = document.getElementById("search-input");
   const searchResults = document.getElementById("search-results");
+  if (!searchInput || !searchResults) return;
 
   // Strips accents so "citta" matches "città" -- most of this site's
   // content is Italian, where that's the rule rather than the exception.

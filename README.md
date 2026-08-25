@@ -1,3 +1,4 @@
 - Sistemare l'avatar nella home e nel curriculum
 - Valutare "post correlati" in fondo ai post: con solo 6 tag ampi il match automatico sarebbe più "altri post della categoria" che correlazione vera — o etichettarlo come tale, o aggiungere un campo frontmatter manuale per i post dove conta di più
+- `npm run lint` è rotto da tempo, indipendentemente dall'aggiornamento a Eleventy 3: mancava la dipendenza `stylelint-config-prettier` (mai installata) e, comunque, `.stylelintrc.yaml` usa parecchie regole "stilistiche" che stylelint ha rimosso dal core dalla v15 in poi, più alcuni file `.scss` mai passati dal linter con violazioni BEM pregresse. Non blocca la build/deploy (non è nella pipeline Netlify), ma richiede una revisione a parte della configurazione se si vuole farlo funzionare di nuovo
 - Varie ed eventuali

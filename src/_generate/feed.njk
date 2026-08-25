@@ -44,7 +44,7 @@
       {% endif %}
       <description>{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
       {# CORRETTO: Usa un filtro per RFC 822. Questo richiederà la definizione di un nuovo filtro in .eleventy.js #}
-      <pubDate>{{ post.date | rssDate }}</pubDate>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       {# RIMOSSO: <updated> non è un tag RSS 2.0 valido all'interno di <item> #}
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
