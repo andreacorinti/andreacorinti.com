@@ -1,4 +1,5 @@
-<nav aria-labelledby="tdbc-siteid" class="tdbc-sitenav">
+<a class="tdbc-skip-link" href="#main-content">Vai al contenuto</a>
+<nav aria-label="Menu principale" class="tdbc-sitenav">
   <div class="tdbc-sitenav__container">
     <div class="tdbc-sitenav__brand">
       <!--<a id="tdbc-siteid" href="/">{{ meta.siteName }}</a>-->
@@ -12,9 +13,10 @@
         </li>
       </ul>
     </div>
-    <div class="search-container">
+    <div class="search-container" role="search">
+      <label for="search-input" class="tdbc-visually-hidden">Cerca nel sito</label>
       <input type="text" id="search-input" placeholder="Search..." />
-      <i class="search-icon">🔍</i>
+      <i class="search-icon" aria-hidden="true">🔍</i>
       <ul id="search-results"></ul>
     </div>
   </div>

@@ -2,7 +2,7 @@
 layout: postita
 title: "Disco del Mese - Giugno 2026"
 subtitle: "Klimt 1918 - Àmor"
-sommario: "Qui devo ringraziare sia Zel che mi ha fatto conoscere questa ormai storica band romana che Efi che mi ha regalato lo splendido _Dopoguerra_ (disco del 2005) 😌"
+sommario: "Qui devo ringraziare sia Zel che mi ha fatto conoscere questa ormai storica band romana che Efi che mi ha regalato lo splendido Dopoguerra (disco del 2005) 😌"
 immagine: https://f4.bcbits.com/img/a3801769282_1x1_700.avif
 date: 2026-07-02
 lang: it-IT

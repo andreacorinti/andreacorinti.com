@@ -11,7 +11,7 @@ lang: it-IT
 
 ### Il problema non è la Fake News, ma chi la legge
 
-![](https://cdn-images-1.medium.com/max/1000/0*3cPFQRfWmPshKW_o.gif)
+![Meme con un uomo che urla al microfono la celebre frase "It's still real to me, dammit"](https://cdn-images-1.medium.com/max/1000/0*3cPFQRfWmPshKW_o.gif)
 
 L’ossessione collettiva nei confronti del fenomeno delle **“Fake News”** suona
 molto come la fanfara successiva **al** **palesarsi della Nemesi**…in realtà,
@@ -20,7 +20,7 @@ tempi e si chiama disinformazione.**
 
 ### L’ “Immacolata” Informazione tradizionale
 
-![](https://cdn-images-1.medium.com/max/1000/0*nH4Q2NeKKo9NVSmX.jpg)
+![Prima pagina di giornale con il titolo "A morte i calciatori sconfitti" sulla presunta esecuzione della nazionale nordcoreana di calcio](https://cdn-images-1.medium.com/max/1000/0*nH4Q2NeKKo9NVSmX.jpg)
 
 <small>Il Fatto, Rai News, Libero e altri siti hanno dato ampio spazio alla notizia
 dell’arresto dei giocatori della nazionale di calcio nordcoreana e alla loro
@@ -57,7 +57,7 @@ diffusione di panzane**, sarebbe un discorso interessante da affrontare.
 
 ### Il Famigerato Web
 
-![](https://cdn-images-1.medium.com/max/1000/0*G6GwHZqtYpxORJ16.png)
+![Icona del pollice verso di Facebook con la scritta "fake"](https://cdn-images-1.medium.com/max/1000/0*G6GwHZqtYpxORJ16.png)
 
 > Non dobbiamo lasciare sole le persone che credono a quello che è nel web perché
 > lo dice il web
@@ -104,11 +104,11 @@ Il problema, semmai, è l’**analfabetismo digitale**:
 
 Il fatto che **un qualsiasi sito in Wordpress passi per attendibile giornale online**, che su Internet **per tanti, troppi Italiani evidentemente l’abito fa il monaco:**
 
-![](https://cdn-images-1.medium.com/max/1000/1*C2u1nPGPjFtK8rJJtZ7i1A.png)
+![Screenshot dell'homepage del sito di notizie DirettaNews24, con impaginazione in stile WordPress](https://cdn-images-1.medium.com/max/1000/1*C2u1nPGPjFtK8rJJtZ7i1A.png)
 
-![](https://cdn-images-1.medium.com/max/1000/1*LhIszkwNYlGegr_3seqTNA.png)
+![Screenshot dell'homepage del sito "Il Fatto Dal Web"](https://cdn-images-1.medium.com/max/1000/1*LhIszkwNYlGegr_3seqTNA.png)
 
-![](https://cdn-images-1.medium.com/max/1000/0*w1U1QX982KDe9peY.png)
+![Screenshot dell'homepage del sito Vox con titoli allarmistici sull'immigrazione](https://cdn-images-1.medium.com/max/1000/0*w1U1QX982KDe9peY.png)
 
 Negli ultimi tempi, lavorando a stretto contatto con l’ambiente dei Social
 Network, ho avuto modo di vedere di tutto:
@@ -117,7 +117,7 @@ Posso confermare che **per molte persone questi siti sono considerati più atten
 
 ### Come si risolve il problema delle fake news ?
 
-![](https://cdn-images-1.medium.com/max/1000/0*Svcw6OoTjontjejk.jpg)
+![Foto stock di un bambino sorridente che digita su un laptop](https://cdn-images-1.medium.com/max/1000/0*Svcw6OoTjontjejk.jpg)
 
 Parlando di Internet (forse un po’ cinicamente) possiamo dire che un po’ ci
 penserà **l’anagrafe**:
@@ -155,7 +155,7 @@ Anche qui subentra il discorso del *colpo d’occhio*, e **la necessità di un m
 
 ### Hate Speech
 
-![](https://cdn-images-1.medium.com/max/1000/0*SzN9TcLsPV7Mzr_L.png)
+![Cartello con la scritta "Hate speech is not free speech"](https://cdn-images-1.medium.com/max/1000/0*SzN9TcLsPV7Mzr_L.png)
 
 Potrà sembrare una divagazione, ma spostiamoci un attimo dal soggetto e
 **allarghiamo il campo**:
@@ -175,7 +175,7 @@ e per la verità mi risulta un po’ criptico comprenderne i destini, visto che
 cliccando su **“Esame in Commissione**” ci si ritrova di fronte una mesta pagina
 bianca, seguita da altre che non lasciano proprio *ben sperare*:
 
-![](https://cdn-images-1.medium.com/max/1000/0*Gss193DodjtHOXxA.png)
+![Pagina della Camera dei Deputati sull'Atto Camera 4077, scheda "Discussione in Assemblea" con la dicitura "Non ci sono dibattiti in Assemblea"](https://cdn-images-1.medium.com/max/1000/0*Gss193DodjtHOXxA.png)
 
 Esattamente un anno dopo, **siamo ancora qui**.
 
@@ -197,7 +197,7 @@ macaco in calore **è ben peggio**.
 
 ### Questione d’educazione e moderazione
 
-![](https://cdn-images-1.medium.com/max/1000/0*UppWKTI5_oUzREkc.jpg)
+![Infografica "Nation Facebook" che confronta la popolazione di Facebook con quella dei paesi più popolosi al mondo](https://cdn-images-1.medium.com/max/1000/0*UppWKTI5_oUzREkc.jpg)
 <span class="figcaption_hack">[Il Daily Mail del
 2013](https://www.dailymail.co.uk/indiahome/indianews/article-2325699/VISUAL-EDIT-Facebook-nation.html)
 aveva già le idee abbastanza chiare in proposito</span>

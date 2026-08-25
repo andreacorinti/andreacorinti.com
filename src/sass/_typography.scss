@@ -85,7 +85,9 @@ code:not([class*="language"]) {
   display: inline-flex;
   padding: 0.15em;
   background-color: theme.tdbc-color("light");
-  color: theme.tdbc-color("gray");
+  // theme.tdbc-color("gray") is tuned for the dark page background and
+  // only hits ~2.6:1 against this light code background — fails WCAG AA.
+  color: #4a4a4a;
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   border: 1px solid color.scale(theme.tdbc-color("gray"), $lightness: 50%);
   border-radius: 2px;

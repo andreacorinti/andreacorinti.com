@@ -22,7 +22,10 @@ Avendolo scoperto con quasi un decennio di ritardo, ho potuto osservarne una sor
 
 ## Cosa sto facendo io
 
-![bullet-journal](/img/bulletjournal.gif)
+<video src="/img/bulletjournal.mp4" poster="/img/bulletjournal-poster.jpg" width="222" height="300" controls muted loop playsinline preload="metadata">
+  <source src="/img/bulletjournal.webm" type="video/webm">
+  <source src="/img/bulletjournal.mp4" type="video/mp4">
+</video>
 
 > Schifo!
 

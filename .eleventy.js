@@ -171,6 +171,21 @@ module.exports = function (eleventyConfig) {
         .replace(/[\s+~\/]/g, "-")
         .replace(/[().`,%·'"!?¿:@*]/g, ""),
   }).use(markdownItFootnote);
+
+  // Lazy-load images embedded in post content — they're below the fold by
+  // definition (the hero image is rendered separately, outside markdown),
+  // so deferring them cuts initial page weight without affecting LCP.
+  const defaultImageRender =
+    markdownLibrary.renderer.rules.image ||
+    function (tokens, idx, options, env, self) {
+      return self.renderToken(tokens, idx, options);
+    };
+  markdownLibrary.renderer.rules.image = function (tokens, idx, options, env, self) {
+    tokens[idx].attrSet("loading", "lazy");
+    tokens[idx].attrSet("decoding", "async");
+    return defaultImageRender(tokens, idx, options, env, self);
+  };
+
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   return {

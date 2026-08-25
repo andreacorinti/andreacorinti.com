@@ -16,7 +16,7 @@ pagination:
 permalink: "/blog-{{ pagination.pageNumber }}/"
 ---
 
-<main class="tdbc-container">
+<main id="main-content" class="tdbc-container">
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
       {%- for post in postita -%}

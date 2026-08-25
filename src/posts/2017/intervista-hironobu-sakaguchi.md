@@ -21,10 +21,6 @@ PS:
 
 Pubblicate, quotate e diffondete liberamente tutto ovviamente! (Magari sparando un link a questo post mentre lo fate, per amor del vecchio galateo digitale)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xuWkvyeAu0E" frameborder="0" allowfullscreen></iframe>
-
-<small>Sì, lo so: è un autentico Maestro di vita</small>
-
 ## Intervista a Hironobu Sakaguchi
 
 **Questo marzo lei è stato invitato a parlare sul palco dell'evento _Uncovered Final Fantasy XV_, il che ha rappresentato una sorpresa. È anche parsa una sorta di rinconciliazione tra lei e Square Enix. È così che dovremmo interpretarla ?**

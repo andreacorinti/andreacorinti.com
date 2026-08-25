@@ -76,7 +76,8 @@ Per quanto precari sul piano narrativo, **i titoli della serie di punta della Be
 <img src="https://1.bp.blogspot.com/--zSZP-RaczE/UlxY0bnkeNI/AAAAAAAAEq8/D8cdmBjuRg8/s1600/baldur's+gate.png" alt='Baldurs-gate'>
 <small>Baldur's Gate e seguito sono, sin dalla loro uscita, uno degli elementi di paragone per tutti i  Giochi di Ruolo 
 </small> </br> </br>
-Da prendere con le pinze, perché alcuni giochi hanno egregiamente dimostrato il contrario (uno su tutti, [_Vampire: Bloodlines_](/2013/vampire-masquerade-bloodlines-recensione/)) ma **è innegabile che con un protagonista "non pervenuto" costruire una storia avvincente è un compito estremamente gravoso**, specie se si parla di **una storia che va a toccare il profilo più personale dei personaggi** piuttosto che i suoi elementi più macroscopici (che non a caso sono il pane quotidiano degli _Elder Scrolls_)
+
+Da prendere con le pinze, perché alcuni giochi hanno egregiamente dimostrato il contrario (uno su tutti, [_Vampire: Bloodlines_](/posts/vampire-masquerade-bloodlines/)) ma **è innegabile che con un protagonista "non pervenuto" costruire una storia avvincente è un compito estremamente gravoso**, specie se si parla di **una storia che va a toccare il profilo più personale dei personaggi** piuttosto che i suoi elementi più macroscopici (che non a caso sono il pane quotidiano degli _Elder Scrolls_)
 
 <img src='https://1.bp.blogspot.com/-GSL7XmqMVL8/UlxdSoP75jI/AAAAAAAAErI/WkETL0TLOyY/s1600/geneprojector.png' alt='Fallout-3'>
 <small>La saga di Fallout è storicamente di scuola Black Isle (quindi sintetizzando di stampo Bioware), è solo nel suo terzo capitolo ha potuto essersi felicemente "elderscrollsizzata", con ottimi risultati anche sul piano narrativo/ruolistico per lo standard della Bethesda 

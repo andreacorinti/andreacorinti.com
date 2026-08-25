@@ -1,6 +1,6 @@
 ---
 layout: postita
-title: "Xenogears - Recensione"
+title: "Xenogears"
 subtitle: "Il capolavoro nascosto di Squaresoft"
 sommario: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che..."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/xenogearsrecensione.jpg

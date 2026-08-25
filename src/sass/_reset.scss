@@ -58,6 +58,22 @@ img {
   max-width: 100%;
 }
 
+/* iframes (YouTube embeds etc.) never overflow the viewport on narrow
+   screens. YouTube embeds specifically keep their 16:9 ratio instead of
+   being squashed — unlike img, height="315" on an iframe doesn't scale
+   proportionally with width on its own. */
+iframe {
+  max-width: 100%;
+}
+
+iframe[src*="youtube.com/embed"],
+iframe[src*="youtube-nocookie.com/embed"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
 /* Inherit fonts for inputs and buttons */
 input,
 button,

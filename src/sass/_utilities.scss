@@ -69,3 +69,35 @@
 .tdbc-mb-none {
   margin-bottom: 0;
 }
+
+// Visible only to assistive tech — for labels that would be visually
+// redundant next to a placeholder, icon, etc.
+.tdbc-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+// Off-screen until keyboard focus lands on it, so it doesn't clutter the
+// visual layout for mouse/touch users who don't need it.
+.tdbc-skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 0.5rem;
+  z-index: 100;
+  padding: 0.5em 1em;
+  background-color: theme.tdbc-color("background");
+  color: theme.$tdbc-color-body;
+  border: 1px solid theme.tdbc-color("primary");
+  border-radius: theme.$tdbc-border-radius;
+
+  &:focus {
+    top: 0.5rem;
+  }
+}
