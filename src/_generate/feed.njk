@@ -16,36 +16,33 @@
 ---
 
 <rss version="2.0"
-     xmlns:dc="http://purl.org/dc/elements/1.1/" {# CORRETTO: Cambiato da https a http #}
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
      xml:base="{{ metadata.url }}"
-     xmlns:atom="http://www.w3.org/2005/Atom" {# CORRETTO: Cambiato da https a http #}
-     xmlns:media="http://search.yahoo.com/mrss/"> {# AGGIUNTO: Namespace per Media RSS per le immagini #}
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ metadata.title }}</title>
     <link>{{ metadata.url }}</link>
     <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
     <description>{{ metadata.subtitle }}</description>
     <language>it-IT</language>
-    {# Potresti voler aggiungere qui l'immagine del canale (logo del blog) #}
-    {# <image>
-      <url>{{ 'percorso/al/tuo/logo.png' | absoluteUrl(metadata.url) }}</url>
+    <lastBuildDate>{{ collections.blog | getNewestCollectionItemDate | dateToRfc822 }}</lastBuildDate>
+    <image>
+      <url>{{ meta.url }}/img/avatar3.jpg</url>
       <title>{{ metadata.title }}</title>
       <link>{{ metadata.url }}</link>
-    </image> #}
-    
-    {%- for post in collections.blog %}
+    </image>
+
+    {%- for post in collections.blog | limit(25) %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
     <item>
-      <title>{{ post.data.title }}</title>
+      <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
-      {# CORRETTO: Invece di <image>, usa <media:content> per le immagini degli item #}
       {% if post.data.immagine %}
       <media:content url="{{ post.data.immagine | absoluteUrl(metadata.url) }}" medium="image" />
       {% endif %}
-      <description>{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
-      {# CORRETTO: Usa un filtro per RFC 822. Questo richiederà la definizione di un nuovo filtro in .eleventy.js #}
+      <description><![CDATA[{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) }}]]></description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
-      {# RIMOSSO: <updated> non è un tag RSS 2.0 valido all'interno di <item> #}
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>

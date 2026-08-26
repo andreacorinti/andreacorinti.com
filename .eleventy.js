@@ -15,6 +15,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
   eleventyConfig.addPlugin(pluginTOC);
 
+  // Caps how many entries the RSS feed emits (feed.njk) — without this the
+  // feed grows unbounded with every post ever published (280+ items today).
+  eleventyConfig.addFilter("limit", (array, limit) => array.slice(0, limit));
+
   eleventyConfig.addWatchTarget("./src/sass/");
 
   // Filtro per formattare la data in HTML (ISO 8601)
