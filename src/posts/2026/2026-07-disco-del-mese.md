@@ -70,3 +70,5 @@ la scelta buffa di colori ben rappresenta il sound da hard rock / heavy metal se
 Non un capolavoro, molto disco-cosplay-del-passato, però oh è comunque molto bello, ben scritto e ben suonato!
 
 Peccato siano dall'altra parte dell'atlantico, perché sono proprio il tipo di gruppo che sentirei volentierissimo alla generica sagra della birra di provincia.
+
+[_**Agosto 2026**_](/posts/2026-08-disco-del-mese)

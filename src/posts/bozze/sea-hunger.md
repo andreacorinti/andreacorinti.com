@@ -4,6 +4,7 @@ title: "Hunger of the Sea"
 subtitle: "poesiola"
 sommario: "Poesiola a scopo di archiviazione, non fateci l'abitudine"
 immagine: /img/ivan-aivazovsky-tempest-by-sounion.jpg
+tags: ["xabologia"]
 date: 2026-08-26
 lang: it-IT
 ---
