@@ -1,13 +1,12 @@
 {
   "name": "andreacorinti.com",
-  "version": "4.5.1",
+  "version": "4.5.2",
   "description": "Andrea Corinti website",
   "main": "index.md",
   "scripts": {
     "watch:sass": "sass  --no-source-map --watch src/sass:public/css",
     "watch:eleventy": "eleventy --serve",
     "build:sass-site": "sass  --no-source-map src/sass/style.scss public/css/style.css",
-    "build:sass-social": "sass  --no-source-map src/sass/social.scss social/style.css",
     "build:sass": "npm-run-all --parallel build:sass-site",
     "build:eleventy": "eleventy",
     "postbuild": "node scripts/minify-css.js",

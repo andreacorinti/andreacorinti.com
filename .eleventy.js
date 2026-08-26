@@ -26,12 +26,6 @@ module.exports = function (eleventyConfig) {
     return dateObj.toISOString().split('T')[0]; // Es: 2025-07-16
   });
 
-  // Filtro per formattare la data in un formato leggibile (potrebbe richiedere un po' più di logica per mesi estesi in italiano)
-  eleventyConfig.addFilter("dateDisplay", (dateObj) => {
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
-    return dateObj.toLocaleDateString('it-IT', options); // Formatta in italiano
-  });
-
   // Filters
   Object.keys(filters).forEach(filterName => {
     eleventyConfig.addFilter(filterName, filters[filterName])
@@ -40,7 +34,6 @@ module.exports = function (eleventyConfig) {
   /* Date */
 
   eleventyConfig.addFilter("dateDisplay", require("./src/filters/dates.js"));
-  eleventyConfig.addFilter("timestamp", require("./src/filters/timestamp.js"));
 
   /* Ricerca */
 

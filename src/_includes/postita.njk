@@ -9,6 +9,24 @@ comments: true
 {# <link rel="webmention" href="https://webmention.io/yourdomain.com/webmention" /> #}
 {# <link rel="pingback" href="https://webmention.io/yourdomain.com/xmlrpc" /> #}
 
+{%- set schemaImage %}{% if immagine %}{% if immagine.startsWith('http') %}{{ immagine }}{% else %}{{ meta.url }}{{ immagine }}{% endif %}{% endif %}{% endset -%}
+{%- set schemaUrl %}{{ meta.url }}{{ page.url }}{% endset -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ title | dump | safe }},
+  "description": {{ sommario | dump | safe }},
+  {% if schemaImage %}"image": {{ schemaImage | dump | safe }},{% endif %}
+  "datePublished": {{ date | dateToRfc3339 | dump | safe }},
+  "dateModified": {{ date | dateToRfc3339 | dump | safe }},
+  "inLanguage": {{ (lang or "it-IT") | dump | safe }},
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ schemaUrl | dump | safe }} },
+  "author": { "@type": "Person", "name": "Andrea Corinti", "url": {{ meta.url | dump | safe }} },
+  "publisher": { "@type": "Person", "name": "Andrea Corinti" }
+}
+</script>
+
 {% include 'sitenav.njk' %}
 
 <header class="tdbc-hero">

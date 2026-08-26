@@ -15,7 +15,7 @@ I don't like it very much, but for professional stuff I'm also on [LINKEDIN](htt
 
 Want to ask something in particular? 
 
-[**Contact me here**](/contact/) or <a href="https://misskey.social/@xabacadabra" target="blank" rel="me">send me a post on the fediverse.</a>
+[**Contact me here**](/contact/) or <a href="https://misskey.social/@xabacadabra" target="_blank" rel="me noopener">send me a post on the fediverse.</a>
 
 Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
 
@@ -23,8 +23,8 @@ Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks
 
 ## License & Tech
 
-Other than where specified, the content on this site is published under a <a href="https://creativecommons.org/licenses/by/4.0/" target="blank">Creative Commons Attribution license</a>.
+Other than where specified, the content on this site is published under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution license</a>.
 
-Feel free to take a peek at the source on <a href="https://github.com/andreacorinti/andreacorinti.com" target="blank">Github</a>.
+Feel free to take a peek at the source on <a href="https://github.com/andreacorinti/andreacorinti.com" target="_blank" rel="noopener">Github</a>.
 
-Build with <a href="https://www.11ty.io/" target="blank">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="blank">11ty Jumpstart</a>, <a href="https://github.com/" target="blank">Github</a> and <a href="https://www.netlify.com/" target="blank">Netlify</a>.</p>
+Build with <a href="https://www.11ty.io/" target="_blank" rel="noopener">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="_blank" rel="noopener">11ty Jumpstart</a>, <a href="https://github.com/" target="_blank" rel="noopener">Github</a> and <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.</p>

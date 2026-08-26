@@ -30,6 +30,19 @@
     status = 301
     force = true
 
+  # No Content-Security-Policy here on purpose: a decade of posts embed
+  # iframes/images from dozens of ad-hoc third-party hosts (Spotify,
+  # YouTube, Bandcamp, old blogspot/tumblr/wordpress media...), so a CSP
+  # would need constant upkeep or it'd start silently breaking old posts.
+  # These headers are safe because they don't restrict content sources.
+  [[headers]]
+    for = "/*"
+    [headers.values]
+      X-Content-Type-Options = "nosniff"
+      X-Frame-Options = "SAMEORIGIN"
+      Referrer-Policy = "strict-origin-when-cross-origin"
+      Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
 [dev]
   command = "npm start"
 

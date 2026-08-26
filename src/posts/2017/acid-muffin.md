@@ -92,7 +92,8 @@ Ergo, _Daje Regà!_
   "genre": "grunge",
   "byArtist": {
         "@type": "MusicGroup",
-        "name": "Acid Muffin", 
+        "name": "Acid Muffin"
+  },
   "review": {
     "@type": "Review",
     "reviewRating": {

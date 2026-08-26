@@ -19,12 +19,30 @@ comments: true
 <span itemprop="headline" content="{{ sommario }}"></span>
 
 
+{%- set schemaImage %}{% if immagine %}{% if immagine.startsWith('http') %}{{ immagine }}{% else %}{{ meta.url }}{{ immagine }}{% endif %}{% endif %}{% endset -%}
+{%- set schemaUrl %}{{ meta.url }}{{ page.url }}{% endset -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ title | dump | safe }},
+  "description": {{ sommario | dump | safe }},
+  {% if schemaImage %}"image": {{ schemaImage | dump | safe }},{% endif %}
+  "datePublished": {{ date | dateToRfc3339 | dump | safe }},
+  "dateModified": {{ date | dateToRfc3339 | dump | safe }},
+  "inLanguage": {{ (lang or "es-ES") | dump | safe }},
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ schemaUrl | dump | safe }} },
+  "author": { "@type": "Person", "name": "Andrea Corinti", "url": {{ meta.url | dump | safe }} },
+  "publisher": { "@type": "Person", "name": "Andrea Corinti" }
+}
+</script>
+
 {% include 'sitenav.njk' %}
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
     <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
-    <time itemprop="datePublished" class="dt-published" content="{{ date }}">{{ date | dateDisplay }}</time>
+    <time itemprop="datePublished" class="dt-published" content="{{ date }}">{{ date | dateDisplay('es-ES') }}</time>
     <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ subtitle }}
