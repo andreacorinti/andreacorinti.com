@@ -76,12 +76,15 @@
   position: absolute;
   width: 1px;
   height: 1px;
-  padding: 0;
   margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
+  padding: 0;
   border: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  // Kept alongside clip-path for browsers old enough to lack clip-path support.
+  // stylelint-disable-next-line property-no-deprecated
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
 }
 
 // Off-screen until keyboard focus lands on it, so it doesn't clutter the
@@ -90,12 +93,12 @@
   position: absolute;
   top: -3rem;
   left: 0.5rem;
-  z-index: 100;
   padding: 0.5em 1em;
-  background-color: theme.tdbc-color("background");
-  color: var(--tdbc-body-text);
   border: 1px solid theme.tdbc-color("primary");
   border-radius: theme.$tdbc-border-radius;
+  background-color: theme.tdbc-color("background");
+  color: var(--tdbc-body-text);
+  z-index: 100;
 
   &:focus {
     top: 0.5rem;

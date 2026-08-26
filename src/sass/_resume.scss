@@ -23,9 +23,9 @@
   }
 
   .resumeAvatar {
+    flex-shrink: 0;
     width: 120px;
     border-radius: 8px;
-    flex-shrink: 0;
   }
 
   // Sits at the end of the header's flex row instead of its own
@@ -66,9 +66,9 @@
     width: 1px;
     height: 1px;
     padding: 0;
+    white-space: nowrap;
     overflow: hidden;
     clip-path: inset(50%);
-    white-space: nowrap;
   }
 
   td {
@@ -103,21 +103,21 @@
     }
 
     img {
-      height: 90px;
       width: auto;
+      height: 90px;
       border-radius: 4px;
     }
   }
 
-  @media (max-width: 600px) {
+  @media (width <= 600px) {
     .tdbc-hero > div[style] {
       flex-direction: column;
       align-items: flex-start;
     }
 
     .resume-print-btn {
-      margin-left: 0;
       width: 100%;
+      margin-left: 0;
     }
 
     td:first-child {
@@ -172,8 +172,8 @@
     // photo left instead: a float always pulls the following text beside
     // it in normal flow, with no flex specificity to fight.
     .tdbc-hero {
-      padding: 0;
       margin-bottom: 0.5rem;
+      padding: 0;
       border-bottom: 1.5px solid black;
       text-align: left;
 
@@ -190,9 +190,9 @@
     }
 
     .resumeAvatar {
-      float: left;
       width: 85px;
       margin-right: 0.9rem;
+      float: left;
       border-radius: 4px;
     }
 

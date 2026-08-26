@@ -1,7 +1,7 @@
 /* Stile generale per la barra di ricerca */
 .search-container {
-  position: relative;
   display: flex;
+  position: relative;
   align-items: center;
 }
 
@@ -11,7 +11,7 @@
 // duplicate della stessa regola con valori diversi.
 
 /* Stile per dispositivi mobili */
-@media (max-width: 768px) {
+@media (width <= 768px) {
   #search-input {
     width: 120px; /* Riduci la larghezza su schermi piccoli */
     font-size: 0.9rem; /* Riduci la dimensione del testo */

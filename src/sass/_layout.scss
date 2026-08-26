@@ -1,6 +1,5 @@
 @use "theme";
 
-// stylelint-disable-next-line selector-max-type
 body {
   display: flex;
   flex-direction: column;
@@ -10,7 +9,6 @@ body {
   font-family: theme.$tdbc-font-family;
 }
 
-// stylelint-disable selector-max-type, selector-no-qualifying-type
 main,
 main.tdbc-container {
   // padding-top: 5vh;
@@ -19,8 +17,8 @@ main.tdbc-container {
   > img {
     height: auto;
     margin-right: auto;
-    margin-left: auto;
     margin-bottom: 3vh;
+    margin-left: auto;
   }
 }
 
@@ -51,7 +49,6 @@ article {
     padding-bottom: 2vh;
   }
 }
-// stylelint-enable
 
 .tdbc-container {
   display: flex;
@@ -65,11 +62,10 @@ article {
 
 .tdbc-column-container {
   display: grid;
-  grid-gap: 3em;
+  gap: 3em;
   grid-template-columns: repeat(auto-fit, minmax(25ch, 1fr));
 }
 
-// stylelint-disable-next-line selector-no-qualifying-type, selector-max-type
 ul.tdbc-column-container {
   padding-left: 0;
 }
@@ -82,7 +78,6 @@ ul.tdbc-column-container {
     padding-bottom: 10vh;
   }
 
-  // stylelint-disable-next-line selector-max-universal
   *:last-child {
     margin-bottom: 0;
   }
@@ -99,9 +94,9 @@ ul.tdbc-column-container {
 
 .tdbc-row {
   display: grid;
-  grid-gap: 1rem;
+  gap: 1rem;
 
-  @media (min-width: 80ch) {
+  @media (width >= 80ch) {
     grid-auto-flow: column;
     grid-auto-columns: max-content;
   }
@@ -115,7 +110,6 @@ ul.tdbc-column-container {
   }
 }
 
-// stylelint-disable-next-line selector-max-type
 hr {
   margin-top: 4rem;
   margin-bottom: 4rem;
@@ -123,19 +117,19 @@ hr {
 }
 
 .avatar {
-  max-height: 400px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 8px;
   width: 60%;
+  max-height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 8px;
 }
 
 // link per pagination
 
 #avanti-indietro {
-  text-align: center;
   margin-top: 3em;
+  font-family: Teko, sans-serif;
   font-size: large;
-  font-family: Teko;
+  text-align: center;
 }

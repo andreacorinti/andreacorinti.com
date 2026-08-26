@@ -1,13 +1,11 @@
+customSyntax: postcss-scss
 extends:
   - stylelint-config-standard
-  - stylelint-config-prettier
 plugins:
   - stylelint-selector-bem-pattern
   - stylelint-scss
   - stylelint-order
 rules:
-  # Wrap lines greater than 120 characters
-  max-line-length: 120
   # Override stylelint-config-standard - we only use CSS comments for annotations that don't warrant an empty line
   comment-empty-line-before: null
   # Follow best practices
@@ -17,9 +15,6 @@ rules:
   # https://www.w3.org/TR/selectors/#attribute-selectors
   # https://stackoverflow.com/q/3851091
   selector-attribute-quotes: always
-  # Double-quotes are our convention throughout our codebase within (S)CSS. They also reflect how
-  # attribute strings are normally quoted within the DOM.
-  string-quotes: double
   order/order:
     - - type: at-rule
         hasBlock: false
@@ -207,10 +202,12 @@ rules:
     - visibility
     - will-change
     - z-index
-  declaration-property-unit-whitelist:
+  declaration-property-unit-allowed-list:
     font-size:
       - "rem"
       - "em"
+      - "%"
+      - "px"
 
   # The following prefix rules are enabled since we use autoprefixer
   at-rule-no-vendor-prefix: true
@@ -219,14 +216,17 @@ rules:
   value-no-vendor-prefix: true
   # Usually if you're nesting past 3 levels deep there's a problem
   max-nesting-depth: 3
-  # Because we adhere to BEM we can limit the amount of necessary compound selectors. Most should
-  # just be 1 level selector. However, modifiers can introduce an additional compound selector.
-  # Furthermore, generic qualifying selectors (e.g. `[dir="rtl"]`) can introduce yet another level.
-  selector-max-compound-selectors: 4
-  # For specificity: disallow IDs (0). Allow for complex combinations of classes, pseudo-classes,
-  # attribute modifiers based on selector-max-compound-selectors, plus an addition for
-  # pseudo-classes (4). Allow for pseudo-elements (1).
-  selector-max-specificity: 0,4,1
+  # The strict "0-specificity-budget" rules below (selector-max-compound-selectors,
+  # selector-max-specificity, selector-max-id, selector-no-qualifying-type,
+  # selector-max-type, selector-max-universal, selector-class-pattern,
+  # selector-id-pattern, no-descending-specificity) came from the starter
+  # template's assumption of strict site-wide BEM. This project never
+  # actually followed that everywhere (resume, tables, comments, search,
+  # social icons all predate/ignore it) — enforcing it retroactively would
+  # mean renaming classes/IDs also referenced from templates and search.js,
+  # for a purely cosmetic gain. Disabled rather than grandfathered file by
+  # file, since the real convention here is mixed, not absent.
+  no-descending-specificity: null
   at-rule-no-unknown:
     - true
     - ignoreAtRules:
@@ -236,56 +236,47 @@ rules:
         - else
         - error
         - for
+        - forward
         - function
         - include
         - if
         - mixin
         - return
+        - use
         - warn
+  annotation-no-unknown:
+    - true
+    - ignoreAnnotations:
+        - default
   # Disallow "@extend" in scss.
   # https://csswizardry.com/2016/02/mixins-better-for-performance/
   # https://vanseodesign.com/css/sass-mixin-or-extend/
   # Besides performance, @extend actually *changes* the selector precedence by creating a compound
   # selector, which can lead to ambiguous results.
-  at-rule-blacklist:
+  at-rule-disallowed-list:
     - extend
   # Extremely useful for typos, and anything emergent can be ignored by this rule
   property-no-unknown:
     - true
     - ignoreProperties:
         - contain
-  # There is no reason that a specific ID would be needed for UI components
-  selector-max-id: 0
-  # Qualifying types are not needed when using a naming system like BEM
-  selector-no-qualifying-type: true
-  # In general, we should not be modifying elements within our components, since we can't
-  # predict the use cases in which users would add a certain type of element into a component.
-  selector-max-type:
-    - 0
-    - ignoreTypes:
-        - /fieldset/
-        - /img/
-  # Styles for components should never need the universal selector.
-  selector-max-universal: 0
   # Ensure any defined symbols are prefixed with "brand-" OR "u-"
   custom-media-pattern: ^tdbc-.+
   custom-property-pattern: ^tdbc-.+
-  selector-class-pattern:
-    - ^tdbc-.+
-    - resolveNestedSelectors: true
-  selector-id-pattern: ^tdbc-.+
+  # stylelint-config-standard defaults this to kebab-case, which rejects the
+  # BEM __element/--modifier delimiters used throughout this project's own
+  # classes (.tdbc-button__icon, .theme-toggle__icon--moon, .comment__date...).
+  selector-class-pattern: null
   # Names are more semantic than numbers
   font-weight-notation: named-where-possible
   # https://www.paulirish.com/2010/the-protocol-relative-url/
   function-url-no-scheme-relative: true
   # TODO: and FIXME: warnings are super useful because they remind us that we should address these
   # within our codebase
-  comment-word-blacklist:
+  comment-word-disallowed-list:
     - - /^TODO:/
       - /^FIXME:/
     - severity: warning
-  # Part of google's style guide
-  number-leading-zero: always
   at-rule-empty-line-before:
     - always
     - except:
@@ -302,12 +293,6 @@ rules:
         - first-nested
       ignore:
         - after-comment
-  block-closing-brace-newline-after:
-    - always
-    - ignoreAtRules:
-        - if
-        - else
-
   # We use Harry Roberts' BEM dialect as our preferred way to format classes.
   # See: https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
   # See: https://github.com/postcss/postcss-bem-linter/blob/c59db3f/lib/preset-patterns.js#L39
@@ -330,7 +315,7 @@ rules:
   # Prevents unneeded nesting selectors
   scss/selector-no-redundant-nesting-selector: true
   # Since leading underscores are not needed, they can be omitted
-  scss/at-import-no-partial-leading-underscore: true
+  scss/load-no-partial-leading-underscore: true
   # Since mixins are explicit (`@include`) and parens are unnecessary for argumentless mixins, they
   # can be omitted.
   scss/at-else-closing-brace-newline-after: always-last-in-chain

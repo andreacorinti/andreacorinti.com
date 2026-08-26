@@ -8,7 +8,7 @@
   width: 100%;
   border-radius: theme.$tdbc-border-radius; // Corretto con il namespace
   background-color: var(--tdbc-surface);
-  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 3px 5px rgb(0 0 0 / 18%);
 
   &__title {
     margin-bottom: 1rem;
@@ -17,7 +17,6 @@
     text-decoration: none;
   }
 
-  /* stylelint-disable selector-max-type, selector-no-qualifying-type */
   a.tdbc-card__title {
     &::before {
       position: absolute;
@@ -53,8 +52,8 @@
 
     p {
       position: relative;
-      font-size: smaller;
       margin: 0 0 1rem;
+      font-size: smaller;
       z-index: 1;
     }
 
@@ -82,7 +81,6 @@
     object-fit: cover;
     border-radius: theme.$tdbc-border-radius theme.$tdbc-border-radius 0 0; // Corretto con il namespace
   }
-  // stylelint-enable
 
   &--outlined {
     border: 1px solid var(--tdbc-border-subtle);

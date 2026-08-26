@@ -1,17 +1,17 @@
 @use "theme";
 
 .share-page {
-  text-align: center;
-  background: theme.$tdbc-color-primary; // Sostituito con namespace
-  color: theme.$tdbc-color-secondary; // Sostituito con namespace
+  margin-top: 15px;
   padding: 8px 15px;
   border-radius: 5px;
-  margin-top: 15px;
+  background: theme.$tdbc-color-primary; // Sostituito con namespace
+  color: theme.$tdbc-color-secondary; // Sostituito con namespace
+  text-align: center;
 
   a {
-    font-weight: 700;
-    color: rgb(0, 0, 0);
     margin-left: 10px;
+    color: rgb(0 0 0);
+    font-weight: bold;
 
     &:hover {
       background-color: black;

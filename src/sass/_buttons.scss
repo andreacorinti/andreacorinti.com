@@ -21,7 +21,7 @@
   cursor: pointer;
 
   @media screen and (-ms-high-contrast: active) {
-    border: 2px solid currentColor;
+    border: 2px solid currentcolor;
   }
 
   &:focus {
@@ -51,11 +51,10 @@
       margin-left: 0.25em;
     }
 
-    // stylelint-disable-next-line selector-max-type
     svg {
       width: 100%;
       height: 100%;
-      fill: currentColor;
+      fill: currentcolor;
     }
   }
 
@@ -118,7 +117,7 @@
   gap: 0.5em;
   margin-bottom: 1.5rem;
 
-  @media (min-width: 768px) {
+  @media (width >= 768px) {
     justify-content: center;
   }
 
@@ -152,7 +151,6 @@
   font-size: 1.5rem;
   cursor: pointer;
 
-  // stylelint-disable-next-line selector-max-type
   svg {
     flex-shrink: 0;
     width: 100%;
@@ -161,9 +159,8 @@
 }
 
 .tdbc-icon-button {
-  // stylelint-disable-next-line selector-max-type
   svg {
-    fill: currentColor;
+    fill: currentcolor;
     opacity: 0.7;
   }
 
@@ -171,7 +168,6 @@
   &:hover {
     outline: none;
 
-    // stylelint-disable-next-line selector-max-type
     svg {
       opacity: 1;
     }
@@ -180,11 +176,8 @@
   &:focus {
     &::after {
       position: absolute;
-      top: -0.3em;
-      right: -0.3em;
-      bottom: -0.3em;
-      left: -0.3em;
-      border: 1px solid currentColor;
+      inset: -0.3em;
+      border: 1px solid currentcolor;
       border-radius: 50%;
       content: "";
     }

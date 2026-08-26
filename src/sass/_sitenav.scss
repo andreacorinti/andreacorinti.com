@@ -1,23 +1,21 @@
-// stylelint-disable-next-line selector-max-id, selector-max-specificity
-/*#tdbc-siteid {
+/* #tdbc-siteid {
   font-size: theme.$tdbc-h3-font-size;
   font-family: Teko;
   text-decoration: none;
-}*/
+} */
 
-// stylelint-disable selector-max-type
 @use "theme";
 
 .tdbc-sitenav {
-  background-color: var(--tdbc-bg);
-  font-family: Teko;
   position: relative; /* Permette di posizionare elementi interni */
+  background-color: var(--tdbc-bg);
+  font-family: Teko, sans-serif;
 }
 
 .tdbc-sitenav__container {
   display: flex;
-  justify-content: space-between; /* Allinea il menu a sinistra e la ricerca a destra */
   align-items: center;
+  justify-content: space-between; /* Allinea il menu a sinistra e la ricerca a destra */
   width: 100%;
   max-width: 120ch;
   margin: 0 auto;
@@ -31,9 +29,9 @@
 
 .tdbc-sitenav__navlist {
   display: flex;
-  list-style: none;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 .tdbc-sitenav__navlist li + li {
@@ -45,47 +43,47 @@
 }
 
 .search-container {
-  position: relative; /* Rende il contenitore il riferimento per il posizionamento assoluto */
   display: flex;
+  position: relative; /* Rende il contenitore il riferimento per il posizionamento assoluto */
   align-items: center;
 }
 
 #search-input {
+  width: 200px; /* Larghezza della barra di ricerca */
   padding: 0.5rem;
   padding-right: 2rem; /* Spazio per l'icona */
+  transition: width 0.3s ease;
   border: 1px solid var(--tdbc-text);
   border-radius: theme.$tdbc-border-radius;
   background-color: transparent;
   color: var(--tdbc-text);
   font-size: 1rem;
-  width: 200px; /* Larghezza della barra di ricerca */
-  transition: width 0.3s ease;
 }
 
 .search-icon {
   position: absolute;
-  right: 0.5rem;
   top: 50%;
+  right: 0.5rem;
   transform: translateY(-50%);
-  pointer-events: none; /* Disabilita clic sull'icona */
   color: var(--tdbc-text);
+  pointer-events: none; /* Disabilita clic sull'icona */
 }
 
 #search-results {
+  display: none; /* Nascondi i risultati inizialmente */
   position: absolute; /* Posiziona i risultati relativamente al contenitore */
   top: 100%; /* Posiziona sotto la barra di ricerca */
   left: 0;
-  background-color: var(--tdbc-bg);
+  width: 100%; /* Stessa larghezza della barra di ricerca */
+  max-height: 200px;
+  margin: 0; /* Rimuove il margine predefinito della lista */
+  padding: 0; /* Rimuove il padding predefinito della lista */
   border: 1px solid var(--tdbc-text);
   border-top: none;
-  max-height: 200px;
-  overflow-y: auto;
-  width: 100%; /* Stessa larghezza della barra di ricerca */
-  z-index: 10; /* Assicura che i risultati siano sopra altri elementi */
-  display: none; /* Nascondi i risultati inizialmente */
+  background-color: var(--tdbc-bg);
   list-style: none; /* Rimuove i marcatori della lista */
-  padding: 0; /* Rimuove il padding predefinito della lista */
-  margin: 0; /* Rimuove il margine predefinito della lista */
+  overflow-y: auto;
+  z-index: 10; /* Assicura che i risultati siano sopra altri elementi */
 }
 
 #search-results li {
@@ -109,7 +107,6 @@
   margin-left: 0.75rem;
   color: var(--tdbc-text);
 
-  // stylelint-disable-next-line selector-max-type
   svg {
     // L'opacità 0.7 ereditata da .tdbc-icon-button lo rendeva troppo
     // tenue accanto alla lente di ricerca (sempre a piena opacità): è
