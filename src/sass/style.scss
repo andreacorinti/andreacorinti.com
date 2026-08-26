@@ -39,8 +39,7 @@
   font-family: "Teko";
   font-style: normal;
   font-weight: normal;
-  src: local("Teko"), local("Teko"),
-    url(/fonts/teko.woff) format("woff");
+  src: url(/fonts/teko.woff) format("woff");
   font-display: swap;
 }
 

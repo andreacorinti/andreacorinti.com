@@ -17,7 +17,7 @@ O meglio, è il sito che state visitando in questo momento.
 
 è l'ultima (e finora più stabile) fermata di un pellegrinaggio che faccio da almeno vent'anni, tra Splinder, forum, un paio di restyling di **Xaba Cadabra** e persino l'idea (poi abbandonata) di farne una webzine vera. 
 
-Tutto il racconto, foto imbarazzanti incluse, è qui: [_"La forza dei Siti Web e i miei 11 anni da Blogger"_](/posts/blog-11-anni/).
+Tutto il racconto, foto imbarazzanti incluse, è in questo post del 2024: [_"La forza dei Siti Web e i miei 11 anni da Blogger"_](/posts/blog-11-anni/).
 
 ## Un progetto personale, di vita e (un po') di lavoro
 
