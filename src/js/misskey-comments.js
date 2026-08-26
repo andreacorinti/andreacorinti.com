@@ -52,7 +52,7 @@ misskey-comments a { color: #6a9fb5; }
   color: #888888; 
 }
 
-.misskey-comment .content { margin: 15px 0; line-height: 1.5em; }
+.misskey-comment .content { margin: 15px 0; line-height: 1.5em; overflow-wrap: anywhere; }
 .misskey-comment .attachments img { max-width: 100%; }
 
 misskey-comments #error { color: #ff6161; }
@@ -161,7 +161,7 @@ class MisskeyComments extends HTMLElement {
   }
 
   render_note(note, depth) {
-    const indent = `calc(var(--comment-indent) * ${depth})`;
+    const indent = `min(calc(var(--comment-indent) * ${depth}), 20vw)`;
 
     const userName = this.escapeHtml(note.user.name || note.user.username);
     const content = note.text || "";

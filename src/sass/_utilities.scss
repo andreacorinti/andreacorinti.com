@@ -50,6 +50,14 @@
 }
 
 .tdbc-mx-auto {
+  // Explicit width, not just auto margins: inside a flex column
+  // (.tdbc-container), auto margins on the cross axis opt an item out of
+  // stretch sizing, so without this the box shrinks to fit its widest child
+  // (e.g. the row of social icons on /contact/) and overflows narrow
+  // viewports instead of wrapping. width:100% also plays correctly with
+  // .tdbc-content-maxlength's max-width, which still centers via these
+  // margins once it's the smaller of the two.
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
 }

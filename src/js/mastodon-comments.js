@@ -194,7 +194,7 @@ class MastodonComments extends HTMLElement {
       );
     });
 
-    const mastodonComment = `<div class="mastodon-comment" style="margin-left: calc(var(--comment-indent) * ${depth})">
+    const mastodonComment = `<div class="mastodon-comment" style="margin-left: min(calc(var(--comment-indent) * ${depth}), 20vw)">
         <div class="author">
           <div class="avatar">
             <img src="${this.escapeHtml(

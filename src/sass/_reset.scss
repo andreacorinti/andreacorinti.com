@@ -113,6 +113,14 @@ select {
   font: inherit;
 }
 
+/* Attributes like textarea's cols/rows set an intrinsic width that can
+   exceed a narrow viewport; keep form controls within their container. */
+input,
+textarea,
+select {
+  max-width: 100%;
+}
+
 /* Remove all animations and transitions for people that prefer not to see them */
 @media (prefers-reduced-motion: reduce) {
   *,
