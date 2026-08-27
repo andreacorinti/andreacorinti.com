@@ -6,7 +6,7 @@ permalink: "projects/andreacorinti-com/"
 sommario: "andreacorinti.com è il mio sito personale, attivo dal 2018 ma erede di oltre vent'anni tra blog, forum e webzine: ecco perché esiste ancora."
 immagine: /img/andreacorinti-com.jpg
 lang: it-IT
-date: 2026-08-26
+date: 2018-12-21
 ---
 
 Per una volta il progetto sono io!
