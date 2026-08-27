@@ -1,8 +1,8 @@
 ---
 layout: postita
 title: "AldusRSS"
-subtitle: ""
-sommario: ""
+subtitle: "Il tuo giornale, composto da te"
+sommario: "So che parlare di AI è sempre complicato, e il vibe coding pratica tendenzialmente esecrata (con più di qualche ragione), però ero curioso di provare"
 immagine: /img/aldusrss.png
 tags: ["internet"]
 date: 2026-08-27
@@ -11,7 +11,7 @@ lang: it-IT
 
 So che parlare di AI è sempre complicato, e il [_vibe coding_](https://it.wikipedia.org/wiki/Vibe_coding) pratica tendenzialmente esecrata (con più di qualche ragione), però ero curioso di provare e rispolverare un vecchio progettino che avevo da anni nel cassetto: 
 
-Un semplice programmino per gestire i feed RSS avvicinandolo il più possibile alla lettura di un giornale, senza nessun feed precotto o ciarpame di Google News e affini.
+un semplice programmino per gestire i feed RSS avvicinandolo il più possibile alla lettura di un giornale, senza nessun feed precotto o ciarpame di Google News e affini.
 
 Oltre a questo, notavo che ho smesso di utilizzare ottimi lettori RSS come [NewsFlash](https://apps.gnome.org/it/NewsFlash/) perché il mio OCD rendeva insopportabili tutte le notifiche da articoli "non letti"...
 
@@ -31,4 +31,18 @@ Non c'è una divisione per testata, ma per argomento che idealmente pesca da pi�
 
 Tutto ovviamente gratuito, opensource e con [licenza MIT](https://github.com/andreacorinti/aldusrss?tab=MIT-1-ov-file) per cui ci si può praticamente far quel che si vuole.
 
-Bonus importante: sto pensandolo principalmente per Android e, aldilà della connessione internet, non richiede nessun altro tipo di permesso strano e non traccia nulla.
+qualche screen:
+
+![Sezione Sport](/img/aldusrss/aldusrss-sport.jpg) ![Sezione Cultura](/img/aldusrss/aldusrss-cultura.jpg)
+
+C'è anche la modalità notte (ovviamente 😌)
+
+![Modalità notte](/img/aldusrss/aldusrss-dark-mode.jpg)
+
+Al momento sto pensandolo principalmente per Android e, aldilà della connessione internet, **non richiede nessun altro tipo di permesso strano e non traccia nulla.**
+
+Il codice sorgente è già pubblico [su GitHub](https://github.com/andreacorinti/aldusrss): 
+
+la pubblicazione su Google Play resta un work in progress (tra revisioni e burocrazie varie di Google che di certo non sono la parte divertente), quindi per ora chi vuole già provarla può scaricare l'APK direttamente dalle [release del repository](https://github.com/andreacorinti/aldusrss/releases).
+
+Ho aperto anche una [pagina progetto](/projects/aldusrss/) qui sul sito, che terrò aggiornata mano a mano che l'app cresce (se lo fa eh!)
