@@ -35,7 +35,7 @@ comments: true
     <h1 class="tdbc-ink--primary tdbc-mb-none p-name">{{ title }}</h1>
     {# La data di pubblicazione con la classe dt-published. Assicurati che htmlDateString formatti in ISO 8601. #}
     <time class="dt-published" datetime="{{ date | htmlDateString }}">{{ date | dateDisplay('en-US') }}</time>
-    <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
+    {% heroImage immagine, title %}
     {# Il sottotitolo/sommario del post con la classe p-summary. #}
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       <span class="p-summary">{{ subtitle }}</span>

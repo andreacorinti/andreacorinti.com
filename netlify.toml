@@ -43,6 +43,23 @@
       Referrer-Policy = "strict-origin-when-cross-origin"
       Permissions-Policy = "geolocation=(), microphone=(), camera=()"
 
+  # Fonts never change in place (a change means a new filename), so a
+  # year-long immutable cache is safe. CSS/JS are deliberately excluded:
+  # they keep the same filename across deploys (no content hash), so a
+  # long cache there would serve stale styles/scripts until it expires.
+  [[headers]]
+    for = "/fonts/*"
+    [headers.values]
+      Cache-Control = "public, max-age=31536000, immutable"
+
+  # Images are rarely overwritten under the same filename (a replacement
+  # usually gets a new name), so a month-long cache trades a small,
+  # acceptable staleness risk for materially faster repeat visits.
+  [[headers]]
+    for = "/img/*"
+    [headers.values]
+      Cache-Control = "public, max-age=2592000"
+
 [dev]
   command = "npm start"
 

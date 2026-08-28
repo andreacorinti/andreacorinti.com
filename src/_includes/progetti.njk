@@ -40,7 +40,7 @@ layout: base.njk
   <div class="tdbc-container">
     <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
     <time itemprop="datePublished" class="dt-published" content="{{ date }}">{{ date | dateDisplay }}</time>
-    <img src="{{ immagine }}" alt="{{ title }}" title="{{ title }}" itemprop="image">
+    {% heroImage immagine, title %}
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ subtitle }}
     </h2>

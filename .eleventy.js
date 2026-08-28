@@ -5,6 +5,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require('eleventy-plugin-toc');
+const { default: Image, generateHTML: generateImageHTML } = require("@11ty/eleventy-img");
 const packageVersion = require("./package.json").version;
 const filters = require('./src/_11ty/filters');
 
@@ -107,6 +108,54 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
+
+  // Post/project hero images are the LCP element on those pages, and were
+  // being served at their original size (some 1-4MB) with no width/height
+  // — hurting both LCP and CLS. This resizes+converts local images
+  // (src="/img/...") to responsive WebP/JPEG at build time via
+  // eleventy-img. Hotlinked third-party images (src="http...", the
+  // majority across a decade of posts) are left alone: fetching hundreds
+  // of old external URLs on every build would be slow and would break the
+  // build the moment any one of them goes offline — they just get the
+  // eager/high-priority loading hints instead.
+  eleventyConfig.addAsyncShortcode("heroImage", async function (src, alt) {
+    if (!src) return "";
+
+    const commonAttrs = {
+      alt,
+      title: alt,
+      itemprop: "image",
+      loading: "eager",
+      fetchpriority: "high",
+      decoding: "async",
+    };
+
+    const plainImg = () =>
+      `<img src="${src}" ${Object.entries(commonAttrs)
+        .map(([key, value]) => `${key}="${value}"`)
+        .join(" ")}>`;
+
+    if (/^https?:\/\//.test(src)) {
+      return plainImg();
+    }
+
+    try {
+      const metadata = await Image(`./src${src}`, {
+        widths: [400, 800, 1200, null],
+        formats: ["webp", "jpeg"],
+        outputDir: "./public/img/optimized/",
+        urlPath: "/img/optimized/",
+      });
+
+      return generateImageHTML(metadata, {
+        ...commonAttrs,
+        sizes: "(min-width: 800px) 800px, 100vw",
+      });
+    } catch (e) {
+      console.warn(`heroImage: could not process ${src}: ${e.message}`);
+      return plainImg();
+    }
+  });
 
   // Used only by the print layout of /resume: splits the rendered resume
   // HTML (a flat run of <h3 id="...">...</h3> + <table>/<p> pairs) into

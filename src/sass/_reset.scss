@@ -83,10 +83,14 @@ body {
   text-rendering: optimizeSpeed;
 }
 
-/* Make images easier to work with */
+/* Make images easier to work with. height: auto keeps images with
+   width/height attributes (added for CLS) scaling proportionally instead
+   of the browser freezing height at the attribute's raw pixel value while
+   max-width shrinks only the width. */
 img {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 
 /* iframes (YouTube embeds etc.) never overflow the viewport on narrow
