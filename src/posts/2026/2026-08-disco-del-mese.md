@@ -9,7 +9,7 @@ date: 2026-08-26
 lang: it-IT
 ---
 
-[_**Luglio 2026**_](/posts/2026-08-disco-del-mese)
+[_**Luglio 2026**_](/posts/2026-07-disco-del-mese)
 
 Siccome nelle ultime settimane mi sto dando a riascolti di vecchie glorie direi che possiamo chiudere qui, e per me agosto lo vincono i Cairiss con Wilderness!
 
