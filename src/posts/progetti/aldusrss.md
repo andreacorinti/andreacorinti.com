@@ -4,7 +4,6 @@ subtitle: "Il tuo giornale, composto da te"
 permalink: "projects/aldusrss/"
 sommario: "Un lettore RSS per Android che impagina i feed scelti da te come un vero giornale, senza feed precotti, senza ciarpame algoritmico e senza tracciamenti."
 immagine: /img/aldusrss.jpg
-tags: ["internet"]
 lang: it-IT
 date: 2026-08-27
 ---
