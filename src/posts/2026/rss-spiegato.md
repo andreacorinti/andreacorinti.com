@@ -90,3 +90,10 @@ I feed RSS sono vecchi attrezzi dell'internet di una volta, ben noti a chi frequ
 anche per questo, chiunque curi un giornale online e sia legittimamente interessato a guadagnarci tramite il traffico, dovrebbe essere il primo soggetto interessato al mantenimento, sviluppo e diffusione degli RSS.
 
 Per l'utenza, è semplicemente un modo per poter aver accesso libero alle informazioni che si *vogliono*, e non subiscono.
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="aqhys31iak" 
+    style="max-width: 800px;">
+</misskey-comments>
