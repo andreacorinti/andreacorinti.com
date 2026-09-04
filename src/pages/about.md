@@ -5,9 +5,11 @@ layout: about
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-🇮🇹 Freelance: E-learning Content & Support (Edizioni Edilingua).
+🇮🇹 Freelance: E-learning Content & Support (Edizioni Edilingua). 
 
 Nel tempo libero sviluppo [AldusRSS](/projects/aldusrss/).
+
+P.IVA 04319490134
 
 ## Resume 
 
