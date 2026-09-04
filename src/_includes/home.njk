@@ -7,8 +7,8 @@ templateEngineOverride: md, njk
 {% include 'sitenav.njk' %}
 
 <main id="main-content" class="tdbc-container">
+<h1 class="tdbc-visually-hidden">{{ meta.siteName }}</h1>
 {{ content | safe }}
-</main>
 
 <div class="h-card" style="height: 0; overflow: hidden;">
   <p class="p-name">Andrea Corinti</p>
@@ -19,3 +19,4 @@ templateEngineOverride: md, njk
   <a class="u-url" rel="me" href="https://misskey.social/@xabacadabra">https://misskey.social/@xabacadabra</a>
   <div class="p-category">Webdev</div>
 </div>
+</main>
