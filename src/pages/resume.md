@@ -14,6 +14,7 @@ immagine: /img/cv/avatar.jpg
 | <span class="emoji">✉</span> Mail              | corinti@gmx.com                    |
 | <span class="emoji">☎️</span> Phone (Italian)  | +39 348 865 4953                   |
 | <span class="emoji">🌐</span> Website           | andreacorinti.com                  |
+| <span class="emoji">📱</span> Google Play        | [Developer profile](https://play.google.com/store/apps/dev?id=4741208109915095861) |
 | <span class="emoji">🧾</span> VAT Number (P.IVA) | 04319490134                       |
 | Nationality         | Italian <span class="emoji">🇮🇹</span>                       |
 | Date of Birth       | 17/06/1989                         |

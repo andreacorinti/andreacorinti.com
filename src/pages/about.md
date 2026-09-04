@@ -13,7 +13,7 @@ Nel tempo libero sviluppo [AldusRSS](/projects/aldusrss/).
 
 Here is my online [**professional resume**](/resume).
 
-I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/).
+I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/) and on my [Google Play developer profile](https://play.google.com/store/apps/dev?id=4741208109915095861).
 
 Want to ask something in particular? 
 
