@@ -1,7 +1,7 @@
 ---
 avatar: img/avatar3.jpg
 layout: home.njk
-sommario: "Homepage of Andrea Corinti (Xab), Web Editor and Italian Web World citizen."
+sommario: "Homepage of Andrea Corinti (Xab), freelance content & e-learning platform coordinator and Italian Web World citizen."
 lang: it-IT
 ---
 

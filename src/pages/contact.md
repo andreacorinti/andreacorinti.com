@@ -23,3 +23,5 @@ title: Contact
 </form>
 
 {% include 'social.njk' %}
+
+<p style="font-size: 0.85em; opacity: 0.75;">P.IVA 04319490134</p>
