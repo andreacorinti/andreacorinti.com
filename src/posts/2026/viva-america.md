@@ -70,3 +70,10 @@ certo, come dico spesso (più o meno provocatoriamente) ho sempre pensato che il
 Ecco.
 
 Boh, perdonate il piccolo sfogo impopolare, ma serve da monito per primo a me stesso quando tendo a scadere in uscite di bieco antiamericanismo casuale.
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="aqrsj65q6m" 
+    style="max-width: 800px;">
+</misskey-comments>
