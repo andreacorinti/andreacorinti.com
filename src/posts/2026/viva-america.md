@@ -1,6 +1,6 @@
 ---
 layout: postita
-title: "Viva l'America!"
+title: "Viva l’America!"
 subtitle: "elogio impopolare di un bastian contrario"
 sommario: "Tendenzialmente sono sempre stato un bastian contrario, quindi per certi versi è naturale buttar giù un post come questo in un momento storico dove gli USA hanno probabilmente il livello di popolarità più basso di sempre nella loro storia."
 immagine: https://upload.wikimedia.org/wikipedia/commons/b/ba/MarioSavio.JPG
