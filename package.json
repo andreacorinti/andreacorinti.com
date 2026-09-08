@@ -37,7 +37,7 @@
     "cssnano": "^9.0.1",
     "dotenv": "^17.4.2",
     "emoji-regex": "^10.6.0",
-    "eslint": "^10.9.1",
+    "eslint": "^10.10.0",
     "glob": "^13.0.6",
     "luxon": "^3.7.2",
     "markdown-it": "^15.0.1",
