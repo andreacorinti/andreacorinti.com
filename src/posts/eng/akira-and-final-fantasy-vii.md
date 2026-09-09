@@ -6,9 +6,10 @@ sommario: "I've been thinking about this post for about a year, ever since I rea
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/akira-ff7.jpg
 date: 2023-07-19
 lang: en-US
+translation: /posts/Akira-e-Final-Fantasy-VII/
 ---
 
-_This article was first published on March 14, 2017_ [_and it is also available in Italian._](../Akira-e-Final-Fantasy-VII/)
+_This article was first published on March 14, 2017._
 
 **WARNING! In this post, I try not to reveal anything about the plots of the two works in question. That being said, I advise you to continue reading only if you are familiar with both of them!**
 

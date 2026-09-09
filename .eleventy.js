@@ -63,20 +63,21 @@ module.exports = function (eleventyConfig) {
 
   /* Collezioni */
 
-  // Posts used to live in per-language folders (posts/ita/, posts/eng/,
-  // posts/esp/), which is what these collections originally globbed by.
-  // They're now merged into per-year folders (posts/2013/, posts/2014/,
-  // ...) for the author's own organization, so language is no longer a
-  // folder — it's the explicit `layout` each post carries (postita/
-  // posteng/postesp), which is what these filter on instead. "./src/posts/
-  // 20*/*.md" scopes this to the year folders only, leaving loose files
-  // directly under posts/ (e.g. fediverse-language.md) and the untouched
-  // bozze/ and progetti/ folders alone, exactly as before.
+  // Italian posts live in per-year folders (posts/2013/, posts/2014/, ...);
+  // English ones live together in posts/eng/ regardless of year, since
+  // there are few enough of them that browsing by year isn't useful and
+  // grouping them makes translation pairs (see the `translation` frontmatter
+  // field) easier to find. Layout (postita/posteng/postesp) still decides
+  // which collection a post lands in — it's not inferred from the folder.
+  //
+  // "blog" backs both the RSS feed (declared it-IT) and the homepage's
+  // "latest post" teaser, so it stays Italian-only on purpose — an English
+  // post must never become the newest item there just because it's the most
+  // recently dated file. (Individual English posts are still fully
+  // reachable via their own URL and, where set, the `translation` link.)
   eleventyConfig.addCollection("blog", function(collection) {
-    return collection.getFilteredByGlob([
-      "./src/posts/*.md",
-      "./src/posts/20*/*.md"
-    ]).filter((item) => !/\/posts\/20\d\d\//.test(item.inputPath) || item.data.layout === "postita")
+    return collection.getFilteredByGlob("./src/posts/20*/*.md")
+      .filter((item) => item.data.layout === "postita")
       .reverse();
   });
   eleventyConfig.addCollection("blogita", function(collection) {
@@ -84,8 +85,11 @@ module.exports = function (eleventyConfig) {
       .filter((item) => item.data.layout === "postita")
       .reverse();
   });
+  // English posts now live in their own posts/eng/ folder (moved out of the
+  // year folders for easier browsing), so this globs that directly instead
+  // of filtering year folders by layout.
   eleventyConfig.addCollection("blogeng", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/20*/*.md")
+    return collection.getFilteredByGlob("./src/posts/eng/*.md")
       .filter((item) => item.data.layout === "posteng")
       .reverse();
   });
