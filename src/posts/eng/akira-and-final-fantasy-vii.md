@@ -6,7 +6,7 @@ sommario: "I've been thinking about this post for about a year, ever since I rea
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/akira-ff7.jpg
 date: 2023-07-19
 lang: en-US
-translation: /posts/Akira-e-Final-Fantasy-VII/
+translation: /posts/akira-e-final-fantasy-vii/
 ---
 
 _This article was first published on March 14, 2017._

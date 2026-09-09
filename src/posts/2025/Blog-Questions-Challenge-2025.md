@@ -93,7 +93,7 @@ Dipende dal post: se è qualcosa di particolarmente sentito e laborioso, aspetto
 
 ### Qual è il tuo post preferito sul tuo blog?
 
-Eeeh! Difficile scegliere, ma sono molto affezionato a [questo](/posts/Akira-e-Final-Fantasy-VII) che mette assieme Akira e Final Fantasy VII.
+Eeeh! Difficile scegliere, ma sono molto affezionato a [questo](/posts/akira-e-final-fantasy-vii/) che mette assieme Akira e Final Fantasy VII.
 
 ### Qualche progetto per il futuro del tuo blog?
 

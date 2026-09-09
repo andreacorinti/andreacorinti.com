@@ -8,6 +8,7 @@ lang: it-IT
 tags: ["fumettame"]
 date: 2017-03-14
 translation: /posts/akira-and-final-fantasy-vii/
+permalink: /posts/akira-e-final-fantasy-vii/
 ---
 
 **ATTENZIONE! In questo post tento di non rivelare nulla riguardo le trame delle due opere in questione. Ciò detto, consiglio di proseguire nella lettura solo se le si conosce entrambe!**
