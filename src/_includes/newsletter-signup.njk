@@ -1,0 +1,29 @@
+{%- set isEnglish = lang and lang.startsWith('en') -%}
+<section class="tdbc-mt-lg newsletter-signup">
+  {% if isEnglish %}
+  <h3>Enjoyed this post?</h3>
+  <p>Get new posts by email, no more than a few times a month.</p>
+  {% else %}
+  <h3>Ti è piaciuto questo post?</h3>
+  <p>Ricevi i nuovi post via email, non più di qualche volta al mese.</p>
+  {% endif %}
+
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/xabacadabra"
+    method="post"
+    class="embeddable-buttondown-form"
+  >
+    <p>
+      <label for="bd-email">{% if isEnglish %}Enter your email{% else %}Inserisci la tua email{% endif %}</label>
+      <input type="email" name="email" id="bd-email" placeholder="mail@esempio.it" required />
+    </p>
+    <p>
+      <input type="submit" value="{% if isEnglish %}Subscribe{% else %}Iscriviti{% endif %}" />
+    </p>
+    <p style="font-size: 0.85em; opacity: 0.75;">
+      <a href="https://buttondown.com/refer/xabacadabra" target="_blank" rel="noopener">
+        {% if isEnglish %}Powered by Buttondown.{% else %}Offerto da Buttondown.{% endif %}
+      </a>
+    </p>
+  </form>
+</section>
