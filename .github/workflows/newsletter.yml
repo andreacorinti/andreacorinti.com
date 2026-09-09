@@ -1,0 +1,66 @@
+name: Newsletter draft
+
+# Turns newly-published posts into Buttondown drafts (never sent
+# automatically — review and hit send by hand from the Buttondown
+# dashboard). Only posts flagged with `newsletter: true` in their
+# frontmatter are drafted; everything else is silently skipped.
+#
+# Setup: add a repo secret named BUTTONDOWN_API_KEY with your Buttondown
+# API key (Settings -> Programming -> API Key on buttondown.com).
+#
+# Only NEWLY ADDED post files trigger a draft — editing an existing post
+# later (even to add the `newsletter: true` flag retroactively) won't. To
+# draft an already-published post, create its draft by hand in Buttondown.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "src/posts/**/*.md"
+
+jobs:
+  draft-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find newly added posts
+        id: new_posts
+        run: |
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.event.after }}"
+
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            echo "files=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          {
+            echo "files<<NEWSLETTER_EOF"
+            git diff --diff-filter=A --name-only "$BEFORE" "$AFTER" -- 'src/posts/**/*.md'
+            echo "NEWSLETTER_EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Set up Node
+        if: steps.new_posts.outputs.files != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        if: steps.new_posts.outputs.files != ''
+        run: npm ci
+
+      - name: Draft newsletter for new posts
+        if: steps.new_posts.outputs.files != ''
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            node scripts/newsletter-draft.js "$file"
+          done <<< "${{ steps.new_posts.outputs.files }}"
