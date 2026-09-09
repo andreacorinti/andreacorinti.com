@@ -40,6 +40,9 @@ comments: true
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       <span class="p-summary">{{ subtitle }}</span>
     </h2>
+    {% if translation %}
+    <p class="tdbc-mt-sm"><a class="tdbc-button tdbc-button--small" href="{{ translation }}">🇬🇧 Read in English</a></p>
+    {% endif %}
   </div>
 </header>
 

@@ -37,6 +37,19 @@
       content="{{ pageDescription | safe }}"
     />
     <link rel="canonical" href="{{ meta.url }}{{ page.url }}" />
+    {# `translation` is a per-post opt-in field (not every post has one): the
+       relative URL of the same post in the other language. hreflang tells
+       search engines the two pages are translations of each other rather
+       than duplicate/unrelated content; x-default keeps Italian as the
+       fallback for visitors whose language doesn't match either. #}
+    {%- if translation %}
+    {%- set otherLangCode %}{% if lang and lang.startsWith('en') %}it{% else %}en{% endif %}{% endset -%}
+    {%- set currentLangCode %}{% if otherLangCode == 'it' %}en{% else %}it{% endif %}{% endset -%}
+    {%- set itUrl %}{% if currentLangCode == 'it' %}{{ meta.url }}{{ page.url }}{% else %}{{ meta.url }}{{ translation }}{% endif %}{% endset -%}
+    <link rel="alternate" hreflang="{{ currentLangCode }}" href="{{ meta.url }}{{ page.url }}" />
+    <link rel="alternate" hreflang="{{ otherLangCode }}" href="{{ meta.url }}{{ translation }}" />
+    <link rel="alternate" hreflang="x-default" href="{{ itUrl }}" />
+    {%- endif %}
     <link rel="icon" href="{{ '/favicon.png' | url }}" />
     <link rel="preload" href="{{ '/fonts/teko.woff' | url }}" as="font" type="font/woff" crossorigin="anonymous">
     <link href="{{ '/css/style.css' | url }}" rel="stylesheet" />
