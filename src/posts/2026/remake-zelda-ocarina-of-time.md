@@ -55,3 +55,10 @@ Insomma, sono operazioni sempre complicate, ma da fan dell'ultima ora quale mi c
 e ora, in attesa della Nintendo Direct di oggi, BALLIAMO!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lV6ppJbzQQM" frameborder="0" allowfullscreen></iframe>
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="aqxjdf5otf" 
+    style="max-width: 800px;">
+</misskey-comments>
