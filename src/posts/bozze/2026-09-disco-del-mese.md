@@ -29,3 +29,11 @@ Per le puntate precedenti:
 - Part II: [Disco del Mese](/posts/2026-04-disco-del-mese/)
 
 Diciamolo subito: _The Shores of Melancholia_ per me non si batte, ma qui siamo nettamente sopra la Part II...certo, l'inizio personalmente l'ho vissuto un po' come un sottofondo proggone carino e poco più ma _Broken Souls, Common Enemies_ è deliziosa e _A Dark Poem - Orchestral Suite_ l'ideale chiusura del cerchio.
+
+### Ian Neal - This Gemlike Flame
+
+![Ian Neal - This Gemlike Flame](https://f4.bcbits.com/img/a3549251869_10.jpg)
+
+Altro extra-mese, ma ci sta: grazie a Efi per la segnalazione!
+
+Ian Neal firma del prog sinfonico che pesca a piene mani dai Genesis anni 1975-1980, tra suggestioni di poesia vittoriana e immaginario romantico, con Kyle P. Nish alla batteria e Evgenia Papamikrouli (che cura pure la grafica) ai cori.
