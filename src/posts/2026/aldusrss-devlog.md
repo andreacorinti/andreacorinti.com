@@ -9,7 +9,9 @@ date: 2026-09-10
 lang: it-IT
 ---
 
-Da quando ho [presentato AldusRSS](/posts/aldusrss/) e [parlato di RSS in generale](/posts/rss-spiegato/) è passato un po' di tempo, e nel frattempo il progettino non è rimasto fermo. Piccolo giro di aggiornamenti, giusto per tenere traccia.
+Da quando ho [presentato AldusRSS](/posts/aldusrss/) e [parlato di RSS in generale](/posts/rss-spiegato/) è passato un po' di tempo, e nel frattempo il progettino non è rimasto fermo!
+
+Piccolo giro di aggiornamenti, giusto per tenere traccia:
 
 ### I fix
 
