@@ -59,3 +59,10 @@ Ma sto divagando: tornando al punto, mi rendo conto di pretendere cittadinanza "
 Un bel controsenso, eh?
 
 E voi, come vi rapportate col vostro lato nerd? Riuscite a tirarlo fuori anche in contesti business, o lo tenete ben celato tra una tartina e una cravatta?
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="ar1lm4cqg5" 
+    style="max-width: 800px;">
+</misskey-comments>

@@ -9,8 +9,6 @@ lang: en-US
 translation: /posts/dividersi-in-compartimenti-stagni/
 ---
 
-_This article was first published in Italian on September 12, 2026._
-
 _the cover image is a 2nd-century Roman mosaic depicting the masks of tragedy and comedy (Capitoline Museums), photo by Carole Raddato, CC BY-SA 2.0, via Wikimedia Commons_
 
 I've been sleeping badly and posting too much these days — maybe it's the more bearable temperatures of the last few days that have thrown something off in me?
