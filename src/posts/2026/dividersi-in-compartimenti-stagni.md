@@ -7,6 +7,7 @@ immagine: /img/compartimenti-stagni/maschere-mosaico.jpg
 tags: ["xabologia"]
 date: 2026-09-12
 lang: it-IT
+translation: /posts/self-hating-nerd-linkedin/
 ---
 
 _l'immagine di copertina è un mosaico romano del II secolo con le maschere di tragedia e commedia (Musei Capitolini), foto di Carole Raddato, CC BY-SA 2.0, via Wikimedia Commons_
