@@ -37,3 +37,16 @@ Diciamolo subito: _The Shores of Melancholia_ per me non si batte, ma qui siamo 
 Altro extra-mese, ma ci sta: grazie a Efi per la segnalazione!
 
 Ian Neal firma del prog sinfonico che pesca a piene mani dai Genesis anni 1975-1980, tra suggestioni di poesia vittoriana e immaginario romantico, con Kyle P. Nish alla batteria e Evgenia Papamikrouli (che cura pure la grafica) ai cori.
+
+### Green Lung - Necropolitan Line
+
+![Green Lung - Necropolitan Line](https://f4.bcbits.com/img/a1078366649_10.jpg)
+
+Grazie a [Zel](https://misskey.social/@Zel) per la segnalazione!
+
+### Saor - Caledonia
+
+![Saor - Caledonia](https://f4.bcbits.com/img/a2755366684_10.jpg)
+
+Ancora [Efi](https://misskey.social/@lunarvesperia), grazie anche per questa!
+
