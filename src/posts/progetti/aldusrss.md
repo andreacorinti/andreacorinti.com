@@ -10,6 +10,8 @@ date: 2026-08-27
 
 ## [Repository su GitHub](https://github.com/andreacorinti/aldusrss)
 
+## [Scarica su Google Play](https://play.google.com/store/apps/details?id=com.andreacorinti.aldusrss)
+
 AldusRSS è un lettore RSS pensato come l'app di un giornale, che però pesca gli articoli dalle fonti scelte da chi lo utilizza.
 
 Non c'è una divisione per testata, ma per argomento, così da mescolare più fonti possibili sullo stesso tema (a discrezione dell'utente finale).
@@ -39,6 +41,6 @@ Ne ho parlato più diffusamente in [questo post](/posts/aldusrss/).
 
 ## Stato del progetto
 
-La pubblicazione su Google Play è ancora un work in progress: revisioni, burocrazie varie, i soliti tempi di Google.
+AldusRSS è finalmente disponibile su [Google Play](https://play.google.com/store/apps/details?id=com.andreacorinti.aldusrss)!
 
-Nel frattempo, chi vuole già provarla può scaricare l'ultima APK direttamente dalle [release del repository GitHub](https://github.com/andreacorinti/aldusrss/releases), che tengo aggiornate a ogni build.
+Chi preferisce può comunque continuare a scaricare l'ultima APK direttamente dalle [release del repository GitHub](https://github.com/andreacorinti/aldusrss/releases), che tengo aggiornate a ogni build.

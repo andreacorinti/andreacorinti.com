@@ -50,3 +50,13 @@ Grazie a [Zel](https://misskey.social/@Zel) per la segnalazione!
 
 Ancora [Efi](https://misskey.social/@lunarvesperia), grazie anche per questa!
 
+### Moon Destroys - Omni
+
+![Moon Destroys - Omni](https://f4.bcbits.com/img/a0949618172_10.jpg)
+
+Ancora una volta grazie a [Zel](https://misskey.social/@Zel) per la segnalazione, che di sti tempi mi sa che è il mio principale fornitore ufficiale!
+
+Juan Montoya (chitarra, ex Torche) ed Evan Diprima (batteria, ex Royal Thunder) più il neoarrivato Zach Amster (voce e chitarra ritmica, da Abrams): un post-grunge riff-doom psichedelico che suona proprio come uno se lo aspetta da quel pedigree lì.
+
+Da approfondire per bene, ma già al primo ascolto mi ha convinto parecchio.
+
