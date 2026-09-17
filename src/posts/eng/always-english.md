@@ -3,7 +3,7 @@ layout: posteng
 templateEngineOverride: njk,md
 title: "Metal bands: please do not sing exclusively in English."
 subtitle: "Linguistic music dullness"
-sommario: "I truly enjoy English. Not only for its cultural significance and relevance in the era in which I was born and reared, but also for the limitless opportunities it provides for communication with individuals all over the world. I absolutely love how English sounds. But..."
+sommario: "I truly enjoy English. Not only for its cultural significance and relevance in the era in which I was born and raised, but also for the limitless opportunities it provides for communication with individuals all over the world. I absolutely love how English sounds. But..."
 immagine: /img/a-night-at-the-opera1.webp
 date: 2024-01-18
 lang: en-US
@@ -11,7 +11,7 @@ lang: en-US
 
 I truly enjoy English.
 
-Not only for its cultural significance and relevance in the era in which I was born and reared, but also for the limitless opportunities it provides for communication with individuals all over the world:
+Not only for its cultural significance and relevance in the era in which I was born and raised, but also for the limitless opportunities it provides for communication with individuals all over the world:
 
 I absolutely love how English _sounds_.
 
