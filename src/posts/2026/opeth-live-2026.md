@@ -3,7 +3,7 @@ layout: postita
 title: "Opeth e Blood Incantation - Live Sequoie Music Park di Bologna 2026"
 subtitle: "resoconto"
 sommario: "Che bello, che fatica, che caldo, che tuoni! Bellissimo concertone, bellissimo goderselo con Efi e Zel e beh, dopo qualche mese ho rivisto Michele e soci quindi non posso che essere contento!"
-immagine: https://www.longliverocknroll.it/wp-content/uploads/2026/07/2026_07_11_Opeth_Sequoie_Musik_Park_-Bologna_Marco_Lambardi_09.jpg
+immagine: /img/opeth-live-2026/opeth-bologna-2026.jpg
 tags: ["musica"]
 date: 2026-07-13
 lang: it-IT
@@ -56,7 +56,7 @@ Compiti a casa per me: tornare a dovere sui Blood Incantation che mi piacciono m
 - Hex Omega 
 - Deliverance
 
-![blood-incantation-bologna-2026](https://www.longliverocknroll.it/wp-content/uploads/2026/07/2026_07_11_Blood_Incantation_Sequoie_Musik_Park_-Bologna_Marco_Lambardi_15.jpg)
+![blood-incantation-bologna-2026](/img/opeth-live-2026/blood-incantation-bologna-2026.jpg)
 
 <misskey-comments 
     host="misskey.social" 
