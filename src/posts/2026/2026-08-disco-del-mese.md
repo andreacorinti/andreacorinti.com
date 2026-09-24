@@ -54,3 +54,5 @@ muito bom!
 Altro extra-mese, altra dritta da Zel: semplicemente troppo bello per non includerlo, dovrò tornarci sopra per benino perché è un disco semplicemente _superbo_:
 
 death prog sinfonico latino con venate black e elementi di struggente malinconia chicana (che sarà per il discorso latino o boh ma trovo molto parente nostra, carica di melodramma e sapori mediterranei)
+
+[_**Settembre 2026**_](/posts/2026-09-disco-del-mese)
