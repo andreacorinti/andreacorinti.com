@@ -85,3 +85,10 @@ O se, tra qualche anno, ciò che ne uscirà sarà qualcosa di ibrido, "televisiv
 Quindi probabilmente **destinato a essere dimenticato nel giro di qualche mese o un anno**, un po' come già succede con tanti fenomeni da serie tv usa e getta.
 
 Spero di sbagliarmi, ma tra un brevetto e l'altro le brutte sensazioni crescono.
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="arkb70d3jz" 
+    style="max-width: 800px;">
+</misskey-comments>
