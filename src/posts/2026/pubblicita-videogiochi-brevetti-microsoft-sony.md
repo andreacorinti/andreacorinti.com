@@ -26,7 +26,7 @@ Come ho scritto nel Fediverso:
 
 Perché sì, sono solo brevetti e non è il caso di fare troppo allarmismo (ne depositano a bizzeffe, e la maggior parte non diventa mai un prodotto vero) ma il trend mi pare comunque indicativo, nonché la scusa perfetta per allargare il discorso come al solito:
 
-### Il settore d'intrattenimento che urlo amore nel cuore del mondo
+### Il settore d'intrattenimento che urlò amore nel cuore del mondo
 
 ![Shinji Ikari](https://upload.wikimedia.org/wikipedia/it/c/ca/Shinji_Ikari.jpg)
 
