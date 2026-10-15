@@ -36,12 +36,12 @@
     {%- for post in collections.blog | limit(25) %}
     {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
     <item>
-      <title><![CDATA[{{ post.data.title }}]]></title>
+      <title><![CDATA[{{ post.data.title | safe }}]]></title>
       <link>{{ absolutePostUrl }}</link>
       {% if post.data.immagine %}
       <media:content url="{{ post.data.immagine | absoluteUrl(metadata.url) }}" medium="image" />
       {% endif %}
-      <description><![CDATA[{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) }}]]></description>
+      <description><![CDATA[{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) | safe }}]]></description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>

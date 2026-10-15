@@ -5,8 +5,8 @@
    resume's H1 is the person's name), seoTitle lets the browser-tab/SERP
    title differ from that without changing the visible page. #}
 {%- set effectiveTitle %}{% if seoTitle %}{{ seoTitle }}{% else %}{{ title }}{% endif %}{% endset -%}
-{%- set pageTitle %}{% if effectiveTitle %}{{ effectiveTitle }} | {% endif %}{{ meta.siteName }}{% endset -%}
-{%- set pageOgTitle %}{% if effectiveTitle %}{{ effectiveTitle }}{% else %}{{ meta.siteName }}{% endif %}{% endset -%}
+{%- set pageTitle %}{% if effectiveTitle %}{{ effectiveTitle | safe }} | {% endif %}{{ meta.siteName }}{% endset -%}
+{%- set pageOgTitle %}{% if effectiveTitle %}{{ effectiveTitle | safe }}{% else %}{{ meta.siteName }}{% endif %}{% endset -%}
 {%- set pageDescription %}{% if sommario %}{{ sommario }}{% elif description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
 {# Pages without their own `immagine` fell back to /previews/{slug}.png,
    a path nothing in this project ever generates — a permanently-broken
