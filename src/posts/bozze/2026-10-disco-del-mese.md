@@ -27,5 +27,5 @@ Altro extra-mese, grazie a [Zel](https://misskey.social/@Zel) per la segnalazion
 
 Olandesi, categoria che di solito non mi sta simpaticissima, ma qui mi tocca fare un'eccezione: li ho apprezzati parecchio.
 
-Assurdo pensare che sia stato registrato in single take, e anche se non è esattamente il mio tipo di black, resta un disco più che apprezzabile.
+Assurdo pensare che sia stato registrato in single take, e anche se non è esattamente il mio tipo di black, resta un disco molto intrigante!
 
