@@ -72,3 +72,10 @@ Conto di recuperare strada facendo per la mia [rubrichella](/posts/2026-09-disco
 Tra una settimana, dopo più di un anno, parto per Atene e mi faccio due settimane di pseudo-vacanzina giù (chissà se il remake di _Ocarina of Time_ mi arriverà in tempo? 😨).
 
 Poi si spera di arrivare vivino a Natale e bon!
+
+<misskey-comments 
+    host="misskey.social" 
+    user="xabacadabra" 
+    noteId="asymg63rh0" 
+    style="max-width: 800px;">
+</misskey-comments>
