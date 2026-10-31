@@ -1,18 +1,28 @@
 const styles = `
-:root {
-  --font-color: #eceef7;
+mastodon-comments {
+  --font-color: #e0e0e0;
   --font-size: 1.0rem;
-
+  --main-background: #1e1e1e;
   --block-border-width: 1px;
-  --block-border-radius: 3px;
-  --block-border-color: gray;
-  --block-background-color: #121212;
+  --block-border-radius: 5px;
+  --block-border-color: #333333;
+  --block-background-color: #282828;
+  --comment-indent: 40px;
 
-  --comment-indent: 20px;
+  font-size: var(--font-size);
+  color: var(--font-color);
+  background-color: var(--main-background);
+  padding: 15px;
+  display: block;
 }
+
+mastodon-comments h2 { color: #f0f0f0; margin-top: 0; margin-bottom: 1.5rem; }
+mastodon-comments p { margin: 0 0 1rem 0; color: var(--font-color); }
+mastodon-comments a { color: #6a9fb5; }
 
 #mastodon-comments-list {
   margin: 0 auto;
+  padding: 0;
 }
 
 .mastodon-comment {
@@ -24,99 +34,38 @@ const styles = `
   display: flex;
   flex-direction: column;
   color: var(--font-color);
-  font-size: var(--font-size);
 }
 
-.mastodon-comment p {
-  margin-bottom: 0px;
-}
-
-.mastodon-comment .author {
-  padding-top:0;
-  display:flex;
-}
-
-.mastodon-comment .author a {
-  text-decoration: none;
-}
-
+.mastodon-comment .author { display:flex; }
 .mastodon-comment .author .avatar img {
   margin-right:1rem;
   min-width:60px;
   border-radius: 5px;
 }
-
-.mastodon-comment .author .details {
-  display: flex;
-  flex-direction: column;
-}
-
-.mastodon-comment .author .details .name {
-  font-weight: bold;
-}
-
-.mastodon-comment .author .details .user {
-  color: #5d686f;
-  font-size: medium;
-}
+.mastodon-comment .author .details { display: flex; flex-direction: column; line-height: 1.2em; }
+.mastodon-comment .author .details .name { font-weight: bold; color: #ffffff; }
+.mastodon-comment .author .details .user { color: #aaaaaa; font-size: medium; }
 
 .mastodon-comment .author .date {
   margin-left: auto;
   font-size: small;
+  color: #888888;
 }
 
-.mastodon-comment .content {
-  margin: 15px 20px;
-}
+.mastodon-comment .content { margin: 15px 0; line-height: 1.5em; overflow-wrap: anywhere; }
+.mastodon-comment .content p:last-child { margin-bottom: 0; }
+.mastodon-comment .attachments img { max-width: 100%; }
 
-.mastodon-comment .attachments {
-  margin: 0px 10px;
-}
-
-.mastodon-comment .attachments > * {
-  margin: 0px 10px;
-}
-
-.mastodon-comment .attachments img {
-  max-width: 100%;
-}
-
-.mastodon-comment .content p:first-child {
-  margin-top:0;
-  margin-bottom:0;
-}
-
-.mastodon-comment .status > div {
-  display: inline-block;
-  margin-right: 15px;
-}
-
-.mastodon-comment .status a {
-  color: #5d686f;
-  text-decoration: none;
-}
-
-.mastodon-comment .status .replies.active a {
-  color: #003eaa;
-}
-
-.mastodon-comment .status .reblogs.active a {
-  color: #8c8dff;
-}
-
-.mastodon-comment .status .favourites.active a {
-  color: #ca8f04;
-}
+mastodon-comments #error { color: #ff6161; }
 `;
+
 
 class MastodonComments extends HTMLElement {
   constructor() {
     super();
-
     this.host = this.getAttribute("host");
     this.user = this.getAttribute("user");
     this.tootId = this.getAttribute("tootId");
-
     this.commentsLoaded = false;
 
     const styleElem = document.createElement("style");
@@ -127,198 +76,126 @@ class MastodonComments extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
       <h2>Commenti</h2>
-
-      <noscript>
-        <div id="error">
-          Please enable JavaScript to view the comments powered by the Fediverse.
-        </div>
-      </noscript>
-
-      <p>Per commentare <a class="link"
-      href="https://${this.host}/@${this.user}/${this.tootId}">questo post</a> devi avere un account nel Fediverso.
-      </p>
-      <p id="mastodon-comments-list"></p>
+      <noscript><div id="error">Per visualizzare i commenti abilita JavaScript.</div></noscript>
+      <p>Puoi commentare dal Fediverso rispondendo a <a href="https://${this.host}/@${this.user}/${this.tootId}">questo post</a>.</p>
+      <div id="mastodon-comments-list"></div>
     `;
 
-    const comments = document.getElementById("mastodon-comments-list");
-    const rootStyle = this.getAttribute("style");
-    if (rootStyle) {
-      comments.setAttribute("style", rootStyle);
-    }
-    this.respondToVisibility(comments, this.loadComments.bind(this));
+    const target = document.getElementById("mastodon-comments-list");
+    this.respondToVisibility(target, this.loadComments.bind(this));
   }
 
-  escapeHtml(unsafe) {
-    return (unsafe || "")
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-  }
-
-  toot_active(toot, what) {
-    var count = toot[what + "_count"];
-    return count > 0 ? "active" : "";
-  }
-
-  toot_count(toot, what) {
-    var count = toot[what + "_count"];
-    return count > 0 ? count : "";
+  escapeHtml(s) {
+    return (s || "")
+      .replace(/&/g,"&amp;")
+      .replace(/</g,"&lt;")
+      .replace(/>/g,"&gt;")
+      .replace(/"/g,"&quot;")
+      .replace(/'/g,"&#039;");
   }
 
   user_account(account) {
-    var result = `@${account.acct}`;
-    if (account.acct.indexOf("@") === -1) {
-      var domain = new URL(account.url);
-      result += `@${domain.hostname}`;
-    }
-    return result;
+    // gli account locali hanno acct senza dominio, lo ricavo dall'url
+    if (account.acct.includes("@")) return `@${account.acct}`;
+    return `@${account.acct}@${new URL(account.url).hostname}`;
   }
 
-  render_toots(toots, in_reply_to, depth) {
-    var tootsToRender = toots
-      .filter((toot) => toot.in_reply_to_id === in_reply_to)
-      .sort((a, b) => a.created_at.localeCompare(b.created_at));
-    tootsToRender.forEach((toot) => this.render_toot(toots, toot, depth));
-  }
-
-  render_toot(toots, toot, depth) {
-    toot.account.display_name = this.escapeHtml(toot.account.display_name);
-    toot.account.emojis.forEach((emoji) => {
-      toot.account.display_name = toot.account.display_name.replace(
+  // sostituisce gli shortcode delle emoji custom nel nome visualizzato
+  displayName(account) {
+    let name = this.escapeHtml(account.display_name || account.username);
+    for (const emoji of account.emojis || []) {
+      name = name.replaceAll(
         `:${emoji.shortcode}:`,
-        `<img src="${this.escapeHtml(emoji.static_url)}" alt="Emoji ${
-          emoji.shortcode
-        }" height="20" width="20" />`,
+        `<img src="${this.escapeHtml(emoji.static_url)}" alt=":${emoji.shortcode}:" height="20" width="20">`
       );
-    });
-
-    const mastodonComment = `<div class="mastodon-comment" style="margin-left: min(calc(var(--comment-indent) * ${depth}), 20vw)">
-        <div class="author">
-          <div class="avatar">
-            <img src="${this.escapeHtml(
-              toot.account.avatar_static,
-            )}" height=60 width=60 alt="">
-          </div>
-          <div class="details">
-            <a class="name" href="${toot.account.url}" rel="nofollow">${
-              toot.account.display_name
-            }</a>
-            <a class="user" href="${
-              toot.account.url
-            }" rel="nofollow">${this.user_account(toot.account)}</a>
-          </div>
-          <a class="date" href="${
-            toot.url
-          }" rel="nofollow">${toot.created_at.substr(
-            0,
-            10,
-          )} ${toot.created_at.substr(11, 8)}</a>
-        </div>
-        <div class="content">${toot.content}</div>
-        <div class="attachments">
-          ${toot.media_attachments
-            .map((attachment) => {
-              if (attachment.type === "image") {
-                return `<a href="${attachment.url}" rel="nofollow"><img src="${
-                  attachment.preview_url
-                }" alt="${this.escapeHtml(attachment.description)}" /></a>`;
-              } else if (attachment.type === "video") {
-                return `<video controls><source src="${attachment.url}" type="${attachment.mime_type}"></video>`;
-              } else if (attachment.type === "gifv") {
-                return `<video autoplay loop muted playsinline><source src="${attachment.url}" type="${attachment.mime_type}"></video>`;
-              } else if (attachment.type === "audio") {
-                return `<audio controls><source src="${attachment.url}" type="${attachment.mime_type}"></audio>`;
-              } else {
-                return `<a href="${attachment.url}" rel="nofollow">${attachment.type}</a>`;
-              }
-            })
-            .join("")}
-        </div>
-        <div class="status">
-          <div class="replies ${this.toot_active(toot, "replies")}">
-            <a href="${
-              toot.url
-            }" rel="nofollow"><i class="fa fa-reply fa-fw"></i>${this.toot_count(
-              toot,
-              "replies",
-            )}</a>
-          </div>
-          <div class="reblogs ${this.toot_active(toot, "reblogs")}">
-            <a href="${
-              toot.url
-            }" rel="nofollow"><i class="fa fa-retweet fa-fw"></i>${this.toot_count(
-              toot,
-              "reblogs",
-            )}</a>
-          </div>
-          <div class="favourites ${this.toot_active(toot, "favourites")}">
-            <a href="${
-              toot.url
-            }" rel="nofollow"><i class="fa fa-star fa-fw"></i>${this.toot_count(
-              toot,
-              "favourites",
-            )}</a>
-          </div>
-        </div>
-      </div>`;
-
-    var div = document.createElement("div");
-    div.innerHTML =
-      typeof DOMPurify !== "undefined"
-        ? DOMPurify.sanitize(mastodonComment.trim())
-        : mastodonComment.trim();
-    document
-      .getElementById("mastodon-comments-list")
-      .appendChild(div.firstChild);
-
-    this.render_toots(toots, toot.id, depth + 1);
+    }
+    return name;
   }
 
-  loadComments() {
+  async loadComments() {
     if (this.commentsLoaded) return;
+    const container = document.getElementById("mastodon-comments-list");
+    container.innerHTML = "Caricamento commenti...";
 
-    document.getElementById("mastodon-comments-list").innerHTML =
-      "Loading comments from the Fediverse...";
+    try {
+      // a differenza di Misskey, /context restituisce già tutto il thread in una volta
+      const res = await fetch(`https://${this.host}/api/v1/statuses/${this.tootId}/context`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const { descendants = [] } = await res.json();
 
-    let _this = this;
+      container.innerHTML = "";
+      this.render_toot_tree(descendants, this.tootId, 0);
 
-    fetch(
-      "https://" + this.host + "/api/v1/statuses/" + this.tootId + "/context",
-    )
-      .then((response) => response.json())
-      .then((data) => {
-        if (
-          data["descendants"] &&
-          Array.isArray(data["descendants"]) &&
-          data["descendants"].length > 0
-        ) {
-          document.getElementById("mastodon-comments-list").innerHTML = "";
-          _this.render_toots(data["descendants"], _this.tootId, 0);
-        } else {
-          document.getElementById("mastodon-comments-list").innerHTML =
-            "<p>Not comments found</p>";
-        }
+      this.commentsLoaded = true;
 
-        _this.commentsLoaded = true;
-      });
+    } catch (err) {
+      console.error("Errore:", err);
+      container.innerHTML = "<p>Errore nel caricamento dei commenti Mastodon.</p>";
+    }
   }
 
-  respondToVisibility(element, callback) {
-    var options = {
-      root: null,
-    };
+  render_toot_tree(toots, parentId, depth) {
+    // ORDINAMENTO: dal più vecchio al più recente
+    const children = toots
+      .filter(t => t.in_reply_to_id === parentId)
+      .sort((a, b) => new Date(a.created_at) - new Date(b.created_at));
 
-    var observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach((entry) => {
-        if (entry.intersectionRatio > 0) {
-          callback();
-        }
-      });
-    }, options);
+    for (let toot of children) {
+      this.render_toot(toot, depth);
+      this.render_toot_tree(toots, toot.id, depth + 1);
+    }
+  }
 
-    observer.observe(element);
+  render_toot(toot, depth) {
+    const indent = `min(calc(var(--comment-indent) * ${depth}), 20vw)`;
+
+    const account = toot.account;
+    const content = toot.content || "";
+
+    const attachmentsHtml = (toot.media_attachments || [])
+      .map(a => {
+        if (a.type === "image")
+          return `<a href="${a.url}" rel="nofollow"><img src="${a.preview_url}" alt="${this.escapeHtml(a.description)}"></a>`;
+        if (a.type === "video")
+          return `<video controls preload="none"><source src="${a.url}"></video>`;
+        if (a.type === "gifv")
+          return `<video autoplay loop muted playsinline><source src="${a.url}"></video>`;
+        if (a.type === "audio")
+          return `<audio controls preload="none"><source src="${a.url}"></audio>`;
+        return `<a href="${a.url}" rel="nofollow">${this.escapeHtml(a.type)}</a>`;
+      })
+      .join("");
+
+    const html = `
+      <div class="mastodon-comment" style="margin-left: ${indent}">
+        <div class="author">
+          <div class="avatar"><img src="${this.escapeHtml(account.avatar_static)}" width="60" alt=""></div>
+          <div class="details">
+            <a class="name" href="${account.url}" rel="nofollow">${this.displayName(account)}</a>
+            <a class="user" href="${account.url}" rel="nofollow">${this.user_account(account)}</a>
+          </div>
+          <a class="date" href="${toot.url}" rel="nofollow">
+            <time datetime="${toot.created_at}">${new Date(toot.created_at).toLocaleString("it-IT")}</time>
+          </a>
+        </div>
+        <div class="content">${content}</div>
+        <div class="attachments">${attachmentsHtml}</div>
+      </div>
+    `;
+
+    // il contenuto dei toot è HTML che arriva da istanze terze
+    const div = document.createElement("div");
+    div.innerHTML = typeof DOMPurify !== "undefined"
+      ? DOMPurify.sanitize(html.trim())
+      : html.trim();
+    document.getElementById("mastodon-comments-list").appendChild(div.firstChild);
+  }
+
+  respondToVisibility(el, callback) {
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(e => { if (e.isIntersecting) callback(); });
+    });
+    observer.observe(el);
   }
 }
 

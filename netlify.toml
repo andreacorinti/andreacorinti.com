@@ -7,6 +7,15 @@
     to = "/feed.xml"
     status = 200
 
+  # WebFinger: makes @andrea@andreacorinti.com (or any acct: on this
+  # domain) resolve to the fediverse account, so it can be searched and
+  # followed from any instance. Change the target if the account moves.
+  [[redirects]]
+    from = "/.well-known/webfinger"
+    to = "https://mastodon.social/.well-known/webfinger?resource=acct:Xabacadabra@mastodon.social"
+    status = 302
+    force = true
+
   # Blog posts used to live under a language-coded path (/posts/ita/,
   # /posts/eng/) from when the blog was multilingual; URLs are now flat
   # (/posts/slug/). 301s preserve external backlinks and search ranking.

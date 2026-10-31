@@ -21,7 +21,7 @@ I don't like it very much, but for professional stuff I'm also on [LINKEDIN](htt
 
 Want to ask something in particular? 
 
-[**Contact me here**](/contact/) or <a href="https://misskey.social/@xabacadabra" target="_blank" rel="me noopener">send me a post on the fediverse.</a>
+[**Contact me here**](/contact/) or <a href="https://mastodon.social/@Xabacadabra" target="_blank" rel="me noopener">send me a post on the fediverse.</a>
 
 Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
 
