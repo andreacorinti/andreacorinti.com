@@ -82,3 +82,5 @@ Se un evento del genere passa così tanto sottotraccia, figuriamoci come se la p
 Eh. Boh?
 
 Sicuramente mi faccio troppe menate io, ma in sintesi voglio capire se tornare su mastodon.social potrebbe darmi un tipo di esperienza diversa, anche profilata, ma più in linea con le mie esigenze da social web, che oramai da un pezzo stanno concentrandosi in gruppini Telegram o storielle Instagram.
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="117535259725678141"></mastodon-comments>
