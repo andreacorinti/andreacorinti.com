@@ -1,6 +1,6 @@
 ---
 layout: postita
-title: "Final Fantasy Pixel Remaster"
+title: "Final Fantasy I Pixel Remaster"
 subtitle: "Bella e povera, anche se costa cara"
 sommario: "Bella e povera, anche se costa cara"
 immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/1173770/header.jpg
@@ -8,6 +8,8 @@ tags: ["videogiochi"]
 date: 2022-02-12
 lang: it-IT
 ---
+
+_Aggiornamento 2026: alla fine mi sono preso tutta la serie, ne ho parlato [qui](/posts/final-fantasy-pixel-remaster-switch-2/)._
 
 Altra [recensione steam](https://steamcommunity.com/id/xabaras89/recommended/1173770/) che avevo dimenticato di mettere pure qui: rimedio subito visto che il 23 esce la **Pixel Remaster di Final Fantasy VI** che sicuramente mi comprerò e di cui sono sicuro mi vorrà voglia di scrivere qualcosina.
 
