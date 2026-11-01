@@ -93,3 +93,5 @@ Se invece siete potenziali fan curiosi di scoprire tutto il cucuzzaro dalle orig
 Potreste concentrarvi su uno o due titoli (uno dei quali deve essere Final Fantasy VI, ma proprio _per forza_) e magari provare il resto via emulazione, prima di decidere se fa davvero al caso vostro.
 
 In definitiva, se preso in saldo, è un'operazione di _money grabbing_ tutto sommato onesta da parte di Square Enix, perché realizzata con una cura maggiore rispetto ad altri suoi porting e remaster che avrebbero meritato un trattamento simile. Anche se lì, probabilmente, problemi di hardware e codici sorgente scomparsi (...) hanno fatto il resto.
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="117540728458057952"></mastodon-comments>
