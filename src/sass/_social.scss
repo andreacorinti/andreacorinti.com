@@ -25,6 +25,14 @@
     fill: var(--tdbc-link-hover);
 }
 
+.mastodon {
+ fill: url(#mastodon-gradient);
+}
+
+.mastodon:hover {
+    fill: var(--tdbc-link-hover);
+}
+
 .instagram{
  fill: #E1306C;
 }
