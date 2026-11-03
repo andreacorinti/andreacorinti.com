@@ -230,3 +230,5 @@ Vorrei solo ragionare un po' sul dopo, in un modo o nell'altro. Ma forse mi manc
 ![La fiumana di Giuseppe Pellizza da Volpedo](/img/che-fare/fiumana.jpg)
 
 _"La fiumana" di [Giuseppe Pellizza da Volpedo](https://it.wikipedia.org/wiki/Giuseppe_Pellizza_da_Volpedo) (1895-96), conservata alla Pinacoteca di Brera e antenata del più celebre [Quarto Stato](https://it.wikipedia.org/wiki/Il_quarto_stato), pubblico dominio, via Wikimedia Commons_
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="117552468200256788"></mastodon-comments>
