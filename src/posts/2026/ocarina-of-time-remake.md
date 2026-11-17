@@ -3,7 +3,7 @@ layout: postita
 title: "The Legend of Zelda: Ocarina of Time Remake"
 subtitle: "Come si restaura un monumento"
 sommario: "Il mio primo preorder di sempre, uno Zelda giocato senza nostalgia e un remake che fa esattamente quello che non volevo dal remake di Final Fantasy VII: restare fedele all'originale. E meno male!"
-immagine: https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/Marketing2/3OKTBMay01784158342jwugZ3wp08zzZXCWrPOIiyNS7pQz0fYoQD300Z0LrEbNS/intro/intro-keyart-large-up
+immagine: /img/ocarina-of-time-remake/ocarina-of-time-remake-keyart.jpg
 tags: ["videogiochi"]
 date: 2026-11-17
 lang: it-IT
