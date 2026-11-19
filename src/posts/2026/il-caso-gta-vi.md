@@ -68,3 +68,5 @@ Insomma, il caso GTA VI per me non sta tanto nel gioco in sé, che probabilmente
 Se Rockstar ha davvero vinto la scommessa del mondo vivo lo scopriremo nei prossimi mesi, tra le impressioni di chi ci sta giocando e le inevitabili analisi col bisturi, ma una cosa è certa: da qui in poi chiunque voglia costruire una città virtuale dovrà fare i conti con Leonida.
 
 ![This is Leonida!](/img/il-caso-gta-vi/this-is-leonida.gif)
+
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="117642333295167803"></mastodon-comments>
