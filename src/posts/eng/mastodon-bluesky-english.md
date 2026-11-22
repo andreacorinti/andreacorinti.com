@@ -6,7 +6,7 @@ sommario: "I've been in the fediverse for years and I still can't decide where t
 immagine: /img/di-nuovo-su-mastodon-social/fediverso-revoy.jpg
 date: 2026-11-22
 lang: en-US
-bluesky: ""
+bluesky: "https://bsky.app/profile/andreacorinti.com/post/3n2vlhw4uqk2c"
 ---
 
 <small>_cover image: My Neighbor Mastodon (and Fediverse), drawing by [David Revoy](https://www.davidrevoy.com/), CC BY-SA 4.0, via Wikimedia Commons_</small>
