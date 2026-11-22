@@ -71,15 +71,20 @@ module.exports = function (eleventyConfig) {
   // field) easier to find. Layout (postita/posteng/postesp) still decides
   // which collection a post lands in — it's not inferred from the folder.
   //
-  // "blog" backs both the RSS feed (declared it-IT) and the homepage's
-  // "latest post" teaser, so it stays Italian-only on purpose — an English
-  // post must never become the newest item there just because it's the most
-  // recently dated file. (Individual English posts are still fully
-  // reachable via their own URL and, where set, the `translation` link.)
+  // "blog" backs the RSS feed (declared it-IT), so it stays Italian-only on
+  // purpose — an English post must never become the newest item there just
+  // because it's the most recently dated file. The homepage teaser uses
+  // "latestPost" below instead, which does include English posts.
   eleventyConfig.addCollection("blog", function(collection) {
     return collection.getFilteredByGlob("./src/posts/20*/*.md")
       .filter((item) => item.data.layout === "postita")
       .reverse();
+  });
+  // Homepage "latest post" teaser: newest post in either language.
+  eleventyConfig.addCollection("latestPost", function(collection) {
+    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/*.md"])
+      .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng")
+      .sort((a, b) => b.date - a.date);
   });
   eleventyConfig.addCollection("blogita", function(collection) {
     return collection.getFilteredByGlob("./src/posts/20*/*.md")

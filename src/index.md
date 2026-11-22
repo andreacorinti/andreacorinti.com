@@ -13,12 +13,14 @@ Benvenuti nella casa digitale di [Andrea Corinti](/about), dove archivia ciò ch
 
 Questo, per esempio, è l'ultimo post del suo blog:
 
-{%- set latest = collections.blog | first -%}
+{%- set latest = collections.latestPost | first -%}
+{%- set latestEn = latest.data.lang and latest.data.lang.startsWith('en') %}
 
-<h2>{{ latest.data.title}}</h2>
-<h3><time>{{ latest.data.date | dateDisplay }}</time></h3>
-
-{{ latest.data.sommario }}... 
+<div{% if latestEn %} lang="en"{% endif %}>
+<h2>{{ latest.data.title }}{% if latestEn %} <small lang="it" class="tdbc-ink--gray">(in inglese 🇬🇧)</small>{% endif %}</h2>
+<h3><time>{% if latestEn %}{{ latest.data.date | dateDisplay('en-US') }}{% else %}{{ latest.data.date | dateDisplay }}{% endif %}</time></h3>
+<p>{{ latest.data.sommario }}...</p>
+</div>
 
 [*continua a leggere*]({{ latest.url }})
 
