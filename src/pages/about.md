@@ -1,36 +1,40 @@
 ---
 avatar: /img/avatar3.jpg
 layout: about
+lang: it-IT
+title: Chi sono
+sommario: "Chi è Andrea Corinti (Xab): autoproclamato Italian Web World Citizen, freelance di contenuti e supporto e-learning, appassionato di internet, musica, libri e videogiochi."
+translation: /en/about/
 ---
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-Andrea Corinti (in arte Xab) è un autoproclamato "Italian Web World Citizen": nato nel 1989 tra le colline del comasco, ha trascorso l'adolescenza tra Argentina e Sicilia, poi una decina d'anni a Genova e alcuni anni ad Atene, prima di tornare in Italia. Tra le poche costanti nei suoi vagabondaggi: l'amore per internet, la musica, i libri e i videogiochi.
+Sono Andrea Corinti (in arte Xab), un autoproclamato "Italian Web World Citizen": nato nel 1989 tra le colline del comasco, ho trascorso l'adolescenza tra Argentina e Sicilia, poi una decina d'anni a Genova e alcuni anni ad Atene, prima di tornare in Italia. Tra le poche costanti nei miei vagabondaggi: l'amore per internet, la musica, i libri e i videogiochi.
 
-🇮🇹 Freelance: E-learning Content & Support (Edizioni Edilingua). 
+🇮🇹 Freelance: contenuti e supporto e-learning (Edizioni Edilingua).
 
 Nel tempo libero sviluppo [AldusRSS](/projects/aldusrss/).
 
 P.IVA 04319490134
 
-## Resume 
+## Curriculum
 
-Here is my online [**professional resume**](/resume).
+Qui trovate il mio [**curriculum professionale**](/resume) online.
 
-I don't like it very much, but for professional stuff I'm also on [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/) and on my [Google Play developer profile](https://play.google.com/store/apps/dev?id=4741208109915095861).
+Non mi fa impazzire, ma per le cose di lavoro sono anche su [LINKEDIN](https://www.linkedin.com/in/andrea-corinti/) e sul mio [profilo sviluppatore di Google Play](https://play.google.com/store/apps/dev?id=4741208109915095861).
 
-Want to ask something in particular? 
+Volete chiedermi qualcosa in particolare?
 
-[**Contact me here**](/contact/) or <a href="https://mastodon.social/@Xabacadabra" target="_blank" rel="me noopener">send me a post on the fediverse.</a>
+[**Scrivetemi qui**](/contact/), oppure mandatemi un post <a href="https://mastodon.social/@Xabacadabra" target="_blank" rel="me noopener">dal fediverso</a> o <a href="https://bsky.app/profile/andreacorinti.com" target="_blank" rel="me noopener">da Bluesky</a>.
 
-Plus, here you can find some of my favorite sites in the web: [**Xab's Bookmarks**](/bookmarks/).
+E qui trovate alcuni dei miei siti preferiti del web: [**Xab's Bookmarks**](/bookmarks/).
 
 {% include 'social.njk' %}
 
-## License & Tech
+## Licenza e tecnologia
 
-Other than where specified, the content on this site is published under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution license</a>.
+Salvo dove indicato diversamente, i contenuti di questo sito sono pubblicati con una <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank" rel="noopener">licenza Creative Commons Attribuzione</a>.
 
-Feel free to take a peek at the source on <a href="https://github.com/andreacorinti/andreacorinti.com" target="_blank" rel="noopener">Github</a>.
+Se siete curiosi, il codice sorgente è su <a href="https://github.com/andreacorinti/andreacorinti.com" target="_blank" rel="noopener">Github</a>.
 
-Build with <a href="https://www.11ty.io/" target="_blank" rel="noopener">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="_blank" rel="noopener">11ty Jumpstart</a>, <a href="https://github.com/" target="_blank" rel="noopener">Github</a> and <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.</p>
+Realizzato con <a href="https://www.11ty.io/" target="_blank" rel="noopener">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="_blank" rel="noopener">11ty Jumpstart</a>, <a href="https://github.com/" target="_blank" rel="noopener">Github</a> e <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.

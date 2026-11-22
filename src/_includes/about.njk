@@ -11,6 +11,14 @@ layout: base.njk
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mx-auto p-note">
       An Italian Web World Citizen.
     </h2>
+    {# stesso pulsante dei post bilingui (postita/posteng), guidato da `translation` #}
+    {% if translation %}
+    {% if lang and lang.startsWith('en') %}
+    <p class="tdbc-mt-sm"><a class="tdbc-button tdbc-button--small" href="{{ translation }}" hreflang="it" lang="it">🇮🇹 Leggi in italiano</a></p>
+    {% else %}
+    <p class="tdbc-mt-sm"><a class="tdbc-button tdbc-button--small" href="{{ translation }}" hreflang="en" lang="en">🇬🇧 Read in English</a></p>
+    {% endif %}
+    {% endif %}
   </div>
 </header>
 <main id="main-content" class="tdbc-container">

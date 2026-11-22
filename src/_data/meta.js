@@ -6,5 +6,11 @@ module.exports = {
   siteDescription: "Blog and website of Andrea Corinti (Xab), freelance content & e-learning platform coordinator and Italian Web World citizen.",
   authorName: "Andrea Corinti",
   twitterUsername: "XabCorinti", // no `@`
-  domain: "andreacorinti.com"
+  domain: "andreacorinti.com",
+  // Usati dai commenti Bluesky (front matter `bluesky`) e dai link al profilo.
+  bluesky: {
+    handle: "andreacorinti.com",
+    did: "did:plc:pftjufgriyqcvqys2av3q3o6",
+    profile: "https://bsky.app/profile/andreacorinti.com"
+  }
 };

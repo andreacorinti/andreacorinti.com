@@ -4,7 +4,7 @@ title: "Si alza il vento"
 subtitle: "Recensione"
 sommario: "Quanto l'ho aspettato, il ritorno/addio del Maestro a quei toni più cupi, bellici, all'apparenza meno sereni e amorevoli ma forse proprio per questo tanto straordinari...."
 immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/si-alza-il-vento.jpg
-tags: ["fumettame"]
+tags: ["film-serie"]
 date: 2014-11-14
 lang: it-IT
 ---

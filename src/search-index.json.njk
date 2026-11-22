@@ -1,12 +1,6 @@
 ---
 permalink: /search-index.json
+eleventyExcludeFromCollections: true
 ---
-[
-  {% for post in collections.searchIndex %}
-    {
-      "title": "{{ post.title }}",
-      "excerpt": "{{ post.sommario or post.excerpt }}",
-      "url": "{{ post.url }}"
-    }{% if not loop.last %},{% endif %}
-  {% endfor %}
-]
+{#- dump produce JSON valido anche con virgolette, backslash o a capo nei titoli -#}
+{{ collections.searchIndex | dump | safe }}

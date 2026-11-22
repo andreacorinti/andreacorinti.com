@@ -16,6 +16,33 @@
     status = 302
     force = true
 
+  # "Fumettame" è stata unita a "Film & Serie" (ora "Film, Serie & Fumettame",
+  # slug invariato film-serie). Le vecchie pagine finiscono sulla prima della
+  # categoria unita, perché la numerazione delle pagine non corrisponde più.
+  [[redirects]]
+    from = "/categoria/fumettame-0/"
+    to = "/categoria/film-serie-0/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/categoria/fumettame-1/"
+    to = "/categoria/film-serie-0/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/categoria/fumettame-2/"
+    to = "/categoria/film-serie-0/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/categoria/fumettame-3/"
+    to = "/categoria/film-serie-0/"
+    status = 301
+    force = true
+
   # Blog posts used to live under a language-coded path (/posts/ita/,
   # /posts/eng/) from when the blog was multilingual; URLs are now flat
   # (/posts/slug/). 301s preserve external backlinks and search ranking.

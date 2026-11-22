@@ -1,3 +1,4 @@
 {
-  "permalink": "/posts/{{ page.fileSlug }}/"
+  "permalink": "/posts/{{ page.fileSlug }}/",
+  "tags": ["english"]
 }

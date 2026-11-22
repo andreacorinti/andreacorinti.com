@@ -26,10 +26,18 @@
 }
 
 .mastodon {
- fill: url(#mastodon-gradient);
+ fill: url("#mastodon-gradient");
 }
 
 .mastodon:hover {
+    fill: var(--tdbc-link-hover);
+}
+
+.bluesky {
+ fill: #1185fe;
+}
+
+.bluesky:hover {
     fill: var(--tdbc-link-hover);
 }
 

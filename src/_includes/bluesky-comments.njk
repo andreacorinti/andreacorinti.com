@@ -1,0 +1,11 @@
+{# Commenti da Bluesky: compaiono solo se il post ha `bluesky` nel front matter
+   (URL tipo https://bsky.app/profile/andreacorinti.com/post/<rkey>).
+   Con il campo assente o vuoto non viene stampato nulla, e base.njk non carica
+   nemmeno lo script. #}
+{%- if bluesky %}
+<section class="comments-bluesky" aria-label="Bluesky">
+  <bluesky-comments url="{{ bluesky }}" did="{{ meta.bluesky.did }}">
+    <noscript><p>{% if lang and lang.startsWith('en') %}Enable JavaScript to see the comments, or <a href="{{ bluesky }}">read them on Bluesky</a>.{% else %}Per visualizzare i commenti abilita JavaScript, oppure <a href="{{ bluesky }}">leggili su Bluesky</a>.{% endif %}</p></noscript>
+  </bluesky-comments>
+</section>
+{%- endif %}

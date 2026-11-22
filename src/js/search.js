@@ -50,9 +50,27 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         const results = [...titleMatches, ...excerptMatches].slice(0, MAX_RESULTS);
 
-        searchResults.innerHTML = results
-          .map((post) => `<li><a href="${post.url}">${post.title}</a></li>`)
-          .join("");
+        // DOM + textContent instead of an HTML string: titles are now raw
+        // JSON (not pre-escaped), so "&" or "<" in a title stay plain text.
+        searchResults.replaceChildren(
+          ...results.map((post) => {
+            const li = document.createElement("li");
+            const a = document.createElement("a");
+            a.href = post.url;
+            a.textContent = post.title;
+            if (post.lang === "en") {
+              a.lang = "en";
+              a.hreflang = "en";
+              const flag = document.createElement("span");
+              flag.className = "search-lang";
+              flag.textContent = " 🇬🇧";
+              flag.setAttribute("aria-label", "(in English)");
+              a.append(flag);
+            }
+            li.append(a);
+            return li;
+          })
+        );
 
         searchResults.style.display = results.length > 0 ? "block" : "none";
       }

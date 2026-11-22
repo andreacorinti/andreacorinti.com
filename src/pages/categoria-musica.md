@@ -18,9 +18,9 @@ permalink: "/categoria/musica-{{ pagination.pageNumber }}/"
     <a href="/categoria/videogiochi-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Videogiochi</a>
     <a href="/categoria/musica-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-active">Musica</a>
     <a href="/categoria/internet-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Internet</a>
-    <a href="/categoria/film-serie-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Film &amp; Serie</a>
-    <a href="/categoria/fumettame-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Fumettame</a>
+    <a href="/categoria/film-serie-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Film, Serie &amp; Fumettame</a>
     <a href="/categoria/xabologia-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Xabologia</a>
+    <a href="/categoria/english-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-english" lang="en" hreflang="en">🇬🇧 English</a>
   </nav>
   <div class="tdbc-section">
     <ul class="tdbc-column-container">

@@ -1,63 +1,23 @@
-const styles = `
-mastodon-comments {
-  --font-color: #e0e0e0;
-  --font-size: 1.0rem;
-  --main-background: #1e1e1e;
-  --block-border-width: 1px;
-  --block-border-radius: 5px;
-  --block-border-color: #333333;
-  --block-background-color: #282828;
-  --comment-indent: 40px;
+import { injectCommentStyles, escapeHtml, respondToVisibility, isEnglishPage } from "./comments-common.js";
 
-  font-size: var(--font-size);
-  color: var(--font-color);
-  background-color: var(--main-background);
-  padding: 15px;
-  display: block;
-}
-
-mastodon-comments h2 { color: #f0f0f0; margin-top: 0; margin-bottom: 1.5rem; }
-mastodon-comments p { margin: 0 0 1rem 0; color: var(--font-color); }
-mastodon-comments a { color: #6a9fb5; }
-
-#mastodon-comments-list {
-  margin: 0 auto;
-  padding: 0;
-}
-
-.mastodon-comment {
-  background-color: var(--block-background-color);
-  border-radius: var(--block-border-radius);
-  border: var(--block-border-width) var(--block-border-color) solid;
-  padding: 15px;
-  margin-bottom: 1.5rem;
-  display: flex;
-  flex-direction: column;
-  color: var(--font-color);
-}
-
-.mastodon-comment .author { display:flex; }
-.mastodon-comment .author .avatar img {
-  margin-right:1rem;
-  min-width:60px;
-  border-radius: 5px;
-}
-.mastodon-comment .author .details { display: flex; flex-direction: column; line-height: 1.2em; }
-.mastodon-comment .author .details .name { font-weight: bold; color: #ffffff; }
-.mastodon-comment .author .details .user { color: #aaaaaa; font-size: medium; }
-
-.mastodon-comment .author .date {
-  margin-left: auto;
-  font-size: small;
-  color: #888888;
-}
-
-.mastodon-comment .content { margin: 15px 0; line-height: 1.5em; overflow-wrap: anywhere; }
-.mastodon-comment .content p:last-child { margin-bottom: 0; }
-.mastodon-comment .attachments img { max-width: 100%; }
-
-mastodon-comments #error { color: #ff6161; }
-`;
+// Lo stile ora sta in comments-common.js, condiviso con i commenti Bluesky.
+const t = isEnglishPage()
+  ? {
+      title: "Comments from the Fediverse",
+      noscript: "Enable JavaScript to see the comments.",
+      intro: (url) => `You can comment from the Fediverse by replying to <a href="${url}">this post</a>.`,
+      loading: "Loading comments...",
+      error: "Error loading Mastodon comments.",
+      locale: "en-US",
+    }
+  : {
+      title: "Commenti dal Fediverso",
+      noscript: "Per visualizzare i commenti abilita JavaScript.",
+      intro: (url) => `Puoi commentare dal Fediverso rispondendo a <a href="${url}">questo post</a>.`,
+      loading: "Caricamento commenti...",
+      error: "Errore nel caricamento dei commenti Mastodon.",
+      locale: "it-IT",
+    };
 
 
 class MastodonComments extends HTMLElement {
@@ -68,30 +28,23 @@ class MastodonComments extends HTMLElement {
     this.tootId = this.getAttribute("tootId");
     this.commentsLoaded = false;
 
-    const styleElem = document.createElement("style");
-    styleElem.innerHTML = styles;
-    document.head.appendChild(styleElem);
+    injectCommentStyles();
   }
 
   connectedCallback() {
     this.innerHTML = `
-      <h2>Commenti</h2>
-      <noscript><div id="error">Per visualizzare i commenti abilita JavaScript.</div></noscript>
-      <p>Puoi commentare dal Fediverso rispondendo a <a href="https://${this.host}/@${this.user}/${this.tootId}">questo post</a>.</p>
+      <h2>${t.title}</h2>
+      <noscript><div id="error">${t.noscript}</div></noscript>
+      <p>${t.intro(`https://${this.host}/@${this.user}/${this.tootId}`)}</p>
       <div id="mastodon-comments-list"></div>
     `;
 
     const target = document.getElementById("mastodon-comments-list");
-    this.respondToVisibility(target, this.loadComments.bind(this));
+    respondToVisibility(target, this.loadComments.bind(this));
   }
 
   escapeHtml(s) {
-    return (s || "")
-      .replace(/&/g,"&amp;")
-      .replace(/</g,"&lt;")
-      .replace(/>/g,"&gt;")
-      .replace(/"/g,"&quot;")
-      .replace(/'/g,"&#039;");
+    return escapeHtml(s);
   }
 
   user_account(account) {
@@ -115,7 +68,7 @@ class MastodonComments extends HTMLElement {
   async loadComments() {
     if (this.commentsLoaded) return;
     const container = document.getElementById("mastodon-comments-list");
-    container.innerHTML = "Caricamento commenti...";
+    container.textContent = t.loading;
 
     try {
       // a differenza di Misskey, /context restituisce già tutto il thread in una volta
@@ -130,7 +83,7 @@ class MastodonComments extends HTMLElement {
 
     } catch (err) {
       console.error("Errore:", err);
-      container.innerHTML = "<p>Errore nel caricamento dei commenti Mastodon.</p>";
+      container.innerHTML = `<p>${t.error}</p>`;
     }
   }
 
@@ -175,7 +128,7 @@ class MastodonComments extends HTMLElement {
             <a class="user" href="${account.url}" rel="nofollow">${this.user_account(account)}</a>
           </div>
           <a class="date" href="${toot.url}" rel="nofollow">
-            <time datetime="${toot.created_at}">${new Date(toot.created_at).toLocaleString("it-IT")}</time>
+            <time datetime="${toot.created_at}">${new Date(toot.created_at).toLocaleString(t.locale)}</time>
           </a>
         </div>
         <div class="content">${content}</div>
@@ -191,12 +144,6 @@ class MastodonComments extends HTMLElement {
     document.getElementById("mastodon-comments-list").appendChild(div.firstChild);
   }
 
-  respondToVisibility(el, callback) {
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(e => { if (e.isIntersecting) callback(); });
-    });
-    observer.observe(el);
-  }
 }
 
 customElements.define("mastodon-comments", MastodonComments);

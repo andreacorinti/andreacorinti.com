@@ -4,7 +4,7 @@ title: "L’equivoco del Weeaboo / Otaku italiano"
 subtitle: "Non tutti i chan sono uguali"
 sommario: "Questa faccenda me la porto dietro abbastanza spesso, più o meno da quando qualche anno fa ho scoperto il termine weeb o weeaboo"
 immagine: /img/otaku/porco-rosso.jpg
-tags: ["fumettame"]
+tags: ["film-serie"]
 date: 2026-01-06
 lang: it-IT
 ---

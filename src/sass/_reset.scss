@@ -17,6 +17,8 @@
   --tdbc-focus-ring: rgba(255, 255, 255, 0.35);
   --tdbc-border-subtle: #7a7a7a;
   --tdbc-link-hover: #fdeb37;
+  // colore della categoria English (pillola in tdbc-categorie-nav)
+  --tdbc-english: #6cb4ff;
 }
 
 :root[data-theme="light"] {
@@ -32,6 +34,7 @@
   // leggibile su sfondo chiaro (contrasto ~1.6:1) — questo ambra scuro
   // resta nella stessa famiglia cromatica ma supera 4.5:1 su #f5f4ef.
   --tdbc-link-hover: #8a6200;
+  --tdbc-english: #1d5fa8;
 }
 
 /* Box sizing rules */

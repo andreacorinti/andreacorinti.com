@@ -5,7 +5,7 @@ subtitle: ".さらばさらばの手にかかる霞かな"
 sommario: "Grazie per non fuggire più, Hideaki Anno"
 immagine: https://image.tmdb.org/t/p/w1280/7WZRRres3z73WOFN9dh4EhiV1sW.jpg
 lang: it-IT
-tags: ["fumettame"]
+tags: ["film-serie"]
 date: 2021-08-14
 ---
 

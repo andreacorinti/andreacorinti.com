@@ -129,6 +129,18 @@
     color: var(--tdbc-bg);
   }
 
+  // English è una categoria a parte (lingua, non argomento): stessa pillola,
+  // ma in blu per distinguerla a colpo d'occhio dalle categorie italiane.
+  a.is-english {
+    border-color: var(--tdbc-english);
+    color: var(--tdbc-english);
+  }
+
+  a.is-english.is-active {
+    background-color: var(--tdbc-english);
+    color: var(--tdbc-bg);
+  }
+
   // The outlined button's :hover lightens the background (see
   // .tdbc-button-outlined above), but the site-wide `a:hover` rule turns
   // link text yellow — yellow-on-near-white is nearly unreadable. Force

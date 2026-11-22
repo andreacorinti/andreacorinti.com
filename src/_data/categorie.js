@@ -4,7 +4,9 @@ module.exports = {
   videogiochi: "Videogiochi",
   musica: "Musica",
   internet: "Internet",
-  "film-serie": "Film & Serie",
-  fumettame: "Fumettame",
+  // ex "Film & Serie" + "Fumettame", unite a novembre 2026
+  "film-serie": "Film, Serie & Fumettame",
   xabologia: "Xabologia",
+  // tutti i post in posts/eng/ (tag assegnato da eng.11tydata.json)
+  english: "English",
 };

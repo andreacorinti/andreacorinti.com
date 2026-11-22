@@ -2,8 +2,8 @@
 layout: archivio
 lang: it-IT
 eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Film & Serie - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Film & Serie{% endif %}"
-  sommario: "{% if pagination.pageNumber > 0 %}Post su film e serie tv dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Post su film e serie tv dal blog di Andrea Corinti.{% endif %}"
+  title: "{% if pagination.pageNumber > 0 %}Film, Serie & Fumettame - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Film, Serie & Fumettame{% endif %}"
+  sommario: "{% if pagination.pageNumber > 0 %}Post su film, serie tv, anime e fumetti dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Post su film, serie tv, anime e fumetti dal blog di Andrea Corinti.{% endif %}"
 pagination:
     data: collections["film-serie"]
     size: 8
@@ -18,9 +18,9 @@ permalink: "/categoria/film-serie-{{ pagination.pageNumber }}/"
     <a href="/categoria/videogiochi-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Videogiochi</a>
     <a href="/categoria/musica-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Musica</a>
     <a href="/categoria/internet-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Internet</a>
-    <a href="/categoria/film-serie-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-active">Film &amp; Serie</a>
-    <a href="/categoria/fumettame-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Fumettame</a>
+    <a href="/categoria/film-serie-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-active">Film, Serie &amp; Fumettame</a>
     <a href="/categoria/xabologia-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Xabologia</a>
+    <a href="/categoria/english-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-english" lang="en" hreflang="en">🇬🇧 English</a>
   </nav>
   <div class="tdbc-section">
     <ul class="tdbc-column-container">

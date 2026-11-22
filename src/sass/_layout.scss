@@ -25,6 +25,14 @@ main.tdbc-container {
 footer {
   margin-top: auto;
 
+  // Icone social del footer sempre affiancate, anche su mobile.
+  .footer-social {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+  }
+
   // Il footer resta sempre su sfondo nero (.tdbc-background--secondary),
   // a prescindere dal tema. .tdbc-ink--light copre solo i link che sono
   // figli diretti del contenitore o che portano la classe loro stessi: il
@@ -86,10 +94,21 @@ ul.tdbc-column-container {
 .tdbc-hero {
   display: grid;
   min-height: 40vh;
-  place-content: center;
   padding-top: 5vh;
+  // Senza questa colonna esplicita la griglia (con place-content: center)
+  // si allarga fino alla larghezza naturale dell'immagine di copertina e su
+  // mobile i titoli lunghi escono dallo schermo invece di andare a capo.
+  grid-template-columns: minmax(0, 100%);
   // padding-bottom: 10vh;
   text-align: center;
+  place-content: center;
+}
+
+// Il contenuto dell'hero sta in un .tdbc-container (flex a colonna): centrando
+// gli elementi, le copertine più strette della colonna non finiscono a
+// sinistra e i titoli restano larghi al massimo quanto lo schermo.
+.tdbc-hero > .tdbc-container {
+  align-items: center;
 }
 
 .tdbc-row {
@@ -118,8 +137,11 @@ hr {
 
 .avatar {
   display: block;
+  // larghezza massima al posto della sola altezza massima: con max-height e
+  // width in percentuale la foto (quadrata) si stirava in orizzontale
   width: 60%;
-  max-height: 400px;
+  max-width: 400px;
+  height: auto;
   margin-right: auto;
   margin-left: auto;
   border-radius: 8px;

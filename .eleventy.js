@@ -45,19 +45,20 @@ module.exports = function (eleventyConfig) {
   };  
 
   eleventyConfig.addCollection("searchIndex", function (collection) {
-    // ita posts now live in year folders alongside eng ones (see the
-    // blog/blogita/blogeng collections above) — filter by layout instead
-    // of the old ita/ folder to keep excluding English posts as before.
+    // Italian posts (year folders), English posts (posts/eng/), pages and
+    // projects. Pages with an English `lang` carry `lang: "en"` so search.js can flag them.
     const posts = collection.getFilteredByGlob([
-      "./src/posts/20*/*.md", // Prima cartella
-      "./src/pages/*.md",      // Seconda cartella
-      "./src/posts/progetti/*.md" // Terza cartella
-    ]).filter((item) => item.data.layout !== "posteng");
+      "./src/posts/20*/*.md",
+      "./src/posts/eng/*.md",
+      "./src/pages/*.md",
+      "./src/posts/progetti/*.md"
+    ]).filter((item) => item.data.title); // about/projects non hanno né title né sommario: non potrebbero mai uscire come risultato
 
     return posts.map(post => ({
       title: post.data.title,
       excerpt: post.data.sommario || "",
       url: post.url,
+      ...(String(post.data.lang || "").startsWith("en") ? { lang: "en" } : {}),
     }));
   });
 
