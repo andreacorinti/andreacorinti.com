@@ -1,19 +1,35 @@
 ---
 layout: postita
 title: "Disco del Mese - Ottobre 2026"
-subtitle: ""
-sommario: ""
-immagine: 
+subtitle: "Dream Unending - Certain Uncertainties"
+sommario: "Il disco del mese va ai Dream Unending con Certain Uncertainties! In spaventoso ritardo, e conseguentemente sarà così anche per novembre e dicembre direi"
+immagine: https://f4.bcbits.com/img/a3202484949_10.jpg
 tags: ["musica"]
-date: 2026-11-06
+date: 2026-11-23
 lang: it-IT
 ---
 
 [_**Settembre 2026**_](/posts/2026-09-disco-del-mese)
 
+In spaventoso ritardo, e conseguentemente sarà così anche per novembre e dicembre direi: temo proprio che questa rubrichetta andrà in pensione con il 2027, ma mai dire mai!
+
 Prima di tutto un grazie enorme a [Zel](https://misskey.social/@Zel): questo mese quasi tutto quello che trovate qui sotto arriva dai suoi consigli, e mi ha fatto scoprire un sacco di bella roba!
 
-<!-- TODO: il vero e proprio disco del mese -->
+Il disco del mese però va ai Dream Unending con _Certain Uncertainties_, e qui il grazie va a [Efi](https://bsky.app/profile/effimera.bsky.social) per la segnalazione!
+
+Death metal progressivo dalle tinte black, con un growlone doom bello cavernoso e un sacco di soluzioni molto particolari, tra aperture quasi jazz e blues che non ti aspetteresti mai in un disco del genere (in generale, è tutto qualcosa di estremamente originale e difficile da catalogare).
+
+Tantissimo amore per la chitarra (e il basso!) di Derrick Vella.
+
+La mia preferita forse è _Strained Sincerity_, ma dovrò riascoltarlo un bel po' perché non è un disco "facile", ed è il suo bello
+
+### Tony Iommi - From the Dark
+
+![Tony Iommi - From the Dark](https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/58/8e/b1588ebe-d488-87c9-73a1-9eb66adeb944/4099964278507.jpg/1000x1000bb.jpg)
+
+Gran bel disco sabbathico! Come dico sempre, per me i Black Sabbath, al di là di Ozzy, Dio, Martin e compagnia (letteralmente) cantante, sono anzitutto i riffoni di Tony.
+
+Denso e potente, con la bellissima voce di Jorn: niente di nuovo, ma da un chitarrista che ha inventato tutto e va per gli 80 anni era lecito aspettarselo? Comunque classico e bello da ascoltare!
 
 ### Grant The Sun - Biomes
 
@@ -58,13 +74,3 @@ Assurdo pensare che sia stato registrato in single take, e anche se non è esatt
 Bel black metal atmosferico vecchio stampo (strano vengano da Washington e non dalla Norvegia).
 
 Non è proprio il mio genere per l'abbondanza di scream (di mio sono più da growl belli bassi), ma strumentalmente è molto bello e interessante, con atmosfere ampie e stratificate che meritano più di un ascolto.
-
-## Da ascoltare (consigli di [Zel](https://misskey.social/@Zel))
-
-- Queens of the Stone Age
-- Darkest Hour (qua c'è proprio la Svezia anche se sono americani)
-- Anagnoris (nome meno di merda no eh?)
-- Grant the Sun (c'hanno i panda in copertina)
-- Mother of Graves (ma si legge MY DYING BRIDE)
-- Firebreather (stoner con piglio modernone)
-- Tony Iommi - From the Dark
