@@ -65,6 +65,6 @@ And people do show up, sometimes: under the posts you'll find the replies from B
 
 ## More Knowember
 
-If you want to join in, there's still time until the end of November: answer the questions on your own blog and then [send Robert the link](https://robertbirming.com/contact/) to end up in the [list of Knowember bloggers](https://robertbirming.com/knowember/) (there are more than 150 already!). And if you want to discover new blogs, you can jump into the [random blogger browser](https://robertbirming.com/knowember-browser/) or look for your neighbours on the [Knowember map](https://mataherry.bearblog.dev/knowember-map) made by Herry. Oh, and here's [Robert's own Knowember post](https://robertbirming.com/my-knowember/), of course.
+If you want to join in, there's still time until the end of November: answer the questions on your own blog and then [send Robert the link](https://robertbirming.com/contact/) to end up in the [list of Knowember bloggers](https://robertbirming.com/knowember/) (there are already well over a hundred!). And if you want to discover new blogs, you can jump into the [random blogger browser](https://robertbirming.com/knowember-browser/) or look for your neighbours on the [Knowember map](https://mataherry.bearblog.dev/knowember-map) made by Herry. Oh, and here's [Robert's own Knowember post](https://robertbirming.com/my-knowember/), of course.
 
 <p><a href="https://robertbirming.com/knowember/"><img src="/img/knowember-2026/knowember-dark-ember.png" alt="Knowember badge, dark ember" width="88" height="31"></a></p>

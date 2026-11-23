@@ -21,7 +21,7 @@ Non è da escludere che io possa risbucare fuori con qualcosina in futuro, proba
 
 se volete restare in contatto col sottoscritto, al momento il mondo migliore è sicuramente il caro vecchio profilo twitter:
 
-<a href="https://twitter.com/Xabaras89?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Xabaras89</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/Xabaras89?ref_src=twsrc%5Etfw">Follow @Xabaras89</a>
 
 o uno dei vari canali sociali che trovate in lungo in largo!
 

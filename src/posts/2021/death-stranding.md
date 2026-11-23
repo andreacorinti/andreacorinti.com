@@ -17,7 +17,7 @@ Arrivo tardi, lo so, ma il mio progetto era godermelo in una mega tv su una PS5,
 
 Parallelamente sto leggendo anche _Il gene del talento e i miei adorabili meme_: 
 
-<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Letture di Natale <a href="https://t.co/oZ7Y19Hiik">pic.twitter.com/oZ7Y19Hiik</a></p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1471953324056498182?ref_src=twsrc%5Etfw">December 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p lang="it" dir="ltr">Letture di Natale <a href="https://t.co/oZ7Y19Hiik">pic.twitter.com/oZ7Y19Hiik</a></p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1471953324056498182?ref_src=twsrc%5Etfw">December 17, 2021</a></blockquote>
 
 Dov'è condensata un po' tutta la formazione mediatica del Kojima pensiero, ed è manco a dirlo una lettura estremamente interessante.
 

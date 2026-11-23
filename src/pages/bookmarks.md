@@ -57,4 +57,5 @@ perpetually work in progress...
 | [**The Eye**](https://the-eye.eu/)|Sápere aude!|
 | [**Romhacking**](https://www.romhacking.net/)| Amazing repo of hacked roms |
 | [**Angry Metal Guy**](https://www.angrymetalguy.com/) | One of the few music review sites I follow |
-| [**The Progressive Subway**](https://theprogressivesubway.com/) | Like AMG, but prog-focused and with also very inspiring articles | 
+| [**The Progressive Subway**](https://theprogressivesubway.com/) | Like AMG, but prog-focused and with also very inspiring articles |
+| [**Robert Birming**](https://robertbirming.com/) | Cosy personal blog and home of [Knowember](https://robertbirming.com/knowember/), a lovely way to discover new bloggers | 

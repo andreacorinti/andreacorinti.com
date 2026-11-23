@@ -5,7 +5,6 @@ module.exports = {
   siteName: "Andrea Corinti (Xab)",
   siteDescription: "Blog and website of Andrea Corinti (Xab), freelance content & e-learning platform coordinator and Italian Web World citizen.",
   authorName: "Andrea Corinti",
-  twitterUsername: "XabCorinti", // no `@`
   domain: "andreacorinti.com",
   // Usati dai commenti Bluesky (front matter `bluesky`) e dai link al profilo.
   bluesky: {

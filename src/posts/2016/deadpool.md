@@ -49,8 +49,7 @@ Gioco forza, **è l'incarnazione fumettistica di ciò che è buona parte dell'in
 
 ## Il film
 
-<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Saw DEADPOOL. Full of fan service from OP to the ED roll. <a href="https://t.co/WAgONKXppM">pic.twitter.com/WAgONKXppM</a></p>&mdash; HIDEO_KOJIMA (@HIDEO_KOJIMA_EN) <a href="https://twitter.com/HIDEO_KOJIMA_EN/status/699393325636329472">16 Febbraio 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p lang="en" dir="ltr">Saw DEADPOOL. Full of fan service from OP to the ED roll. <a href="https://t.co/WAgONKXppM">pic.twitter.com/WAgONKXppM</a></p>&mdash; HIDEO_KOJIMA (@HIDEO_KOJIMA_EN) <a href="https://twitter.com/HIDEO_KOJIMA_EN/status/699393325636329472">16 Febbraio 2016</a></blockquote>
 
 (detto da lui è un po' paradossale, non trovate?)
 

@@ -11,7 +11,7 @@ date: 2021-11-11
 
 Su twitter ho lanciato questo thread per parlare un po' della situazione del videogioco in Italia, visto che scrivendo il piccolo saggio mi sono imbattuto in diverse ricerche.
 
-<blockquote class="twitter-tweet"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/GiochiTroppo?src=hash&amp;ref_src=twsrc%5Etfw">#GiochiTroppo</a><br><br>Da qualche tempo sto elaborando un libretto che ha l&#39;ambizione di ragionare su quanto tempo ci costano i videogiochi, e ho scoperto diverse cose interessanti: <br><br>Anzitutto in Italia si fa fatica a vederli trattati in contesti &quot;generalisti&quot;:<br><br>Thread ⬇️</p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1458550157600043021?ref_src=twsrc%5Etfw">November 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/GiochiTroppo?src=hash&amp;ref_src=twsrc%5Etfw">#GiochiTroppo</a><br><br>Da qualche tempo sto elaborando un libretto che ha l&#39;ambizione di ragionare su quanto tempo ci costano i videogiochi, e ho scoperto diverse cose interessanti: <br><br>Anzitutto in Italia si fa fatica a vederli trattati in contesti &quot;generalisti&quot;:<br><br>Thread ⬇️</p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1458550157600043021?ref_src=twsrc%5Etfw">November 10, 2021</a></blockquote>
 
 Il thread parla anzitutto delle responsabilità dei media generalisti (giornali, tg, ecc.) ma penso che una riflessione debba passare anche dalla stampa e i siti di settore:
 

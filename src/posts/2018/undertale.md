@@ -92,11 +92,9 @@ Un'altra fondamentale ispirazione per Undertale (per stessa ammissione di Toby F
 
 Distribuito da ASCII e realizzato da Kenichi Nishi [^Nishi] nel 1997, **_Moon: Remix_ rappresentò il proverbiale successo di critica dalle vendite precarie**, risultando forse fin troppo visionario per la sua epoca di riferimento.
 
-<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">I want to mention another inspiration for UNDERTALE. It&#39;s a game called &quot;Moon: Remix RPG Adventure.&quot;<br><br>It&#39;s an adventure game where you enter the world of an RPG where a &quot;Hero&quot; has caused havoc. <a href="https://t.co/JATDeCUiZl">pic.twitter.com/JATDeCUiZl</a></p>&mdash; tobyfox (@tobyfox) <a href="https://twitter.com/tobyfox/status/931655092264108032?ref_src=twsrc%5Etfw">17 novembre 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p lang="en" dir="ltr">I want to mention another inspiration for UNDERTALE. It&#39;s a game called &quot;Moon: Remix RPG Adventure.&quot;<br><br>It&#39;s an adventure game where you enter the world of an RPG where a &quot;Hero&quot; has caused havoc. <a href="https://t.co/JATDeCUiZl">pic.twitter.com/JATDeCUiZl</a></p>&mdash; tobyfox (@tobyfox) <a href="https://twitter.com/tobyfox/status/931655092264108032?ref_src=twsrc%5Etfw">17 novembre 2017</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">So, the point of the game is to repair the damage the &quot;Hero&quot; caused and increase your LV, (which stands for LOVE) by helping people instead of hurting them.<br><br>... Anyway, you can see how this inspired UNDERTALE. Even though I didn&#39;t play it (it&#39;s in Japanese.)</p>&mdash; tobyfox (@tobyfox) <a href="https://twitter.com/tobyfox/status/931655525489668097?ref_src=twsrc%5Etfw">17 novembre 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote><p lang="en" dir="ltr">So, the point of the game is to repair the damage the &quot;Hero&quot; caused and increase your LV, (which stands for LOVE) by helping people instead of hurting them.<br><br>... Anyway, you can see how this inspired UNDERTALE. Even though I didn&#39;t play it (it&#39;s in Japanese.)</p>&mdash; tobyfox (@tobyfox) <a href="https://twitter.com/tobyfox/status/931655525489668097?ref_src=twsrc%5Etfw">17 novembre 2017</a></blockquote>
 
 Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come vedremo tra qualche paragrafo, **credo che uno dei successi di Undertale stia proprio nella sua "tempistica"**, quindi è un elemento di confronto che ritenevo importante menzionare.
 

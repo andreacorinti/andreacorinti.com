@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{%- if lang -%}{{ lang }}{%- else -%}it{%- endif -%}">
-{# seoTitle overrides `title` for <title>/og:title/twitter:title only —
+{# seoTitle overrides `title` for <title>/og:title only —
    for pages where `title` is also rendered as visible content (e.g. the
    resume's H1 is the person's name), seoTitle lets the browser-tab/SERP
    title differ from that without changing the visible page. #}
@@ -59,11 +59,7 @@
     {%- set socialImage %}{% if immagine %}{% if immagine.startsWith('http') %}{{ immagine }}{% else %}{{ meta.url }}{{ immagine }}{% endif %}{% else %}{{ pageSocialImg }}{% endif %}{% endset -%}
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:creator" content="@XabCorinti" />
     <meta name="fediverse:creator" content="@Xabacadabra@mastodon.social">
-    <meta name="twitter:title" content="{{ pageOgTitle | safe }}" />
-    <meta name="twitter:description" content="{{ pageDescription | safe }}" />
-    <meta name="twitter:image" content="{{ socialImage }}" />
 
     <meta property="og:title" content="{{ pageOgTitle | safe }}" />
     <meta property="og:description" content="{{ pageDescription | safe }}" />
@@ -93,7 +89,6 @@
         "https://mastodon.social/@Xabacadabra",
         "{{ meta.bluesky.profile }}",
         "https://www.instagram.com/xabacadabra/",
-        "https://x.com/XabCorinti",
         "https://github.com/andreacorinti"
       ]
     }
