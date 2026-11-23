@@ -4,7 +4,7 @@ title: "Knowember 2026"
 subtitle: "Get to know me (the short version, I promise!)"
 sommario: "My answers for Knowember, the November blogging event where everyone answers the same questions on their own blog: a photo, a name, where I blog from and what this blog is all about."
 immagine: /img/knowember-2026/hello-xab.jpg
-date: 2026-11-23
+date: 2026-11-23T20:00:00
 lang: en-US
 bluesky: ""
 ---
