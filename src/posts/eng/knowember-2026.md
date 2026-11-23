@@ -6,9 +6,7 @@ sommario: "My answers for Knowember, the November blogging event where everyone 
 immagine: /img/knowember-2026/hello-xab.jpg
 date: 2026-11-23T20:00:00
 lang: en-US
-bluesky: ""
-# thread Bluesky pronto, da attivare quando arrivano le prime risposte:
-# bluesky: "https://bsky.app/profile/andreacorinti.com/post/3n2yceny7k22h"
+bluesky: "https://bsky.app/profile/andreacorinti.com/post/3n2yceny7k22h"
 ---
 
 <small>_cover image: "Hello my name is" sticker, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_my_name_is_sticker.svg), with my name scribbled on it_</small>
