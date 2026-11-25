@@ -9,7 +9,8 @@
 .tdbc-sitenav {
   position: relative; /* Permette di posizionare elementi interni */
   background-color: var(--tdbc-bg);
-  font-family: Teko, sans-serif;
+  // fallback condensati (Android: sans-serif-condensed) finché Teko non carica
+  font-family: Teko, "Roboto Condensed", "Arial Narrow", sans-serif-condensed, sans-serif;
 }
 
 .tdbc-sitenav__container {
@@ -157,14 +158,34 @@
     width: 100%;
   }
 
+  // Le voci non vanno mai a capo (su un Galaxy A56, ~384px, l'ultima lettera
+  // finiva sulla riga sotto): il testo scala con la larghezza dello schermo e,
+  // se proprio non ci sta (schermi minuscoli o Teko non ancora caricato, col
+  // fallback più largo), la riga scorre invece di spezzarsi.
   .tdbc-sitenav__navlist {
     justify-content: space-between;
     width: 100%;
+    padding-bottom: 0.2em; // spazio per il tratto della voce attiva
+    overflow-x: auto;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    li {
+      flex-shrink: 0;
+    }
   }
 
   .tdbc-sitenav .tdbc-sitenav__navlist a {
-    padding-inline: 0.3em;
-    font-size: 1.4rem;
+    padding-inline: 0.25em;
+    font-size: 1.3rem;
+    white-space: nowrap;
+
+    @media (width < 360px) {
+      font-size: 1.1rem;
+    }
   }
 
   .search-container {

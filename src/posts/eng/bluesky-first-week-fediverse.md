@@ -4,7 +4,7 @@ tags: ["internet"]
 title: "Bluesky vs Mastodon: My First Week Going All In"
 subtitle: "A year after signing up, a fediverse regular finally starts posting"
 sommario: "My first week really using Bluesky, a year after opening the account: Bridgy Fed, custom feeds, starter packs, threads, spam, and how it compares to Mastodon."
-immagine: /img/bluesky-first-week/profilo.jpg
+immagine: /img/bluesky-first-week/mastodon-bridge-cover.jpg
 date: 2026-11-25
 lang: en-US
 bluesky: ""
@@ -16,11 +16,15 @@ Truth is, I opened my **Bluesky** account last year, grabbed the handle and then
 
 If you're coming from Bluesky, hi! If you're coming from the fediverse, hi to you too, and in a minute you'll see why you can read and reply to this as well
 
-<small>_cover image: my Bluesky profile, [@andreacorinti.com](https://bsky.app/profile/andreacorinti.com)_</small>
+<small>_cover image: my Mastodon profile on mastodon.social, where my Bluesky self shows up through the bridge and I end up boosting myself across the networks (yes, the two Xabs are both me!)_</small>
 
 ## Setting up Bluesky: native account, own domain, Bridgy Fed
 
 My account is a native Bluesky one, not bridged from somewhere else: it's [@andreacorinti.com](https://bsky.app/profile/andreacorinti.com), with this very domain as the handle (which still feels a bit like having your name on the doorbell of the internet, eh?).
+
+![Screenshot of my Bluesky profile, @andreacorinti.com: a starry banner, my manga-style avatar, the bio "Bio is a Poison-elemental attack", my interests (internet, RPGs, Final Fantasy, retrogames, anime, movies and metal), Linux Mint, Steam Deck, Miyoo Mini+ and Switch 2, the languages I speak and links to my blog, Last.fm, GitHub and Mastodon](/img/bluesky-first-week/profilo.jpg)
+
+_my Bluesky profile, same banner and same old bio as everywhere else_
 
 To connect the two worlds there's [Bridgy Fed](https://fed.brid.gy/), and the nice thing about it is that it's **opt-in, both ways**, so nobody gets bridged without asking for it:
 
@@ -91,10 +95,6 @@ Last, the bridge and deletions: I deleted a post on Bluesky, but replies from th
 I've already written about why Mastodon doesn't really win me over as a place to hang out, and why I stay anyway (the "together for the kids" thing, where the kids are open source and decentralisation), in that same post about the language problem, so I won't repeat it here.
 
 Funny thing, though: I found Knowember through Bluesky, even though Robert Birming posts from a Mastodon server, and in more than four years on the fediverse our paths never crossed, not even once! That's my main issue with it, really: **without some kind of discovery, good people just stay invisible.**
-
-![Screenshot of my Mastodon profile, @Xabacadabra@mastodon.social, with my Italian bio ("a die-hard nostalgic for the forum communities of the old days") and, right below it, my boost of a Bluesky post coming from @andreacorinti.com@bsky.brid.gy](/img/bluesky-first-week/mastodon-social.jpg)
-
-_my Mastodon profile on mastodon.social, where my Bluesky self shows up through the bridge and I boost myself across the networks (yes, the bio says I'm "a die-hard nostalgic for the forum communities of the old days", which is about to become relevant)_
 
 And then there's another thing I've always struggled with on Mastodon: lots of people (totally legitimately!) choose to have their posts automatically deleted after a few days or months, making them kind of **biodegradable**. The right to be forgotten is sacrosanct, and there's something beautiful about it too, but I've always had a lot of trouble with this... not so much because I use the fediverse for the comments here, and I link threads far and wide that later vanish or end up all mutilated, but because I've always been a bit of a **digital archaeologist**, and every now and then I go back and reread some old forum exchanges from 2007, which luckily still survive in some backup somewhere!
 
