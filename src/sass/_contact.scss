@@ -1,0 +1,134 @@
+// Pagina Contact: form "a vignetta" come le card e il riquadro Freelance
+// (_about.scss). Etichette vere sopra i campi (non solo placeholder), bordi
+// spessi, focus con l'accento giallo/ambra del sito (--tdbc-nav-mark),
+// pulsante d'invio pieno che "si schiaccia" al click come i .cat-btn.
+
+.contact-intro {
+  max-width: 34rem;
+}
+
+.contact-form {
+  --tdbc-card-line: #3a3a3a;
+  --tdbc-card-shadow: #000;
+
+  :root[data-theme="light"] & {
+    --tdbc-card-line: var(--tdbc-text);
+    --tdbc-card-shadow: var(--tdbc-text);
+  }
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+  max-width: 34rem;
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.4rem 1.4rem 1.6rem;
+  border: 2px solid var(--tdbc-card-line);
+  border-radius: 4px;
+  background-color: var(--tdbc-surface);
+  box-shadow: 5px 5px 0 var(--tdbc-card-shadow);
+
+  p {
+    margin: 0;
+  }
+
+  // campo-trappola antispam di Netlify: fuori dallo schermo, non display:none
+  &__trap {
+    position: absolute;
+    left: -9999px;
+  }
+
+  &__field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+
+    label {
+      color: var(--tdbc-muted);
+      font-family: Teko, sans-serif;
+      font-size: 1.25rem;
+      letter-spacing: 0.05em;
+      line-height: 1;
+      text-transform: uppercase;
+    }
+
+    input,
+    textarea {
+      width: 100%;
+      padding: 0.6rem 0.75rem;
+      transition:
+        border-color 140ms ease-out,
+        box-shadow 140ms ease-out;
+      border: 2px solid var(--tdbc-border-subtle);
+      border-radius: 3px;
+      background-color: var(--tdbc-bg);
+      color: var(--tdbc-text);
+      font-size: 1.05rem;
+
+      &:focus {
+        border-color: var(--tdbc-nav-mark);
+        outline: none;
+        box-shadow: 3px 3px 0 var(--tdbc-nav-mark);
+      }
+    }
+
+    textarea {
+      min-height: 9rem;
+      resize: vertical;
+    }
+  }
+
+  &__send {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.35em 0.9em 0.2em;
+    transition:
+      transform 140ms ease-out,
+      box-shadow 140ms ease-out;
+    border: 2.5px solid #121212;
+    border-radius: 3px;
+    background-color: var(--tdbc-nav-mark);
+    color: #121212;
+    font-family: Teko, sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.05em;
+    line-height: 1;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 4px 4px 0 var(--tdbc-text);
+
+    svg {
+      width: 0.9em;
+      height: 0.9em;
+      margin-top: -0.15em;
+      fill: none;
+      stroke: currentcolor;
+      stroke-width: 2.2;
+      stroke-linejoin: round;
+    }
+
+    &:hover,
+    &:focus-visible {
+      transform: translate(-1px, -1px);
+      box-shadow: 6px 6px 0 var(--tdbc-text);
+    }
+
+    &:focus-visible {
+      outline: 3px solid var(--tdbc-focus-ring);
+      outline-offset: 3px;
+    }
+
+    &:active {
+      transform: translate(4px, 4px);
+      box-shadow: 0 0 0 var(--tdbc-text);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      &:hover,
+      &:focus-visible,
+      &:active {
+        transform: none;
+      }
+    }
+  }
+}
