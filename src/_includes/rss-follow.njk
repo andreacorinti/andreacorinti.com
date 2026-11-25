@@ -1,0 +1,16 @@
+{# Sostituisce il vecchio box newsletter (Buttondown, chiuso a novembre 2026).
+   La lingua la decide il layout che lo include (postLang = "en" in
+   posteng.njk), non il campo `lang` del post, così non può sbagliarsi.
+   L'icona è la stessa di social.njk (classe .rss, arancione, hover giallo). #}
+{%- set rssIcon -%}
+<svg class="rss-follow__icon" viewBox="0 0 50 50" aria-hidden="true" focusable="false"><g transform="translate(-374.2178,-62.2364)"><path d="M414.718,103.736c0-22.092-17.908-40-40-40v8c17.673,0,32,14.326,32,32H414.718z M398.717,103.736c0-13.256-10.744-23.999-23.999-23.999v7.997c8.836,0,16.001,7.166,16.001,16.002H398.717z M382.718,103.736c0-4.418-3.582-8-8-8v8H382.718z"/></g></svg>
+{%- endset -%}
+<p class="rss-follow">
+  {%- if postLang == "en" %}
+  <a href="/feed-en.xml" class="rss" aria-hidden="true" tabindex="-1">{{ rssIcon | safe }}</a>
+  <span>Enjoyed this? Follow the blog via <a href="/feed-en.xml" type="application/rss+xml">RSS</a> (there's also an <a href="/feed.xml" type="application/rss+xml" hreflang="it">Italian feed</a>).</span>
+  {%- else %}
+  <a href="/feed.xml" class="rss" aria-hidden="true" tabindex="-1">{{ rssIcon | safe }}</a>
+  <span>Ti è piaciuto il post? Segui il blog via <a href="/feed.xml" type="application/rss+xml">RSS</a> (c'è anche il <a href="/feed-en.xml" type="application/rss+xml" hreflang="en" lang="en">feed in inglese</a>).</span>
+  {%- endif %}
+</p>

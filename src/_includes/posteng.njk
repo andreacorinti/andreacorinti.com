@@ -1,6 +1,8 @@
 ---
 layout: base.njk
 comments: true
+# adds the English-only RSS <link> in base.njk's <head>
+feedEn: true
 ---
 
 {# Qui dovrai inserire i link per l'endpoint Webmention, solitamente nel <head> del tuo base.njk. #}
@@ -64,7 +66,8 @@ comments: true
     {% include 'bluesky-comments.njk' %}
 
     <hr class="tdbc-mt-lg" />
-    {% include 'newsletter-signup.njk' %}
+    {% set postLang = "en" %}
+    {% include 'rss-follow.njk' %}
 
     {# Se vuoi aggiungere categorie #}
     {# {% if categories %}

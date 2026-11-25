@@ -1,6 +1,7 @@
 ---
 layout: archivio
 lang: en-US
+feedEn: true
 eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}English - page {{ pagination.pageNumber | plus: 1 }}{% else %}English{% endif %}"
   sommario: "{% if pagination.pageNumber > 0 %}Posts in English from Andrea Corinti's blog - page {{ pagination.pageNumber | plus: 1 }}.{% else %}Posts in English from Andrea Corinti's blog.{% endif %}"

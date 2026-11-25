@@ -1,0 +1,17 @@
+// Blocco "Segui via RSS" in fondo ai post (rss-follow.njk), al posto del
+// vecchio box newsletter. Solo variabili del tema: funziona in chiaro e scuro.
+.rss-follow {
+  display: flex;
+  gap: 0.5em;
+  align-items: baseline;
+  margin-block: 1rem 0;
+  color: var(--tdbc-muted);
+  font-size: 0.95em;
+}
+
+.rss-follow__icon {
+  flex: none;
+  width: 1em;
+  height: 1em;
+  transform: translateY(0.12em);
+}

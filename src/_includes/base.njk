@@ -100,6 +100,11 @@
       title="RSS Feed for {{ meta.siteName }}"
       href="/feed/"
     />
+    {# English pages (posteng layout + English filter page) also advertise the
+       English-only feed; /feed.xml stays Italian-only on purpose. #}
+    {%- if feedEn %}
+    <link rel="alternate" type="application/rss+xml" title="English posts" href="/feed-en.xml">
+    {%- endif %}
     {% if comments %}
     {# mastodon-comments.js / misskey-comments.js are only embedded inside
        actual post content (<mastodon-comments>/<misskey-comments> tags in

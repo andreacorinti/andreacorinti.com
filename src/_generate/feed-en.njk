@@ -1,0 +1,53 @@
+---json
+{
+  "permalink": "feed-en.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Andrea Corinti (Xab) – English posts",
+    "subtitle": "Posts in English from Andrea Corinti's blog: internet, video games, music and other chatter from an Italian Web World citizen.",
+    "language": "en",
+    "url": "https://andreacorinti.com/",
+    "author": {
+      "name": "Andrea Corinti",
+      "email": "corinti@gmx.com"
+    }
+  }
+}
+---
+{# Companion to feed.njk: same RSS 2.0 shape, but fed by "blogeng" (every
+   post in posts/eng/, newest first) instead of the Italian-only "blog".
+   No limit() here: there are few English posts, so the whole set fits. #}
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xml:base="{{ metadata.url }}"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.url }}categoria/english-0/</link>
+    <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
+    <description>{{ metadata.subtitle }}</description>
+    <language>{{ metadata.language }}</language>
+    <lastBuildDate>{{ collections.blogeng | getNewestCollectionItemDate | dateToRfc822 }}</lastBuildDate>
+    <image>
+      <url>{{ meta.url }}/img/avatar3.jpg</url>
+      <title>{{ metadata.title }}</title>
+      <link>{{ metadata.url }}categoria/english-0/</link>
+    </image>
+
+    {%- for post in collections.blogeng %}
+    {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
+    <item>
+      <title><![CDATA[{{ post.data.title | safe }}]]></title>
+      <link>{{ absolutePostUrl }}</link>
+      {% if post.data.immagine %}
+      <media:content url="{{ post.data.immagine | absoluteUrl(metadata.url) }}" medium="image" />
+      {% endif %}
+      <description><![CDATA[{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) | safe }}]]></description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>
