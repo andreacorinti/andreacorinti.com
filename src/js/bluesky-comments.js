@@ -1,4 +1,4 @@
-import { injectCommentStyles, respondToVisibility, isEnglishPage } from "./comments-common.js";
+import { injectCommentStyles, respondToVisibility, isEnglishPage, fediverseIdentities } from "./comments-common.js";
 
 // Commenti da Bluesky: legge le risposte pubbliche a un post tramite l'API
 // pubblica dell'AppView (nessun login, nessuna dipendenza) e le rende con lo
@@ -224,6 +224,15 @@ class BlueskyComments extends HTMLElement {
       this.hiddenByAuthor = new Set(thread.post.threadgate?.record?.hiddenReplies || []);
       this.hiddenCount = 0;
 
+      // Doppioni col fediverso: se nella pagina c'è anche <fediverse-comments>,
+      // salto i post che mostra già lui. Confronto identificativi esatti, non
+      // testo/ora: i post di utenti del fediverso bridgiati qui hanno
+      // record.bridgyOriginalUrl (= url/uri originale), i miei post bridgiati
+      // là hanno come uri l'at:// di Bluesky. Nessun fediverso → insieme vuoto.
+      this.fediIds = document.querySelector("fediverse-comments")
+        ? await fediverseIdentities()
+        : new Set();
+
       this.list.replaceChildren();
       this.renderTree(thread.replies || [], 0);
 
@@ -258,6 +267,13 @@ class BlueskyComments extends HTMLElement {
 
     for (const node of children) {
       if (this.hiddenByAuthor.has(node.post.uri)) continue;
+      // già nei commenti dal fediverso: non lo ripeto, ma tengo le risposte
+      // sotto (potrebbero esistere solo su Bluesky)
+      const original = node.post.record?.bridgyOriginalUrl;
+      if (this.fediIds.has(node.post.uri) || (original && this.fediIds.has(original))) {
+        this.renderTree(node.replies || [], depth);
+        continue;
+      }
       // chi ha chiesto di non essere visibile fuori da Bluesky: salto anche le
       // risposte sotto di lui, che senza contesto lo citerebbero comunque
       if ((node.post.author.labels || []).some(l => l.val === NO_UNAUTH)) {

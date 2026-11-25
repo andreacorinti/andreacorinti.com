@@ -5,7 +5,8 @@
 
 const styles = `
 mastodon-comments,
-bluesky-comments {
+bluesky-comments,
+fediverse-comments {
   --font-color: #e0e0e0;
   --font-size: 1.0rem;
   --main-background: #1e1e1e;
@@ -30,7 +31,8 @@ bluesky-comments {
 
 /* Il sito è scuro di default: il chiaro arriva solo dal toggle (data-theme="light") */
 :root[data-theme="light"] mastodon-comments,
-:root[data-theme="light"] bluesky-comments {
+:root[data-theme="light"] bluesky-comments,
+:root[data-theme="light"] fediverse-comments {
   --font-color: #2b2822;
   --main-background: #ebe8df;
   --block-border-color: #cfc9ba;
@@ -43,14 +45,18 @@ bluesky-comments {
   --error-color: #b00020;
 }
 
-bluesky-comments { margin-top: 1.5rem; }
+bluesky-comments,
+fediverse-comments { margin-top: 1.5rem; }
 
 mastodon-comments h2,
-bluesky-comments h2 { color: var(--heading-color); margin-top: 0; margin-bottom: 1.5rem; }
+bluesky-comments h2,
+fediverse-comments h2 { color: var(--heading-color); margin-top: 0; margin-bottom: 1.5rem; }
 mastodon-comments p,
-bluesky-comments p { margin: 0 0 1rem 0; color: var(--font-color); }
+bluesky-comments p,
+fediverse-comments p { margin: 0 0 1rem 0; color: var(--font-color); }
 mastodon-comments a,
-bluesky-comments a { color: var(--link-color); }
+bluesky-comments a,
+fediverse-comments a { color: var(--link-color); }
 
 #mastodon-comments-list,
 #bluesky-comments-list {
@@ -108,9 +114,13 @@ bluesky-comments a { color: var(--link-color); }
 .mastodon-comment .content { margin: 15px 0; line-height: 1.5em; overflow-wrap: anywhere; }
 .mastodon-comment .content p:last-child { margin-bottom: 0; }
 .mastodon-comment .attachments img { max-width: 100%; }
+/* le mie risposte (bridgiate da Bluesky) nei commenti dal fediverso */
+.mastodon-comment.is-mine { border-left: 3px solid var(--link-color); }
+.mastodon-comment .details .name img.emoji { display: inline; height: 1.1em; width: auto; vertical-align: -0.15em; }
 
 mastodon-comments #error,
-bluesky-comments .error { color: var(--error-color); }
+bluesky-comments .error,
+fediverse-comments .error { color: var(--error-color); }
 `;
 
 export function injectCommentStyles() {
@@ -144,4 +154,32 @@ export function respondToVisibility(el, callback) {
 // I post inglesi hanno lang="en-US" su <html>, gli altri sono italiani.
 export function isEnglishPage() {
   return (document.documentElement.lang || "").toLowerCase().startsWith("en");
+}
+
+// Doppioni Bluesky ↔ fediverso. Il componente <fediverse-comments> registra
+// qui il suo caricamento; <bluesky-comments> chiede l'insieme degli
+// identificativi già mostrati dal fediverso (URL originali e at:// dei post
+// bridgiati) e salta quei post. Un solo caricamento condiviso: chi chiede per
+// primo lo avvia. Senza componente fediverso, o se fallisce, l'insieme è vuoto
+// e Bluesky mostra tutto come prima.
+let fediverseLoader = null;
+let fediversePromise = null;
+
+export function registerFediverseLoader(loader) {
+  fediverseLoader = loader;
+}
+
+export function loadFediverseThread() {
+  if (!fediverseLoader) return Promise.resolve(null);
+  if (!fediversePromise) fediversePromise = fediverseLoader().catch(() => null);
+  return fediversePromise;
+}
+
+export async function fediverseIdentities(timeoutMs = 8000) {
+  const timeout = new Promise((resolve) => setTimeout(() => resolve(null), timeoutMs));
+  // lo script del fediverso può arrivare dopo questo: aspetto che il suo
+  // elemento sia definito (e quindi abbia registrato il caricamento)
+  const run = customElements.whenDefined("fediverse-comments").then(loadFediverseThread);
+  const result = await Promise.race([run, timeout]);
+  return result?.identities || new Set();
 }

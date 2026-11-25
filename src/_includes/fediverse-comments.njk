@@ -1,0 +1,12 @@
+{# Commenti dal fediverso sulla copia bridgiata (Bridgy Fed) del post Bluesky:
+   compaiono solo se il post ha `fediverse` nel front matter, cioè l'URL della
+   copia vista da mastodon.social, tipo
+   https://mastodon.social/@andreacorinti.com@bsky.brid.gy/<id>
+   Lo script (fediverse-comments.js) è caricato da base.njk solo in quel caso. #}
+{%- if fediverse %}
+<section class="comments-fediverse" aria-label="Fediverso">
+  <fediverse-comments url="{{ fediverse }}">
+    <noscript><p>{% if lang and lang.startsWith('en') %}Enable JavaScript to see the comments, or <a href="{{ fediverse }}">read them on Mastodon</a>.{% else %}Per visualizzare i commenti abilita JavaScript, oppure <a href="{{ fediverse }}">leggili su Mastodon</a>.{% endif %}</p></noscript>
+  </fediverse-comments>
+</section>
+{%- endif %}
