@@ -2,8 +2,8 @@
 layout: archivio
 lang: it-IT
 eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Film, Serie & Fumettame - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Film, Serie & Fumettame{% endif %}"
-  sommario: "{% if pagination.pageNumber > 0 %}Post su film, serie tv, anime e fumetti dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Post su film, serie tv, anime e fumetti dal blog di Andrea Corinti.{% endif %}"
+  title: "{% if pagination.pageNumber > 0 %}Movies, TV & Fumettame - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Movies, TV & Fumettame{% endif %}"
+  sommario: "{% if pagination.pageNumber > 0 %}Post su film, serie tv, anime e fumetti dal blog di Andrea Corinti / Posts about movies, TV, anime and comics - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Post su film, serie tv, anime e fumetti dal blog di Andrea Corinti. Posts about movies, TV, anime and comics.{% endif %}"
 pagination:
     data: collections["film-serie"]
     size: 8

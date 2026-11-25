@@ -8,7 +8,7 @@ lang: it-IT
 # distinct title/description instead.
 eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Blog - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Blog{% endif %}"
-  sommario: "{% if pagination.pageNumber > 0 %}Tutti i post dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Tutti i post dal blog di Andrea Corinti.{% endif %}"
+  sommario: "{% if pagination.pageNumber > 0 %}Tutti i post dal blog di Andrea Corinti / All posts from Andrea Corinti's blog, in Italian and English - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Tutti i post dal blog di Andrea Corinti. All posts from Andrea Corinti's blog, in Italian and English.{% endif %}"
 pagination: 
     data: collections.blogTutti
     size: 8

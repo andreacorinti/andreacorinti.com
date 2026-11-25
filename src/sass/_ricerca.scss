@@ -10,11 +10,11 @@
 // resta solo il comportamento responsive, per evitare due dichiarazioni
 // duplicate della stessa regola con valori diversi.
 
-/* Stile per dispositivi mobili */
-@media (width <= 768px) {
+/* Tablet: campo più stretto. Sotto i 640px la ricerca va su una riga sua
+   a tutta larghezza (vedi il blocco mobile in _sitenav.scss). */
+@media (640px <= width <= 768px) {
   #search-input {
-    width: 120px; /* Riduci la larghezza su schermi piccoli */
-    font-size: 0.9rem; /* Riduci la dimensione del testo */
+    width: 140px;
   }
 
   .search-container {

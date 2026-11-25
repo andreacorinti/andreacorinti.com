@@ -113,6 +113,7 @@
 
 .tdbc-categorie-nav {
   display: flex;
+  position: relative; // riferimento per offsetLeft nello script di scroll
   flex-wrap: wrap;
   gap: 0.5em;
   margin-bottom: 1.5rem;
@@ -121,34 +122,139 @@
     justify-content: center;
   }
 
-  // Inverted pill: background swaps to the theme's text color, so the label
-  // needs the theme's *background* color to stay readable in both themes
-  // (unlike the hover state below, this background actually flips).
-  a.is-active {
-    background-color: var(--tdbc-text);
-    color: var(--tdbc-bg);
+  // Mobile: una sola striscia che scorre in orizzontale invece di 4 righe.
+  // Il padding lascia spazio alle ombre sfalsate (overflow le taglierebbe),
+  // la maschera sfuma il bordo destro per far capire che la riga continua.
+  @media (width < 768px) {
+    flex-wrap: nowrap;
+    margin-inline: -1rem;
+    padding: 0.25rem 2.5rem 0.6rem 1rem;
+    overflow-x: auto;
+    scroll-padding-inline: 1rem;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+    mask-image: linear-gradient(to right, #000 calc(100% - 2.5rem), transparent);
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    .cat-btn {
+      flex-shrink: 0;
+      scroll-snap-align: start;
+    }
+  }
+}
+
+// Bottoni categoria "fumettosi": riquadro squadrato a bordo spesso con ombra
+// piena sfalsata (come una vignetta), etichetta in Teko maiuscolo e icona SVG
+// a tratto. Ogni categoria ha il suo colore in --tdbc-cat: hover e stato attivo si
+// riempiono di quel colore con testo scuro fisso (#121212), che su tutti i
+// --tdbc-cat sotto resta sopra 6.5:1 (WCAG AAA per testo grande). Bordo e ombra usano
+// --tdbc-text, quindi si invertono da soli tra tema scuro e chiaro.
+.cat-btn {
+  --tdbc-cat: #f2f2f2;
+  --tdbc-cat-ink: var(--tdbc-text);
+
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0.3em 0.75em 0.15em;
+  transition:
+    background-color 140ms ease-out,
+    color 140ms ease-out,
+    transform 140ms ease-out,
+    box-shadow 140ms ease-out;
+  border: 2.5px solid var(--tdbc-cat-ink);
+  border-radius: 3px;
+  background-color: transparent;
+  color: var(--tdbc-cat-ink);
+  font-family: Teko, theme.$tdbc-font-family;
+  font-size: 1.3rem;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+  box-shadow: 3px 3px 0 var(--tdbc-cat-ink);
+  gap: 0.4em;
+
+  &--videogiochi { --tdbc-cat: #ff6b6b; }
+  &--musica { --tdbc-cat: #c49bff; }
+  &--internet { --tdbc-cat: #5be38a; }
+  &--film-serie { --tdbc-cat: #ffa94d; }
+  &--xabologia { --tdbc-cat: #fdeb37; }
+
+  // English è una lingua, non un argomento: resta blu anche a riposo.
+  &--english {
+    --tdbc-cat: #6cb4ff;
+    --tdbc-cat-ink: var(--tdbc-english);
   }
 
-  // English è una categoria a parte (lingua, non argomento): stessa pillola,
-  // ma in blu per distinguerla a colpo d'occhio dalle categorie italiane.
-  a.is-english {
-    border-color: var(--tdbc-english);
-    color: var(--tdbc-english);
+  &__icon {
+    flex-shrink: 0;
+    width: 1.05em;
+    height: 1.05em;
+    margin-top: -0.15em; // Teko siede basso: riallinea l'icona al testo
+    fill: none;
+    stroke: currentcolor;
+    stroke-width: 2.2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
   }
 
-  a.is-english.is-active {
-    background-color: var(--tdbc-english);
-    color: var(--tdbc-bg);
+  &__flag {
+    margin-top: -0.15em;
+    font-size: 0.9em;
   }
 
-  // The outlined button's :hover lightens the background (see
-  // .tdbc-button-outlined above), but the site-wide `a:hover` rule turns
-  // link text yellow — yellow-on-near-white is nearly unreadable. Force
-  // dark text on hover here instead, matching the .is-active state.
-  a:hover,
-  a:focus {
-    color: theme.tdbc-color("dark");
+  // a:not(.tdbc-button) e a:hover del tema colorano i link: qui serve
+  // specificità extra per tenere il testo scuro sui riempimenti colorati.
+  &:hover,
+  &:focus-visible,
+  &.is-active {
+    border-color: var(--tdbc-text);
+    background-color: var(--tdbc-cat);
+    color: #121212;
   }
+
+  &:hover,
+  &:focus-visible {
+    transform: translate(-1px, -1px);
+    box-shadow: 5px 5px 0 var(--tdbc-text);
+  }
+
+  &.is-active {
+    box-shadow: 3px 3px 0 var(--tdbc-text);
+  }
+
+  // click: il bottone "si schiaccia" sulla sua ombra
+  &:active {
+    transform: translate(3px, 3px);
+    box-shadow: 0 0 0 var(--tdbc-text);
+  }
+
+  &:focus-visible {
+    outline: 3px solid var(--tdbc-focus-ring);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    &:hover,
+    &:focus-visible,
+    &:active {
+      transform: none;
+    }
+  }
+}
+
+a.cat-btn {
+  color: var(--tdbc-cat-ink);
+}
+
+a.cat-btn:hover,
+a.cat-btn:focus-visible,
+a.cat-btn.is-active {
+  color: #121212;
 }
 
 .tdbc-button__icon,

@@ -2,8 +2,8 @@
 layout: archivio
 lang: it-IT
 eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Videogiochi - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Videogiochi{% endif %}"
-  sommario: "{% if pagination.pageNumber > 0 %}Post sui videogiochi dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Post sui videogiochi dal blog di Andrea Corinti.{% endif %}"
+  title: "{% if pagination.pageNumber > 0 %}Video Games - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Video Games{% endif %}"
+  sommario: "{% if pagination.pageNumber > 0 %}Post sui videogiochi dal blog di Andrea Corinti / Video game posts from Andrea Corinti's blog - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Post sui videogiochi dal blog di Andrea Corinti. Video game posts from Andrea Corinti's blog.{% endif %}"
 pagination:
     data: collections.videogiochi
     size: 8

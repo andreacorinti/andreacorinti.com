@@ -23,6 +23,9 @@
   --tdbc-code-bg: #2a2a2a;
   --tdbc-code-text: #f0f0f0;
   --tdbc-code-border: #444;
+  // pennellata "evidenziatore" della nav in alto (hover / click)
+  --tdbc-nav-mark: #fdeb37;
+  --tdbc-nav-mark-press: #e6cf00;
 }
 
 :root[data-theme="light"] {
@@ -42,6 +45,8 @@
   --tdbc-code-bg: #eceef7;
   --tdbc-code-text: #4a4a4a;
   --tdbc-code-border: #d6d6de;
+  --tdbc-nav-mark: #fdeb37;
+  --tdbc-nav-mark-press: #e6cf00;
 }
 
 /* Box sizing rules */

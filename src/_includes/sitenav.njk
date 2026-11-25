@@ -3,20 +3,26 @@
   <div class="tdbc-sitenav__container">
     <div class="tdbc-sitenav__brand">
       <!--<a id="tdbc-siteid" href="/">{{ meta.siteName }}</a>-->
+      {#- voce attiva: BLOG copre anche categorie e singoli post #}
+      {%- set u = page.url or '' %}
+      {%- set navAttiva = '' %}
+      {%- if u == '/' %}{% set navAttiva = 'home' %}
+      {%- elif u.startsWith('/blog') or u.startsWith('/categoria') or u.startsWith('/posts') %}{% set navAttiva = 'blog' %}
+      {%- elif u.startsWith('/projects') or u.startsWith('/progetti') %}{% set navAttiva = 'projects' %}
+      {%- elif u.startsWith('/about') or u.startsWith('/en/about') %}{% set navAttiva = 'about' %}
+      {%- elif u.startsWith('/contact') %}{% set navAttiva = 'contact' %}{% endif %}
       <ul class="tdbc-sitenav__navlist tdbc-list-unstyled">
-        <li>
-          <a href="/">HOME</a> •
-          <a href="/blog-0">BLOG</a> •
-          <a href="/projects">PROJECTS</a> •
-          <a href="/about">ABOUT</a> •
-          <a href="/contact">CONTACT</a>
-        </li>
+        <li><a href="/"{% if navAttiva == 'home' %} aria-current="page"{% endif %}>HOME</a></li>
+        <li><a href="/blog-0"{% if navAttiva == 'blog' %} aria-current="page"{% endif %}>BLOG</a></li>
+        <li><a href="/projects"{% if navAttiva == 'projects' %} aria-current="page"{% endif %}>PROJECTS</a></li>
+        <li><a href="/about"{% if navAttiva == 'about' %} aria-current="page"{% endif %}>ABOUT</a></li>
+        <li><a href="/contact"{% if navAttiva == 'contact' %} aria-current="page"{% endif %}>CONTACT</a></li>
       </ul>
     </div>
     <div class="search-container" role="search">
       <label for="search-input" class="tdbc-visually-hidden">Cerca nel sito</label>
       <input type="text" id="search-input" placeholder="Search..." />
-      <i class="search-icon" aria-hidden="true">🔍</i>
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>
       <ul id="search-results"></ul>
     </div>
     <button type="button" id="theme-toggle" class="tdbc-icon-button" aria-label="Attiva tema chiaro">

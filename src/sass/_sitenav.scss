@@ -29,17 +29,77 @@
 
 .tdbc-sitenav__navlist {
   display: flex;
+  gap: 0.15rem;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.tdbc-sitenav__navlist li + li {
-  margin-left: 0.5rem;
-}
+// Voci "a evidenziatore": dietro la voce corre una pennellata gialla inclinata
+// (::before, scaleX da 0 a 1) che su hover/focus la copre e scurisce il testo;
+// la pagina corrente ha solo un tratto spesso sotto (::after). Diverso apposta
+// dai riquadri con ombra delle categorie (.cat-btn in _buttons.scss).
+.tdbc-sitenav .tdbc-sitenav__navlist a {
+  display: inline-block;
+  position: relative;
+  padding: 0.2em 0.45em 0;
+  transition: color 160ms ease-out;
+  color: var(--tdbc-text);
+  font-size: 1.55rem;
+  letter-spacing: 0.03em;
+  line-height: 1.1;
+  text-decoration: none;
+  isolation: isolate;
 
-.tdbc-sitenav__navlist a {
-  text-decoration: none; /* Rimuove il sottolineato */
+  &::before,
+  &::after {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    transform: skewX(-12deg) scaleX(0);
+    transform-origin: left center;
+    transition: transform 200ms cubic-bezier(0.2, 0.8, 0.2, 1);
+    background-color: var(--tdbc-nav-mark);
+    content: "";
+    z-index: -1;
+  }
+
+  &::before {
+    top: 0.05em;
+    bottom: 0;
+  }
+
+  &::after {
+    bottom: -0.1em;
+    height: 0.18em;
+  }
+
+  &[aria-current="page"]::after {
+    transform: skewX(-12deg) scaleX(1);
+  }
+
+  &:hover,
+  &:focus-visible {
+    outline: none;
+    color: #121212;
+
+    &::before {
+      transform: skewX(-12deg) scaleX(1);
+    }
+  }
+
+  // click: la pennellata "preme" di un pixel e si scurisce
+  &:active::before {
+    transform: skewX(-12deg) scaleX(1) translateY(1px);
+    background-color: var(--tdbc-nav-mark-press);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    &::before,
+    &::after {
+      transition: none;
+    }
+  }
 }
 
 .search-container {
@@ -48,25 +108,72 @@
   align-items: center;
 }
 
+// Ricerca "a riga": solo una linea sotto, che diventa gialla in focus.
 #search-input {
   width: 200px; /* Larghezza della barra di ricerca */
-  padding: 0.5rem;
-  padding-right: 2rem; /* Spazio per l'icona */
-  transition: width 0.3s ease;
-  border: 1px solid var(--tdbc-text);
-  border-radius: theme.$tdbc-border-radius;
+  padding: 0.4rem 2rem 0.2rem 0.1rem; /* a destra: spazio per l'icona */
+  transition: border-color 160ms ease-out;
+  border: 0;
+  border-bottom: 2px solid var(--tdbc-text);
+  border-radius: 0;
   background-color: transparent;
   color: var(--tdbc-text);
-  font-size: 1rem;
+  font-family: Teko, sans-serif;
+  font-size: 1.3rem;
+  letter-spacing: 0.03em;
+
+  &::placeholder {
+    color: var(--tdbc-muted);
+  }
+
+  &:focus {
+    border-bottom-color: var(--tdbc-nav-mark);
+    outline: none;
+  }
 }
 
 .search-icon {
   position: absolute;
   top: 50%;
-  right: 0.5rem;
+  right: 0.25rem;
+  width: 1.2rem;
+  height: 1.2rem;
   transform: translateY(-50%);
-  color: var(--tdbc-text);
+  fill: none;
+  stroke: var(--tdbc-text);
+  stroke-width: 2.4;
+  stroke-linecap: round;
   pointer-events: none; /* Disabilita clic sull'icona */
+}
+
+// Mobile: le voci su una riga intera, ricerca (allargata) e tema sotto.
+@media (width < 640px) {
+  .tdbc-sitenav__container {
+    flex-wrap: wrap;
+    row-gap: 0.35rem;
+  }
+
+  .tdbc-sitenav__brand {
+    width: 100%;
+  }
+
+  .tdbc-sitenav__navlist {
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .tdbc-sitenav .tdbc-sitenav__navlist a {
+    padding-inline: 0.3em;
+    font-size: 1.4rem;
+  }
+
+  .search-container {
+    flex: 1;
+  }
+
+  #search-input {
+    width: 100%;
+  }
 }
 
 #search-results {
