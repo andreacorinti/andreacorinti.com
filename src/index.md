@@ -16,13 +16,21 @@ Questo, per esempio, è l'ultimo post del suo blog:
 {%- set latest = collections.latestPost | first -%}
 {%- set latestEn = latest.data.lang and latest.data.lang.startsWith('en') %}
 
-<div{% if latestEn %} lang="en"{% endif %}>
-<h2>{{ latest.data.title }}{% if latestEn %} <small lang="it" class="tdbc-ink--gray">(in inglese 🇬🇧)</small>{% endif %}</h2>
-<h3><time>{% if latestEn %}{{ latest.data.date | dateDisplay('en-US') }}{% else %}{{ latest.data.date | dateDisplay }}{% endif %}</time></h3>
-<p>{{ latest.data.sommario }}...</p>
-</div>
+{#- categoria = primo tag che non sia "english" (in Nunjucks un set dentro un for non esce dal ciclo) #}
+{%- set latestCat = latest.data.tags | reject("equalto", "english") | first %}
+{%- if not categorie[latestCat] %}{% set latestCat = '' %}{% endif %}
 
-[*continua a leggere*]({{ latest.url }})
+{#- stessa card degli archivi (_postcard.scss), in versione orizzontale #}
+<ul class="post-grid post-grid--featured">
+<li class="post-card post-card--featured{% if latestCat %} cat-btn--{{ latestCat }}{% endif %}"{% if latestEn %} lang="en"{% endif %}>
+<div class="post-card__media">{% cardImage latest.data.immagine, latest.data.title, true %}{% if latestEn %}<span class="post-card__flag" lang="en"><span aria-hidden="true">🇬🇧</span>English</span>{% endif %}</div>
+<div class="post-card__body">
+<div class="post-card__meta">{% if latestCat %}<span class="post-card__cat">{{ categorie[latestCat] }}</span>{% endif %}<time>{% if latestEn %}{{ latest.data.date | dateDisplay('en-US') }}{% else %}{{ latest.data.date | dateDisplay }}{% endif %}</time></div>
+<h2 class="post-card__title"><a href="{{ latest.url }}"{% if latestEn %} hreflang="en"{% endif %}>{{ latest.data.title }}</a></h2>
+<p class="post-card__summary">{{ latest.data.sommario }}</p>
+</div>
+</li>
+</ul>
 
 {% include 'social.njk' %}
 

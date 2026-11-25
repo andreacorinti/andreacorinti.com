@@ -45,8 +45,10 @@
   --tdbc-code-bg: #eceef7;
   --tdbc-code-text: #4a4a4a;
   --tdbc-code-border: #d6d6de;
-  --tdbc-nav-mark: #fdeb37;
-  --tdbc-nav-mark-press: #e6cf00;
+  // il giallo del tema scuro sul crema quasi spariva (~1.1:1): ambra, stessa
+  // famiglia, ~1.9:1 sul fondo e 8.8:1 col testo scuro sopra la pennellata
+  --tdbc-nav-mark: #f0a202;
+  --tdbc-nav-mark-press: #d18b00;
 }
 
 /* Box sizing rules */

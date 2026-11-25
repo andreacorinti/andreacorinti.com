@@ -1,0 +1,259 @@
+// Card dei post (archivi e home): stessa famiglia dei bottoni categoria
+// (.cat-btn in _buttons.scss): bordo spesso, angoli quasi vivi, ombra piena
+// sfalsata. Ogni card prende --tdbc-cat dalla classe .cat-btn--<slug> della sua
+// categoria, ma solo per l'etichetta: hover e click usano un unico accento,
+// il giallo del sito (--tdbc-nav-mark), per non fare l'arcobaleno. Usata
+// anche per la pagina Projects. Tutta la card è cliccabile (il link del titolo si allarga con
+// ::after), l'immagine sta in un riquadro a rapporto fisso con object-fit.
+
+.post-grid {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+  list-style: none;
+  gap: 2rem 1.75rem;
+}
+
+// in home: una card sola, a tutta larghezza (max ~ colonna di testo)
+.post-grid--featured {
+  max-width: 60rem;
+  margin: 1.5rem 0 2.5rem;
+  grid-template-columns: 1fr;
+}
+
+// Tema scuro (default): linee grigio scuro e ombra nera, morbide sul fondo
+// #121212; in chiaro torna l'inchiostro scuro pieno, che su crema non abbaglia.
+// Su hover bordo e ombra diventano gialli in entrambi i temi.
+.post-card {
+  --tdbc-card-line: #3a3a3a;
+  --tdbc-card-shadow: #000;
+
+  :root[data-theme="light"] & {
+    --tdbc-card-line: var(--tdbc-text);
+    --tdbc-card-shadow: var(--tdbc-text);
+  }
+
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  margin: 0;
+  transition:
+    transform 160ms ease-out,
+    box-shadow 160ms ease-out;
+  border: 2px solid var(--tdbc-card-line);
+  border-radius: 4px;
+  background-color: var(--tdbc-surface);
+  box-shadow: 5px 5px 0 var(--tdbc-card-shadow);
+  overflow: hidden;
+
+  &:hover,
+  &:focus-within {
+    transform: translate(-2px, -2px);
+    border-color: var(--tdbc-nav-mark);
+    box-shadow: 7px 7px 0 var(--tdbc-nav-mark);
+  }
+
+  :root[data-theme="light"] &:hover,
+  :root[data-theme="light"] &:focus-within {
+    border-color: var(--tdbc-text);
+  }
+
+  &:active {
+    transform: translate(3px, 3px);
+    box-shadow: 1px 1px 0 var(--tdbc-nav-mark);
+  }
+
+  // riquadro immagine: stesso rapporto per tutte, qualunque sia l'originale
+  &__media {
+    position: relative;
+    border-bottom: 2px solid var(--tdbc-card-line);
+    background:
+      repeating-linear-gradient(
+        -45deg,
+        transparent 0 6px,
+        var(--tdbc-code-bg) 6px 12px
+      );
+    overflow: hidden;
+    aspect-ratio: 16 / 10;
+
+    picture {
+      display: contents;
+    }
+  }
+
+  &__img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    transition: transform 300ms ease-out;
+    object-fit: cover;
+  }
+
+  &:hover &__img {
+    transform: scale(1.04);
+  }
+
+  // timbro "English" sull'angolo dell'immagine, blu come il bottone English
+  &__flag {
+    display: inline-flex;
+    position: absolute;
+    top: 0.6rem;
+    left: 0.6rem;
+    align-items: center;
+    gap: 0.3em;
+    padding: 0.25em 0.5em 0.1em;
+    transform: rotate(-2deg);
+    border: 2px solid #121212;
+    background-color: #6cb4ff;
+    color: #121212;
+    font-family: Teko, sans-serif;
+    font-size: 1.15rem;
+    letter-spacing: 0.05em;
+    line-height: 1;
+    text-transform: uppercase;
+    box-shadow: 3px 3px 0 #121212;
+    z-index: 2;
+
+    span {
+      margin-top: -0.15em;
+      font-size: 1.05em;
+    }
+  }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 0.5rem;
+    padding: 0.9rem 1rem 1.1rem;
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem 0.7rem;
+    color: var(--tdbc-muted);
+    font-family: Teko, sans-serif;
+    font-size: 1.15rem;
+    letter-spacing: 0.04em;
+    line-height: 1;
+    text-transform: uppercase;
+
+    time {
+      padding-top: 0.2em; // Teko siede alto rispetto al box: allinea al timbro
+    }
+  }
+
+  // occhiello (sottotitolo dei progetti)
+  &__kicker {
+    margin: 0;
+    color: var(--tdbc-muted);
+    font-family: Teko, sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 0.04em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  // etichetta categoria: il "timbro" colorato della vignetta
+  &__cat {
+    padding: 0.2em 0.45em 0.05em;
+    transform: rotate(-1.5deg);
+    border: 2px solid #121212;
+    background-color: var(--tdbc-cat, #f2f2f2);
+    color: #121212;
+  }
+
+  &__title {
+    margin: 0;
+    font-family: Teko, sans-serif;
+    font-size: 1.85rem;
+    font-weight: normal;
+    line-height: 1;
+
+    a {
+      color: var(--tdbc-text);
+      text-decoration: none;
+
+      // tutta la card diventa cliccabile
+      &::after {
+        position: absolute;
+        inset: 0;
+        content: "";
+        z-index: 1;
+      }
+
+      &:focus-visible {
+        outline: none;
+      }
+    }
+  }
+
+  &:focus-within {
+    outline: 3px solid var(--tdbc-focus-ring);
+    outline-offset: 4px;
+  }
+
+  &__summary {
+    display: -webkit-box;
+    margin: 0;
+    color: var(--tdbc-body-text);
+    font-size: 1.05rem;
+    line-height: 1.45;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+  }
+
+  // Variante in evidenza (ultimo post in home): orizzontale da tablet in su
+  &--featured {
+    @media (width >= 700px) {
+      flex-direction: row;
+
+      .post-card__media {
+        flex: 0 0 46%;
+        aspect-ratio: auto;
+        min-height: 16rem;
+        border-right: 2px solid var(--tdbc-card-line);
+        border-bottom: 0;
+      }
+
+      .post-card__body {
+        justify-content: center;
+        padding: 1.25rem 1.5rem;
+      }
+
+      .post-card__title {
+        font-size: 2.4rem;
+      }
+
+      .post-card__summary {
+        -webkit-line-clamp: 4;
+        line-clamp: 4;
+      }
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    &,
+    &__img {
+      transition: none;
+    }
+
+    &:hover,
+    &:focus-within,
+    &:active,
+    &:hover .post-card__img {
+      transform: none;
+    }
+  }
+}
+
+// a:hover del tema colora i link di giallo: nel titolo della card resta
+// il colore del testo, l'effetto hover è già sulla card intera.
+.post-card .post-card__title a:hover {
+  color: var(--tdbc-text);
+}

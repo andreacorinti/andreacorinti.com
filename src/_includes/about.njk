@@ -6,17 +6,20 @@ layout: base.njk
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    <h1 class="tdbc-ink--primary tdbc-mb-none titolo">{{ meta.siteName }}</h1>
-    <img class="u-photo avatar" src="{{ avatar }}" alt="Andrea Corinti">
-    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mx-auto p-note">
+    {#- nome con "Xab" come timbro e foto in cornice da vignetta: _about.scss #}
+    <h1 class="tdbc-ink--primary tdbc-mb-none titolo about-name">Andrea Corinti <span class="about-name__nick">Xab</span></h1>
+    <figure class="about-photo">
+      <img class="u-photo about-photo__img" src="{{ avatar }}" alt="Andrea Corinti" width="400" height="400">
+    </figure>
+    <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mx-auto p-note about-tagline">
       An Italian Web World Citizen.
     </h2>
     {# stesso pulsante dei post bilingui (postita/posteng), guidato da `translation` #}
     {% if translation %}
     {% if lang and lang.startsWith('en') %}
-    <p class="tdbc-mt-sm"><a class="tdbc-button tdbc-button--small" href="{{ translation }}" hreflang="it" lang="it">🇮🇹 Leggi in italiano</a></p>
+    <p class="tdbc-mt-sm"><a class="cat-btn cat-btn--italiano" href="{{ translation }}" hreflang="it" lang="it"><span class="cat-btn__flag" aria-hidden="true">🇮🇹</span>Leggi in italiano</a></p>
     {% else %}
-    <p class="tdbc-mt-sm"><a class="tdbc-button tdbc-button--small" href="{{ translation }}" hreflang="en" lang="en">🇬🇧 Read in English</a></p>
+    <p class="tdbc-mt-sm"><a class="cat-btn cat-btn--english" href="{{ translation }}" hreflang="en" lang="en"><span class="cat-btn__flag" aria-hidden="true">🇬🇧</span>Read in English</a></p>
     {% endif %}
     {% endif %}
   </div>

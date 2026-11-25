@@ -1,16 +1,27 @@
 {%- comment -%}
-  Card di un post negli archivi (Tutti e categorie), italiano o inglese.
+  Card di un post negli archivi (All e categorie), italiano o inglese.
   Uso: {% include 'post-card.njk', post: post, indice: forloop.index, bandierina: true %}
+  Stile "vignetta" in _postcard.scss: riquadro con bordo spesso e ombra piena
+  sfalsata come i bottoni categoria, immagine in un riquadro a rapporto fisso,
+  etichetta della categoria nel suo colore (--tdbc-cat da .cat-btn--<slug>).
   I post inglesi hanno lang="en", data in formato inglese e, se bandierina
-  è true (archivi misti), un 🇬🇧 accanto al titolo.
+  è true (archivi misti), un 🇬🇧 sull'angolo dell'immagine.
 {%- endcomment -%}
 {%- assign inglese = false -%}
 {%- if post.data.layout == 'posteng' -%}{%- assign inglese = true -%}{%- endif -%}
-      <li class="tdbc-card"{% if inglese %} lang="en"{% endif %}>
-        <div class="tdbc-card__content">
-          <a href="{{ post.url }}" class="tdbc-card__title"{% if inglese %} hreflang="en"{% endif %}>{{ post.data.title }}{% if inglese and bandierina %} <span class="tdbc-card__lang" role="img" aria-label="in inglese" lang="it">🇬🇧</span>{% endif %}</a>
-          <img src="{{ post.data.immagine }}" alt="{{ post.data.title }}" {% if indice > 2 %}loading="lazy"{% endif %} decoding="async">
-          <time>{% if inglese %}{{ post.data.date | dateDisplay: 'en-US' }}{% else %}{{ post.data.date | dateDisplay }}{% endif %}</time>
-          <p>{{ post.data.sommario }}</p>
+{%- assign cat = '' -%}
+{%- for t in post.data.tags -%}{%- if cat == '' and t != 'english' and categorie[t] -%}{%- assign cat = t -%}{%- endif -%}{%- endfor -%}
+      <li class="post-card{% if cat != '' %} cat-btn--{{ cat }}{% endif %}"{% if inglese %} lang="en"{% endif %}>
+        <div class="post-card__media">
+          {% cardImage post.data.immagine, post.data.title, indice %}
+          {%- if inglese and bandierina %}<span class="post-card__flag" lang="en"><span aria-hidden="true">🇬🇧</span>English</span>{% endif %}
+        </div>
+        <div class="post-card__body">
+          <div class="post-card__meta">
+            {%- if cat != '' %}<span class="post-card__cat">{{ categorie[cat] }}</span>{% endif %}
+            <time datetime="{{ post.data.date | date: '%Y-%m-%d' }}">{% if inglese %}{{ post.data.date | dateDisplay: 'en-US' }}{% else %}{{ post.data.date | dateDisplay }}{% endif %}</time>
+          </div>
+          <h2 class="post-card__title"><a href="{{ post.url }}"{% if inglese %} hreflang="en"{% endif %}>{{ post.data.title }}</a></h2>
+          <p class="post-card__summary">{{ post.data.sommario }}</p>
         </div>
       </li>

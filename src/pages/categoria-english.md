@@ -16,7 +16,7 @@ permalink: "/categoria/english-{{ pagination.pageNumber }}/"
 <main id="main-content" class="tdbc-container">
   {% include 'categorie-nav.njk', attivo: 'english' %}
   <div class="tdbc-section">
-    <ul class="tdbc-column-container">
+    <ul class="post-grid">
       {%- for post in posteng -%}
       {% include 'post-card.njk', post: post, indice: forloop.index, bandierina: false %}
       {%- endfor -%}

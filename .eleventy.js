@@ -135,6 +135,44 @@ module.exports = function (eleventyConfig) {
   // of old external URLs on every build would be slow and would break the
   // build the moment any one of them goes offline — they just get the
   // eager/high-priority loading hints instead.
+  // Miniatura delle card del blog (archivi + home). Le immagini locali
+  // diventano webp/jpeg da 480/800px (una card non supera ~400px di
+  // larghezza), le esterne restano così ma in lazy-load: il riquadro a
+  // rapporto fisso in _postcard.scss le uniforma comunque tutte.
+  // `eager` (numero o booleano): le prime card non vanno in lazy-load.
+  eleventyConfig.addAsyncShortcode("cardImage", async function (src, alt, eager) {
+    if (!src) return "";
+    const isEager = eager === true || (typeof eager === "number" && eager <= 2);
+    const attrs = {
+      alt: alt || "",
+      class: "post-card__img",
+      loading: isEager ? "eager" : "lazy",
+      decoding: "async",
+    };
+    const plainImg = () =>
+      `<img src="${src}" ${Object.entries(attrs)
+        .map(([key, value]) => `${key}="${String(value).replace(/"/g, "&quot;")}"`)
+        .join(" ")}>`;
+
+    if (/^https?:\/\//.test(src)) return plainImg();
+
+    try {
+      const metadata = await Image(`./src${src}`, {
+        widths: [480, 800],
+        formats: ["webp", "jpeg"],
+        outputDir: "./public/img/optimized/",
+        urlPath: "/img/optimized/",
+      });
+      return generateImageHTML(metadata, {
+        ...attrs,
+        sizes: "(min-width: 1100px) 360px, (min-width: 700px) 45vw, 100vw",
+      });
+    } catch (e) {
+      console.warn(`cardImage: could not process ${src}: ${e.message}`);
+      return plainImg();
+    }
+  });
+
   eleventyConfig.addAsyncShortcode("heroImage", async function (src, alt) {
     if (!src) return "";
 

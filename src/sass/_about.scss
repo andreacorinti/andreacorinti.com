@@ -1,0 +1,91 @@
+// Pagina About: nome con "Xab" come timbro (stesso linguaggio delle etichette
+// delle card) e foto in cornice da vignetta, con ombra piena sfalsata, una
+// leggera inclinazione e due strisce di nastro adesivo sugli angoli.
+
+.about-name {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.1em 0.35em;
+}
+
+.about-name__nick {
+  display: inline-block;
+  padding: 0.12em 0.3em 0;
+  // Ruotato, il bordo veniva disegnato a scalini e il giallo "sbavava" oltre
+  // il nero in una linea tratteggiata: lo sfondo resta dentro il bordo
+  // (background-clip) e il timbro va su un livello suo (translateZ +
+  // backface-visibility), che il browser smussa meglio.
+  transform: rotate(-4deg) translateZ(0);
+  border: 3px solid #121212;
+  outline: 1px solid transparent;
+  background-clip: padding-box;
+  background-color: var(--tdbc-nav-mark);
+  color: #121212;
+  font-size: 0.62em;
+  line-height: 1;
+  text-shadow: none;
+  box-shadow: 4px 4px 0 #121212;
+  backface-visibility: hidden;
+}
+
+.about-photo {
+  position: relative;
+  width: min(72%, 320px);
+  margin: 2rem auto 1.25rem;
+  transform: rotate(-2deg);
+  transition: transform 220ms ease-out;
+
+  &:hover {
+    transform: rotate(0);
+  }
+
+  // nastro adesivo sugli angoli (semitrasparente, come lo scotch)
+  &::before,
+  &::after {
+    position: absolute;
+    top: -0.7rem;
+    width: 5.5rem;
+    height: 1.6rem;
+    background-color: rgb(253 235 55 / 55%);
+    box-shadow: 0 1px 2px rgb(0 0 0 / 25%);
+    content: "";
+    z-index: 1;
+  }
+
+  &::before {
+    left: -1.6rem;
+    transform: rotate(-35deg);
+  }
+
+  &::after {
+    right: -1.6rem;
+    transform: rotate(35deg);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+.about-photo__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 4px solid var(--tdbc-text);
+  border-radius: 3px;
+  box-shadow: 8px 8px 0 var(--tdbc-nav-mark);
+}
+
+.about-tagline {
+  font-family: Teko, sans-serif;
+  font-size: 1.6rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+// bottone "Leggi in italiano" della versione inglese, gemello di English
+.cat-btn--italiano {
+  --tdbc-cat: #5be38a;
+}

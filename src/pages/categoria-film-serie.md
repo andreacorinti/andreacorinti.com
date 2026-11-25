@@ -15,7 +15,7 @@ permalink: "/categoria/film-serie-{{ pagination.pageNumber }}/"
 <main id="main-content" class="tdbc-container">
   {% include 'categorie-nav.njk', attivo: 'film-serie' %}
   <div class="tdbc-section">
-    <ul class="tdbc-column-container">
+    <ul class="post-grid">
       {%- for post in postita -%}
       {% include 'post-card.njk', post: post, indice: forloop.index, bandierina: true %}
       {%- endfor -%}
