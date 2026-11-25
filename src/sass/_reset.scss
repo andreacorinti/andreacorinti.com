@@ -19,6 +19,10 @@
   --tdbc-link-hover: #fdeb37;
   // colore della categoria English (pillola in tdbc-categorie-nav)
   --tdbc-english: #6cb4ff;
+  // chip del codice inline (`code` nei post)
+  --tdbc-code-bg: #2a2a2a;
+  --tdbc-code-text: #f0f0f0;
+  --tdbc-code-border: #444;
 }
 
 :root[data-theme="light"] {
@@ -35,6 +39,9 @@
   // resta nella stessa famiglia cromatica ma supera 4.5:1 su #f5f4ef.
   --tdbc-link-hover: #8a6200;
   --tdbc-english: #1d5fa8;
+  --tdbc-code-bg: #eceef7;
+  --tdbc-code-text: #4a4a4a;
+  --tdbc-code-border: #d6d6de;
 }
 
 /* Box sizing rules */

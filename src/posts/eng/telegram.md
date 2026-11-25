@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["internet"]
 templateEngineOverride: njk,md
 lang: en-US
 title: "What will happen to my Telegram account when I’ll die?" 

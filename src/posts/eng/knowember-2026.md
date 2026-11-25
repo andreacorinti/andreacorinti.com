@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["xabologia"]
 title: "Knowember 2026"
 subtitle: "Get to know me (the short version, I promise!)"
 sommario: "My answers for Knowember, the November blogging event where everyone answers the same questions on their own blog: a photo, a name, where I blog from and what this blog is all about."

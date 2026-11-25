@@ -10,33 +10,18 @@ eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Blog - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Blog{% endif %}"
   sommario: "{% if pagination.pageNumber > 0 %}Tutti i post dal blog di Andrea Corinti - pagina {{ pagination.pageNumber | plus: 1 }}.{% else %}Tutti i post dal blog di Andrea Corinti.{% endif %}"
 pagination: 
-    data: collections.blog
+    data: collections.blogTutti
     size: 8
     alias: postita
 permalink: "/blog-{{ pagination.pageNumber }}/"
 ---
 
 <main id="main-content" class="tdbc-container">
-  <nav class="tdbc-categorie-nav" aria-label="Categorie del blog">
-    <a href="/blog-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-active">Tutti</a>
-    <a href="/categoria/videogiochi-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Videogiochi</a>
-    <a href="/categoria/musica-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Musica</a>
-    <a href="/categoria/internet-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Internet</a>
-    <a href="/categoria/film-serie-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Film, Serie &amp; Fumettame</a>
-    <a href="/categoria/xabologia-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small">Xabologia</a>
-    <a href="/categoria/english-0/" class="tdbc-button tdbc-button-outlined tdbc-button--small is-english" lang="en" hreflang="en">🇬🇧 English</a>
-  </nav>
+  {% include 'categorie-nav.njk', attivo: 'tutti' %}
   <div class="tdbc-section">
     <ul class="tdbc-column-container">
       {%- for post in postita -%}
-      <li class="tdbc-card">
-        <div class="tdbc-card__content">
-          <a href="{{ post.url }}" class="tdbc-card__title">{{ post.data.title }}</a>
-          <img src="{{ post.data.immagine }}" alt="{{ post.data.title }}" {% if forloop.index > 2 %}loading="lazy"{% endif %} decoding="async">
-          <time>{{ post.data.date | dateDisplay }}</time>
-          <p>{{ post.data.sommario }}</p>
-        </div>
-      </li>
+      {% include 'post-card.njk', post: post, indice: forloop.index, bandierina: true %}
       {%- endfor -%}
     </ul>
   </div>

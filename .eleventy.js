@@ -80,6 +80,13 @@ module.exports = function (eleventyConfig) {
       .filter((item) => item.data.layout === "postita")
       .reverse();
   });
+  // Pagina "Tutti" (/blog-N/): post italiani + inglesi insieme, i più recenti
+  // prima. `blog` resta solo italiano perché alimenta il feed RSS italiano.
+  eleventyConfig.addCollection("blogTutti", function(collection) {
+    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/*.md"])
+      .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng")
+      .sort((a, b) => b.date - a.date);
+  });
   // Homepage "latest post" teaser: newest post in either language.
   eleventyConfig.addCollection("latestPost", function(collection) {
     return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/*.md"])

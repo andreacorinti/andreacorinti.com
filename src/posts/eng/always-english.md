@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["musica"]
 templateEngineOverride: njk,md
 title: "Metal bands: please do not sing exclusively in English."
 subtitle: "Linguistic music dullness"

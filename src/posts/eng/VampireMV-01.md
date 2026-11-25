@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["videogiochi"]
 templateEngineOverride: njk,md
 lang: en-US
 title: "VampireMV Devlog 01" 

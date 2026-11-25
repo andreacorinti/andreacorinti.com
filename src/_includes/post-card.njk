@@ -1,0 +1,16 @@
+{%- comment -%}
+  Card di un post negli archivi (Tutti e categorie), italiano o inglese.
+  Uso: {% include 'post-card.njk', post: post, indice: forloop.index, bandierina: true %}
+  I post inglesi hanno lang="en", data in formato inglese e, se bandierina
+  è true (archivi misti), un 🇬🇧 accanto al titolo.
+{%- endcomment -%}
+{%- assign inglese = false -%}
+{%- if post.data.layout == 'posteng' -%}{%- assign inglese = true -%}{%- endif -%}
+      <li class="tdbc-card"{% if inglese %} lang="en"{% endif %}>
+        <div class="tdbc-card__content">
+          <a href="{{ post.url }}" class="tdbc-card__title"{% if inglese %} hreflang="en"{% endif %}>{{ post.data.title }}{% if inglese and bandierina %} <span class="tdbc-card__lang" role="img" aria-label="in inglese" lang="it">🇬🇧</span>{% endif %}</a>
+          <img src="{{ post.data.immagine }}" alt="{{ post.data.title }}" {% if indice > 2 %}loading="lazy"{% endif %} decoding="async">
+          <time>{% if inglese %}{{ post.data.date | dateDisplay: 'en-US' }}{% else %}{{ post.data.date | dateDisplay }}{% endif %}</time>
+          <p>{{ post.data.sommario }}</p>
+        </div>
+      </li>

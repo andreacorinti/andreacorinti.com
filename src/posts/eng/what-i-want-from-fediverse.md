@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["internet"]
 templateEngineOverride: njk,md
 lang: en-US
 title: In the Fediverse I would like

@@ -84,14 +84,12 @@ a:hover {
 code:not([class*="language"]) {
   display: inline-flex;
   padding: 0.15em;
-  background-color: theme.tdbc-color("light");
-  // theme.tdbc-color("gray") is tuned for the dark page background and
-  // only hits ~2.6:1 against this light code background — fails WCAG AA.
-  color: #4a4a4a;
+  // Chip sensibile al tema (token in _reset.scss): in scuro un chip chiaro
+  // fisso abbagliava sullo sfondo #121212 e si leggeva male.
+  background-color: var(--tdbc-code-bg);
+  color: var(--tdbc-code-text);
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  // Chip a sfondo chiaro fisso in entrambi i temi (vedi sopra), quindi
-  // anche il bordo resta un valore letterale invece che un token tema.
-  border: 1px solid #d6d6de;
+  border: 1px solid var(--tdbc-code-border);
   border-radius: 2px;
   font-size: 0.75em;
   line-height: 1.1;

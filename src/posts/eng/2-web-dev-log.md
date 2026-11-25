@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["internet"]
 templateEngineOverride: njk,md
 lang: en-US
 title: "11ty, Webmentions and Bridgy part II [WebDev Log 02]" 

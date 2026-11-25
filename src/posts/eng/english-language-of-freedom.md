@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["xabologia"]
 templateEngineOverride: njk,md
 lang: en-US
 title: English is the language of freedom

@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["internet"]
 title: "Mastodon, Bluesky and the Language Problem"
 subtitle: "Or: why this post exists, and why it's in English"
 sommario: "I've been in the fediverse for years and I still can't decide where to hang out, or which language to write in. So here's a post about both, which is also a test for Bluesky comments on this blog!"

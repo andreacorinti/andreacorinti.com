@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["xabologia"]
 title: "Compartmentalizing Myself: the Self-Hating Nerd on LinkedIn"
 subtitle: "Of self-hating nerds, and vice versa"
 sommario: "Why do I feel uneasy talking about video games on LinkedIn? Thoughts on social media masks, pop culture, soft power, and Dagospia's video game column."
