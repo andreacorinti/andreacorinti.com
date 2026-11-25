@@ -3,7 +3,7 @@ layout: postita
 title: "Disincanto è finito. Com'è stato?"
 subtitle: "Disincantato ma non troppo"
 sommario: "Disincanto è finito, ma soprattutto ha compiuto la bellezza di cinque anni e personalmente ho fatto fatica a rendermene conto..."
-immagine: https://www.tvguide.com/a/img/resize/fefdbe131c6c1634a1cb04ea608780b14a08a536/hub/2018/08/15/445892f8-bc28-4056-9bbf-cf4a1595ec5c/180815-disenchantment.jpg?fit=crop&height=1080&width=1920
+immagine: /img/archivio/film-serie/disincanto-cover.jpg
 tags: ["film-serie"]
 date: 2023-10-12
 lang: it-IT

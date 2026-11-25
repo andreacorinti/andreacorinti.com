@@ -3,7 +3,7 @@ layout: postita
 title: "Basta Videogiochi!"
 subtitle: "What Am I Doing With My Life?"
 sommario: "Lo ammetto subito - Il titolo è volutamente provocatorio e strizza l'occhio a certe realtà piuttosto vive nel mondo anglosassone. "
-immagine: https://gamequitters.com/wp-content/uploads/2015/03/tumblr_l71xowsNbG1qzwtdlo1_500.gif
+immagine: /img/archivio/videogiochi/basta-videogiochi-cover.jpg
 lang: it-IT
 tags: ["videogiochi"]
 date: 2021-03-14

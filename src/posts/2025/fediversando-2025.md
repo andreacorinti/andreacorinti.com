@@ -3,7 +3,7 @@ layout: postita
 title: "Fediversando nel 2025"
 subtitle: "dopo 5 anni (di cui 3 attivi)"
 sommario: "Per caso poco fa ho notato che il mio attuale account su mastodon.social ha da poco compiuto 5 anni, quindi mi pareva una buona scusa per anticipare un po' il mio solito bilancio annuale e ragionare un po' sull'esperienza fediversica contemporanea"
-immagine: https://upload.wikimedia.org/wikipedia/commons/b/bd/Brown-throated_sloth_on_tree.jpg
+immagine: /img/archivio/internet/fediversando-2025-cover.jpg
 tags: ["internet"]
 date: 2025-10-30
 lang: it-IT

@@ -5,7 +5,7 @@ subtitle: Linux MultiMedia Studio
 sommario: "Chi s'interessa di produzione musicale conoscerà più o meno bene Ableton Live, Ardour, FL Studio..."
 tags: ["musica"]
 date: 2019-04-01
-immagine: https://www.andreacorinti.com/img/lmms.jpg
+immagine: /img/archivio/musica/lmms-cover.jpg
 lang: it-IT
 ---
 
@@ -17,7 +17,7 @@ Tutti prodotti commerciali, software proprietario che offre i propri servigi die
 
 ## LMMS
 
-![LMMS](https://upload.wikimedia.org/wikipedia/commons/7/77/LMMS_1.0.0.png)
+![LMMS](/img/archivio/musica/lmms-1.jpg)
 
 Non tutti conoscono però **LMMS**, progetto totalmente libero (e quindi gratuito) partito nell'ormai lontano 2004 e ancora vivo e vegeto, qua a lottare assieme a noi.
 

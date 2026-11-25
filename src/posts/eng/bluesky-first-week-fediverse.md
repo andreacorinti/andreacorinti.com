@@ -7,7 +7,7 @@ sommario: "My first week really using Bluesky, a year after opening the account:
 immagine: /img/bluesky-first-week/mastodon-bridge-cover.jpg
 date: 2026-11-25
 lang: en-US
-bluesky: ""
+bluesky: "https://bsky.app/profile/andreacorinti.com/post/3n35ghkotzk2i"
 ---
 
 A few days ago I wrote about [Mastodon, Bluesky and the language problem](/posts/mastodon-bluesky-english/) and ended it with a half-baked idea, Italian on Mastodon and English on Bluesky... well, I actually did it!

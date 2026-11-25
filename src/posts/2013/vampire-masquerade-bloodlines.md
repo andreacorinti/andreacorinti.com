@@ -3,7 +3,7 @@ layout: postita
 title: "Vampire The Masquerade - Bloodlines"
 subtitle: "Retroxabbing d'annata"
 sommario: "Vampire: la Masquerade è uno dei più celebri giochi di ruolo cartacei di sempre, probabilmente secondo soltanto alla pietra miliare D&D..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/vampire-the-masquerade-bloodlines.jpg
+immagine: /img/archivio/videogiochi/vampire-masquerade-bloodlines-cover.jpg
 tags: ["videogiochi"]
 date: 2013-10-19
 lang: it-IT

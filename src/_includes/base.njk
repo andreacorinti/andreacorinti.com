@@ -51,8 +51,8 @@
     <link rel="alternate" hreflang="x-default" href="{{ itUrl }}" />
     {%- endif %}
     <link rel="icon" href="{{ '/favicon.png' | url }}" />
-    <link rel="preload" href="{{ '/fonts/teko.woff' | url }}" as="font" type="font/woff" crossorigin="anonymous">
-    <link href="{{ '/css/style.css' | url }}" rel="stylesheet" />
+    <link rel="preload" href="{{ '/fonts/teko.woff2' | url }}" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="{{ '/css/style.css' | url }}?v={% assetHash '/css/style.css' %}" rel="stylesheet" />
     <link href="https://mastodon.social/@Xabacadabra" rel="me">
     <link href="{{ meta.bluesky.profile }}" rel="me">
 
@@ -111,11 +111,14 @@
        post markdown), so these only need loading on post pages — not on
        every page site-wide (resume, about, homepage...). They also both
        depended on dompurify + font-awesome, previously loaded twice each
-       (once per widget) — real duplicate JS/CSS, now loaded once. #}
+       (once per widget) — real duplicate JS/CSS, now loaded once.
+       Font Awesome (nov. 2026) tolto del tutto: nessun widget usa più le
+       sue icone, era un CSS esterno bloccante caricato su ogni post. #}
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.4.1/purify.min.js" integrity="sha512-uHOKtSfJWScGmyyFr2O2+efpDx2nhwHU2v7MVeptzZoiC7bdF6Ny/CmZhN2AwIK1oCFiVQQ5DA/L9FSzyPNu6Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="module" src="../../../js/mastodon-comments.js"></script>
-    <script type="module" src="../../../js/misskey-comments.js"></script>
+    {%- if content and '<misskey-comments' in content %}
+    <script type="module" src="/js/misskey-comments.js"></script>{# solo dove serve #}
+    {%- endif %}
     {% if bluesky %}<script type="module" src="/js/bluesky-comments.js"></script>{% endif %}
     {% endif %}
 

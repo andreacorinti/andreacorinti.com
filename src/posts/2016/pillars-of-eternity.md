@@ -3,7 +3,7 @@ layout: postita
 title: "Pillars of Eternity"
 subtitle: "recensione"
 sommario: "Bene. è stato lungo è faticoso, ma finalmente ho terminato Pillars of Eternity, e credo di poterlo recensire come si deve."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/pillars-of-eternity.jpg
+immagine: /img/archivio/videogiochi/pillars-of-eternity-cover.jpg
 tags: ["videogiochi"]
 date: 2016-01-31
 lang: it-IT
@@ -80,7 +80,7 @@ Allo stesso modo, **l'innovativo sistema di reputazione (o meglio, di reputazion
 ## Planescape Avellone
 
 <figure>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Chris_Avellone.jpg" alt="pillars of eternity recensione">
+	<img src="/img/archivio/videogiochi/pillars-of-eternity-1.jpg" alt="pillars of eternity recensione">
 </figure>
 
 Sopra facevo presente due cose:

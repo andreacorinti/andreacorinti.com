@@ -3,7 +3,7 @@ layout: postita
 title: "Tuomas Holopainen - The Life and Times of Scrooge"
 subtitle: "Un disco su Zio Paperone dal leader dei Nightwish. Sì, avete letto bene"
 sommario: "Tuomas Holopainen è noto principalmente per essere un figo pazzesco: il tastierista / leader/ compositore/ anima / corepulsante dei Nightwish..."
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/the-life-and-times-of-scrooge.jpg
+immagine:  /img/archivio/musica/tuomas-paperone-cover.jpg
 tags: ["musica"]
 date: 2014-04-12
 lang: it-IT

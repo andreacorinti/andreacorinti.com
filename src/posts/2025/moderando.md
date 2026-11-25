@@ -3,7 +3,7 @@ layout: postita
 title: "Moderando s’impara?"
 subtitle: "Forse no"
 sommario: "Nell'ultimo fine settimana ho staccato dal social web (che nel mio caso significa Livello Segreto nel fediverso e Instagram nel bruttomondo)..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/7/73/Mobile-phone-426559_1920.jpg
+immagine: /img/archivio/internet/moderando-cover.jpg
 tags: ["internet"]
 date: 2025-01-12
 lang: it-IT
@@ -109,7 +109,7 @@ Che certo, è facile bloccare (o anche sfanculare) opinioni palesemente razziste
 
 ### Futuro
 
-![Vault-Boy](https://upload.wikimedia.org/wikipedia/en/6/61/Vault_Boy_artwork.png)
+![Vault-Boy](/img/archivio/internet/moderando-1.png)
 
 Spero che piccole comunità possano sopravvivere e un minimo prosperare, tipo Vault nelle postatomiche lande di _Fallout_. 
 

@@ -3,7 +3,7 @@ layout: postita
 title: "Perché il nuovo Ducktales è più bello dell'originale"
 subtitle: "Accio forconi!"
 sommario: "Al netto delle strizzate d'occhio alla pseudo-gioventù il reboot di Ducktales è davvero bello."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ducktales.jpg
+immagine: /img/archivio/film-serie/ducktales-reboot-cover.jpg
 tags: ["film-serie"]
 date: 2018-05-07
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Ottobre 2024"
 subtitle: "Lazer Club - A Summer Story"
 sommario: "Prima di tutto vorrei esordire con una menzione speciale in memoria del buon Paul Di'Anno..."
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/6293e2324b31d32b6a980977952e262d.jpg
+immagine: /img/archivio/musica/disco-del-mese-10-2024-cover.jpg
 tags: ["musica"]
 date: 2024-10-24
 lang: it-IT

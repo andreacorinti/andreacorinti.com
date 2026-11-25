@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Marzo 2025"
 subtitle: "S.V. - o forse no!"
 sommario: "Allora...questo marzo l'ho passato a zonzo per l'Italia e i pochi ascolti che mi sono concesso sono stati prevalentemente di dischi usciti già da un bel po'..."
-immagine: https://fluentslang.com/wp-content/uploads/2023/09/Boh-1125x675.jpg
+immagine: /img/archivio/musica/disco-del-mese-03-2025-cover.jpg
 tags: ["musica"]
 date: 2025-03-31
 lang: it-IT

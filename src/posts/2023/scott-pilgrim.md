@@ -3,7 +3,7 @@ layout: postita
 title: "Scott Pilgrim Takes Off visto da un non-fan di Scott Pilgrim"
 subtitle: "Ma che almeno un po' si è convertito"
 sommario: "Ok, visto che sotto la prenderò larga, partiamo dalle utili banalità. Scott Pilgrim Takes Off è delizioso e sorprendente."
-immagine: https://occ-0-784-778.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUiYFQ346CHvmnh-cRc8EO4F_LP7aI8ybcQz1vhaNzxCRVz-AWEOTr8r8ZGshNahxzci8pwJs4Da11h_ZaBRbXEMJATvyi1xe_QXk02tpdUy15uFrDx-6nR1.jpg?r=b2d 
+immagine: /img/archivio/film-serie/scott-pilgrim-cover.jpg 
 tags: ["film-serie"]
 date: 2023-11-26
 lang: it-IT
@@ -45,7 +45,7 @@ Ecco: io da lì sono già passato, e in realtà è stato un problemino...
 
 ## 2010: Scott Pilgrim vs. The World
 
-![Scott_Pilgrim_vs._the_World](https://upload.wikimedia.org/wikipedia/en/1/14/Scott_Pilgrim_vs._the_World_teaser.jpg)
+![Scott_Pilgrim_vs._the_World](/img/archivio/film-serie/scott-pilgrim-1.jpg)
 
 Quasi 14 anni fa (giusto cielo!) il film di Scott Pilgrim ebbe un impatto enorme negli ambienti nerd, diventando un vero e proprio fenomeno di culto a livello internazionale per tutta la "tribù". 
 
@@ -65,7 +65,7 @@ In più, ammetto di aver avuto più di qualche problema con il "mondo nerd" di c
 
 ## Il fumetto 
 
-![Scott-Pilgrim](https://upload.wikimedia.org/wikipedia/en/3/39/ScottPilgrim.jpg)
+![Scott-Pilgrim](/img/archivio/film-serie/scott-pilgrim-2.jpg)
 
 Ecco invece: _Takes Off_ mi è piaciuto talmente tanto che finalmente ho iniziato a leggere il fumetto pure io, trovandolo molto bello (meglio del film) **ma comunque lontano dai livelli che questa serie a mio parere raggiunge.**
 

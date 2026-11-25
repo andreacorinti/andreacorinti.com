@@ -3,7 +3,7 @@ layout: postita
 title: "Star Wars 7 - Il Risveglio della Forza"
 subtitle: "Recensione NO SPOILER"
 sommario: "Comincerò in modo brutale: Il Risveglio della Forza è la più..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/StarWars7RecensioneIlRisveglioDellaForza.jpg
+immagine: /img/archivio/film-serie/star-wars-7-il-risveglio-della-forza-cover.jpg
 tags: ["film-serie"]
 date: 2015-12-16
 lang: it-IT

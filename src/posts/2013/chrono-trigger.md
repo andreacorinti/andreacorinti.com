@@ -3,7 +3,7 @@ layout: postita
 title: "Chrono Trigger"
 subtitle: "Recensione"
 sommario: "Chrono Trigger è un po' gigione. Cioè, è il classico prodotto di stampo giapponese che viene narrato con toni leggeri e spensierati, pur presentando una storyline decisamente complessa..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ChronoTriggerRecensione.jpg
+immagine: /img/archivio/videogiochi/chrono-trigger-cover.jpg
 tags: ["videogiochi"]
 date: 2013-03-13
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Una veloce retrospettiva su Resident Evil"
 subtitle: "PULGARCITOOOOOOOO"
 sommario: "La saga di Resident Evil ha sempre rappresentato una delle mie lacune più imbarazzanti da videogiocatore. Fin da quando, 199X, provai il primo capitolo da amici e lo snobbai con una frase del tipo..."
-immagine: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0554b945aafc847d55f780f7968de00aafa968a3.600x338.jpg
+immagine: /img/archivio/videogiochi/resident-evil-cover.jpg
 tags: ["videogiochi"]
 date: 2025-10-20
 lang: it-IT
@@ -17,7 +17,7 @@ La saga di *Resident Evil* ha sempre rappresentato una delle mie lacune più imb
 
 ### I remake come seconda chance
 
-![logo umbrella](https://upload.wikimedia.org/wikipedia/commons/0/0e/Umbrella_Corporation_logo.svg)
+![logo umbrella](/img/archivio/videogiochi/resident-evil-1.svg)
 
 Nel tempo, ho sempre covato l’idea di riprovare con gli *Resident Evil* originali… ma non ce l’ho mai fatta. 
 
@@ -29,7 +29,7 @@ dopo un iniziale senso di smarrimento (e qualche capogiro da telecamera fissa), 
 
 ### Perché sono così belli?
 
-![screenshot da resident evil 2 remake](https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Resident_Evil_2_Remake_gameplay.png/375px-Resident_Evil_2_Remake_gameplay.png)
+![screenshot da resident evil 2 remake](/img/archivio/videogiochi/resident-evil-2.jpg)
 
 A ben guardare, la mia opinione da ragazzino non era del tutto fuori strada. 
 
@@ -41,7 +41,7 @@ Detto questo, proprio questa tamarraggine a me piace un sacco e, mai come in que
 
 ### Gli originali sono meglio?
 
-![screenshot di Resident Evil 1](https://upload.wikimedia.org/wikipedia/it/4/45/RE1_screen.jpg)
+![screenshot di Resident Evil 1](/img/archivio/videogiochi/resident-evil-3.jpg)
 
 Massimo rispetto per chi la pensa così.
 

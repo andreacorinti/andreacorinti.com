@@ -3,7 +3,7 @@ layout: postita
 title: "Di Mastodon Social e del concetto d'Istanza"
 subtitle: "fediversando"
 sommario: "Dopo un paio di giorni dalla mia migrazione da LS, direi che posso fare un attimo il punto sulla mia esperienza nella megaistanzona mastodon.social e sulle istanze in generale!"
-immagine: https://files.mastodon.social/site_uploads/files/000/000/001/@2x/57c12f441d083cde.png
+immagine: /img/archivio/internet/mastodon-social-cover.jpg
 tags: ["internet"]
 date: 2025-06-19
 lang: it-IT

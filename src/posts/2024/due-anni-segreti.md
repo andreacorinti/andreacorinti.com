@@ -3,7 +3,7 @@ layout: postita
 title: "Due anni segreti"
 subtitle: "secondo compleanno mastodontico"
 sommario: "Sono andato a rileggermi il post dell'anno scorso prima di buttare giù qualcosa: grossomodo, direi che quanto riportato resta valido anche oggi...con un minimo di disincanto in più, ammettiamolo."
-immagine: https://upload.wikimedia.org/wikipedia/commons/8/8f/Eo_circle_red_number-2.svg
+immagine: /img/archivio/xabologia/due-anni-segreti-cover.svg
 tags: ["xabologia"]
 date: 2024-11-21
 lang: it-IT

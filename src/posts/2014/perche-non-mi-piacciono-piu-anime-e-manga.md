@@ -3,7 +3,7 @@ layout: postita
 title: "Perché non mi piacciono più anime e manga?"
 subtitle: "Xabologia"
 sommario: "Non dovrei scrivere queste cose, ma l'occasione è ghiotta, la bile è tanta..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/non-mi-piacciono-anime-manga.jpg
+immagine: /img/archivio/film-serie/perche-non-mi-piacciono-piu-anime-e-manga-cover.jpg
 tags: ["film-serie"]
 date: 2014-05-11
 lang: it-IT

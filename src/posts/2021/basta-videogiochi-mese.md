@@ -3,7 +3,7 @@ layout: postita
 title: "Valheim - #Basta Videogiochi - Un mese dopo"
 subtitle: "Valheim, amore odio"
 sommario: "Valheim, amore odio"
-immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg
+immagine: /img/archivio/videogiochi/basta-videogiochi-mese-cover.jpg
 lang: it-IT
 tags: ["videogiochi"]
 date: 2021-04-13

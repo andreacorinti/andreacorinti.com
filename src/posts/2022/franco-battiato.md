@@ -3,7 +3,7 @@ layout: postita
 title: "Mi manca Franco Battiato"
 subtitle: "E temo mi mancherà sempre di più"
 sommario: "E temo mi mancherà sempre di più"
-immagine:  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Franco_Battiato_-_23_July_2010_-_05_%28cropped%29.jpg/388px-Franco_Battiato_-_23_July_2010_-_05_%28cropped%29.jpg
+immagine:  /img/archivio/musica/franco-battiato-cover.jpg
 tags: ["musica"]
 date: 2022-02-15
 lang: it-IT

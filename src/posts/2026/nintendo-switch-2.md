@@ -3,7 +3,7 @@ layout: postita
 title: "Switch 2 e il mio ritorno da Nintendo"
 subtitle: "Disclaimer: Questo post non è pagato da Nintendo (purtroppo)"
 sommario: "Lo scorso aprile ho comprato una Nintendo Switch 2. E sì, mentre lo scrivo mi sto dicendo da solo e sti cazzi?"
-immagine: https://upload.wikimedia.org/wikipedia/en/6/61/Supermushroom.png
+immagine: /img/archivio/videogiochi/nintendo-switch-2-cover.png
 tags: ["videogiochi"]
 date: 2026-07-03
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Final Fantasy VII Rebirth"
 subtitle: "Se guardandoti negli occhi / sapessi dirti basta / ti guarderei"
 sommario: "Accidenti com'è difficile tornare da queste parti!"
-immagine: https://fyre.cdn.sewest.net/ffvii-hub/6471442498774a5fd66555de/ff7_rebirth_tm_rgb_b-1--7rNyP7wHo.png?quality=85&width=1024
+immagine: /img/archivio/videogiochi/final-fantasy-vii-rebirth-cover.png
 tags: ["videogiochi"]
 date: 2024-03-07
 lang: it-IT

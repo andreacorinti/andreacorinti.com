@@ -3,7 +3,7 @@ layout: postita
 title: "Un anno segreto"
 subtitle: "Recap di un anno mastodontico"
 sommario: "Il tempo vola quando ti diverti, eh? Confesso, A me le ricorrenze non piacciono granché, ma riconosco quanto rappresentino un'ottima occasione per fare un bilancio per capire dov'ero, dove sono e dove sto andando (possibilmente non affanculo, anche se ogni tanto mi ci mando pure da solo)."
-immagine: https://cdn.masto.host/livellosegretoit/site_uploads/files/000/000/005/@1x/ae2c2ed79689631b.png 
+immagine: /img/archivio/xabologia/un-anno-segreto-cover.png 
 tags: ["xabologia"]
 date: 2023-11-21
 lang: it-IT
@@ -47,7 +47,7 @@ Detto questo, preciso che leggere alcuni account di M1 mi piace molto (ad esempi
 
 ## Livello Segreto
 
-![livello-segreto](https://cdn.masto.host/livellosegretoit/site_uploads/files/000/000/005/@1x/ae2c2ed79689631b.png)
+![livello-segreto](/img/archivio/xabologia/un-anno-segreto-cover.png)
 
 Ebbene, **questo aspetto comunitario l'ho trovato proprio su Livello Segreto.**
 

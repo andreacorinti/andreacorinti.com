@@ -5,7 +5,7 @@ subtitle: "Altrimenti detto David Cage Begins."
 tags: ["videogiochi"]
 date: 2013-11-21
 sommario: Altrimenti detto David Cage Begins
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/beyond-due-anime.jpg
+immagine: /img/archivio/videogiochi/beyond-due-anime-cover.jpg
 lang: it-IT
 ---
 

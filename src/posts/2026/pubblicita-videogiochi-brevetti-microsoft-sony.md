@@ -3,7 +3,7 @@ layout: postita
 title: "Pubblicità nei videogiochi: i brevetti di Microsoft e Sony e il futuro dei blockbuster"
 subtitle: "ragionamenti a caso su un settore giovanissimo e già vecchio dentro"
 sommario: "Tra il brevetto Microsoft per la pubblicità dopo i boss fight e quello Sony per pagare avvicinando la carta di credito al controller, quanto si sta mercificando il mondo videoludico?"
-immagine: https://upload.wikimedia.org/wikipedia/commons/6/6a/American_Classic_Arcade_Museum_Interior.jpg
+immagine: /img/archivio/videogiochi/pubblicita-videogiochi-brevetti-microsoft-sony-cover.jpg
 tags: ["videogiochi"]
 date: 2026-09-25
 lang: it-IT
@@ -28,7 +28,7 @@ Perché sì, sono solo brevetti e non è il caso di fare troppo allarmismo (ne d
 
 ### Il settore d'intrattenimento che urlò amore nel cuore del mondo
 
-![Shinji Ikari](https://upload.wikimedia.org/wikipedia/it/c/ca/Shinji_Ikari.jpg)
+![Shinji Ikari](/img/archivio/videogiochi/pubblicita-videogiochi-brevetti-microsoft-sony-1.jpg)
 
 _Sì, per qualche motivo m'è tornato in mente Evangelion_
 
@@ -76,7 +76,7 @@ Certo, ci sarà il prossimo GTA 6, d'accordo, ma poi?
 
 Con budget e tempi di sviluppo che continuano a lievitare, con la pubblicità che entra pure dentro le boss fight e col controller che diventa un POS, viene da chiedersi se questo tipo di videogioco - quello capace di segnare un'intera generazione e di diventare un fenomeno culturale trasversale - potrà davvero continuare a esistere così com'è. 
 
-![Cast di Final Fantasy VII](https://upload.wikimedia.org/wikipedia/en/8/8c/FFVIInomuracastdesigns.JPG)
+![Cast di Final Fantasy VII](/img/archivio/videogiochi/final-fantasy-vii-remake-2-1.jpg)
 
 _Il cast di Final Fantasy VII. Eh oh, come fai a non pensare a lui?_
 

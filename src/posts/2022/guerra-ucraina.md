@@ -3,7 +3,7 @@ layout: postita
 title: "La guerra tra Russia e Ucraina"
 subtitle: ""
 sommario: "Scrivo due righe su quest'argomento per mero egoismo: mi piace rivedere i miei vecchi post e collegarli a qualcosa che stava succedendo in un dato periodo."
-immagine: https://i.pinimg.com/originals/dc/1d/33/dc1d33763f8267e7bdd3a031782598f6.jpg 
+immagine: /img/archivio/xabologia/guerra-ucraina-cover.jpg 
 tags: ["xabologia"]
 date: 2022-02-25
 lang: it-IT

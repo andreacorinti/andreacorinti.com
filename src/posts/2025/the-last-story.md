@@ -3,7 +3,7 @@ layout: postita
 title: "The Last Story - Retrospettiva"
 subtitle: "Un figliol prodigo, ma anche un prodigio"
 sommario: "Dopo giusto quella decina di anni, fedele allo spirito del #BacklogPass, ho finalmente deciso di colmare una delle varie lacune che mi porto dietro da troppo tempo..."
-immagine: https://upload.wikimedia.org/wikipedia/en/d/d8/Last_Story_Box_Art.jpg
+immagine: /img/archivio/videogiochi/the-last-story-cover.jpg
 lang: it-IT
 tags: ["videogiochi"]
 date: 2025-01-08
@@ -55,7 +55,7 @@ Buona parte di quel team è ancora in Square Enix (principalmente Kitase e Nomur
 
 ### Mistwalker 
 
-![mistwalker](https://upload.wikimedia.org/wikipedia/en/2/2a/Mistwalker_logo.jpg)
+![mistwalker](/img/archivio/videogiochi/the-last-story-1.jpg)
 
 Ora, parlare di Mistwalker nel dettaglio è un discorso molto lungo ma direi che possiamo senz'altro dire che è una compagnia: 
 

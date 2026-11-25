@@ -3,7 +3,7 @@ layout: postita
 title: "Poets of the Fall in Italia [2015]"
 subtitle: "Resoconto del concerto a Trezzo"
 sommario: "L'acustica forse forse non delle migliori, il pubblico poco (ma buono, diciamocelo da soli: di quelli che sanno farsi sentire)..."
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/poetsofthefallitalia.jpg
+immagine:  /img/archivio/musica/poets-of-the-fall-in-italia-resoconto-cover.jpg
 tags: ["musica"]
 date: 2015-05-29
 lang: it-IT

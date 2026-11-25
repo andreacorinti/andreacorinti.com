@@ -3,7 +3,7 @@ layout: postita
 title: "La Legacy di Akira Toriyama"
 subtitle: "Fushigi na yume o mi ni yukouuuuuuuu"
 sommario: "Ho aspettato un po' prima di metabolizzare la morte di Akira Toriyama e scriverne qui."
-immagine: https://upload.wikimedia.org/wikipedia/commons/a/a9/Akira_Toriyama_Signature.jpg
+immagine: /img/archivio/film-serie/toriyama-legacy-cover.jpg
 tags: ["film-serie"]
 date: 2024-04-04
 lang: it-IT

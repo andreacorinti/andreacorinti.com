@@ -3,7 +3,7 @@ layout: postita
 title: "Preparandosi a bloggare nel 2026"
 subtitle: "Se vi state chiedendo perché c'è Selphie qui sopra, o non avete giocato a Final Fantasy VIII oppure l'avete fatto in modo distratto."
 sommario: "Ciciclicamente torno a cianciare sul tema blog (d'altronde su un blog stiamo, oh!) e, considerando che ridendo e scherzando da queste parti faccio mediamente almeno una trentina di post l'anno"
-immagine: https://ff8isthe.best/wp-content/uploads/2024/02/final-fantasy-8-selphie.jpg
+immagine: /img/archivio/xabologia/bloggare-cover.jpg
 tags: ["xabologia"]
 date: 2025-11-05
 lang: it-IT

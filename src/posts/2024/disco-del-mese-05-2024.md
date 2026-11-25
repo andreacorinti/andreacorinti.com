@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Maggio 2024"
 subtitle: "Sebastian Bach - Child Within the Man"
 sommario: "Lo so, sono retorico"
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/b5752449adef4b76bc0f4e5421b41c97.jpg#b5752449adef4b76bc0f4e5421b41c97
+immagine: /img/archivio/musica/disco-del-mese-05-2024-cover.jpg
 tags: ["musica"]
 date: 2024-05-24
 lang: it-IT

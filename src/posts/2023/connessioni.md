@@ -3,7 +3,7 @@ layout: postita
 title: "Connessioni - da Kojima a Uspenskij, con in mezzo Summer Time Rendering"
 subtitle: "Connessi dal gene del talento"
 sommario: "Questo è un post particolare, che vuole in breve spiegare quanto le connessioni, i collegamenti, o meglio i meme nel senso propriamente detto (e di cui non per niente proprio Hideo Kojima ha parlato nel suo libro)..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/4/41/Sistema_hipertextual.jpg
+immagine: /img/archivio/videogiochi/connessioni-cover.jpg
 tags: ["videogiochi"]
 date: 2023-08-01
 lang: it-IT
@@ -13,13 +13,13 @@ Questo è un post particolare, che vuole in breve spiegare quanto le connessioni
 
 ## 1 - Hideo Kojima
 
-![hideo-kojima](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hideo_Kojima_na_Brasil_Game_Show_2017.jpg/1920px-Hideo_Kojima_na_Brasil_Game_Show_2017.jpg)
+![hideo-kojima](/img/archivio/videogiochi/connessioni-1.jpg)
 
 Sono cresciuto con _Metal Gear Solid_, ho amato _Death Stranding_ e, prima di smettere di utilizzarlo, seguivo con interesse la miriade di post che il buon zio Kojima smitraglia su instagram / twitter.
 
 ## 2 - Summer Time Rendering 
 
-![summer-time-rendering](https://upload.wikimedia.org/wikipedia/en/f/f2/Summer_Time_Rendering_key_visual.png)
+![summer-time-rendering](/img/archivio/videogiochi/connessioni-2.jpg)
 
 Attirato da [uno di questi post](https://www.instagram.com/p/CryIhBgSPMP/) e lo stile di disegno dell'anime proposto, mi sono andato a cercare questo Summer Time Rendering: 
 
@@ -31,7 +31,7 @@ Proprio a ridosso delle ultime puntate (nessuno spoiler, tranquilli) viene più 
 
 ## 3 - La strana vita di Ivan Osokin
 
-![la-strana-vita-di-ivan-osokin](https://upload.wikimedia.org/wikipedia/en/8/85/Strange_Life_of_Ivan_Osokin%2C_a_novel_by_P._D._Ouspensky.jpg)
+![la-strana-vita-di-ivan-osokin](/img/archivio/videogiochi/connessioni-3.jpg)
 
 ...ovviamente, finito l'anime, ho deciso di recuperarlo immediatamente come lettura "leggera" da alternare all'Iliade (si, è un periodo di letture easy, che ci volete fare?)
 
@@ -51,7 +51,7 @@ L'autore del romanzo è stato un personaggio incrediiblmente interessante: filos
 
 ## 5 - Georges Ivanovič Gurdjieff
 
-![gurdjieff](https://upload.wikimedia.org/wikipedia/commons/c/cd/Georges_Gurdjieff.jpg)
+![gurdjieff](/img/archivio/videogiochi/connessioni-5.jpg)
 
 ...che ho scoperto aver interessato un numero incredibile di personalità più o meno illustri, stando a wikipedia compreso per esempio il mai troppo compianto **Franco Battiato**.
 

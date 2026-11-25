@@ -3,7 +3,7 @@ layout: postita
 title: "Distant Worlds - Milano"
 subtitle: Resoconto del primo concerto in Italia
 sommario: Anticipo da subito che questo resoconto è una faccenda parecchio personale...
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/distant-worlds.jpg
+immagine: /img/archivio/musica/distant-worlds-milano-cover.jpg
 tags: ["musica"]
 date: 2017-05-13
 lang: it-IT

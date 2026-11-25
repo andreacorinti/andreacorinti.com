@@ -83,8 +83,18 @@
   # year-long immutable cache is safe. CSS/JS are deliberately excluded:
   # they keep the same filename across deploys (no content hash), so a
   # long cache there would serve stale styles/scripts until it expires.
+  # (CSS: ora ha l'impronta ?v=, vedi più sotto.)
   [[headers]]
     for = "/fonts/*"
+    [headers.values]
+      Cache-Control = "public, max-age=31536000, immutable"
+
+  # style.css è richiamato con un'impronta del contenuto (?v=<hash>, shortcode
+  # assetHash in .eleventy.js): ogni modifica cambia l'URL, quindi può stare
+  # in cache un anno. I JS restano senza cache lunga: i moduli dei commenti
+  # si importano a vicenda senza impronta.
+  [[headers]]
+    for = "/css/*"
     [headers.values]
       Cache-Control = "public, max-age=31536000, immutable"
 

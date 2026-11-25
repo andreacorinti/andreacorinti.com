@@ -3,7 +3,7 @@ layout: postita
 title: "Postumi del Referendum Giustizia 2026"
 subtitle: "(Sì, questo è il No di Pedro in Excel Saga)"
 sommario: "Era da parecchio che non mettevo qualcosa di politico su questo blog: come scritto in passato, nutro un certo senso di disgusto e disaffezione per la materia..."
-immagine: https://i.ytimg.com/vi/lP5lpNJcgg0/mqdefault.jpg
+immagine: /img/archivio/xabologia/referendum-2026-cover.jpg
 tags: ["xabologia"]
 date: 2026-03-25
 lang: it-IT

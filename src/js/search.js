@@ -14,20 +14,33 @@ document.addEventListener("DOMContentLoaded", () => {
   const MAX_RESULTS = 20;
   const MIN_QUERY_LENGTH = 2;
 
-  fetch("/search-index.json")
-    .then((response) => response.json())
-    .then((data) => {
-      const indexed = [...data].reverse().map((post) => ({
-        ...post,
-        _title: normalize(post.title || ""),
-        _excerpt: normalize(post.excerpt || ""),
-      }));
+  // L'indice (~75 KB) si scarica solo alla prima interazione con la ricerca
+  // (focus, tocco o digitazione), non a ogni pagina visitata.
+  let indexed = null;
+  let loading = null;
+  const loadIndex = () => {
+    if (!loading) {
+      loading = fetch("/search-index.json")
+        .then((response) => response.json())
+        .then((data) => {
+          indexed = [...data].reverse().map((post) => ({
+            ...post,
+            _title: normalize(post.title || ""),
+            _excerpt: normalize(post.excerpt || ""),
+          }));
+        });
+    }
+    return loading;
+  };
+  ["focus", "pointerdown"].forEach((evt) =>
+    searchInput.addEventListener(evt, loadIndex, { once: true })
+  );
 
-      let debounceTimer;
-      searchInput.addEventListener("input", () => {
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(() => runSearch(), 120);
-      });
+  let debounceTimer;
+  searchInput.addEventListener("input", () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => loadIndex().then(runSearch), 120);
+  });
 
       function runSearch() {
         const query = normalize(searchInput.value.trim());
@@ -74,5 +87,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
         searchResults.style.display = results.length > 0 ? "block" : "none";
       }
-    });
 });

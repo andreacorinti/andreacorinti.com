@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Luglio 2025"
 subtitle: "Wytch Hazel – V: Lamentation"
 sommario: "Luglio sorprendentemente ricco per essere stato così mortalmente torrido e incasinato..."
-immagine: https://f4.bcbits.com/img/a1080587281_16.jpg
+immagine: /img/archivio/musica/disco-del-mese-07-2025-cover.jpg
 tags: ["musica"]
 date: 2025-07-20
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Final Fantasy VII Remake"
 subtitle: "Ma non so spiegarti / Che il nostro amore appena nato / È già finito"
 sommario: "Se Stairway to Heaven uscisse domani, sarebbe la Stairway to Heaven che conosciamo? No"
-immagine:  https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Final_Fantasy_VII_Remake_logo.PNG/1024px-Final_Fantasy_VII_Remake_logo.PNG
+immagine:  /img/archivio/videogiochi/final-fantasy-vii-remake-2-cover.jpg
 tags: ["videogiochi"]
 date: 2020-04-14
 lang: it-IT
@@ -27,7 +27,7 @@ Siccome immagino che l'algoritmo di Google sia molto confuso al momento (sperand
 
 ## Recap
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/8c/FFVIInomuracastdesigns.JPG" alt="Final_Fantasy_VII">
+<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-1.jpg" alt="Final_Fantasy_VII">
 
 Come ne scrissi tempo fa rapportandolo ad [Akira](/posts/akira-e-final-fantasy-vii/), **il Final Fantasy VII originale rappresentò uno sforzo economico devastante**, con ogni probabilità non più replicabile:
 
@@ -43,7 +43,7 @@ Un vero e proprio _all in_, una scommessa che avrebbe potuto benissimo risolvers
 
 ## Epoca
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PSX-Console-wController.jpg/1280px-PSX-Console-wController.jpg" alt="PlayStation">
+<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-2.jpg" alt="PlayStation">
 
 In tutto questo, **il mondo del videogame è agli albori del fenomeno PlayStation e alla vivace scoperta del 3D** che, tornando alle mie metafore musicali, possiamo benissimo rapportare all'avvento della Fender Stratocaster nel 1954.
 
@@ -55,7 +55,7 @@ Un cuore figlio di tutto il suo illustre passato, i piedi ben piantati nel prese
 
 ## Remake 
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/00/Final_Fantasy_VII_Remake_gameplay_screenshot.png" alt="Final_Fantasy_VII_Remake_gameplay_screenshot">
+<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-3.jpg" alt="Final_Fantasy_VII_Remake_gameplay_screenshot">
 
 Ora: nei fatti il Remake non è nemmeno la stessa identica canzone, ma una bella cover.
 

@@ -3,7 +3,7 @@ layout: postita
 title: "Sanremo 2013"
 subtitle: ""
 sommario: "Perché si, si, LO SO che è uno spreco di soldi, che gli intrallazzi politico-televisivi palesi o nascosti......"
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/sanremo2013.jpg
+immagine:  /img/archivio/musica/sanremo-2013-cover.jpg
 tags: ["musica"]
 date: 2013-02-16
 lang: it-IT

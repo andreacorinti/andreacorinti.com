@@ -3,7 +3,7 @@ layout: postita
 title: "The Legend of Zelda: Ocarina of Time Remake - Prime impressioni"
 subtitle: "Confessioni di un fan dell'ultima ora"
 sommario: "Il remake di Ocarina of Time mi ha steso: due minuti di trailer e mi sono ritrovato a fare un ripasso della mia storia (tutt'altro che ortodossa) con la saga di Zelda."
-immagine: https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/Marketing2/3OKTBMay01784158342jwugZ3wp08zzZXCWrPOIiyNS7pQz0fYoQD300Z0LrEbNS/intro/intro-keyart-large-up
+immagine: /img/archivio/videogiochi/remake-zelda-ocarina-of-time-cover.jpg
 tags: ["videogiochi"]
 date: 2026-09-09
 lang: it-IT

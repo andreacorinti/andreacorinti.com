@@ -3,7 +3,7 @@ layout: postita
 title: "Ciao Xabacadabra"
 subtitle: "Xabologia"
 sommario: "Ricordatevi di prendere le vostre cose prima di scendere!"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/teaser-default.jpg
+immagine: /img/archivio/xabologia/ciao-xabacadabra-cover.jpg
 tags: ["xabologia"]
 date: 2018-06-10
 lang: it-IT

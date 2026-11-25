@@ -40,7 +40,7 @@ Potrà sembrare un dettaglio da poco eh, ma per fare un esempio la fotografia de
 
 ## In definitiva
 
-![sandman-fumetto](/img/sandman4.jpg)
+![sandman-fumetto](/img/Sandman4.jpg)
 
 Impressione tutto sommato positiva, meglio delle mie tiepide aspettative, se lo vedrò tutto magari lascerò qualche altro appunto da queste parti.
 

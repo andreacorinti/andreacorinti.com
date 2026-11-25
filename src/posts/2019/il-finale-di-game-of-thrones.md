@@ -3,7 +3,7 @@ layout: postita
 title: "Il finale di Game of Thrones"
 subtitle: "Attenzione: questo post contiene SPOILER."
 sommario: "Game of Thrones è uno dei pochi memorabili lasciti di un’epoca priva di memoria e perennemente schiacciata sull’oggi."
-immagine: https://cdn-images-1.medium.com/max/800/0*TyGtUVTwrnagOpie.jpg
+immagine: /img/archivio/film-serie/il-finale-di-game-of-thrones-cover.jpg
 tags: ["film-serie"]
 date: 2019-05-20
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Final Fantasy VII - Advent Children"
 subtitle: "Storia di un amore deluso"
 sommario: "Prima di tutto la verità: Advent Children è un pessimo film. Ma questa, intendiamoci, è la verità del senno di poi."
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images//final-fantasy-vii-advent-children.jpg
+immagine:  /img/archivio/film-serie/final-fantasy-vii-advent-children-cover.jpg
 tags: ["film-serie"]
 date: 2016-11-08
 lang: it-IT
@@ -24,7 +24,7 @@ Inizio portando un po' d'esperienza personale.
 Nel **2005**, mentre alcuni fortunelli poterono godere della proiezione in quel di Mestre, io vivevo ancora in Argentina e stavo allegramente impazzendo.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/mar-del-plata.jpg" alt="Mar del plata">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-1.jpg" alt="Mar del plata">
 </figure>
 
 _Buscando Locutorios en Mar del Plata. Presa da google maps perché non trovo foto decenti della zona urbana_
@@ -110,7 +110,7 @@ Averlo amato in quel modo lì **non significa certo che il film mi fosse _piaciu
 Intanto c'avevo capito molto poco, e **molte scene già m'irritavano terribilmente.**
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/sephirothpaff.jpg" alt="Sephiroth Paff">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-2.jpg" alt="Sephiroth Paff">
 </figure>
 
 _Soprattutto questa..._
@@ -118,7 +118,7 @@ _Soprattutto questa..._
 Poi, il fatto che tale **Denzel** avesse più spazio del gruppo originale, che **Reno e Rude** fossero ridotti a mere macchiette e che tutto trasparisse così mestamente serio, buio e desaturato mi diede subito da pensare.[^reno]
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/reno.jpg" alt="Reno">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-3.jpg" alt="Reno">
 </figure>
 
 _Oh certo, simpaticissimo sogno bagnato delle ragazzine. Un Jack Sparrow giappo. ANDATE A DIRLO A WEDGE, JESSE, BIGGS E TUTTI GLI ABITANTI DEL SETTORE 7, STRONZI_
@@ -130,7 +130,7 @@ C'era qualcosa che non andava...
 Ma [questa scena](https://www.youtube.com/embed/bp-UgLklPfA"), effettivamente splendida (forse l'unica che salvo ancora oggi) ti faceva dimenticare di tutto.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/bahamut.jpg" alt="Bahamut">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-4.jpg" alt="Bahamut">
 </figure>
 
 _Meno il fatto che questo al massimo è il Bahamut di FFX, INFAMI BASTARDI!_
@@ -138,7 +138,7 @@ _Meno il fatto che questo al massimo è il Bahamut di FFX, INFAMI BASTARDI!_
 Giocava col tuo cuore, questo Advent Children.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/Aerith.png" alt="Aerith">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-5.jpg" alt="Aerith">
 </figure>
 
 E il guaio è che, beh, **non lo faceva manco tanto bene.**
@@ -150,7 +150,7 @@ Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilati
 Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialoghi nebulosi e le spiegazioni farlocche.**
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/seph.png" alt="Sephiroth">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-6.jpg" alt="Sephiroth">
 </figure>
 
 È allora che ti senti ingannato e tradito, rivedendolo.
@@ -160,7 +160,7 @@ Quando realizzi che, in fin dei conti, **i destinatari di quell'amore avrebbero 
 Ma anche che, con un regista diverso da **Tetsuya Nomura** ed un insostenibile passaggio di testimone in meno, **forse forse Advent Children avrebbe pure potuto tenere botta.**
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/advent-children/cloudtelefonocasa.jpg" alt="Cloud telefono casa">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-7.jpg" alt="Cloud telefono casa">
 </figure>
 
 (Forse.)

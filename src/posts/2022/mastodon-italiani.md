@@ -23,7 +23,7 @@ specifico inoltre **che il sondaggio era aperto a tutta l'utenza italofona**, qu
 
 A prima vista potrebbero sembrare campate in aria, ma mi sono basato sulle [generazioni culturali](https://it.wikipedia.org/wiki/Template:Generazioni_culturali) ormai arcinote a tutti:
 
-<a title="Cmglee, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Generation_timeline.svg"><img width="512" alt="Generation timeline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Generation_timeline.svg/512px-Generation_timeline.svg.png"></a>
+<a title="Cmglee, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Generation_timeline.svg"><img width="512" alt="Generation timeline" src="/img/archivio/internet/mastodon-italiani-1.svg"></a>
 
 ## Gli esiti italici
 

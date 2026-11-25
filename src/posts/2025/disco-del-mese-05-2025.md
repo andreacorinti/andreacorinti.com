@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Maggio 2025"
 subtitle: "Lorien Testard -  Clair Obscur: Expedition 33 (Original Soundtrack)"
 sommario: "In realtà questa colonna sonora è uscita a fine aprile, ma beh..."
-immagine: https://f4.bcbits.com/img/a4264606296_16.jpg
+immagine: /img/archivio/musica/disco-del-mese-05-2025-cover.jpg
 tags: ["musica"]
 date: 2025-05-23
 lang: it-IT

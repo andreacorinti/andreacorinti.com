@@ -3,7 +3,7 @@ layout: postita
 title: "La Lezione di Vikings"
 subtitle: "Il tempo come strumento narrativo"
 sommario: "Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno della quarta stagione."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/vikings.jpg
+immagine: /img/archivio/film-serie/serie-tv-vikings-cover.jpg
 tags: ["film-serie"]
 date: 2017-01-08
 lang: it-IT

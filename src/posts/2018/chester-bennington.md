@@ -5,7 +5,7 @@ subtitle: "E di come fu la rabbia del 2000"
 tags: ["musica"]
 date: 2018-03-24
 sommario: Tra queste pagine digitali ho trattato alcuni lutti importanti, compreso quello di Chris Cornell...
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/chester-bennington.jpg
+immagine: /img/archivio/musica/chester-bennington-cover.jpg
 lang: it-IT
 ---
 
@@ -47,7 +47,7 @@ Perché quando ero ragazzino facevo mezzo-parte della **chiusissima scena metal 
 
 E badate bene:
 
-![rock-tv](https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Rock_TV_logo.jpg/220px-Rock_TV_logo.jpg)
+![rock-tv](/img/archivio/musica/chester-bennington-1.jpg)
 
 <small>Rock Tv era roba _"da ricchi"_ che avevano Tele+ / Sky</small>
 

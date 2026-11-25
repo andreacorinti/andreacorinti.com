@@ -3,7 +3,7 @@ layout: postita
 title: "Reach"
 subtitle: "Walking on the beaches looking at the peaches"
 sommario: "Questo post mi è stato ispirato da un leggero alterco saltato fuori su Livello Segreto, partito dal discorso fatto da Archimed3 e altr* riguardo il limite di 500 caratteri vigente nell'istanza..."
-immagine: https://cdn.gelestatic.it/kataweb/tvzap/2013/07/00650.jpg
+immagine: /img/archivio/xabologia/reach-cover.jpg
 tags: ["xabologia"]
 date: 2025-01-17
 lang: it-IT
@@ -15,7 +15,7 @@ Questo post mi è stato ispirato da un leggero alterco saltato fuori su Livello 
 
 ### Di Blog, siti web e altre anticaglie 
 
-![Link della Nintendo](https://upload.wikimedia.org/wikipedia/commons/b/b6/InkedGame_On_characters_by_Monaux_%28cropped_on_Link%29.jpg)
+![Link della Nintendo](/img/archivio/xabologia/reach-1.jpg)
 
 In quello che io chiamo "Web 1.5" i link erano tutto.
 
@@ -25,7 +25,7 @@ Mediamente, i contesti sociali come i soliti forum (arieccoli) aiutavano e ampli
 
 ### I soliti villain
 
-![Zuckerberg nel 2005](https://upload.wikimedia.org/wikipedia/commons/f/fc/MarkZuckerberg-crop.jpg)
+![Zuckerberg nel 2005](/img/archivio/xabologia/reach-2.jpg)
 
 Con Facebook e parenti 'sta cosa è morta poiché, come saprete, questi social sono strutturati in modo **chiuso**, sabotando intenzionalmente tramite i propri algoritmi tutto ciò che può portare l'utenza _fuori_ da loro, stimolando così il proprio traffico interno.
 
@@ -33,7 +33,7 @@ Tra le altre cose, in ambito professionale è quello che ha portato parecchie az
 
 ### Enter The Fediverse
 
-![enter-the-matrix](https://upload.wikimedia.org/wikipedia/en/9/9c/Enter_the_Matrix_Coverart.png)
+![enter-the-matrix](/img/archivio/xabologia/reach-3.jpg)
 
 Il fediverso, da questo punto di vista, rappresenta uno splendido ritorno al passato: 
 
@@ -63,7 +63,7 @@ Non ci guadagno nulla, **scrivo perché mi diverte e mi fa stare bene**, e non �
 
 ### Tematiche
 
-![Neuromancer](https://upload.wikimedia.org/wikipedia/en/c/c3/Neuromancer_Brazilian_cover.jpg)
+![Neuromancer](/img/archivio/xabologia/reach-4.jpg)
 
 Posso dirmi complessivamente molto contento, e da qualche mese ho notato un paio di aspetti interessanti: 
 
@@ -89,7 +89,7 @@ E beh, prendendomi ad esempio ho effettivamente notato che **io per primo sul te
 
 ### Il problema dei videogiochi
 
-![Super Mario Bros](https://upload.wikimedia.org/wikipedia/en/5/50/NES_Super_Mario_Bros.png)
+![Super Mario Bros](/img/archivio/xabologia/reach-5.jpg)
 
 Vi risparmio la solita definizione riguardo la varietà dell'insieme videogioco e il ragionamento tofu-tiramisù che ho scritto in _Giochi Troppo!_, anche se credo sia sempre un elemento cruciale.
 
@@ -124,7 +124,7 @@ Insomma, come insegna il buon Manuel Agnelli, mi sento _nato per rompere i cogli
 
 ### E quindi?
 
-![Snoqualmie_Falls_in_June](https://upload.wikimedia.org/wikipedia/commons/f/fe/Snoqualmie_Falls_in_June_2008.JPG)
+![Snoqualmie_Falls_in_June](/img/archivio/xabologia/reach-6.jpg)
 
 E quindi, tutto questo credo spieghi come mai ci siano meno interazioni legate al mondo videoludico rispetto a quelle con post riguardo boh, a politica o fatti di cronaca, specialmente quando ci sono eventi eccezionali di mezzo: 
 

@@ -3,7 +3,7 @@ layout: postita
 title: "Perché ho mollato Elden Ring"
 subtitle: "e i Souls in generale"
 sommario: "Ho iniziato questo post più di un anno fa, ma per qualche motivo non sono mai riuscito a riprenderlo in mano...oggi ci riprovo, sperando di non metterci troppe castronerie!"
-immagine: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_510a02cf3045e841e180f2b77fb87545e0c8b59d.600x338.jpg
+immagine: /img/archivio/videogiochi/elden-ring-cover.jpg
 tags: ["videogiochi"]
 date: 2024-12-06
 lang: it-IT
@@ -27,7 +27,7 @@ Eppure, per il giocatore che sono oggi, mi tocca ammettere che un mondo così ap
 
 ### Open World 
 
-![Morrowind](https://upload.wikimedia.org/wikipedia/en/a/a0/Morrowind1.jpg)
+![Morrowind](/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-2.jpg)
 
 > You N'wah!
 
@@ -41,7 +41,7 @@ Nei titoli Bethesda, ad esempio, amavo creare background per i miei personaggi, 
 
 ### Souls
 
-![souls](https://upload.wikimedia.org/wikipedia/en/7/7c/Darksoulsbattle.jpg)
+![souls](/img/archivio/videogiochi/elden-ring-2.jpg)
 
 Il mio primo incontro con *Dark Souls 1* su PlayStation 3 fu traumatico. Perso nella Città Infame con un'arma a base di fuoco e Queelag in agguato, fui costretto a mettere in pausa il gioco.  
 

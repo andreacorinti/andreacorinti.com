@@ -3,7 +3,7 @@ layout: postita
 title: "Il mio problema con Palworld"
 subtitle: "Da leggere con calma please"
 sommario: "Partiamo col dire che la natura di Palworld non sarà il punto del mio post."
-immagine: https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg?t=1707904340
+immagine: /img/archivio/videogiochi/palworld-cover.jpg
 tags: ["videogiochi"]
 date: 2024-01-24
 lang: it-IT

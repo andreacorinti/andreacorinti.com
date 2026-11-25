@@ -3,7 +3,7 @@ layout: postita
 title: "Sagra IndieWeb 2026 - Aprile"
 subtitle: "Sovranità digitale"
 sommario: "Quarto appuntamento della Sagra, con il tema Sovranità Digitale scelto da Gilberto"
-immagine: https://upload.wikimedia.org/wikipedia/en/7/77/Heretics_of_Dune_cover-Sandworm_%26_Sheeana.jpg
+immagine: /img/archivio/internet/sagra-indie-web-2026-04-cover.jpg
 tags: ["internet"]
 date: 2026-04-13
 lang: it-IT

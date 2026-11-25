@@ -5,7 +5,7 @@ subtitle: "Grunge Nostrano"
 tags: ["musica"]
 date: 2017-02-27
 sommario: Gli Acid Muffin sono un power trio romano musicalmente figlio degli Stati Uniti degli anni '90, in particolar modo della (pseudo) definizione _grunge_, di casa a Seattle.
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/acid-muffin.jpg
+immagine: /img/archivio/musica/acid-muffin-cover.jpg
 lang: it-IT
 ---
 

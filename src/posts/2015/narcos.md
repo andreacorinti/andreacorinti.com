@@ -3,7 +3,7 @@ layout: postita
 title: "Narcos"
 subtitle: "Recensione S1"
 sommario: "Una delle Serie TV / Crime Movie / Biografie più solide, intense e ben dirette che io abbia mai visto negli ultimi anni"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/narcos.jpg
+immagine: /img/archivio/film-serie/narcos-cover.jpg
 tags: ["film-serie"]
 date: 2015-11-29
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Back on Mastodon (per ora)"
 subtitle: "a volte ritornano"
 sommario: "ho deciso di chiudere la mia monoistanzina GoToSocial: mi ci sono trovato benissimo e credo sia stato un esperimento molto figo, ma diciamo che il mio problema è col fediverso nel complesso..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/0/04/Mammut_americanum_Sergiodlarosa.jpg
+immagine: /img/archivio/internet/back-on-mastodon-cover.jpg
 tags: ["internet"]
 date: 2025-09-04
 lang: it-IT

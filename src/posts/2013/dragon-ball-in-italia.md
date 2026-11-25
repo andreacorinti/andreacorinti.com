@@ -3,7 +3,7 @@ layout: postita
 title: "Dragon Ball in Italia"
 subtitle: "Barlafusi e pubblicità"
 sommario: "Esiste un'ancestrale domanda che ci si pone sin dalla fine di Non è la Rai..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/dragonballitalia.jpg
+immagine: /img/archivio/film-serie/dragon-ball-in-italia-cover.jpg
 tags: ["film-serie"]
 date: 2013-02-28
 lang: it-IT
@@ -17,7 +17,7 @@ Perché un bello shonen [^shonen] qual è Dragon Ball è assurto al livello di t
 
 Diciamo subito che **Dragon Ball nasce come un gran bel manga**.
 
-![dragon ball manga](https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/DB_Tank%C5%8Dbon.png/220px-DB_Tank%C5%8Dbon.png)
+![dragon ball manga](/img/archivio/film-serie/dragon-ball-in-italia-1.jpg)
 
 Un manga che ha cambiato radicalmente tutto l'intrattenimento del sol levante: vi piaccia o meno, è innegabile.
 

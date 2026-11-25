@@ -117,13 +117,33 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addPassthroughCopy("./src/fonts");
-  eleventyConfig.addPassthroughCopy("./src/img");
+  // i .psd sorgente restano nel repo ma non vanno online (13 MB, nessuna
+  // pagina li usa); le opzioni passano a recursive-copy
+  eleventyConfig.addPassthroughCopy("./src/img", { filter: ["**/*", "!**/*.psd"] });
   eleventyConfig.addPassthroughCopy("./src/audio");
-  eleventyConfig.addPassthroughCopy("./src/video");
+  // src/video (i video del live Opeth, ~318 MB) resta nel repo ma non va
+  // più online: nessuna pagina li usa e consumavano banda Netlify.
   eleventyConfig.addPassthroughCopy("./src/favicon.png");
   eleventyConfig.addPassthroughCopy("./src/js");
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  // Impronta del contenuto per il cache-busting (style.css?v=abc123): il CSS
+  // può stare in cache un anno (vedi netlify.toml) e cambia indirizzo da solo
+  // a ogni modifica. Legge il file compilato in public/ (sass gira prima di
+  // eleventy in "npm run build"), altrimenti quello in src/.
+  const assetHashes = new Map();
+  eleventyConfig.on("eleventy.before", () => assetHashes.clear());
+  eleventyConfig.addShortcode("assetHash", (p) => {
+    if (!assetHashes.has(p)) {
+      const fs = require("fs");
+      const file = [`./public${p}`, `./src${p}`].find((f) => fs.existsSync(f));
+      const hash = file
+        ? require("crypto").createHash("md5").update(fs.readFileSync(file)).digest("hex").slice(0, 10)
+        : packageVersion;
+      assetHashes.set(p, hash);
+    }
+    return assetHashes.get(p);
+  });
   eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
 
   // Post/project hero images are the LCP element on those pages, and were
@@ -135,6 +155,42 @@ module.exports = function (eleventyConfig) {
   // of old external URLs on every build would be slow and would break the
   // build the moment any one of them goes offline — they just get the
   // eager/high-priority loading hints instead.
+  // Immagini dentro i post: ogni <img> locale (/img/..., non già ottimizzata,
+  // non svg/gif) diventa un <picture> webp + formato originale a 480/960/1600px,
+  // con width/height per evitare salti di layout. Le immagini remote restano
+  // come sono (niente download a ogni build); se un file manca, resta l'<img>.
+  eleventyConfig.addTransform("ottimizza-immagini-post", async function (content) {
+    const out = this.page.outputPath || "";
+    if (!out.endsWith(".html") || !this.page.url.startsWith("/posts/")) return content;
+    const tags = content.match(/<img\b[^>]*>/g) || [];
+    for (const tag of new Set(tags)) {
+      const m = tag.match(/\ssrc="(\/img\/[^"]+)"/);
+      if (!m || m[1].startsWith("/img/optimized/") || /\.(svg|gif)$/i.test(m[1])) continue;
+      const attrs = {};
+      for (const [, k, v] of tag.matchAll(/\s([a-zA-Z:-]+)="([^"]*)"/g)) attrs[k] = v;
+      try {
+        const metadata = await Image(`./src${decodeURI(m[1])}`, {
+          widths: [480, 960, 1600],
+          formats: ["webp", "auto"],
+          outputDir: "./public/img/optimized/",
+          urlPath: "/img/optimized/",
+        });
+        delete attrs.src;
+        const html = generateImageHTML(metadata, {
+          alt: "",
+          ...attrs,
+          loading: attrs.loading || "lazy",
+          decoding: "async",
+          sizes: "(min-width: 820px) 760px, 100vw",
+        });
+        content = content.split(tag).join(html);
+      } catch (e) {
+        console.warn(`ottimizza-immagini-post: ${m[1]} lasciata com'è (${e.message})`);
+      }
+    }
+    return content;
+  });
+
   // Miniatura delle card del blog (archivi + home). Le immagini locali
   // diventano webp/jpeg da 480/800px (una card non supera ~400px di
   // larghezza), le esterne restano così ma in lazy-load: il riquadro a

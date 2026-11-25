@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="18760 -950 1600 1000">
+ <title>generation timeline</title>
+ <desc>Timeline of generations in the Western world as in its Wikipedia article with notable events by CMG Lee. Life expectancy and retirement ages are approximate due to variations in place and time. In the SVG file, click or hover over a generation to highlight it.</desc>
+ <style type="text/css">
+.main { font-family:Helvetica,Arial,sans-serif; font-size:34px; text-anchor:middle;
+        fill:#000000; stroke:none; }
+.main:hover                           { fill-opacity:0.2; }
+.active:hover, .active:focus, .nofade { fill-opacity:1; }
+text  { stroke:none; cursor:default; }
+.big  { font-size:112%; }
+.mile { font-weight:bold; letter-spacing:-2px; opacity:0.25; }
+.grid { stroke:#000000; stroke-opacity:0.2; }
+.lg   { fill:#33cc00; }
+.gg   { fill:#009966; }
+.sg   { fill:#999999; }
+.bb   { fill:#6699ff; }
+.gx   { fill:#ff6666; }
+.gy   { fill:#ffcc00; }
+.gz   { fill:#cc33ff; }
+.ga   { fill:#ff9900; }
+.era  { fill:#000000; fill-opacity:0.06; }
+/*
+.era  { fill:#cccccc; filter:url(#filter_outline); }
+*/
+ </style>
+ <defs>
+  <filter id="filter_outline">
+   <feGaussianBlur stdDeviation="12" result="blur"/>
+   <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+  </filter>
+  <pattern id="pattern_grid_1" patternUnits="userSpaceOnUse" width="10" height="9999">
+   <rect class="grid" width="9999" height="9999" fill="none"/>
+  </pattern>
+  <pattern id="pattern_grid_5" patternUnits="userSpaceOnUse" width="50" height="9999">
+   <rect class="grid" width="9999" height="9999" fill="url(#pattern_grid_1)"/>
+  </pattern>
+  <pattern id="pattern_grid_10" patternUnits="userSpaceOnUse" width="100" height="9999">
+   <rect class="grid" width="9999" height="9999" fill="url(#pattern_grid_5)"/>
+  </pattern>
+  <pattern id="pattern_grid_50" patternUnits="userSpaceOnUse" width="500" height="9999">
+   <rect class="grid" width="9999" height="9999" fill="url(#pattern_grid_10)" stroke-width="3"/>
+  </pattern>
+  <path id="life" d="M 0,90 L 180,10 H 600 L 700,90 Z" opacity="0.5"/>
+  <g id="legend">
+   <path d="M 0,90 L 180,10 H 400 L 500,90 Z" opacity="0.5"/>
+   <path d="M 2,92 v 15 M 498,92 v 15 M 180,8 v -15 M 400,8 v -15" stroke="#000000"/>
+  </g>
+  <g id="axis" transform="translate(0,30)">
+   <switch><text transform="translate(18800,0)" y="0.7ex" id="trsvg151"><tspan id="trsvg135">1880</tspan></text></switch>
+   <switch><text transform="translate(18900,0)" y="0.7ex" id="trsvg152"><tspan id="trsvg136">1890</tspan></text></switch>
+   <switch><text transform="translate(19000,0)" y="0.7ex" id="trsvg153"><tspan id="trsvg137">1900</tspan></text></switch>
+   <switch><text transform="translate(19100,0)" y="0.7ex" id="trsvg154"><tspan id="trsvg138">1910</tspan></text></switch>
+   <switch><text transform="translate(19200,0)" y="0.7ex" id="trsvg155"><tspan id="trsvg139">1920</tspan></text></switch>
+   <switch><text transform="translate(19300,0)" y="0.7ex" id="trsvg156"><tspan id="trsvg140">1930</tspan></text></switch>
+   <switch><text transform="translate(19400,0)" y="0.7ex" id="trsvg157"><tspan id="trsvg141">1940</tspan></text></switch>
+   <switch><text transform="translate(19500,0)" y="0.7ex" id="trsvg158"><tspan id="trsvg142">1950</tspan></text></switch>
+   <switch><text transform="translate(19600,0)" y="0.7ex" id="trsvg159"><tspan id="trsvg143">1960</tspan></text></switch>
+   <switch><text transform="translate(19700,0)" y="0.7ex" id="trsvg160"><tspan id="trsvg144">1970</tspan></text></switch>
+   <switch><text transform="translate(19800,0)" y="0.7ex" id="trsvg161"><tspan id="trsvg145">1980</tspan></text></switch>
+   <switch><text transform="translate(19900,0)" y="0.7ex" id="trsvg162"><tspan id="trsvg146">1990</tspan></text></switch>
+   <switch><text transform="translate(20000,0)" y="0.7ex" id="trsvg163"><tspan id="trsvg147">2000</tspan></text></switch>
+   <switch><text transform="translate(20100,0)" y="0.7ex" id="trsvg164"><tspan id="trsvg148">2010</tspan></text></switch>
+   <switch><text transform="translate(20200,0)" y="0.7ex" id="trsvg165"><tspan id="trsvg149">2020</tspan></text></switch>
+   <switch><text transform="translate(20300,0)" y="0.7ex" id="trsvg166"><tspan id="trsvg150">2030</tspan></text></switch>
+  </g>
+  <g id="common_era">
+   <use xlink:href="#axis" transform="translate(0,-960)"/>
+   <rect class="era" x="19295" y="-910" width="95"  height="920" rx="10" ry="10"/>
+   <rect class="era" x="19145" y="-910" width="40"  height="920" rx="10" ry="10"/>
+   <rect class="era" x="19395" y="-910" width="60"  height="920" rx="10" ry="10"/>
+   <rect class="era" x="19475" y="-910" width="435" height="920" rx="10" ry="10"/>
+   <rect class="era" x="20015" y="-910" width="210" height="920" rx="10" ry="10"/>
+   <rect class="era" x="20050" y="-890" width="400" height="840" rx="10" ry="10"/>
+   <rect class="era" x="19915" y="-890" width="130" height="840" rx="10" ry="10"/>
+   <rect class="era" x="19505" y="-480" width="30"  height="470" rx="10" ry="10"/>
+   <rect class="era" x="19555" y="-480" width="200" height="470" rx="10" ry="10"/>
+   <rect class="era" x="20202" y="-870" width="33"  height="760" rx="10" ry="10"/>
+  </g>
+  <g id="common_legend">
+   <rect x="0" y="0" width="700" height="400" rx="10" ry="10" fill="#ffffff" stroke="#000000"/>
+   <use xlink:href="#legend" transform="translate( 40,150)" class="sg"/>
+   <use xlink:href="#legend" transform="translate(140,150)" class="sg"/>
+  </g>
+ </defs>
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <g class="main">
+  <g class="nofade">
+   <use xlink:href="#axis"/>
+   <rect x="18700" y="-900" width="1700" height="900" fill="url(#pattern_grid_50)" stroke="#000000" stroke-opacity="0.2"/>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <use xlink:href="#common_era" systemLanguage="en"/>
+    <use xlink:href="#common_era"/>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-pt-br" systemLanguage="pt-br"><tspan id="trsvg88-pt-br">Grande</tspan><tspan x="0" dy="35" id="trsvg87-pt-br">Depressão</tspan></text>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-ca" systemLanguage="ca"><tspan id="trsvg88-ca">Gran</tspan><tspan x="0" dy="35" id="trsvg87-ca">Depressió</tspan></text>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-de" systemLanguage="de"><tspan id="trsvg88-de">Große</tspan><tspan x="0" dy="35" id="trsvg87-de">Depression</tspan></text>
+    <text transform="translate(19310, -65)" dy="0.7ex" class="mile" id="trsvg89-eo" systemLanguage="eo"><tspan id="trsvg88-eo">Granda</tspan><tspan x="0" dy="35" id="trsvg87-eo">Depresio</tspan></text>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-es" systemLanguage="es"><tspan id="trsvg88-es">Gran</tspan><tspan x="0" dy="35" id="trsvg87-es">Depresión</tspan></text>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-fr" systemLanguage="fr"><tspan id="trsvg88-fr">Grande</tspan><tspan x="0" dy="35" id="trsvg87-fr">Dépression</tspan></text>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-ar" systemLanguage="ar"><tspan id="trsvg88-ar">الكبير</tspan><tspan x="0" dy="35" id="trsvg87-ar">الكساد</tspan></text>
+    <text transform="translate(19290, -65)" dy="0.7ex" class="mile" id="trsvg89-tr" systemLanguage="tr"><tspan id="trsvg88-tr">Büyük</tspan><tspan x="0" dy="35" id="trsvg87-tr">Buhran</tspan></text>
+    <text transform="translate(19300, -65)" dy="0.7ex" class="mile" id="trsvg89-en" systemLanguage="en"><tspan id="trsvg88-en">Great</tspan><tspan x="0" dy="35" id="trsvg87-en">Depression</tspan></text>
+    <text transform="translate(19300, -65)" dy="0.7ex" class="mile" id="trsvg89"><tspan id="trsvg88">Great</tspan><tspan x="0" dy="35" id="trsvg87">Depression</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-pt-br" systemLanguage="pt-br"><tspan id="trsvg33-pt-br">WW</tspan><tspan x="5" dy="35" id="trsvg133-pt-br">1</tspan></text>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-ca" systemLanguage="ca"><tspan id="trsvg33-ca">1a</tspan><tspan x="0" dy="35" id="trsvg133-ca">GM</tspan></text>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-de" systemLanguage="de"><tspan id="trsvg33-de">1.Welt-</tspan><tspan x="-5" dy="35" id="trsvg133-de">Krieg</tspan></text>
+    <text transform="translate(19165, -65)" dy="0.7ex" class="mile" id="trsvg90-eo" systemLanguage="eo"><tspan id="trsvg33-eo">1-a</tspan><tspan x="0" dy="35" id="trsvg133-eo">MM</tspan></text>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-es" systemLanguage="es"><tspan id="trsvg33-es">1a</tspan><tspan x="5" dy="35" id="trsvg133-es">GM</tspan></text>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-fr" systemLanguage="fr"><tspan id="trsvg33-fr">WW</tspan><tspan x="5" dy="35" id="trsvg133-fr">1</tspan></text>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-ar" systemLanguage="ar"><tspan id="trsvg33-ar">الحرب العالمية</tspan><tspan x="5" dy="35" id="trsvg133-ar">الأولى</tspan></text>
+    <text transform="translate(19160, -65)" dy="0.7ex" class="mile" id="trsvg90-tr" systemLanguage="tr"><tspan id="trsvg33-tr">1.</tspan><tspan x="5" dy="35" id="trsvg133-tr">DS</tspan></text>
+    <text transform="translate(19165, -65)" dy="0.7ex" class="mile" id="trsvg90-en" systemLanguage="en"><tspan id="trsvg33-en">WW</tspan><tspan x="0" dy="35" id="trsvg133-en">1</tspan></text>
+    <text transform="translate(19165, -65)" dy="0.7ex" class="mile" id="trsvg90"><tspan id="trsvg33">WW</tspan><tspan x="0" dy="35" id="trsvg133">1</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-pt-br" systemLanguage="pt-br"><tspan id="trsvg34-pt-br">WW</tspan><tspan x="5" dy="35" id="trsvg134-pt-br">2</tspan></text>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-ca" systemLanguage="ca"><tspan id="trsvg34-ca">2a</tspan><tspan x="0" dy="35" id="trsvg134-ca">GM</tspan></text>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-de" systemLanguage="de"><tspan id="trsvg34-de">2.Welt-</tspan><tspan x="5" dy="35" id="trsvg134-de">Krieg</tspan></text>
+    <text transform="translate(19425, -65)" dy="0.7ex" class="mile" id="trsvg91-eo" systemLanguage="eo"><tspan id="trsvg34-eo">2-a</tspan><tspan x="0" dy="35" id="trsvg134-eo">MM</tspan></text>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-es" systemLanguage="es"><tspan id="trsvg34-es">2a</tspan><tspan x="5" dy="35" id="trsvg134-es">GM</tspan></text>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-fr" systemLanguage="fr"><tspan id="trsvg34-fr">WW</tspan><tspan x="5" dy="35" id="trsvg134-fr">2</tspan></text>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-ar" systemLanguage="ar"><tspan id="trsvg34-ar">الحرب العالمية</tspan><tspan x="5" dy="35" id="trsvg134-ar">الثانية</tspan></text>
+    <text transform="translate(19420, -65)" dy="0.7ex" class="mile" id="trsvg91-tr" systemLanguage="tr"><tspan id="trsvg34-tr">2.</tspan><tspan x="5" dy="35" id="trsvg134-tr">DS</tspan></text>
+    <text transform="translate(19425, -65)" dy="0.7ex" class="mile" id="trsvg91-en" systemLanguage="en"><tspan id="trsvg34-en">WW</tspan><tspan x="0" dy="35" id="trsvg134-en">2</tspan></text>
+    <text transform="translate(19425, -65)" dy="0.7ex" class="mile" id="trsvg91"><tspan id="trsvg34">WW</tspan><tspan x="0" dy="35" id="trsvg134">2</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-pt-br" systemLanguage="pt-br"><tspan id="trsvg35-pt-br">G.</tspan><tspan x="0" dy="35" id="trsvg36-pt-br">Fria</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-ca" systemLanguage="ca"><tspan id="trsvg35-ca">Freda</tspan><tspan x="0" dy="35" id="trsvg36-ca">Guerra</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-de" systemLanguage="de"><tspan id="trsvg35-de">Kalter</tspan><tspan x="0" dy="35" id="trsvg36-de">Krieg</tspan></text>
+    <text transform="translate(19835, -65)" dy="0.7ex" class="mile" id="trsvg92-eo" systemLanguage="eo"><tspan id="trsvg35-eo">Malvarma</tspan><tspan x="0" dy="35" id="trsvg36-eo">Milito</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-es" systemLanguage="es"><tspan id="trsvg35-es">Guerra</tspan><tspan x="0" dy="35" id="trsvg36-es">fría</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-fr" systemLanguage="fr"><tspan id="trsvg35-fr">Guerre</tspan><tspan x="0" dy="35" id="trsvg36-fr">Froide</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-ar" systemLanguage="ar"><tspan id="trsvg35-ar">الحرب</tspan><tspan x="0" dy="35" id="trsvg36-ar">الباردة</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-tr" systemLanguage="tr"><tspan id="trsvg35-tr">Soğuk</tspan><tspan x="0" dy="35" id="trsvg36-tr">Savaş</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92-en" systemLanguage="en"><tspan id="trsvg35-en">Cold</tspan><tspan x="0" dy="35" id="trsvg36-en">War</tspan></text>
+    <text transform="translate(19850, -65)" dy="0.7ex" class="mile" id="trsvg92"><tspan id="trsvg35">Cold</tspan><tspan x="0" dy="35" id="trsvg36">War</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-pt-br" systemLanguage="pt-br"><tspan id="trsvg37-pt-br">Guerra ao Terror</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-ca" systemLanguage="ca"><tspan id="trsvg37-ca">Guerra Antiterror</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-de" systemLanguage="de"><tspan id="trsvg37-de">Antiterrorkrieg</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-eo" systemLanguage="eo"><tspan id="trsvg37-eo">Milito kontraŭ teroro</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-es" systemLanguage="es"><tspan id="trsvg37-es">Guerra vs terror</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-fr" systemLanguage="fr"><tspan id="trsvg37-fr">G. contre le terro.</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-ar" systemLanguage="ar"><tspan id="trsvg37-ar">الحرب على الإرهاب</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-tr" systemLanguage="tr"><tspan id="trsvg37-tr">Terörle savaş</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93-en" systemLanguage="en"><tspan id="trsvg37-en">War on Terror</tspan></text>
+    <text transform="translate(20120, -25)" dy="0.7ex" class="mile" id="trsvg93"><tspan id="trsvg37">War on Terror</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-pt-br" systemLanguage="pt-br"><tspan id="trsvg38-pt-br">Web 2.0</tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-ca" systemLanguage="ca"><tspan id="trsvg38-ca">Web 2.0</tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-eo" systemLanguage="eo"><tspan id="trsvg38-eo"> </tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-fr" systemLanguage="fr"><tspan id="trsvg38-fr">Web 2.0</tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-ar" systemLanguage="ar"><tspan id="trsvg38-ar">الويب 2.0</tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-tr" systemLanguage="tr"><tspan id="trsvg38-tr">Web 2.0</tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94-en" systemLanguage="en"><tspan id="trsvg38-en">Web 2.0</tspan></text>
+    <text transform="translate(20215, -80)" dy="0.7ex" class="mile" id="trsvg94"><tspan id="trsvg38">Web 2.0</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95-pt-br" systemLanguage="pt-br"><tspan id="trsvg39-pt-br">Web1</tspan><tspan dx="-0.3ex" id="trsvg40-pt-br">.</tspan><tspan dx="-0.2ex" id="trsvg41-pt-br">0</tspan></text>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95-ca" systemLanguage="ca"><tspan id="trsvg39-ca">Web 1</tspan><tspan dx="-0.3ex" id="trsvg40-ca">.</tspan><tspan dx="-0.2ex" id="trsvg41-ca">0</tspan></text>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95-eo" systemLanguage="eo"><tspan id="trsvg39-eo"> </tspan><tspan dx="-0.3ex" id="trsvg40-eo"></tspan><tspan dx="-0.2ex" id="trsvg41-eo"></tspan></text>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95-fr" systemLanguage="fr"><tspan id="trsvg39-fr">Web1</tspan><tspan dx="-0.3ex" id="trsvg40-fr">.</tspan><tspan dx="-0.2ex" id="trsvg41-fr">0</tspan></text>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95-ar" systemLanguage="ar"><tspan id="trsvg39-ar">الويب 1</tspan><tspan dx="-0.3ex" id="trsvg40-ar">.</tspan><tspan dx="-0.2ex" id="trsvg41-ar">0</tspan></text>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95-en" systemLanguage="en"><tspan id="trsvg39-en">Web1</tspan><tspan dx="-0.3ex" id="trsvg40-en">.</tspan><tspan dx="-0.2ex" id="trsvg41-en">0</tspan></text>
+    <text transform="translate(19980, -80)" dy="0.7ex" class="mile" id="trsvg95"><tspan id="trsvg39">Web1</tspan><tspan dx="-0.3ex" id="trsvg40">.</tspan><tspan dx="-0.2ex" id="trsvg41">0</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-pt-br" systemLanguage="pt-br"><tspan x="0" id="trsvg42-pt-br">G. da</tspan><tspan x="0" dy="35" id="trsvg43-pt-br">Coreia</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-ca" systemLanguage="ca"><tspan x="10" id="trsvg42-ca">Corea</tspan><tspan x="0" dy="35" id="trsvg43-ca">Guerra</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-de" systemLanguage="de"><tspan x="10" id="trsvg42-de">Korea-</tspan><tspan x="0" dy="35" id="trsvg43-de">Krieg</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-eo" systemLanguage="eo"><tspan x="0" id="trsvg42-eo">Korea</tspan><tspan x="0" dy="35" id="trsvg43-eo">Milito</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-es" systemLanguage="es"><tspan x="0" id="trsvg42-es">G. de</tspan><tspan x="0" dy="35" id="trsvg43-es">Corea</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-fr" systemLanguage="fr"><tspan x="0" id="trsvg42-fr">G. de</tspan><tspan x="0" dy="35" id="trsvg43-fr">Corée</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-ar" systemLanguage="ar"><tspan x="10" id="trsvg42-ar">الحرب </tspan><tspan x="0" dy="35" id="trsvg43-ar">الكورية</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-tr" systemLanguage="tr"><tspan x="10" id="trsvg42-tr">Kore</tspan><tspan x="0" dy="35" id="trsvg43-tr">S.</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96-en" systemLanguage="en"><tspan x="10" id="trsvg42-en">Korean</tspan><tspan x="0" dy="35" id="trsvg43-en">War</tspan></text>
+    <text transform="translate(19520, -65)" dy="0.7ex" class="mile" id="trsvg96"><tspan x="10" id="trsvg42">Korean</tspan><tspan x="0" dy="35" id="trsvg43">War</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-pt-br" systemLanguage="pt-br"><tspan id="trsvg44-pt-br">G. do</tspan><tspan x="0" dy="35" id="trsvg45-pt-br">Vietnã</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-ca" systemLanguage="ca"><tspan id="trsvg44-ca">Vietnam</tspan><tspan x="0" dy="35" id="trsvg45-ca">Guerra</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-de" systemLanguage="de"><tspan id="trsvg44-de">Vietnam-</tspan><tspan x="0" dy="35" id="trsvg45-de">Krieg</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-eo" systemLanguage="eo"><tspan id="trsvg44-eo">Vjetnama</tspan><tspan x="0" dy="35" id="trsvg45-eo">Milito</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-es" systemLanguage="es"><tspan id="trsvg44-es">Guerra de</tspan><tspan x="0" dy="35" id="trsvg45-es">Vietnam</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-fr" systemLanguage="fr"><tspan id="trsvg44-fr">G. du </tspan><tspan x="0" dy="35" id="trsvg45-fr">Viêt Nam</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-ar" systemLanguage="ar"><tspan id="trsvg44-ar">حرب</tspan><tspan x="0" dy="35" id="trsvg45-ar">فيتنام</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-tr" systemLanguage="tr"><tspan id="trsvg44-tr">Vietnam</tspan><tspan x="0" dy="35" id="trsvg45-tr">Savaşı</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97-en" systemLanguage="en"><tspan id="trsvg44-en">Vietnam</tspan><tspan x="0" dy="35" id="trsvg45-en">War</tspan></text>
+    <text transform="translate(19675, -65)" dy="0.7ex" class="mile" id="trsvg97"><tspan id="trsvg44">Vietnam</tspan><tspan x="0" dy="35" id="trsvg45">War</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(20215,-135)" dy="0.7ex" class="mile" id="covid-en" systemLanguage="en"><tspan>COVID-19</tspan></text>
+    <text transform="translate(20215,-135)" dy="0.7ex" class="mile" id="covid"><tspan>COVID-19</tspan></text>
+   </switch>
+   <g transform="translate(18770,-890)">
+    <switch>
+     <g systemLanguage="en-simple"/>
+     <use xlink:href="#common_legend" systemLanguage="en"/>
+     <use xlink:href="#common_legend"/>
+    </switch>
+    <switch>
+     <g systemLanguage="en-simple"/>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-pt-br" systemLanguage="pt-br"><tspan id="trsvg46-pt-br">Nasc.</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-ca" systemLanguage="ca"><tspan id="trsvg46-ca">Naixement</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-de" systemLanguage="de"><tspan id="trsvg46-de">Geburt</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-eo" systemLanguage="eo"><tspan id="trsvg46-eo">Naskiĝo</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-es" systemLanguage="es"><tspan id="trsvg46-es">Nacimiento</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-fr" systemLanguage="fr"><tspan id="trsvg46-fr">Naissance</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-ar" systemLanguage="ar"><tspan id="trsvg46-ar">الولادة</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-tr" systemLanguage="tr"><tspan id="trsvg46-tr">Doğum</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98-en" systemLanguage="en"><tspan id="trsvg46-en">Birth</tspan></text>
+     <text transform="translate(120,375)" dy="0.7ex" class="mile" id="trsvg98"><tspan id="trsvg46">Birth</tspan></text>
+    </switch>
+    <switch>
+     <g systemLanguage="en-simple"/>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-pt-br" systemLanguage="pt-br"><tspan id="trsvg47-pt-br">Maioridade</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-ca" systemLanguage="ca"><tspan id="trsvg47-ca">Majoria d'edat</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-de" systemLanguage="de"><tspan id="trsvg47-de">Erwachsen</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-eo" systemLanguage="eo"><tspan id="trsvg47-eo">Plenkreskiĝo</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-es" systemLanguage="es"><tspan id="trsvg47-es">Mayoría de edad</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-fr" systemLanguage="fr"><tspan id="trsvg47-fr">Âge adulte</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-ar" systemLanguage="ar"><tspan id="trsvg47-ar">البلوغ</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-tr" systemLanguage="tr"><tspan id="trsvg47-tr">Reşit</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99-en" systemLanguage="en"><tspan id="trsvg47-en">Coming of age</tspan></text>
+     <text transform="translate(200, 20)" dy="0.7ex" class="mile" id="trsvg99"><tspan id="trsvg47">Coming of age</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-pt-br" systemLanguage="pt-br"><tspan id="trsvg48-pt-br">Aposentadoria</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-ca" systemLanguage="ca"><tspan id="trsvg48-ca">Jubilació</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-de" systemLanguage="de"><tspan id="trsvg48-de">Rente</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-eo" systemLanguage="eo"><tspan id="trsvg48-eo">Pensiiĝo</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-es" systemLanguage="es"><tspan id="trsvg48-es">Retiro</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-fr" systemLanguage="fr"><tspan id="trsvg48-fr">Retraite</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-ar" systemLanguage="ar"><tspan id="trsvg48-ar">التقاعد</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-tr" systemLanguage="tr"><tspan id="trsvg48-tr">Emeklilik</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100-en" systemLanguage="en"><tspan id="trsvg48-en">Retirement</tspan></text>
+    <text transform="translate(530, 20)" dy="0.7ex" class="mile" id="trsvg100"><tspan id="trsvg48">Retirement</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-pt-br" systemLanguage="pt-br"><tspan id="trsvg49-pt-br">Espect. de Vida</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-ca" systemLanguage="ca"><tspan id="trsvg49-ca">Esperança vida</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-de" systemLanguage="de"><tspan id="trsvg49-de">Lebenserwartung</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-eo" systemLanguage="eo"><tspan id="trsvg49-eo">Probabla vivdaŭro</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-es" systemLanguage="es"><tspan id="trsvg49-es">promedio de vida</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-fr" systemLanguage="fr"><tspan id="trsvg49-fr">Espérance de vie</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-ar" systemLanguage="ar"><tspan id="trsvg49-ar">العمر المتوقع</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-tr" systemLanguage="tr"><tspan id="trsvg49-tr">Ortalama ömür</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101-en" systemLanguage="en"><tspan id="trsvg49-en">Life expectancy</tspan></text>
+    <text transform="translate(540,375)" dy="0.7ex" class="mile" id="trsvg101"><tspan id="trsvg49">Life expectancy</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-pt-br" systemLanguage="pt-br"><tspan id="trsvg50-pt-br">Nasce</tspan><tspan x="0" dy="30" id="trsvg51-pt-br">1º do </tspan><tspan x="0" dy="30" id="trsvg52-pt-br">grupo</tspan></text>
+    <text transform="translate( 70,275)" dy="0.7ex" id="trsvg102-ca" systemLanguage="ca"><tspan id="trsvg50-ca">Primers</tspan><tspan x="0" dy="30" id="trsvg51-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg52-ca">nascuts</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-de" systemLanguage="de"><tspan id="trsvg50-de">erste</tspan><tspan x="0" dy="30" id="trsvg51-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg52-de">geboren</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-eo" systemLanguage="eo"><tspan id="trsvg50-eo">unua</tspan><tspan x="0" dy="25" id="trsvg51-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg52-eo">naskiĝis</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-es" systemLanguage="es"><tspan id="trsvg50-es">Nace</tspan><tspan x="0" dy="30" id="trsvg51-es">el 1ero.</tspan><tspan x="0" dy="30" id="trsvg52-es">grupo</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-fr" systemLanguage="fr"><tspan id="trsvg50-fr">1er du </tspan><tspan x="0" dy="30" id="trsvg51-fr">groupe</tspan><tspan x="0" dy="30" id="trsvg52-fr"> est né</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-ar" systemLanguage="ar"><tspan id="trsvg50-ar">أول</tspan><tspan x="0" dy="30" id="trsvg51-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg52-ar">آخر</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-tr" systemLanguage="tr"><tspan id="trsvg50-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg51-tr">ilk</tspan><tspan x="0" dy="30" id="trsvg52-tr">doğ.</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102-en" systemLanguage="en"><tspan id="trsvg50-en">First of</tspan><tspan x="0" dy="30" id="trsvg51-en">cohort</tspan><tspan x="0" dy="30" id="trsvg52-en">born</tspan></text>
+    <text transform="translate( 60,275)" dy="0.7ex" id="trsvg102"><tspan id="trsvg50">First of</tspan><tspan x="0" dy="30" id="trsvg51">cohort</tspan><tspan x="0" dy="30" id="trsvg52">born</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-pt-br" systemLanguage="pt-br"><tspan id="trsvg53-pt-br">Nasce</tspan><tspan x="0" dy="30" id="trsvg54-pt-br">último</tspan><tspan x="0" dy="30" id="trsvg55-pt-br">do grupo</tspan></text>
+    <text transform="translate(210,275)" dy="0.7ex" id="trsvg103-ca" systemLanguage="ca"><tspan id="trsvg53-ca">Últims</tspan><tspan x="0" dy="30" id="trsvg54-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg55-ca">nascuts</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-de" systemLanguage="de"><tspan id="trsvg53-de">letzte</tspan><tspan x="0" dy="30" id="trsvg54-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg55-de">geboren</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-eo" systemLanguage="eo"><tspan id="trsvg53-eo">lasta</tspan><tspan x="0" dy="25" id="trsvg54-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg55-eo">naskiĝis</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-es" systemLanguage="es"><tspan id="trsvg53-es">Nace</tspan><tspan x="0" dy="30" id="trsvg54-es">último</tspan><tspan x="0" dy="30" id="trsvg55-es">grupo</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-fr" systemLanguage="fr"><tspan id="trsvg53-fr">dernier</tspan><tspan x="0" dy="30" id="trsvg54-fr">du grp.</tspan><tspan x="0" dy="30" id="trsvg55-fr">est né</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-ar" systemLanguage="ar"><tspan id="trsvg53-ar">ولادة</tspan><tspan x="0" dy="30" id="trsvg54-ar">آخر</tspan><tspan x="0" dy="30" id="trsvg55-ar">أبناء الجيل</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-tr" systemLanguage="tr"><tspan id="trsvg53-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg54-tr">son</tspan><tspan x="0" dy="30" id="trsvg55-tr">doğ.</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103-en" systemLanguage="en"><tspan id="trsvg53-en">Last of</tspan><tspan x="0" dy="30" id="trsvg54-en">cohort</tspan><tspan x="0" dy="30" id="trsvg55-en">born</tspan></text>
+    <text transform="translate(190,275)" dy="0.7ex" id="trsvg103"><tspan id="trsvg53">Last of</tspan><tspan x="0" dy="30" id="trsvg54">cohort</tspan><tspan x="0" dy="30" id="trsvg55">born</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-pt-br" systemLanguage="pt-br"><tspan id="trsvg56-pt-br">1º do </tspan><tspan x="0" dy="30" id="trsvg57-pt-br">grupo</tspan><tspan x="0" dy="30" id="trsvg58-pt-br">faz 18</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-ca" systemLanguage="ca"><tspan id="trsvg56-ca">Primers</tspan><tspan x="0" dy="30" id="trsvg57-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg58-ca">18 anys</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-de" systemLanguage="de"><tspan id="trsvg56-de">erste</tspan><tspan x="0" dy="30" id="trsvg57-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg58-de">18 Jahre</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-eo" systemLanguage="eo"><tspan id="trsvg56-eo">unua</tspan><tspan x="0" dy="25" id="trsvg57-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg58-eo">18 jaroj</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-es" systemLanguage="es"><tspan id="trsvg56-es">1ero.</tspan><tspan x="0" dy="25" id="trsvg57-es">grupo</tspan><tspan x="0" dy="35" id="trsvg58-es">18 años</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-fr" systemLanguage="fr"><tspan id="trsvg56-fr">1er du </tspan><tspan x="0" dy="30" id="trsvg57-fr">grp. fête</tspan><tspan x="0" dy="30" id="trsvg58-fr">18 ans</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-ar" systemLanguage="ar"><tspan id="trsvg56-ar">أول</tspan><tspan x="0" dy="30" id="trsvg57-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg58-ar">يبلغ 18 عاماً</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-tr" systemLanguage="tr"><tspan id="trsvg56-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg57-tr">ilk</tspan><tspan x="0" dy="30" id="trsvg58-tr">reşiti</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104-en" systemLanguage="en"><tspan id="trsvg56-en">First of</tspan><tspan x="0" dy="30" id="trsvg57-en">cohort</tspan><tspan x="0" dy="30" id="trsvg58-en">turns 18</tspan></text>
+    <text transform="translate(160, 65)" dy="0.7ex" id="trsvg104"><tspan id="trsvg56">First of</tspan><tspan x="0" dy="30" id="trsvg57">cohort</tspan><tspan x="0" dy="30" id="trsvg58">turns 18</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-pt-br" systemLanguage="pt-br"><tspan id="trsvg59-pt-br">Último </tspan><tspan x="0" dy="30" id="trsvg60-pt-br">do grupo</tspan><tspan x="0" dy="30" id="trsvg61-pt-br">faz 18</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-ca" systemLanguage="ca"><tspan id="trsvg59-ca">Últims</tspan><tspan x="0" dy="30" id="trsvg60-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg61-ca">18 anys</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-de" systemLanguage="de"><tspan id="trsvg59-de">letzte</tspan><tspan x="0" dy="30" id="trsvg60-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg61-de">18 Jahre</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-eo" systemLanguage="eo"><tspan id="trsvg59-eo">lasta</tspan><tspan x="0" dy="25" id="trsvg60-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg61-eo">18 jaroj</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-es" systemLanguage="es"><tspan id="trsvg59-es">último</tspan><tspan x="0" dy="25" id="trsvg60-es">grupo</tspan><tspan x="0" dy="35" id="trsvg61-es">18 años</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-fr" systemLanguage="fr"><tspan id="trsvg59-fr">dernier du</tspan><tspan x="0" dy="30" id="trsvg60-fr">grp. fête</tspan><tspan x="0" dy="30" id="trsvg61-fr">18 ans</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-ar" systemLanguage="ar"><tspan id="trsvg59-ar">آخر</tspan><tspan x="0" dy="30" id="trsvg60-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg61-ar">يبلغ 18 عاماً</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-tr" systemLanguage="tr"><tspan id="trsvg59-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg60-tr">son</tspan><tspan x="0" dy="30" id="trsvg61-tr">reşiti</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105-en" systemLanguage="en"><tspan id="trsvg59-en">Last of</tspan><tspan x="0" dy="30" id="trsvg60-en">cohort</tspan><tspan x="0" dy="30" id="trsvg61-en">turns 18</tspan></text>
+    <text transform="translate(305, 65)" dy="0.7ex" id="trsvg105"><tspan id="trsvg59">Last of</tspan><tspan x="0" dy="30" id="trsvg60">cohort</tspan><tspan x="0" dy="30" id="trsvg61">turns 18</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-pt-br" systemLanguage="pt-br"><tspan id="trsvg62-pt-br">1º do</tspan><tspan x="0" dy="30" id="trsvg63-pt-br">grupo</tspan><tspan x="0" dy="30" id="trsvg64-pt-br">faz 60</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-ca" systemLanguage="ca"><tspan id="trsvg62-ca">Primers</tspan><tspan x="0" dy="30" id="trsvg63-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg64-ca">60 anys</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-de" systemLanguage="de"><tspan id="trsvg62-de">erste</tspan><tspan x="0" dy="30" id="trsvg63-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg64-de">60 Jahre</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-eo" systemLanguage="eo"><tspan id="trsvg62-eo">unua</tspan><tspan x="0" dy="25" id="trsvg63-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg64-eo">60 jaroj</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-es" systemLanguage="es"><tspan id="trsvg62-es">1ero.</tspan><tspan x="0" dy="25" id="trsvg63-es">grupo</tspan><tspan x="0" dy="35" id="trsvg64-es">60 años</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-fr" systemLanguage="fr"><tspan id="trsvg62-fr">1er du</tspan><tspan x="0" dy="30" id="trsvg63-fr">grp. fête</tspan><tspan x="0" dy="30" id="trsvg64-fr">60 ans</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-ar" systemLanguage="ar"><tspan id="trsvg62-ar">أول</tspan><tspan x="0" dy="30" id="trsvg63-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg64-ar">يبلغ 60 عاماً</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-tr" systemLanguage="tr"><tspan id="trsvg62-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg63-tr">ilk</tspan><tspan x="0" dy="30" id="trsvg64-tr">60'lığı</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106-en" systemLanguage="en"><tspan id="trsvg62-en">First of</tspan><tspan x="0" dy="30" id="trsvg63-en">cohort</tspan><tspan x="0" dy="30" id="trsvg64-en">turns 60</tspan></text>
+    <text transform="translate(455, 65)" dy="0.7ex" id="trsvg106"><tspan id="trsvg62">First of</tspan><tspan x="0" dy="30" id="trsvg63">cohort</tspan><tspan x="0" dy="30" id="trsvg64">turns 60</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-pt-br" systemLanguage="pt-br"><tspan id="trsvg65-pt-br">Último</tspan><tspan x="0" dy="30" id="trsvg66-pt-br">do grupo</tspan><tspan x="0" dy="30" id="trsvg67-pt-br">faz 60</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-ca" systemLanguage="ca"><tspan id="trsvg65-ca">Últims</tspan><tspan x="0" dy="30" id="trsvg66-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg67-ca">60 anys</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-de" systemLanguage="de"><tspan id="trsvg65-de">letzte</tspan><tspan x="0" dy="30" id="trsvg66-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg67-de">60 Jahre</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-eo" systemLanguage="eo"><tspan id="trsvg65-eo">lasta</tspan><tspan x="0" dy="25" id="trsvg66-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg67-eo">60 jaroj</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-es" systemLanguage="es"><tspan id="trsvg65-es">último</tspan><tspan x="0" dy="25" id="trsvg66-es">grupo</tspan><tspan x="0" dy="35" id="trsvg67-es">60 años</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-fr" systemLanguage="fr"><tspan id="trsvg65-fr">dernier du</tspan><tspan x="0" dy="30" id="trsvg66-fr">grp. fête</tspan><tspan x="0" dy="30" id="trsvg67-fr">60 ans</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-ar" systemLanguage="ar"><tspan id="trsvg65-ar">أول</tspan><tspan x="0" dy="30" id="trsvg66-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg67-ar">يبلغ 60 عاماً</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-tr" systemLanguage="tr"><tspan id="trsvg65-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg66-tr">son</tspan><tspan x="0" dy="30" id="trsvg67-tr">60'lığı</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107-en" systemLanguage="en"><tspan id="trsvg65-en">Last of</tspan><tspan x="0" dy="30" id="trsvg66-en">cohort</tspan><tspan x="0" dy="30" id="trsvg67-en">turns 60</tspan></text>
+    <text transform="translate(600, 65)" dy="0.7ex" id="trsvg107"><tspan id="trsvg65">Last of</tspan><tspan x="0" dy="30" id="trsvg66">cohort</tspan><tspan x="0" dy="30" id="trsvg67">turns 60</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-pt-br" systemLanguage="pt-br"><tspan id="trsvg68-pt-br">1º do</tspan><tspan x="0" dy="30" id="trsvg69-pt-br">grupo</tspan><tspan x="0" dy="30" id="trsvg70-pt-br">faz 70</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-ca" systemLanguage="ca"><tspan id="trsvg68-ca">Primers</tspan><tspan x="0" dy="30" id="trsvg69-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg70-ca">70 anys</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-de" systemLanguage="de"><tspan id="trsvg68-de">erste</tspan><tspan x="0" dy="30" id="trsvg69-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg70-de">70 Jahre</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-eo" systemLanguage="eo"><tspan id="trsvg68-eo">unua</tspan><tspan x="0" dy="25" id="trsvg69-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg70-eo">70 jaroj</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-es" systemLanguage="es"><tspan id="trsvg68-es">1ero.</tspan><tspan x="0" dy="25" id="trsvg69-es">grupo</tspan><tspan x="0" dy="35" id="trsvg70-es">70 años</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-fr" systemLanguage="fr"><tspan id="trsvg68-fr">1er du</tspan><tspan x="0" dy="30" id="trsvg69-fr">grp. fête</tspan><tspan x="0" dy="30" id="trsvg70-fr">70 ans</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-ar" systemLanguage="ar"><tspan id="trsvg68-ar">أول</tspan><tspan x="0" dy="30" id="trsvg69-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg70-ar">يبلغ السبعين</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-tr" systemLanguage="tr"><tspan id="trsvg68-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg69-tr">ilk</tspan><tspan x="0" dy="30" id="trsvg70-tr">70'liği</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108-en" systemLanguage="en"><tspan id="trsvg68-en">First of</tspan><tspan x="0" dy="30" id="trsvg69-en">cohort</tspan><tspan x="0" dy="30" id="trsvg70-en">turns 70</tspan></text>
+    <text transform="translate(480,275)" dy="0.7ex" id="trsvg108"><tspan id="trsvg68">First of</tspan><tspan x="0" dy="30" id="trsvg69">cohort</tspan><tspan x="0" dy="30" id="trsvg70">turns 70</tspan></text>
+   </switch>
+   <switch>
+    <g systemLanguage="en-simple"/>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-pt-br" systemLanguage="pt-br"><tspan id="trsvg71-pt-br">Último</tspan><tspan x="0" dy="30" id="trsvg72-pt-br">do grupo</tspan><tspan x="0" dy="30" id="trsvg73-pt-br">faz 70</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-ca" systemLanguage="ca"><tspan id="trsvg71-ca">Últims</tspan><tspan x="0" dy="30" id="trsvg72-ca">cohort</tspan><tspan x="0" dy="30" id="trsvg73-ca">70 anys</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-de" systemLanguage="de"><tspan id="trsvg71-de">letzte</tspan><tspan x="0" dy="30" id="trsvg72-de">Gruppe</tspan><tspan x="0" dy="30" id="trsvg73-de">70 Jahre</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-eo" systemLanguage="eo"><tspan id="trsvg71-eo">lasta</tspan><tspan x="0" dy="25" id="trsvg72-eo">grupo</tspan><tspan x="0" dy="35" id="trsvg73-eo">70 jaroj</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-es" systemLanguage="es"><tspan id="trsvg71-es">último</tspan><tspan x="0" dy="25" id="trsvg72-es">grupo</tspan><tspan x="0" dy="35" id="trsvg73-es">70 años</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-fr" systemLanguage="fr"><tspan id="trsvg71-fr">dernier du</tspan><tspan x="0" dy="30" id="trsvg72-fr">grp. fête</tspan><tspan x="0" dy="30" id="trsvg73-fr">70 ans</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-ar" systemLanguage="ar"><tspan id="trsvg71-ar">آخر</tspan><tspan x="0" dy="30" id="trsvg72-ar">أبناء الجيل</tspan><tspan x="0" dy="30" id="trsvg73-ar">يبلغ السبعين</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-tr" systemLanguage="tr"><tspan id="trsvg71-tr">Neslin</tspan><tspan x="0" dy="30" id="trsvg72-tr">son</tspan><tspan x="0" dy="30" id="trsvg73-tr">70'liği</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109-en" systemLanguage="en"><tspan id="trsvg71-en">Last of</tspan><tspan x="0" dy="30" id="trsvg72-en">cohort</tspan><tspan x="0" dy="30" id="trsvg73-en">turns 70</tspan></text>
+    <text transform="translate(630,275)" dy="0.7ex" id="trsvg109"><tspan id="trsvg71">Last of</tspan><tspan x="0" dy="30" id="trsvg72">cohort</tspan><tspan x="0" dy="30" id="trsvg73">turns 70</tspan></text>
+   </switch>
+   </g>
+  </g>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(20130,-880)" class="ga"/>
+   <use xlink:href="#life" transform="translate(20280,-880)" class="ga"/>
+   <switch>
+    <text id="ga-pt-br" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg31-pt-br">Geração Alfa</tspan><tspan x="0" dy="40" id="trsvg32-pt-br">*início de 2013-metade-2020s</tspan></text>
+    <text id="ga-ca" transform="translate(19900,-860)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg31-ca">Generació Alfa</tspan><tspan x="0" dy="40" id="trsvg32-ca">∗inicis 2013 – mitjans 2020</tspan></text>
+    <text id="ga-de" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg31-de">Generation Alpha</tspan><tspan x="0" dy="40" id="trsvg32-de">*2013 - Mitte der 2020er</tspan></text>
+    <text id="ga-eo" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg31-eo">Alfa-Generacio</tspan><tspan x="0" dy="40" id="trsvg32-eo">*2013 - ĉ. 2028</tspan></text>
+    <text id="ga-es" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg31-es">Generación Alfa</tspan><tspan x="0" dy="40" id="trsvg32-es">*inicio 2013 - med 2020s</tspan></text>
+    <text id="ga-fr" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg31-fr">Génération Alpha</tspan><tspan x="0" dy="40" id="trsvg32-fr">*début 2013-mi-2020</tspan></text>
+    <text id="ga-ar" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg31-ar">الجيل ألفا</tspan><tspan x="0" dy="40" id="trsvg32-ar">أوائل عقد 2010 حتى أواسط عقد 2020</tspan></text>
+    <text id="ga-tr" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg31-tr">Alfa Kuşağı</tspan><tspan x="0" dy="40" id="trsvg32-tr">*2010 başı – 2020 ortası</tspan></text>
+    <text id="ga-en" transform="translate(19930,-860)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg31-en">Generation Alpha</tspan><tspan x="0" dy="40" id="trsvg32-en">∗2013 – mid-2020s</tspan></text>
+    <text id="ga" transform="translate(19930,-860)" dy="0.7ex"><tspan class="big" id="trsvg31">Generation Alpha</tspan><tspan x="0" dy="40" id="trsvg32">∗2013 – mid-2020s</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(19970,-780)" class="gz"/>
+   <use xlink:href="#life" transform="translate(20120,-780)" class="gz"/>
+   <switch>
+    <text id="gz-pt-br" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg29-pt-br">Geração Z</tspan><tspan x="0" dy="40" id="trsvg30-pt-br">∗1997–2012</tspan></text>
+    <text id="gz-ca" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg29-ca">Zoomers/Generació Z</tspan><tspan x="0" dy="40" id="trsvg30-ca">∗1997–2012</tspan></text>
+    <text id="gz-de" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg29-de">Zoomers/Generation Z</tspan><tspan x="0" dy="40" id="trsvg30-de">*1997-2012</tspan></text>
+    <text id="gz-eo" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg29-eo">Z-Generacio</tspan><tspan x="0" dy="40" id="trsvg30-eo">*1997-2012</tspan></text>
+    <text id="gz-es" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg29-es">Zoomers/Generación Z</tspan><tspan x="0" dy="40" id="trsvg30-es">*1997-2012</tspan></text>
+    <text id="gz-fr" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg29-fr">Génération Z</tspan><tspan x="0" dy="40" id="trsvg30-fr">∗1997–2012</tspan></text>
+    <text id="gz-ar" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg29-ar">الجيل زد</tspan><tspan x="0" dy="40" id="trsvg30-ar">∗1997–2012</tspan></text>
+    <text id="gz-tr" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg29-tr">Zoomer/Z Kuşağı</tspan><tspan x="0" dy="40" id="trsvg30-tr">∗1997–2012</tspan></text>
+    <text id="gz-en" transform="translate(19870,-760)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg29-en">Zoomers/Generation Z</tspan><tspan x="0" dy="40" id="trsvg30-en">∗1997–2012</tspan></text>
+    <text id="gz" transform="translate(19870,-760)" dy="0.7ex"><tspan class="big" id="trsvg29">Zoomers/Generation Z</tspan><tspan x="0" dy="40" id="trsvg30">∗1997–2012</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(19810,-680)" class="gy"/>
+   <use xlink:href="#life" transform="translate(19960,-680)" class="gy"/>
+   <switch>
+    <text id="gy-pt-br" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg27-pt-br">Millennials</tspan><tspan x="0" dy="40" id="trsvg28-pt-br">∗1981–96</tspan></text>
+    <text id="gy-ca" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg27-ca">Millennials/Generació Y</tspan><tspan x="0" dy="40" id="trsvg28-ca">∗1981–96</tspan></text>
+    <text id="gy-de" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg27-de">Millennials/Generation Y</tspan><tspan x="0" dy="40" id="trsvg28-de">∗1981-96</tspan></text>
+    <text id="gy-eo" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg27-eo">Jarmiluloj/Y-Generacio</tspan><tspan x="0" dy="40" id="trsvg28-eo">∗1981-96</tspan></text>
+    <text id="gy-es" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg27-es">Millennials/Generación Y</tspan><tspan x="0" dy="40" id="trsvg28-es">∗1981-96</tspan></text>
+    <text id="gy-fr" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg27-fr">Millennials</tspan><tspan x="0" dy="40" id="trsvg28-fr">∗1981–96</tspan></text>
+    <text id="gy-ar" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg27-ar">الجيل واي / جيل الألفية</tspan><tspan x="0" dy="40" id="trsvg28-ar">∗1981–96</tspan></text>
+    <text id="gy-tr" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg27-tr">Milenyumlar/Y Kuşağı</tspan><tspan x="0" dy="40" id="trsvg28-tr">∗1981–96</tspan></text>
+    <text id="gy-en" transform="translate(19720,-660)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg27-en">Millennials/Generation Y</tspan><tspan x="0" dy="40" id="trsvg28-en">∗1981–96</tspan></text>
+    <text id="gy" transform="translate(19720,-660)" dy="0.7ex"><tspan class="big" id="trsvg27">Millennials/Generation Y</tspan><tspan x="0" dy="40" id="trsvg28">∗1981–96</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(19650,-580)" class="gx"/>
+   <use xlink:href="#life" transform="translate(19800,-580)" class="gx"/>
+   <switch>
+    <text id="gx-pt-br" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg25-pt-br">Geração X</tspan><tspan x="-30" dy="40" id="trsvg26-pt-br">∗1965–80</tspan></text>
+    <text id="gx-ca" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg25-ca">Generació X</tspan><tspan x="-30" dy="40" id="trsvg26-ca">∗1965–80</tspan></text>
+    <text id="gx-de" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg25-de">Generation X</tspan><tspan x="-30" dy="40" id="trsvg26-de">∗1965-80</tspan></text>
+    <text id="gx-eo" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg25-eo">X-Generacio</tspan><tspan x="-30" dy="40" id="trsvg26-eo">∗1965-80</tspan></text>
+    <text id="gx-es" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg25-es">Generación X</tspan><tspan x="-30" dy="40" id="trsvg26-es">∗1965-80</tspan></text>
+    <text id="gx-fr" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg25-fr">Génération X</tspan><tspan x="-30" dy="40" id="trsvg26-fr">∗1965–80</tspan></text>
+    <text id="gx-ar" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg25-ar">الجيل إكس</tspan><tspan x="-30" dy="40" id="trsvg26-ar">∗1965–80</tspan></text>
+    <text id="gx-tr" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg25-tr">X Kuşağı</tspan><tspan x="-30" dy="40" id="trsvg26-tr">∗1965–80</tspan></text>
+    <text id="gx-en" transform="translate(19630,-560)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg25-en">Generation X</tspan><tspan x="-30" dy="40" id="trsvg26-en">∗1965–80</tspan></text>
+    <text id="gx" transform="translate(19630,-560)" dy="0.7ex"><tspan class="big" id="trsvg25">Generation X</tspan><tspan x="-30" dy="40" id="trsvg26">∗1965–80</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(19460,-480)" class="bb"/>
+   <use xlink:href="#life" transform="translate(19640,-480)" class="bb"/>
+   <switch>
+    <text id="bb-pt-br" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg23-pt-br">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-pt-br">∗1946–64</tspan></text>
+    <text id="bb-ca" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg23-ca">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-ca">∗1946–64</tspan></text>
+    <text id="bb-de" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg23-de">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-de">∗1946-64</tspan></text>
+    <text id="bb-eo" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg23-eo">Bumeroj</tspan><tspan x="0" dy="40" id="trsvg24-eo">∗1946-64</tspan></text>
+    <text id="bb-es" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg23-es">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-es">∗1946-64</tspan></text>
+    <text id="bb-fr" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg23-fr">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-fr">∗1946–64</tspan></text>
+    <text id="bb-ar" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg23-ar">جيل الطفرة السكانية</tspan><tspan x="0" dy="40" id="trsvg24-ar">∗1946–64</tspan></text>
+    <text id="bb-tr" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg23-tr">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-tr">∗1946–64</tspan></text>
+    <text id="bb-en" transform="translate(19390,-450)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg23-en">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24-en">∗1946–64</tspan></text>
+    <text id="bb" transform="translate(19390,-450)" dy="0.7ex"><tspan class="big" id="trsvg23">Baby Boomers</tspan><tspan x="0" dy="40" id="trsvg24">∗1946–64</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(19280,-380)" class="sg"/>
+   <use xlink:href="#life" transform="translate(19450,-380)" class="sg"/>
+   <switch>
+    <text id="sg-pt-br" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg21-pt-br">Geração Silenciosa</tspan><tspan x="0" dy="40" id="trsvg22-pt-br">∗1928–45</tspan></text>
+    <text id="sg-ca" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg21-ca">Generació silenciosa</tspan><tspan x="0" dy="40" id="trsvg22-ca">∗1928–45</tspan></text>
+    <text id="sg-de" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg21-de">Stumme Generation</tspan><tspan x="0" dy="40" id="trsvg22-de">∗1928-45</tspan></text>
+    <text id="sg-eo" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg21-eo">Silenta Generacio</tspan><tspan x="0" dy="40" id="trsvg22-eo">∗1928-45</tspan></text>
+    <text id="sg-es" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg21-es">Generación silenciosa</tspan><tspan x="0" dy="40" id="trsvg22-es">∗1928-45</tspan></text>
+    <text id="sg-fr" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg21-fr">Génération silencieuse</tspan><tspan x="0" dy="40" id="trsvg22-fr">∗1928–45</tspan></text>
+    <text id="sg-ar" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg21-ar">الجيل الصامت</tspan><tspan x="0" dy="40" id="trsvg22-ar">∗1928–45</tspan></text>
+    <text id="sg-tr" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg21-tr">Sessiz Kuşak</tspan><tspan x="0" dy="40" id="trsvg22-tr">∗1928–45</tspan></text>
+    <text id="sg-en" transform="translate(19210,-350)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg21-en">Silent Generation</tspan><tspan x="0" dy="40" id="trsvg22-en">∗1928–45</tspan></text>
+    <text id="sg" transform="translate(19210,-350)" dy="0.7ex"><tspan class="big" id="trsvg21">Silent Generation</tspan><tspan x="0" dy="40" id="trsvg22">∗1928–45</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(19010,-280)" class="gg"/>
+   <use xlink:href="#life" transform="translate(19270,-280)" class="gg"/>
+   <switch>
+    <text id="gg-pt-br" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg19-pt-br">Geração Grandiosa</tspan><tspan x="0" dy="40" id="trsvg20-pt-br">∗1901–27</tspan></text>
+    <text id="gg-ca" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg19-ca">Generació més gran</tspan><tspan x="0" dy="40" id="trsvg20-ca">∗1901–27</tspan></text>
+    <text id="gg-de" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg19-de">Größte Generation</tspan><tspan x="0" dy="40" id="trsvg20-de">∗1901-27</tspan></text>
+    <text id="gg-eo" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg19-eo">Grandioza Generacio</tspan><tspan x="0" dy="40" id="trsvg20-eo">∗1901-27</tspan></text>
+    <text id="gg-es" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg19-es">Gen. grandiosa/ 2GM</tspan><tspan x="0" dy="40" id="trsvg20-es">∗1901-27</tspan></text>
+    <text id="gg-fr" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg19-fr">Génération grandiose</tspan><tspan x="0" dy="40" id="trsvg20-fr">∗1901–27</tspan></text>
+    <text id="gg-ar" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg19-ar">جيل العظماء</tspan><tspan x="0" dy="40" id="trsvg20-ar">∗1901–27</tspan></text>
+    <text id="gg-tr" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg19-tr">Muhteşem Kuşak</tspan><tspan x="0" dy="40" id="trsvg20-tr">∗1901–27</tspan></text>
+    <text id="gg-en" transform="translate(20130,-255)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg19-en">Greatest/G.I. Generation</tspan><tspan x="0" dy="40" id="trsvg20-en">∗1901–27</tspan></text>
+    <text id="gg" transform="translate(20130,-255)" dy="0.7ex"><tspan class="big" id="trsvg19">Greatest/G.I. Generation</tspan><tspan x="0" dy="40" id="trsvg20">∗1901–27</tspan></text>
+   </switch>
+  </a>
+  <a xlink:href="#" class="active">
+   <use xlink:href="#life" transform="translate(18830,-180)" class="lg"/>
+   <use xlink:href="#life" transform="translate(19000,-180)" class="lg"/>
+   <switch>
+    <text id="lg-pt-br" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="pt-br"><tspan class="big" id="trsvg17-pt-br">Geração Perdida</tspan><tspan x="0" dy="40" id="trsvg18-pt-br">∗1883–1900</tspan></text>
+    <text id="lg-ca" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="ca"><tspan class="big" id="trsvg17-ca">Generació perduda</tspan><tspan x="0" dy="40" id="trsvg18-ca">∗1883–1900</tspan></text>
+    <text id="lg-de" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="de"><tspan class="big" id="trsvg17-de">Verlorene Generation</tspan><tspan x="0" dy="40" id="trsvg18-de">∗1883-1900</tspan></text>
+    <text id="lg-eo" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="eo"><tspan class="big" id="trsvg17-eo">Perdita Generacio</tspan><tspan x="0" dy="40" id="trsvg18-eo">∗1883-1900</tspan></text>
+    <text id="lg-es" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="es"><tspan class="big" id="trsvg17-es">Generación perdida</tspan><tspan x="0" dy="40" id="trsvg18-es">∗1883-1900</tspan></text>
+    <text id="lg-fr" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="fr"><tspan class="big" id="trsvg17-fr">Génération perdue</tspan><tspan x="0" dy="40" id="trsvg18-fr">∗1883–1900</tspan></text>
+    <text id="lg-ar" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="ar"><tspan class="big" id="trsvg17-ar">الجيل الضائع</tspan><tspan x="0" dy="40" id="trsvg18-ar">∗1883–1900</tspan></text>
+    <text id="lg-tr" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="tr"><tspan class="big" id="trsvg17-tr">Kayıp Kuşak</tspan><tspan x="0" dy="40" id="trsvg18-tr">∗1883–1900</tspan></text>
+    <text id="lg-en" transform="translate(19800,-155)" dy="0.7ex" systemLanguage="en"><tspan class="big" id="trsvg17-en">Lost Generation</tspan><tspan x="0" dy="40" id="trsvg18-en">∗1883–1900</tspan></text>
+    <text id="lg" transform="translate(19800,-155)" dy="0.7ex"><tspan class="big" id="trsvg17">Lost Generation</tspan><tspan x="0" dy="40" id="trsvg18">∗1883–1900</tspan></text>
+   </switch>
+  </a>
+  <path d="M 20250,15 V -915" stroke="#ff0000"/>
+ </g>
+</svg>

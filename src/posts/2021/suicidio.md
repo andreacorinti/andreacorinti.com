@@ -3,7 +3,7 @@ layout: postita
 title: "Suicidio?"
 subtitle: "."
 sommario: "."
-immagine: https://www.andreacorinti.com/img/suicidio.jpg
+immagine: /img/archivio/xabologia/suicidio-cover.jpg
 tags: ["xabologia"]
 date: 2021-12-20
 lang: it-IT

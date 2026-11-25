@@ -3,7 +3,7 @@ layout: postita
 title: "Simone Simons - Vermillion"
 subtitle: "PS al solito disco del mese"
 sommario: "Allora, Vermillion è uscito il 23 Agosto quindi sto barando e mettendo una pezza sul solito post mensile..."
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/26624a41c48f82179d7346b14cd90184.jpg
+immagine: /img/archivio/musica/simone-simons-vermillion-cover.jpg
 tags: ["musica"]
 date: 2024-08-28
 lang: it-IT

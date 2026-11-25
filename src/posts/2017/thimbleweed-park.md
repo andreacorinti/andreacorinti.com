@@ -3,7 +3,7 @@ layout: postita
 title: "Thimbleweed Park"
 subtitle: Recensione
 sommario: "Subito al sodo: Thimbleweed Park™ è una splendida Avventura Grafica che farà la gioia di ogni nostalgico dello stile Lucas Films che si rispetti..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/thimbleweed-park.jpg
+immagine: /img/archivio/videogiochi/thimbleweed-park-cover.jpg
 tags: ["videogiochi"]
 date: 2017-05-09
 lang: it-IT

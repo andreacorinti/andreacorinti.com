@@ -3,7 +3,7 @@ layout: postita
 title: "Io sono Giorgia"
 subtitle: "Ho letto il libro di Giorgia Meloni"
 sommario: "Da IRC a Palazzo Chigi il passo è breve."
-immagine: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620658930i/58006536.jpg
+immagine: /img/archivio/xabologia/io-sono-giorgia-cover.jpg
 tags: ["xabologia"]
 date: 2022-11-05
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Ma Occidentali de che?"
 subtitle: "Hagia Sophia Fandango"
 sommario: "Erdogan non m'è simpatico, diciamolo subito"
-immagine: https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg
+immagine: /img/archivio/xabologia/occidente-cover.jpg
 tags: ["xabologia"]
 date: 2020-07-11
 lang: it-IT

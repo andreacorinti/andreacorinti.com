@@ -3,7 +3,7 @@ layout: postita
 title: "Cosa ne penso dei trailer di Final Fantasy XVI"
 subtitle: "Fantasie Finali poco fantasiose"
 sommario: "Ho scritto cosa ne penso nel titolo per un paio di motivi."
-immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/2515020/header.jpg
+immagine: /img/archivio/videogiochi/final-fantasy-xvi-cover.jpg
 tags: ["videogiochi"]
 date: 2023-05-02
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Incontro con Shin'ichiro Watanabe"
 subtitle: Cartoons on the Bay - Torino 2017
 sommario: "Reportage sull'evento organizzato da Rai Com con ospite Shin'ichirō Watanabe, il regista di Cowboy Bebob! Preciso che il post sarà suddiviso in due parti..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/shinichiro-watanabe-cartoons-on-the-bay.jpg
+immagine: /img/archivio/film-serie/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop-cover.jpg
 tags: ["film-serie"]
 date: 2017-04-09
 lang: it-IT

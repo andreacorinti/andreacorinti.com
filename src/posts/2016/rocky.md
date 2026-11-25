@@ -3,7 +3,7 @@ layout: postita
 title: "Rocky Balboa"
 subtitle: "Analisi di una Leggenda"
 sommario: "Vista l'uscita di Creed (che devo assolutamente vedere) piuttosto che una futura ed interminabile premessa ho pensato fosse il caso di scrivere un bel post dedicato a Rocky Balboa..."
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/rocky.jpg
+immagine:  /img/archivio/film-serie/rocky-cover.jpg
 tags: ["film-serie"]
 date: 2016-01-17
 lang: it-IT
@@ -12,11 +12,11 @@ Vista l'uscita di _Creed_ (che devo assolutamente vedere) piuttosto che una futu
 
 ## Sylvester Stallone
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sylvester_Stallone_-_1977.jpg/800px-Sylvester_Stallone_-_1977.jpg" alt="analisi rocky balboa">
+<img src="/img/archivio/film-serie/rocky-1.jpg" alt="analisi rocky balboa">
 
 Parlare di Rocky per moltissimi versi equivale a parlare del suo creatore _Silvestro_: è il suo ruolo della vita, ["miglior amico immaginario"](https://www.youtube.com/watch?v=qsxVELVUThc) nonché, alle origini, una sua **straordinaria prova da sceneggiatore.**
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/18/Rocky_poster.jpg" alt="analisi rocky balboa">
+<img src="/img/archivio/film-serie/rocky-2.jpg" alt="analisi rocky balboa">
 
 _Rocky_ rappresenta il cuore pulsante della carriera di Stallone, carriera fin troppo ingiustamente squadrata dall'alto in basso dal grosso della critica (non senza qualche ragione qua e la) tanto quanto perennemente celebrata dalla maggioranza del pubblico popolare.
 

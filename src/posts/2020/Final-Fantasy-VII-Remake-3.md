@@ -3,7 +3,7 @@ layout: postita
 title: "Final Fantasy VII Remake è un fallimento di lusso"
 subtitle: "Non fa schifo, non ci assolve da tutti i nostri peccati"
 sommario: "Attenzione: possibili spoiler, evitate di leggere se volete evitarveli"
-immagine:  https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Final_Fantasy_VII_Remake_logo.PNG/1024px-Final_Fantasy_VII_Remake_logo.PNG
+immagine:  /img/archivio/videogiochi/final-fantasy-vii-remake-2-cover.jpg
 tags: ["videogiochi"]
 date: 2020-07-10
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Sagra IndieWeb 2026 - Gennaio"
 subtitle: "prova prova sah sah"
 sommario: "Oh primo post del 2026, buon anno! In realtà questa è una bloggata di risposta a quanto scriveva il buon Ed..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/a/a7/G%C3%A9r%C3%B4me_-_An_Arab_Caravan_outside_a_Fortified_Town%2C_Egypt.jpg
+immagine: /img/archivio/internet/sagra-indie-web-2026-cover.jpg
 tags: ["internet"]
 date: 2026-01-03
 lang: it-IT
@@ -55,7 +55,7 @@ Negli ultimi anni credo che le criticità principali del discorso IndieWeb siano
 
 Siamo praticamente come in *Silo* (non vado nei dettagli per evitare spoiler)
 
-![Rebecca Ferguson](https://upload.wikimedia.org/wikipedia/commons/7/78/Rebecca_2018.png)
+![Rebecca Ferguson](/img/archivio/internet/sagra-indie-web-2026-1.jpg)
 > ma è sempre una buona scusa per postare una bellissima Rebecca Ferguson selvatica che vuole lottare
 
 - **Tematiche**: faccenda complessa che vediamo spesso anche nel Fediverso, perché ogni persona ha voglia di parlare di determinate cose e in un contesto blog *giustamente* scrive anzitutto per sé, alimentando una propria esigenza che se va bene incontra quella del prossimo e se va male amen

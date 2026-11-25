@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Febbraio 2026"
 subtitle: "Hällas - Panorama"
 sommario: "Questo mese mi sono dato prevalentemente a riascolti di classici e sono rimasto completamente galvanizzato da un singolo disco, quindi per una volta è inutile perdersi in listoni"
-immagine: https://f4.bcbits.com/img/a2490219623_16.jpg
+immagine: /img/archivio/musica/2026-02-disco-del-mese-cover.jpg
 tags: ["musica"]
 date: 2026-02-20
 lang: it-IT

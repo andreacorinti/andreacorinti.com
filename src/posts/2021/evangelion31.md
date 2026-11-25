@@ -3,7 +3,7 @@ layout: postita
 title: "Evangelion 3.0+1.0: Thrice upon a time"
 subtitle: ".さらばさらばの手にかかる霞かな"
 sommario: "Grazie per non fuggire più, Hideaki Anno"
-immagine: https://image.tmdb.org/t/p/w1280/7WZRRres3z73WOFN9dh4EhiV1sW.jpg
+immagine: /img/archivio/film-serie/evangelion31-cover.jpg
 lang: it-IT
 tags: ["film-serie"]
 date: 2021-08-14
@@ -29,7 +29,7 @@ Quel bimbo si innamorò immediatamente di [_Zankoku na tenshi no tēze_](https:/
 
 Del resto non era certo nei programmi di Hideaki Anno, _la bestia che urlò amore nel cuore del mondo_, il genio assoluto che ha contribuito a ridefinire l'animazione giapponese (e non solo) combattendo contemporaneamente con la propria depressione, raccontando una storia (delle storie?) universale e al tempo stesso intima, personale, catartica per lui tanto quanto per lo spettatore.
 
-![albero](https://upload.wikimedia.org/wikipedia/commons/e/e2/Tree_of_Life_Fludd.jpg)
+![albero](/img/archivio/film-serie/evangelion31-1.jpg)
 
 ## Rebuild of Evangelion
 

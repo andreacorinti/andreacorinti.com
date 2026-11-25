@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Aprile 2025"
 subtitle: "Messa - The Spin"
 sommario: "Questo mese si vince facile visto che il buon Zel mi ha ricordato l'uscita del nuovo disco dei meravigliosi doomoni di Cittadella..."
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/f2b84580f50bc3bef6a5963e30768257.jpg
+immagine: /img/archivio/musica/disco-del-mese-04-2025-cover.jpg
 tags: ["musica"]
 date: 2025-04-30
 lang: it-IT

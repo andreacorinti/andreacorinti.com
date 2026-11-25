@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Luglio 2024"
 subtitle: "Ulver - Hollywood Babylon"
 sommario: "Kristoffer Rygg colpisce ancora"
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/4af4d2fac47a6f2b02b4cdf8802392f4.jpg#4af4d2fac47a6f2b02b4cdf8802392f4
+immagine: /img/archivio/musica/disco-del-mese-07-2024-cover.jpg
 tags: ["musica"]
 date: 2024-07-26
 lang: it-IT

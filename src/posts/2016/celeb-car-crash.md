@@ -3,7 +3,7 @@ layout: postita
 title: "Celeb Car Crash - People Are The Best Show"
 subtitle: "Recensione"
 sommario: "I Celeb Car Crash sono una band italiana che in realtà d'italiano ha ben poco. Ecco: stop, rewind e qualche precisazione:"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/celeb-car-crash.jpg
+immagine: /img/archivio/musica/celeb-car-crash-cover.jpg
 tags: ["musica"]
 date: 2016-10-24
 lang: it-IT
@@ -25,7 +25,7 @@ Non parliamo quindi di una cover band di Vasco Rossi (e ci mancherebbe), ma nemm
 
 ## Anni '90
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ccc/ccc.jpg" alt="Celeb Car Crash">
+<img src="/img/archivio/musica/celeb-car-crash-1.jpg" alt="Celeb Car Crash">
 
 **La scuola è infatti inevitabilmente quella vecchia-ma-non-troppo**, la stessa che per intenderci attingeva a piene mani dalle fondamenta del rock settantiano:
 
@@ -35,7 +35,7 @@ Volendola dare per buona, un po' per pigrizia e un po' per comodità, potremmo s
 
 ## Cover
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ccc/cover.jpg" alt="Celeb Car Crash">
+<img src="/img/archivio/musica/celeb-car-crash-2.jpg" alt="Celeb Car Crash">
 
 Menzione di merito all'artwork di [**Maleonn**](https://www.maleonn.com/), visionario artista cinese noto per collaborazioni con il Guardian e la BBC:
 
@@ -71,7 +71,7 @@ Forse nemmeno io.
 
 ## Passione vs Successo
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ccc/ccc2.jpg" alt="Celeb Car Crash">
+<img src="/img/archivio/musica/celeb-car-crash-3.jpg" alt="Celeb Car Crash">
 
 A tutti piace tifare per la prima, ci mancherebbe...
 

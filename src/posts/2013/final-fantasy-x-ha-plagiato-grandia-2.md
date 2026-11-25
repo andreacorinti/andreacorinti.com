@@ -3,7 +3,7 @@ layout: postita
 title: "Final Fantasy X e Grandia 2"
 subtitle: "Il Plagio?"
 sommario: "Il tema principale, i concetti di fondo (principalmente la questione teologica e come viene vissuta dalle rispettive protagoniste femminili) ..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/finalfantasyxgrandia2plagio.jpg
+immagine: /img/archivio/videogiochi/final-fantasy-x-ha-plagiato-grandia-2-cover.jpg
 tags: ["videogiochi"]
 date: 2013-03-01
 lang: it-IT

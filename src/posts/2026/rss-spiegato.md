@@ -3,7 +3,7 @@ layout: postita
 title: "Il feed RSS in soldoni"
 subtitle: "Le cose che vuoi leggere, quando vuoi leggerle"
 sommario: "Proviamo a spiegare in poche parole cos'è e come funziona un feed RSS e la sua importanza per la diffusione di notizie nella rete."
-immagine: https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg
+immagine: /img/archivio/internet/rss-spiegato-cover.svg
 tags: ["internet"]
 date: 2026-08-29
 lang: it-IT
@@ -79,7 +79,7 @@ Come detto ti serve un lettore RSS, ovvero un programma o una app che raccoglie 
 
 Su tantissimi siti trovi in giro una iconcina tipo questa:
 
-![Icona RSS](https://upload.wikimedia.org/wikipedia/commons/4/43/Feed-icon.svg)
+![Icona RSS](/img/archivio/internet/rss-spiegato-cover.svg)
 
 Quella è il segnale che il feed RSS è disponibile: spesso basta cliccarci sopra, oppure copiare l'indirizzo del sito dentro il tuo lettore, per iscriversi.
 

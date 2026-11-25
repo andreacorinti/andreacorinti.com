@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Dicembre 2024"
 subtitle: "Akira Yamaoka - SILENT HILL 2 ORIGINAL SOUNDTRACK -2024-"
 sommario: "E siamo arrivati alla fine del 2024! Confesso di essere impressionato dalla mia costanza..."
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/fd700beaba79ebb6121275bf83052fdf.jpg
+immagine: /img/archivio/musica/disco-del-mese-12-2024-cover.jpg
 tags: ["musica"]
 date: 2024-12-18
 lang: it-IT

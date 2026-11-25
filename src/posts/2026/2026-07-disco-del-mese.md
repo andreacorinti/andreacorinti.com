@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Luglio 2026"
 subtitle: "SLIFT - FANTASIA"
 sommario: "Extra mese che però ci voleva per forza: progressive Metal con una voce grunge anni '90, bassone potente e assoli da stoner band? E synth da Nobuo Uematsu in carriola?"
-immagine: https://www.ondarock.it/wp-content/uploads/sites/2/2026/06/a0879074866_16.jpg
+immagine: /img/archivio/musica/2026-07-disco-del-mese-cover.jpg
 tags: ["musica"]
 date: 2026-07-29
 lang: it-IT

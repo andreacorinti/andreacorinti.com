@@ -3,7 +3,7 @@ layout: postita
 title: "Metallica - Hardwired... to Self-Destruct"
 subtitle: "Recensione"
 sommario: "Recensione personale, senza conservanti (ma un po' d'olio di palma) dell'ultimo disco dei Metallica"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/hardwired.jpg
+immagine: /img/archivio/musica/metallica-hardwired-to-self-destruct-cover.jpg
 tags: ["musica"]
 date: 2016-11-21
 lang: it-IT

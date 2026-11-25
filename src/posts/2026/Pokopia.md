@@ -3,7 +3,7 @@ layout: postita
 title: "Pokopia è bello ma non ci vivrei"
 subtitle: ""
 sommario: "Da qualche mese sono felice possessore di una Nintendo Switch 2 (presa appena in tempo prima degli annunciati rincari) e la Steam Deck suo malgrado è finita da un po' nel cassetto."
-immagine: https://pokopia.pokemon.com/assets/en-us/pages/index/logo-pokopia.png
+immagine: /img/archivio/videogiochi/pokopia-cover.png
 tags: ["videogiochi"]
 date: 2026-06-05
 lang: it-IT

@@ -5,7 +5,7 @@ templateEngineOverride: njk,md
 lang: en-US
 title: "11ty, Webmentions and Bridgy part II [WebDev Log 02]" 
 subtitle: "no comments but something"
-immagine: https://brid.gy/static/bridgy_logo.jpg
+immagine: /img/archivio/internet/2-web-dev-log-cover.jpg
 sommario: "Works! well, sorta of..."
 date: 2021-02-10
 tweetid: "1359485913731129348"

@@ -3,7 +3,7 @@ layout: postita
 title: "Sanremo 2023"
 subtitle: "Un po' di fregnacce nazionalpopolari"
 sommario: "Amadeus Amadeus, oh oh Amadeus?"
-immagine:  https://upload.wikimedia.org/wikipedia/it/7/71/Festival_di_Sanremo_2023_logo.png
+immagine:  /img/archivio/musica/sanremo-2023-cover.jpg
 tags: ["musica"]
 date: 2023-02-09
 lang: it-IT

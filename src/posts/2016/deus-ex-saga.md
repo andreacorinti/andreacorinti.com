@@ -3,7 +3,7 @@ layout: postita
 title: "La Saga di Deus Ex"
 subtitle: "JC Denton e i suoi eredi"
 sommario: "O meglio una panoramica sui tre giochi antecedenti a Mankind Divided (che magari un giorno giocherò e recensirò, prima di morire speriamo)"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/deus-ex.jpg
+immagine: /img/archivio/videogiochi/deus-ex-saga-cover.jpg
 tags: ["videogiochi"]
 date: 2016-10-15
 lang: it-IT

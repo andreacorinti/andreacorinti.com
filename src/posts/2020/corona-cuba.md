@@ -3,7 +3,7 @@ layout: postita
 title: "I Medici Cubani"
 subtitle: "Diari della Quarantena #3"
 sommario: "A Cuba ci sono stato quand'ero solo un pischelletto, perciò tutto quello che ricordo ha i connotati della cartolina sbiadita"
-immagine: https://www.repstatic.it/content/localirep/img/rep-milano/2020/03/22/203028487-3dc53d51-0492-45c6-838d-1bd4db64d571.jpg
+immagine: /img/archivio/xabologia/corona-cuba-cover.jpg
 tags: ["xabologia"]
 date: 2020-03-22
 lang: it-IT

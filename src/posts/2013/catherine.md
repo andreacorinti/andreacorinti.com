@@ -3,7 +3,7 @@ layout: postita
 title: "Catherine"
 subtitle: "Recensione"
 sommario: "Catherine è un gioco che fondamentalmente o si ama o si odia, e molto difficilmente può essere digerito per il verso giusto da tutti i palati"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/catherine.jpg
+immagine: /img/archivio/videogiochi/catherine-cover.jpg
 tags: ["videogiochi"]
 date: 2013-02-14
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Ottobre 2026"
 subtitle: "Dream Unending - Certain Uncertainties"
 sommario: "Il disco del mese va ai Dream Unending con Certain Uncertainties! In spaventoso ritardo, e conseguentemente sarà così anche per novembre e dicembre direi"
-immagine: https://f4.bcbits.com/img/a3202484949_10.jpg
+immagine: /img/archivio/musica/2026-10-disco-del-mese-cover.jpg
 tags: ["musica"]
 date: 2026-11-23
 lang: it-IT

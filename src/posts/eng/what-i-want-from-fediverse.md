@@ -5,7 +5,7 @@ templateEngineOverride: njk,md
 lang: en-US
 title: In the Fediverse I would like
 subtitle: my Fediverse thoughts for 2024
-immagine: https://3.bp.blogspot.com/-nf3R4LROWrE/UG61bzMZ7jI/AAAAAAAAA1M/t3volLopJys/s1600/mulinobianco.jpg
+immagine: /img/archivio/internet/what-i-want-from-fediverse-cover.jpg
 sommario: "2023 is coming to an end and I personally believe it has been one of the best internet years in a long time..."
 date: 2023-12-29
 ---
@@ -28,7 +28,7 @@ I think the internet has become a place where people are increasingly disconnect
 
 We are all living in our own echo chambers, surrounded by people who think the same way as us.
 
-![david-bowie-i'm-afraid-of-americans](https://upload.wikimedia.org/wikipedia/en/3/37/Bowie_I%27mAfraidofAmericans.jpg)
+![david-bowie-i'm-afraid-of-americans](/img/archivio/internet/what-i-want-from-fediverse-1.jpg)
 
 ## The Fediverse
 

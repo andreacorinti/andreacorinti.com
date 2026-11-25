@@ -3,7 +3,7 @@ layout: postita
 title: "Akira e Final Fantasy VII"
 subtitle: "Di moto, bombe atomiche e teppismo. Ma non solo"
 sommario: Penso a questo post da circa un annetto, da quando cioè lessi per la prima volta il manga del capolavoro di Katsuhiro Otomo...
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/akira-ff7.jpg
+immagine: /img/archivio/film-serie/akira-e-final-fantasy-vii-cover.jpg
 lang: it-IT
 tags: ["film-serie"]
 date: 2017-03-14
@@ -19,8 +19,8 @@ Diciamo che mi sono divertito ad analizzare alcuni particolari della **cifra sti
 
 **_Final Fantasy VII_**.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira1.jpg)
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-1.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-1.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-2.jpg)
 
 _La grande scuola artistica dei montacarichi._
 
@@ -38,9 +38,9 @@ Tuttavia, visto che menziono **due opere indiscutibilmente seminali per i rispet
 
 ## Il lascito di Hiroshima e Nagasaki
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira4.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-3.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-4.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-4.jpg)
 
 **Il trauma dell'Atomica è stato molto spesso ripreso dall'intrattenimento giapponese**, in parte forse con l'intento di esorcizzarlo:
 
@@ -60,9 +60,9 @@ Forse anche per quanto appena scritto, **lo sci-fi giapponese ha spesso avuto un
 
 ## Moto!
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira-moto.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-5.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-moto.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-6.jpg)
 
 Se seguite anime-manga o siete comunque appassionati della pop culture nipponica avrete ben note le figure dei _Bōsōzoku_: letteralmente, **Tribù della Velocità Sfrenata**
 
@@ -73,7 +73,7 @@ _Lo so, a vederli fanno un sacco ridere ma chissà che ne direbbe il Marrabbio d
 
 In buona sostanza, la categoria del giovane **Eikichi Onizuka** (celeberrimo protagonista di _GTO_ e _Shonan Junai Gumi_) ma anche, per certi versi, diretti _colleghi_ del nostro **Cloud**:
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/gioco-moto-ff7.gif)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-7.gif)
 
 _Questo mini-gioco è a tutti gli effetti uno dei primi "Bōsōzoku Simulator", a voler ben vedere_
 
@@ -81,15 +81,15 @@ Inutile dire che **Kaneda e Tetsuo questa moda non solo l'hanno _cavalcata_, han
 
 Basti pensare alla copertina del film, con Kaneda di spalle che osserva la sua meravigliosa moto scarlatta.
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira-cover.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-8.jpg)
 
 Non parliamo "solo" di **una delle immagini più emblematiche, citate e celebrate della storia di animazione e fumetto**: se ci pensate, **è un vero e proprio manifesto per l'intera sottocultura sopracitata**.
 
 ## Midgar e Neo Tokyo
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/neo-tokyo.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-9.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/midgard.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-10.jpg)
 
 Diverse eppure strette parenti, poiché ambedue degne **rappresentanti dell'incubo celato dietro il sogno delle Megalopoli**:
 
@@ -103,24 +103,24 @@ Credo fosse inevitabile che la versione futuristica di Tokyo concepita da Otomo 
 
 Epicentri di tecnologia, inquinamento, un passato soffocato dall'inesorabile bisogno di _futuro_ ma, e soprattutto, caratterizzati da un tremendo **classismo.**
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira2.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-11.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-2.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-12.jpg)
 _Nel dubbio, da qualche parte mettece un parco giochi._
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira6.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-13.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-6.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-14.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira7.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-15.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-7.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-16.jpg)
 
 Classismo che, com'è tipico anzitutto nella vita reale, **va riflettendosi tanto negli individui quanto nell'architettura stessa dei vari quartieri** o, per meglio dire, dei vari **_Settori_.**
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira5.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-17.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-5.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-18.jpg)
 
 ## Il Futuro passato del Giappone
 
@@ -140,9 +140,9 @@ Ma dall'altro, abbiamo la prima grande opera videoludica in tre dimensioni, dal 
 
 ## Akira e Jenova
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/akira3.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-19.jpg)
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/ffvii-3.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-20.jpg)
 
 Misteriose e potentissime entità che, **nonostante appaiano relativamente poco o comunque molto in sordina, rappresentano un po' l'epicentro di tutto**, in primis dell' _"effetto Hiroshima"_ di cui ciarlavo all'inizio.
 
@@ -154,7 +154,7 @@ Non a caso infatti ambedue le figure **posseggono una forte connotazione mistica
 
 In pratica, ritorniamo **alla dicotomia tutta Giapponese che menzionavo prima analizzando Midgard e Tokyo.**
 
-![akira e final fantasy vii](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/akira-ff7/sensoji.jpg)
+![akira e final fantasy vii](/img/archivio/film-serie/akira-e-final-fantasy-vii-21.jpg)
 
 _L'antichissimo tempio buddhista Sensō-ji, incastonato nel quartiere di Asakusa nel bel mezzo della modernissima capitale nipponica, è forse l'emblema perfetto per rendere tutto questo discorso._
 

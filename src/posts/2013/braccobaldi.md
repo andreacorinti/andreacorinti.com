@@ -3,7 +3,7 @@ layout: postita
 title: "I Braccobaldi"
 subtitle: "E le loro peripezie"
 sommario: "Questi sconosciuti. Correva l'anno 2008, se le mie idiozie erano ancora più..)"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/braccobaldi.jpg
+immagine: /img/archivio/film-serie/braccobaldi-cover.jpg
 tags: ["film-serie"]
 date: 2013-02-17
 lang: it-IT
@@ -29,15 +29,15 @@ Bella domanda. Dicasi Braccobaldo: individuo intollerante, oggettivo, masochista
 
 Esempi di Braccobaldi:
 
-![berlusconi ride](https://upload.wikimedia.org/wikipedia/commons/c/c7/Silvio_Berlusconi_09072008.jpg)
+![berlusconi ride](/img/archivio/film-serie/braccobaldi-1.jpg)
 
 ![mussolini](https://upload.wikimedia.org/wikipedia/it/8/8a/Mussolini_mezzobusto.jpg)
 
-![napoleone](https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg)
+![napoleone](/img/archivio/film-serie/braccobaldi-3.jpg)
 
 ## Caratteristiche
 
-![doraemon](https://upload.wikimedia.org/wikipedia/it/3/35/Doraemon.jpg)
+![doraemon](/img/archivio/film-serie/braccobaldi-4.jpg)
 
 Braccobaldo Nipponico da Combattimento
 

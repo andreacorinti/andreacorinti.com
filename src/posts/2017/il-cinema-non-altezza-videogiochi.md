@@ -3,7 +3,7 @@ layout: postita
 title: "Il Cinema non è all'altezza dei Videogiochi"
 subtitle: "L'industria dei playoff"
 sommario: "Storicamente il Cinema è stato tutelato più o meno da tutta l'intellighenzia moderna, mentre solo in tempi recenti il videogame ha acquisito un minimo di dignità pubblicamente riconosciuta:..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/cinema-videogiochi.jpg
+immagine: /img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-cover.jpg
 tags: ["videogiochi"]
 date: 2017-03-21
 lang: it-IT
@@ -58,7 +58,7 @@ E, giusto per non fare il solito retrogamer, parto con un esempio bello recente:
 
 ## Indiana Drake: L'esempio film di Uncharted
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/1a/Uncharted_4_box_artwork.jpg" alt="uncharted">
+<img src="/img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-1.jpg" alt="uncharted">
 
 La serie di **Nathan Drake** ha da sola saputo tenere in piedi un genere, quello dei **film d'avventura**, abbastanza bistrattato dalle grandi produzioni cinematografiche moderne, in genere rintanate in _brand_ sicuri e già collaudati. [^collaudati]
 
@@ -101,7 +101,7 @@ In fondo, _a che serve?_
 
 Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica? <small>(se non sapete di che sto parlando, cliccate pure [qui](https://xabacadabra.github.io/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/kingsglaive/2.jpg" alt="Kingsglaive-Final-Fantasy-XV">
+<img src="/img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-2.jpg" alt="Kingsglaive-Final-Fantasy-XV">
 
 Ci terreste _davvero_ a vederne una nuova versione con **attori in carne ed ossa che ciarlano tra uno schermo verde e l'altro?** [^gandalf]
 

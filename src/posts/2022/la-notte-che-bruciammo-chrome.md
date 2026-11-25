@@ -3,7 +3,7 @@ layout: postita
 title: "La notte che bruciammo Chrome"
 subtitle: "Osservazioni sulla raccolta di racconti di William Gibson."
 sommario: "Osservazioni sulla raccolta di racconti di William Gibson."
-immagine: https://3.bp.blogspot.com/-1PcMqhXhQs4/UviC7Pm9BwI/AAAAAAAAG18/YevtQpotQyw/s1600/la+notte+che+bruciammo+Chrome+cover.jpg
+immagine: /img/archivio/film-serie/la-notte-che-bruciammo-chrome-cover.jpg
 tags: ["film-serie"]
 date: 2022-05-14
 lang: it-IT

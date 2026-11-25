@@ -3,7 +3,7 @@ layout: postita
 title: "Baldur's Gate"
 subtitle: "La morale"
 sommario: "Ho deciso di aprire questo 2018 così come l'ho ludicamente finito, vale a dire riterminando, dopo tanti anni, la celeberrima saga di Baldur's Gate"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/baldur.jpg
+immagine: /img/archivio/videogiochi/baldurs-gate-cover.jpg
 tags: ["videogiochi"]
 date: 2018-01-04
 lang: it-IT

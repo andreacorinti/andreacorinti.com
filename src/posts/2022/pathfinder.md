@@ -3,7 +3,7 @@ layout: postita
 title: "Pathfinder: Kingmaker"
 subtitle: ""
 sommario: "Siccome in queste ore l'Italia trabocca di Kingmaker per il Quirinale, mi sono ricordato di inserire qui la piccola recensione che ho fatto su Pathfinder: Kingmaker su steam."
-immagine: https://cdn.cloudflare.steamstatic.com/steam/apps/640820/header.jpg
+immagine: /img/archivio/videogiochi/pathfinder-cover.jpg
 tags: ["videogiochi"]
 date: 2022-01-24
 lang: it-IT

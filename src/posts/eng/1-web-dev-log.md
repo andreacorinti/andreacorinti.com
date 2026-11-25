@@ -5,7 +5,7 @@ templateEngineOverride: njk,md
 lang: en-US
 title: "11ty, Webmentions and Bridgy [WebDev Log 01]" 
 subtitle: going crazy with style
-immagine: https://indieweb.org/img/indiewebcamp.svg
+immagine: /img/archivio/internet/1-web-dev-log-cover.svg
 sommario: "Since I've upgraded pretty much everything here, I'm going back to one of the fundamental problems of my website: Comments & Interactions"
 date: 2021-02-03
 tweetId: '1359114143219990530'

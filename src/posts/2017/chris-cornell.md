@@ -3,7 +3,7 @@ layout: postita
 title: "Addio Chris Cornell"
 subtitle: "Qualche parola a braccio"
 sommario: "Qualche parola a braccio."
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/chris-cornell.jpg
+immagine:  /img/archivio/musica/chris-cornell-cover.jpg
 tags: ["musica"]
 date: 2017-05-18
 lang: it-IT

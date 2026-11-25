@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Gennaio 2024"
 subtitle: "Sgàile - Traverse The Bealach"
 sommario: "Inauguro oggi una piccola rubrica musicale per due motivi: tenere traccia dei nuovi dischi che incrocio durante l'anno per tenermi pronto al riepilogone...."
-immagine: https://f4.bcbits.com/img/a3952051954_16.jpg
+immagine: /img/archivio/musica/disco-del-mese-01-2024-cover.jpg
 tags: ["musica"]
 date: 2024-01-23
 lang: it-IT

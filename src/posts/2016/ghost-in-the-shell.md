@@ -3,7 +3,7 @@ layout: postita
 title: "Ghost in the Shell"
 subtitle: "Una veloce panoramica"
 sommario: "È dal 2013, quando ho aperto questo blog, che vorrei scrivere qualcosa a riguardo. Pure prima, in verità..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ghost-in-the-shell.jpg
+immagine: /img/archivio/film-serie/ghost-in-the-shell-cover.jpg
 tags: ["film-serie"]
 date: 2016-11-13
 lang: it-IT
@@ -23,7 +23,7 @@ Perciò, intanto tiriamo fuori una veloce panoramica delle cose che conosco.
 
 ## Il primo manga
 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d1/Ghost_in_the_Shell.jpg" alt="ghost in the shell">
+<img src="/img/archivio/film-serie/ghost-in-the-shell-1.jpg" alt="ghost in the shell">
 
 Un'opera rivoluzionaria assolutamente stupenda, tanto elaborata e complessa quanto accessibile e fascinosa per il grande pubblico.
 
@@ -57,7 +57,7 @@ Che per contro invece rappresenta uno dei massimi esponenti di _"poliziesco cybe
 
 ## Stand Alone Complex
 
-<img src="https://upload.wikimedia.org/wikipedia/it/a/ac/Ghost_intheshell_sac_01.jpg" alt="ghost in the shell">
+<img src="/img/archivio/film-serie/ghost-in-the-shell-2.jpg" alt="ghost in the shell">
 
 Nel medesimo filone inserirei anche la serie anime di **Kenji Kamiyama**:
 

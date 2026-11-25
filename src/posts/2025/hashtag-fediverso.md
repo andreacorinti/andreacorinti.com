@@ -3,7 +3,7 @@ layout: postita
 title: "Gli Hashtag e il Fediverso"
 subtitle: "A Musk gli hashtag non piacciono, quindi sono bellissimi."
 sommario: "A Musk gli hashtag non piacciono, quindi sono bellissimi. Se postiamo qualcosa nel Fediverso, tendenzialmente speriamo che venga letta da qualcuno, giusto?"
-immagine: https://upload.wikimedia.org/wikipedia/commons/a/a2/Ruter_logo_%28number_sign%29.png
+immagine: /img/archivio/internet/hashtag-fediverso-cover.png
 tags: ["internet"]
 date: 2025-01-26
 lang: it-IT
@@ -41,7 +41,7 @@ tuttavia, bisogna riconoscere che la faccenda è figlia di una dinamica compless
 
 ### Quando è moda è moda
 
-![Chris-Messina](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chris_Messina_-_South_by_Southwest_2010_%281%29.jpg/560px-Chris_Messina_-_South_by_Southwest_2010_%281%29.jpg)
+![Chris-Messina](/img/archivio/internet/hashtag-fediverso-1.jpg)
 > Chris Messina, ispirandosi a IRC, nel 2007 suggerì l'implementazione degli hashtag su Twitter.
 
 Non ho dati alla mano per supportare la mia tesi (e non vale la pena cercarli per lo scopo di questo post) ma ho ragione di credere **che gli hasthag non piacciano all'algoritmo di Twitter da ben prima che quest'ultimo si tramutasse in X**.
@@ -64,7 +64,7 @@ ed è un peccato perché, sebbene tenda ad ignorare i post che ne includono trop
 
 ### Perché gli Hashtag nel Fediverso sono importanti?
 
-![Fediverso](https://upload.wikimedia.org/wikipedia/commons/9/93/Fediverse_logo_proposal.svg)
+![Fediverso](/img/archivio/internet/fediverso-fandango-cover.svg)
 
 Intanto, cercare post nel Fediverso è quello che è: 
 
@@ -100,7 +100,7 @@ chissà quanti post interessanti a tema Final Fantasy mi sono perso per via dell
 
 ### Discorso linguistico 
 
-![The Confusion of Tongues - Gustave Doré](https://upload.wikimedia.org/wikipedia/commons/a/af/Confusion_of_Tongues.png)
+![The Confusion of Tongues - Gustave Doré](/img/archivio/internet/hashtag-fediverso-3.jpg)
 
 Capita che le persone non siano fuori di testa come il sottoscritto (🪬) e non cerchino di interagire con gente che posta in lingue diverse da quelle che si conoscono: 
 
@@ -112,7 +112,7 @@ Per lo stesso motivo, ogni tanto curioso il popolare [**#ViernesDeEscritorio**](
 
 ### Rubriche
 
-![Una domenica pomeriggio sull'isola della Grande-Jatte - Georges Seurat](https://upload.wikimedia.org/wikipedia/commons/0/03/Georges_Seurat_-_Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%AEle_de_la_Grande_Jatte.jpg)
+![Una domenica pomeriggio sull'isola della Grande-Jatte - Georges Seurat](/img/archivio/internet/hashtag-fediverso-4.jpg)
 
 Proprio come quella appena citata, su LivelloSegreto da parecchie settimane passo il tempo a fare il cascamorto con la celeberrima [**#CrushDelMercoledì**](https://livellosegreto.it/tags/CrushDelMercoledi), anche perché spesso è un ottimo spunto per parlare di altro (film, videogiochi, anime, sport...).
 
@@ -172,7 +172,7 @@ Io per primo mi pento di non averne usati abbastanza per identificare alcuni pos
 
 ### Conclusioni
 
-![Revolución a la Educación](https://upload.wikimedia.org/wikipedia/commons/d/d0/2016-366-53_Revoluci%C3%B3n_a_la_Educaci%C3%B3n_es_Aqu%C3%AD_%2825177121396%29.jpg)
+![Revolución a la Educación](/img/archivio/internet/hashtag-fediverso-5.jpg)
 
 Senza abusarne e utilizzarne impropriamente (salvo non siate alla ricerca di blocchi / silenziamenti istantanei), **gli hashtag sono uno strumento utilissimo per migliorare la vostra esperienza sociale nel Fediverso.**
 

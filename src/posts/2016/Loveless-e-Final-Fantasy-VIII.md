@@ -3,7 +3,7 @@ layout: postita
 title: "Loveless e Final Fantasy VIII"
 subtitle: Esplorando Squaresoft
 sommario: "Quando affermo che giocando e rigocando ai vecchi Final Fantasy mi sembra sempre di scoprire qualcosa di nuovo non lo dico tanto per dire..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/loveless.jpg
+immagine: /img/archivio/videogiochi/loveless-e-final-fantasy-viii-cover.jpg
 tags: ["videogiochi"]
 date: 2016-01-02
 lang: it-IT
@@ -18,7 +18,7 @@ Ciondolando in giro con l'Highwind verso la fine di **Final Fantasy VII** (inizi
 Dopo aver sottolineato il suo essersi bellamente addormentato ad opera in corso, il nostro caro Capitano ha recitato a memoria le ultime battute della _piece_, probabilmente le uniche che aveva effettivamente ascoltato (e solo perché svegliato da un altro spettatore stizzito dal suo russare imperterrito):
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/loveless/cid.jpg" alt="Cid Higwind cita Loveless">
+	<img src="/img/archivio/videogiochi/loveless-e-final-fantasy-viii-1.jpg" alt="Cid Higwind cita Loveless">
 </figure>
 
 > "Do you really have to leave?"
@@ -46,20 +46,20 @@ _Loveless_ è un album del 1991 della band irlandese **My Bloody Valentine**, di
 Se si fa attenzione, si può anche intravedere il nome della band in uno dei poster che appaiono nel Settore 8 di Midgar:
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/loveless/sector8loveless.jpg" alt="Sector 8 Loveless">
+	<img src="/img/archivio/videogiochi/loveless-e-final-fantasy-viii-2.jpg" alt="Sector 8 Loveless">
 		<small>Il Settore 8</small>
 
 </figure>
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/loveless/mybloodyvalentine.jpg" alt="My Bloody Valentine">
+	<img src="/img/archivio/videogiochi/loveless-e-final-fantasy-viii-3.jpg" alt="My Bloody Valentine">
 	<small>close-up</small>
 </figure>
 
 Infine, la ragazza raffigurata nel suddetto poster sarebbe ispirata a nient'altri che Bilinda Butcher, cantante del gruppo.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/loveless/BilindaButcher.jpg" alt="Bilinda Butcher">
+	<img src="/img/archivio/videogiochi/loveless-e-final-fantasy-viii-4.jpg" alt="Bilinda Butcher">
 </figure>
 
 Insomma: _Loveless_ nascondeva già qualche chicca ben prima di diventare una scusa per far dire a Gackt _"The Gift of the Goddess"_ ogni 5 minuti, e non è da escludere si trattasse di una sorta di bozza / riferimento indiretto verso quello che sarebbe stato Final Fantasy VIII, il cui sviluppo [cominciò nel 1997, proprio durante la traduzione inglese di Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII#Development).

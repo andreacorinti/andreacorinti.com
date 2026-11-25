@@ -3,7 +3,7 @@ layout: postita
 title: "Cosa succede se un utente viene silenziato su Mastodon?"
 subtitle: "Esperimenti e scoperte"
 sommario: "Cosa succede se un'istanza di Mastodon decide di silenziare o bloccare un utente?"
-immagine: https://upload.wikimedia.org/wikipedia/commons/7/72/Mastodon_La_Brea.jpg
+immagine: /img/archivio/internet/mastodon-silenziare-cover.jpg
 tags: ["internet"]
 date: 2023-07-13
 lang: it-IT 
@@ -23,7 +23,7 @@ Sul momento, ho strabuzzato gli occhi temendo di essermi bevuto il cervello a ca
 
 _non solo_ avevo risposto a Caos, ma la conversazione è proseguita diventando un allegro delirio che ha coinvolto nell'ordine [Nikole](https://livellosegreto.it/@nikole), [CapeTaun](https://livellosegreto.it/@capetaun) e [Raffy_Baffy](https://livellosegreto.it/@Raffy_Baffy).
 
-![basil](https://upload.wikimedia.org/wikipedia/it/thumb/1/19/Basil_l%27investigatopo.png/1200px-Basil_l%27investigatopo.png)
+![basil](/img/archivio/internet/mastodon-silenziare-1.jpg)
 
 esempio pratico: 
 

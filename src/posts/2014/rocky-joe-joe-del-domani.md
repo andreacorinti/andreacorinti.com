@@ -3,7 +3,7 @@ layout: postita
 title: "Rocky Joe - Joe del Domani"
 subtitle: "Bruciare con una fiamma rossa"
 sommario: "Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno affascinato nei vecchi classici prodotti d'animazione/fumettistici del..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/rocky-joe.jpg
+immagine: /img/archivio/film-serie/rocky-joe-joe-del-domani-cover.jpg
 tags: ["film-serie"]
 date: 2014-12-10
 lang: it-IT

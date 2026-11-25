@@ -5,7 +5,7 @@ templateEngineOverride: njk,md
 lang: en-US
 title: "What will happen to my Telegram account when I’ll die?" 
 subtitle: Happy New Year!
-immagine: https://miro.medium.com/max/1280/0*dwMDnBTHREC4OxiW.jpg
+immagine: /img/archivio/internet/telegram-cover.jpg
 sommario: "I love Telegram. I’m using the Durov’s app since its debut back in 2013, and I enjoy it way more than WhatsApp, Facebook Messenger, and all other competitors combined for way too many reasons..."
 date: 2021-12-27
 ---

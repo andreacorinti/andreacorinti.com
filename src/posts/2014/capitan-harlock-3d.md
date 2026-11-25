@@ -3,7 +3,7 @@ layout: postita
 title: "Capitan Harlock 3d"
 subtitle: "Recensione"
 sommario: "Leggendario è uno di quei tanti aggettivi andati svalutandosi nel corso degli anni..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/capitan-harlock-3d.jpg
+immagine: /img/archivio/film-serie/capitan-harlock-3d-cover.jpg
 tags: ["film-serie"]
 date: 2014-01-03
 lang: it-IT

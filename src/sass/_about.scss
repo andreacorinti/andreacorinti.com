@@ -18,7 +18,7 @@
   // (background-clip) e il timbro va su un livello suo (translateZ +
   // backface-visibility), che il browser smussa meglio.
   transform: rotate(-4deg) translateZ(0);
-  border: 3px solid #121212;
+  border: 3px solid var(--tdbc-text); // chiaro in scuro, scuro in chiaro, come .cat-btn
   outline: 1px solid transparent;
   background-clip: padding-box;
   background-color: var(--tdbc-nav-mark);
@@ -26,7 +26,7 @@
   font-size: 0.62em;
   line-height: 1;
   text-shadow: none;
-  box-shadow: 4px 4px 0 #121212;
+  box-shadow: 4px 4px 0 var(--tdbc-text);
   backface-visibility: hidden;
 }
 
@@ -88,4 +88,69 @@
 // bottone "Leggi in italiano" della versione inglese, gemello di English
 .cat-btn--italiano {
   --tdbc-cat: #5be38a;
+}
+
+// Riquadro "Freelance" con la Partita IVA in evidenza (stesso linguaggio
+// delle card: bordo, ombra piena, etichetta in Teko). Il numero si seleziona
+// tutto con un clic (user-select: all), comodo da copiare.
+.freelance-box {
+  // stesse linee morbide delle card (_postcard.scss): grigio/nero in scuro
+  --tdbc-card-line: #3a3a3a;
+  --tdbc-card-shadow: #000;
+
+  :root[data-theme="light"] & {
+    --tdbc-card-line: var(--tdbc-text);
+    --tdbc-card-shadow: var(--tdbc-text);
+  }
+
+  max-width: 34rem;
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem 1.1rem;
+  border: 2px solid var(--tdbc-card-line, var(--tdbc-text));
+  border-left: 6px solid var(--tdbc-nav-mark);
+  border-radius: 4px;
+  background-color: var(--tdbc-surface);
+  box-shadow: 5px 5px 0 var(--tdbc-card-shadow, var(--tdbc-text));
+
+
+  &__label {
+    margin: 0;
+    color: var(--tdbc-muted);
+    font-family: Teko, sans-serif;
+    font-size: 1.25rem;
+    letter-spacing: 0.05em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  &__what {
+    margin: 0.35rem 0 0;
+  }
+
+  &__piva {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin: 0.75rem 0 0;
+    font-family: Teko, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1;
+
+    span {
+      color: var(--tdbc-muted);
+      font-size: 0.8em;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    strong {
+      padding: 0.15em 0.4em 0;
+      border: 2px solid var(--tdbc-text);
+      color: var(--tdbc-text);
+      font-weight: normal;
+      letter-spacing: 0.08em;
+      user-select: all;
+    }
+  }
 }

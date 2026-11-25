@@ -3,7 +3,7 @@ layout: postita
 title: "Sanremo 2016"
 subtitle: "Perché guardi Sanremo?"
 sommario: "Perché guardi Sanremo?"
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/perche-sanremo.jpg
+immagine:  /img/archivio/musica/sanremo-2016-cover.jpg
 tags: ["musica"]
 date: 2016-02-08
 lang: it-IT

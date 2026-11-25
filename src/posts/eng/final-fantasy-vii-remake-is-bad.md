@@ -5,7 +5,7 @@ templateEngineOverride: njk,md
 lang: en-US
 title: Final Fantasy VII Remake is bad
 subtitle: And fans deserve it
-immagine: https://miro.medium.com/max/875/0*JDN3FqDwaQLzjyXy.jpg
+immagine: /img/archivio/videogiochi/final-fantasy-vii-remake-is-bad-cover.jpg
 date: 2021-12-28
 sommario: "If Stairway to Heaven were to be released tomorrow, would it still be the Stairway to Heaven we know?"
 medium: https://xab.medium.com/final-fantasy-vii-remake-is-bad-b9d63497540a

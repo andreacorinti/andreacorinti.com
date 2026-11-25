@@ -3,7 +3,7 @@ layout: postita
 title: "Possiamo leggere e scrivere di videogiochi smettendola con le recensioni?"
 subtitle: "è il tempo di dire basta"
 sommario: "è il tempo di dire basta"
-immagine: https://upload.wikimedia.org/wikipedia/commons/f/fd/E3_showfloor_sony_stand_2006.JPG
+immagine: /img/archivio/videogiochi/no-recensioni-cover.jpg
 lang: it-IT
 tags: ["videogiochi"]
 date: 2021-11-11

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 288 528" width="288" height="528">
+	<desc>
+		SVG version of a screenshot of the tetromino game (AKA Tetris) in Emacs.
+		Original screenshoot at http://commons.wikimedia.org/wiki/Image:Emacs_Tetris_(detail).png created by user Eldred
+		SVG version by user FedericoMP.
+	</desc>
+	<defs>
+		<pattern id="screenBorderDef" width="24" height="24" patternUnits="userSpaceOnUse">
+			<rect x="2" y="2" width="20" height="20" fill="#666"/>
+			<polygon fill="#999" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#333" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</pattern>
+		<g id="violet">
+			<rect x="2" y="2" width="20" height="20" fill="#90c"/>
+			<polygon fill="#c0f" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#609" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="magenta">
+			<rect x="2" y="2" width="20" height="20" fill="#c0c"/>
+			<polygon fill="#f0f" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#909" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="red">
+			<rect x="2" y="2" width="20" height="20" fill="#c00"/>
+			<polygon fill="#f00" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#900" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="yellow">
+			<rect x="2" y="2" width="20" height="20" fill="#cc0"/>
+			<polygon fill="#ff0" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#990" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+		<g id="cyan">
+			<rect x="2" y="2" width="20" height="20" fill="#0cc"/>
+			<polygon fill="#0ff" points="0,0 24,0 22,2 2,2 2,22 0,24 0,0"/>
+			<polygon fill="#099" points="24,0 24,24 0,24 2,22 22,22 22,2 24,0"/>
+		</g>
+	</defs>
+
+	<rect fill="url(#screenBorderDef)" x="0" y="0" width="288" height="528"/>
+	<rect fill="#000" x="24" y="24" width="240" height="480"/>
+	
+	<!-- the falling piece -->
+	<use xlink:href="#violet" transform="translate(96,192)"/>
+	<use xlink:href="#violet" transform="translate(120,192)"/>
+	<use xlink:href="#violet" transform="translate(144,192)"/>
+	<use xlink:href="#violet" transform="translate(144,216)"/>
+
+	<!-- there is a group for each row -->
+	<use xlink:href="#magenta" transform="translate(240,384)"/>
+
+	<use xlink:href="#red" transform="translate(120,408)"/>
+	<use xlink:href="#yellow" transform="translate(144,408)"/>
+	<use xlink:href="#magenta" transform="translate(216,408)"/>
+	<use xlink:href="#magenta" transform="translate(240,408)"/>
+
+	<use xlink:href="#magenta" transform="translate(96,432)"/>	
+	<use xlink:href="#red" transform="translate(120,432)"/>
+	<use xlink:href="#yellow" transform="translate(144,432)"/>
+	<use xlink:href="#magenta" transform="translate(216,432)"/>
+	<use xlink:href="#magenta" transform="translate(240,432)"/>
+
+	<use xlink:href="#violet" transform="translate(24,456)"/>
+	<use xlink:href="#magenta" transform="translate(72,456)"/>
+	<use xlink:href="#magenta" transform="translate(96,456)"/>
+	<use xlink:href="#red" transform="translate(120,456)"/>
+	<use xlink:href="#yellow" transform="translate(144,456)"/>
+	<use xlink:href="#yellow" transform="translate(168,456)"/>
+	<use xlink:href="#red" transform="translate(192,456)"/>
+	<use xlink:href="#magenta" transform="translate(216,456)"/>
+	<use xlink:href="#magenta" transform="translate(240,456)"/>
+
+	<use xlink:href="#red" transform="translate(24,480)"/>
+	<use xlink:href="#cyan" transform="translate(48,480)"/>
+	<use xlink:href="#magenta" transform="translate(72,480)"/>
+	<use xlink:href="#yellow" transform="translate(96,480)"/>
+	<use xlink:href="#cyan" transform="translate(144,480)"/>
+	<use xlink:href="#magenta" transform="translate(168,480)"/>
+	<use xlink:href="#magenta" transform="translate(192,480)"/>
+	<use xlink:href="#magenta" transform="translate(216,480)"/>
+	<use xlink:href="#magenta" transform="translate(240,480)"/>
+</svg>

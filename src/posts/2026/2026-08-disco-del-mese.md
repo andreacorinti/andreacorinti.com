@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Agosto 2026"
 subtitle: "Cairiss - Wilderness"
 sommario: "Siccome nelle ultime settimane mi sto dando a riascolti di vecchie glorie direi che possiamo chiudere qui, e per me agosto lo vincono i Cairiss con Wilderness"
-immagine: https://f4.bcbits.com/img/a1079354304_1x1_700.avif
+immagine: /img/archivio/musica/2026-08-disco-del-mese-cover.avif
 tags: ["musica"]
 date: 2026-08-26
 lang: it-IT

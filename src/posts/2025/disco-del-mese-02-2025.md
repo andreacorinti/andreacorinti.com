@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Febbraio 2025"
 subtitle: "Saor – Amidst the Ruins"
 sommario: "Lasciamoci alle spalle un Sanremo orrendo (in cui mio malgrado ho dovuto rivalutare Fedez...) e andiamo alla mia solita rassenga di dischi del mese, con in cima un meraviglioso figlio di Scozia..."
-immagine: https://www.angrymetalguy.com/wp-content/uploads/2025/02/567672.jpg
+immagine: /img/archivio/musica/disco-del-mese-02-2025-cover.jpg
 tags: ["musica"]
 date: 2025-02-27
 lang: it-IT

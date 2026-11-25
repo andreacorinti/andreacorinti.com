@@ -3,7 +3,7 @@ layout: postita
 title: "Baldur’s Gate III"
 subtitle: "Colpisci agli occhi, Boo! COLPISCI AGLI OCCHI! AAAAAAAAAARGH!"
 sommario: "Per me, è molto complicato parlare di Baldur's Gate III. E sto pure alla seconda run!"
-immagine: https://baldursgate3.game/wallpapers/thumbnails/wallpaper-01-thumb.jpg
+immagine: /img/archivio/videogiochi/baldurs-gate-3-cover.jpg
 tags: ["videogiochi"]
 date: 2024-02-28
 lang: it-IT

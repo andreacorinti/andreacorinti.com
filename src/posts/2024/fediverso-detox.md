@@ -3,7 +3,7 @@ layout: postita
 title: "Fediverso Detox?"
 subtitle: "Un po' di chiacchere sull'ultimo periodo fediversico"
 sommario: "Scrivo queste righe per elaborare meglio i giorni di pausa che mi sono preso dal Fediverso, dubito saranno stati molti perché è un ambiente in cui mi ci sono immerso davvero tanto e credo che LS sia tuttora il social network dove ho scritto e interagito di più in assoluto..."
-immagine: https://media.vlipsy.com/vlips/gh98CAs7/preview.jpg
+immagine: /img/archivio/internet/fediverso-detox-cover.jpg
 tags: ["internet"]
 date: 2024-07-30
 lang: it-IT

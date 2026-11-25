@@ -3,7 +3,7 @@ layout: postita
 title: "Cose che mi sono piaciute nel 2021"
 subtitle: "Un bilancio su alcune delle cose che mi sono piaciute di più dell'anno passato"
 sommario: "Un bilancio su alcune delle cose che mi sono piaciute di più dell'anno passato"
-immagine: https://media.istockphoto.com/photos/hand-touching-pass-thru-infographic-to-2021-year-with-blue-bokeh-and-picture-id1213868775?k=20&m=1213868775&s=612x612&w=0&h=DpoQKbqBTnON5hY-B6JjmqnTZSYUbcLPRKGIXCSgZ6o=
+immagine: /img/archivio/xabologia/2021-bilancio-cover.jpg
 lang: it-IT
 tags: ["xabologia"]
 date: 2022-01-12

@@ -4,7 +4,7 @@ title: "Il problema non è la Fake News, ma chi la legge"
 subtitle: "Storie di bufale"
 sommario: "L’ossessione collettiva nei confronti del fenomeno delle “Fake News” suona
 molto come la fanfara successiva al palesarsi della Nemesi…"
-immagine: https://miro.medium.com/max/875/0*G6GwHZqtYpxORJ16.png
+immagine: /img/archivio/internet/fakenews-cover.jpg
 tags: ["internet"]
 date: 2017-10-30
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "8 suggerimenti per il Videogioco di Ruolo ideale"
 subtitle: "Rischiate!"
 sommario: "no, Mass Effect, Fallout e Dragon Age per me non sono abbastanza. Diamine, hanno scelte e binari più ridotti del già citato Planescape: Torment, o Vampire the Masquerade: Bloodlines, che a loro confronto sono degli arzilli vecchietti...capisco che i costi e le risorse da impiegare siano aumentati..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/suggerimenti-videogioco.jpg
+immagine: /img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-cover.jpg
 tags: ["videogiochi"]
 date: 2015-03-01
 lang: it-IT
@@ -13,7 +13,7 @@ Proverò ad essere sintetico quanto basta (cioè per niente), sperando di non es
 
 ## 1. La creazione del personaggio
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/17/SoZCreation.png" alt="neverwinter nights 2">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-1.jpg" alt="neverwinter nights 2">
 <small>NWN2 Aveva un ottimo sistema di personalizzazione, anche se povero nell'aspetto estetico</small> </br> </br>
 
 Imprescindibile.
@@ -32,7 +32,7 @@ Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment
 
 ## 3. Freeroaming
 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Morrowind1.jpg" alt="Morrowind">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-2.jpg" alt="Morrowind">
 <small>Morrowind è stato forse il miglior titolo "esplorativo" del suo tempo</small> </br> </br>
 
 **Skyrim e i vari Elder Scrolls mi hanno viziato molto in questo senso**, ma anche Baldur's Gate in fin dei conti (con tutti i limiti dell'isometrico) era fondato su questo tipo d'approccio.
@@ -41,7 +41,7 @@ Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment
 
 ## 4. Storia Solida
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Warren_Spector.jpg" alt="Warren Spector">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-3.jpg" alt="Warren Spector">
 <small>Sua maestà Warren Spector</small> </br> </br>
 
 Per contro, **la Bethesda è riuscita a creare storie veramente avvincenti solo in casi sporadici:**
@@ -52,7 +52,7 @@ Poi beh, tutto questo per non parlare di quanto scritto e realizzato da Warren S
 
 ## 5. Ambientazione Originale
 
-<img src="https://upload.wikimedia.org/wikipedia/en/5/57/Arcanum_cover_copy.jpg" alt="Arcanum">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-4.jpg" alt="Arcanum">
 <small>Arcanum: Of Steamworks and Magick Obscura: nome degno di una band progressive</small> </br> </br>
 
 E qui potrei iniziare a parlare male **dell'inflazionatissimo fantasy, proprio perché semplicemente non se ne può più, sono vent'anni che gioco RPG occidentali quasi esclusivamente FANTASY.**
@@ -88,7 +88,7 @@ Certo, **se uno l'ambientazione la scrive bene, e la cura come si deve** (magari
 
 ## 6. NPC Memorabili
 
-<img src="https://upload.wikimedia.org/wikipedia/en/5/55/Throne_of_Bhaal_front.jpg" alt="Baldur's Gate 2">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-5.jpg" alt="Baldur's Gate 2">
 <small>Ancora oggi, in pochi possono misurarsi con lui</small> </br> </br>
 
 Anche qui **lode a Mastra Bioware vecchia scuola, e vergogna e pernacchie a quasi tutti gli altri.**
@@ -101,7 +101,7 @@ Cioè, **quando uno gioca al cartaceo, non è che muove e gestisce anche i perso
 
 ## 7. Esplorazione
 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/90/ElderScrollsOblivionScreenshot11.jpg" alt="Oblivion">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-6.jpg" alt="Oblivion">
 <small>Oblivion perde sotto molti aspetti con Skyrim e Morrowind, ma bisogna ammettere che offriva una varietà d'ambienti esplorabili decisamente superiore</small> </br> </br>
 
 Perché sarebbe troppo facile silurarla con il "semplice" free roaming di cui sopra.
@@ -121,7 +121,7 @@ va bene fare una metropoli ultradettagliata, ma visto che c'è tutto sto spazio,
 
 ## 8. Gameplay
 
-<img src="https://upload.wikimedia.org/wikipedia/en/9/96/Vampire_-_The_Masquerade_%E2%80%93_Bloodlines_Coverart.png" alt="vampire-masquerade-bloodlines">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-7.jpg" alt="vampire-masquerade-bloodlines">
 
 La parola d'ordine qui dev'essere una: **varietà.**
 
@@ -135,7 +135,7 @@ L'istinto e la memoria mentre scrivo non possono fare altro che riportarmi ai so
 
 ## Conclusioni
 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Ultima1-1.gif" alt="ultima">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-8.jpg" alt="ultima">
 <small>1986 dixit: Ultima I.</small> </br> </br>
 
 Probabilmente, anzi sicuramente ci sono altri elementi che non ho avuto modo di segnalare (vuoi la memoria, vuoi il post abnorme)

@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Gennaio 2025"
 subtitle: "The Halo Effect - March Of The Unheard"
 sommario: "E si riparte con il 2025! Chissà per quanto proseguirò con 'sta rubrica?"
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/fc9441ccdb2cd1c431196a695803028d.jpg
+immagine: /img/archivio/musica/disco-del-mese-01-2025-cover.jpg
 tags: ["musica"]
 date: 2025-01-24
 lang: it-IT

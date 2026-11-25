@@ -4,7 +4,7 @@ layout: posteng
 tags: ["internet"]
 subtitle: "I am thou, thou art I"
 sommario: "like it or not, English is the lingua franca of our time. It's what allows us to reach as many people as possible and thus broaden our horizons, interacting with cultures and mentalities very different from our own..."
-immagine: https://i.pinimg.com/originals/35/0d/df/350ddf1e7f945cc522f8eed548994198.jpg
+immagine: /img/archivio/internet/fediverse-language-cover.jpg
 date: 2025-07-15
 lang: en-US
 ---

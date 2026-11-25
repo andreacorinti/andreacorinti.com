@@ -3,7 +3,7 @@ layout: postita
 title: "Sagra IndieWeb 2026 - Febbraio"
 subtitle: "Fediverso"
 sommario: "Seconda puntata del bell'esperimento bloggoso lanciato da Ed sul Fediverso! Fediverso che, dietro mia proposta, è pure il tema di questo mese"
-immagine: https://upload.wikimedia.org/wikipedia/commons/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
+immagine: /img/archivio/internet/sagra-indie-web-2026-02-cover.jpg
 tags: ["internet"]
 date: 2026-02-02
 lang: it-IT
@@ -43,7 +43,7 @@ Resto sempre dell'idea che mettere il thread e non il profilo al centro sia un'e
 
 ### Misskey.social 
 
-![misskey](https://upload.wikimedia.org/wikipedia/commons/e/e8/Misskey_float_logo.svg)
+![misskey](/img/archivio/internet/sagra-indie-web-2026-02-1.svg)
 
 Con l'arrivo dei cari compari [Efi](https://misskey.social/@lunarvesperia) e [Zel](https://misskey.social/@Zel) devo dire che mi trovo sempre meglio: misskey a tratti è un software bislacco e casinaro ma bello proprio per questo, poi mi fa molto piacere ostenti meno pretese "alternative" di Mastodon e parenti (pur di fatto garantendole).
 

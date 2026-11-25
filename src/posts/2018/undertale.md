@@ -3,7 +3,7 @@ layout: postita
 title: "Undertale"
 subtitle: "Recensione"
 sommario: "Leviamoci subito il sassolone dalla scarpa: Dalla sua uscita, Undertale sembrava avere come missione lo starmi sulle balle."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/undertale.jpg
+immagine: /img/archivio/videogiochi/undertale-cover.jpg
 tags: ["videogiochi"]
 date: 2018-02-15
 lang: it-IT

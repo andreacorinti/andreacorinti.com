@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Settembre 2026"
 subtitle: "Dreadnought - Wars of Spirit // Wards of Light"
 sommario: "Il disco del mese va ai Dreadnought con Wars of Spirit // Wards of Light: prog metal, folk e atmosfere psichedeliche!"
-immagine: https://f4.bcbits.com/img/a0976637319_10.jpg
+immagine: /img/archivio/musica/2026-09-disco-del-mese-cover.jpg
 tags: ["musica"]
 date: 2026-09-24
 lang: it-IT

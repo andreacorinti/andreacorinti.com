@@ -3,7 +3,7 @@ layout: postita
 title: "La Creazione Personaggio nei Videogiochi"
 subtitle: "Gioco ergo sum"
 sommario: "La libertà di fare praticamente tutto, andare ovunque, interagire con ogni cosa e l'idea stessa di creare un personaggio..."
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/creazione-personaggio.jpg
+immagine:  /img/archivio/videogiochi/creazione-personaggio-cover.jpg
 tags: ["videogiochi"]
 date: 2013-10-15
 lang: it-IT

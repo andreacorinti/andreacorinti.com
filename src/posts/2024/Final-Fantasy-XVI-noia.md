@@ -3,7 +3,7 @@ layout: postita
 title: "La Noia di Final Fantasy XVI"
 subtitle: "Una corona di spine sarà l'Eikon per la mia festa "
 sommario: "Sì, il titolo di questo post è un featuring immaginario tra Angelina Mango e Final Fantasy XVI, perdonatemi."
-immagine: https://upload.wikimedia.org/wikipedia/it/6/65/Final_Fantasy_XVI_logo.png
+immagine: /img/archivio/videogiochi/final-fantasy-xvi-noia-cover.jpg
 tags: ["videogiochi"]
 date: 2024-04-09
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Xenogears"
 subtitle: "Il capolavoro nascosto di Squaresoft"
 sommario: "Il rapporto tra qualità e scarsa notorietà di Xenogears è tanto pesante che..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/xenogearsrecensione.jpg
+immagine: /img/archivio/videogiochi/xenogears-cover.jpg
 tags: ["videogiochi"]
 date: 2016-01-01
 lang: it-IT

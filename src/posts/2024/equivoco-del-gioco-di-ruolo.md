@@ -3,7 +3,7 @@ layout: postita
 title: "L'equivoco del videogioco di ruolo"
 subtitle: "Ruolate, Sciocchi!"
 sommario: "Uno dei termini nerd più snaturati del suo significato originale: role playing game (gioco di ruolo) applicato al videogioco."
-immagine:  https://upload.wikimedia.org/wikipedia/commons/9/98/Dungeons_%26_Dragons_Dice.jpg
+immagine:  /img/archivio/videogiochi/equivoco-del-gioco-di-ruolo-cover.jpg
 tags: ["videogiochi"]
 date: 2024-01-05
 lang: it-IT
@@ -69,7 +69,7 @@ Ovviamente è un esempio volutamente estremo, ma che potete applicare per esempi
 
 ## Futuro passato
 
-![Days of Future Past](https://upload.wikimedia.org/wikipedia/en/2/2a/X-Men_v1_141.jpg)
+![Days of Future Past](/img/archivio/videogiochi/equivoco-del-gioco-di-ruolo-2.jpg)
 
 In conclusione, **credo fermamente che questo fraintendimento abbia contibuito a portare il mercato dei videogiochi di ruolo ad una certa incancrenita sterilità**, di gran lunga superiore a quella che vediamo nei GDR cartacei dove zompano fuori di continuo nuove regole e ambientazioni originali (basti pensare ai [_Powered by the Apocalypse_](https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse)).
 

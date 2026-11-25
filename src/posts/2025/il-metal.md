@@ -3,7 +3,7 @@ layout: postita
 title: "Il Metal"
 subtitle: "cos'è il metal?"
 sommario: "Un variopinto genere musicale. Bene, se vi interessano le definizioni oggettive potete fermarvi qui, perché tutto il resto è pure più personale del solito."
-immagine: https://upload.wikimedia.org/wikipedia/commons/f/fc/Black_Sabbath_%281970%29.jpg
+immagine: /img/archivio/musica/il-metal-cover.jpg
 tags: ["musica"]
 date: 2025-07-25
 lang: it-IT
@@ -29,7 +29,7 @@ Un po' certamente perché sono uno scontato maschio bianco cisetero, ma principa
 
 Della serie: pur apprezzando il calcio, sentirmi identificato come parte di una tifoseria è una roba che personalmente malsopporto.
 
-![sociologia](https://upload.wikimedia.org/wikipedia/commons/e/e4/Social_Network_Diagram_%28segment%29.svg)
+![sociologia](/img/archivio/musica/il-metal-1.svg)
 
 Ho sempre avuto simili problemi anche con vari partiti politici, specialmente quelli di sinistra (perché è idealmente l'area a cui mi sento più vicino, il resto non l'ho mai guardato come una possibilità).
 

@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Agosto 2024"
 subtitle: "Dark Tranquillity - Endtime Signal"
 sommario: "Eh che ci volete fare, ogni tanto il mio animo da fanboy salta fuori."
-immagine: https://lastfm.freetls.fastly.net/i/u/770x0/9dc995ee4d1d6fcf6ba47bf85124e9dd.jpg
+immagine: /img/archivio/musica/disco-del-mese-08-2024-cover.jpg
 tags: ["musica"]
 date: 2024-08-26
 lang: it-IT

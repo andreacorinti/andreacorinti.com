@@ -3,7 +3,7 @@ layout: postita
 title: "Disco del Mese - Aprile 2026"
 subtitle: "Miserere Luminis - Sidera"
 sommario: "Aprile per me lo vincono i Miserere Luminis con Sidera, Black metal atmosferico e francofono (ma dal Québec!)"
-immagine: https://f4.bcbits.com/img/a3046398028_1x1_700.avif
+immagine: /img/archivio/musica/2026-04-disco-del-mese-cover.avif
 tags: ["musica"]
 date: 2026-04-27
 lang: it-IT

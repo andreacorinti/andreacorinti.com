@@ -3,7 +3,7 @@ layout: postita
 title: "Se incontri il Buddha per la strada, uccidilo"
 subtitle: "di Idoli d'oro e altre facezie"
 sommario: "Ringrazio CapeTaun per aver riportato quest'ottima ricostruzione dell'orrida vicenda legata a Neil Gaiman. Se v'interessa, qui c'è tutto il thread su Livello Segreto..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg
+immagine: /img/archivio/xabologia/uccidi-buddah-cover.jpg
 tags: ["xabologia"]
 date: 2025-01-14
 lang: it-IT
@@ -19,7 +19,7 @@ perché certo, da grande estimatore di Gaiman la cosa mi ha ovviamente colpito..
 
 ### Dio è morto. Dio resta morto. E noi lo abbiamo ucciso!
 
-![Beatlemania](https://upload.wikimedia.org/wikipedia/commons/f/fa/Aankomst_Beatles_op_Schiphol%2C_publiek_met_spandoek%2C_Bestanddeelnr_916-5126.jpg)
+![Beatlemania](/img/archivio/xabologia/uccidi-buddah-1.jpg)
 
 ...Salvo farlo continuamente reincarnare in questo o quel Mito.
 
@@ -31,7 +31,7 @@ la famigerata _cancel culture_ (che però è molto più complicata da misurare).
 
 ### Il pulpito
 
-![L'idolo d'oro](https://upload.wikimedia.org/wikipedia/commons/1/13/The_Worship_of_the_Golden_Calf_%28Filippino_Lippi%29.png)
+![L'idolo d'oro](/img/archivio/xabologia/uccidi-buddah-2.jpg)
 
 Essendo stato svezzato dalla scena metal e alle sue mattate, in questo senso credo di aver sviluppato molti anticorpi: 
 
@@ -50,7 +50,7 @@ In pratica, si parte dall'indipendenza dai crismi del sistema lavorativo per arr
 
 ### Classismo
 
-![secessione-della-plebe](https://upload.wikimedia.org/wikipedia/commons/d/dd/Secessio_plebis.JPG)
+![secessione-della-plebe](/img/archivio/xabologia/uccidi-buddah-3.jpg)
 
 È una storia vecchia come il mondo: 
 
@@ -72,7 +72,7 @@ D'altronde, **il grosso della storia umana ha sempre visto piccole sacche di ari
 
 ### Bruciamo Sandman?
 
-![Olympia](https://upload.wikimedia.org/wikipedia/en/9/9d/Olympia_%28Part_1%29_poster.jpg)
+![Olympia](/img/archivio/xabologia/uccidi-buddah-4.jpg)
 
 [Otto anni fai incontrai Shin'ichiro Watanabe](/posts/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/), autore di _Cowboy Bebop_, al Cartoons on the Bay di Torino del 2017.
 
@@ -101,7 +101,7 @@ _le palanche_ e, conseguentemente, la pirateria.
 
 ### Pirateria etica? 
 
-![emule](https://upload.wikimedia.org/wikipedia/commons/4/4a/EMule_mascot.svg)
+![emule](/img/archivio/xabologia/uccidi-buddah-5.svg)
 
 È un discorso controverso, ma per esempio credo che mai come in questo caso _"rubare"_ possa vantare un certo valore etico: 
 

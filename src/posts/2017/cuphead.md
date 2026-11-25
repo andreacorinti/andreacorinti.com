@@ -3,7 +3,7 @@ layout: postita
 title: "Cuphead"
 subtitle: "Un vero assaggio di Next-gen"
 sommario: "Niente recensione e/o altri termini altisonanti. Solo qualche piccolo appunto, quasi solo squisitamente tecnico..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/cuphead.jpg
+immagine: /img/archivio/videogiochi/cuphead-cover.jpg
 tags: ["videogiochi"]
 date: 2017-10-16
 lang: it-IT
@@ -25,7 +25,7 @@ La **scintilla della novità**, quell'appagante **senso di curiosità bimbesca**
 
 Anche se in termini certamente più moderati, è paragonabile alle sensazioni che mi accompagnarono durante l'avvento della **PlayStation** prima e della PlayStation 2 poi:
 
-<img src="https://upload.wikimedia.org/wikipedia/en/2/25/MGS_screen_psx.jpg" alt="metal gear">
+<img src="/img/archivio/videogiochi/cuphead-1.jpg" alt="metal gear">
 
 **il primo 3d**, grezzo
 

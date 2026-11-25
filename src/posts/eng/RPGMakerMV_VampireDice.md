@@ -5,7 +5,7 @@ templateEngineOverride: njk,md
 lang: en-US
 title: "RPG Maker MV Vampire Dice" 
 subtitle: D10 Storyteller in a JRPG? Why not!
-immagine: https://cf.geekdo-images.com/thumb/img/cuDjrsSQcc4RAqv2472v6Ajgo54=/fit-in/200x150/pic1259009.png
+immagine: /img/archivio/videogiochi/rpgmakermv_vampiredice-cover.jpg
 sommario: "In this days I've been experimenting with RPG Maker MV since I've only recently found out that is based on JavaScript and no longer Ruby like back in the RPG Maker XP days."
 date: 2020-03-13
 ---

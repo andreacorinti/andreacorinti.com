@@ -3,7 +3,7 @@ layout: postita
 title: "Lex Luthor - Man of Steel"
 subtitle: "Recensione"
 sommario: "E se vi dicessi che il più bel fumetto di Superman ha come protagonista Lex Luthor?"
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/lex-luthor.jpg
+immagine: /img/archivio/film-serie/lex-luthor-man-of-steel-cover.jpg
 tags: ["film-serie"]
 date: 2014-12-19
 lang: it-IT

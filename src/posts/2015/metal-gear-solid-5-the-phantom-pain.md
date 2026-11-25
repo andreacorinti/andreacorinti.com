@@ -3,7 +3,7 @@ layout: postita
 title: "Metal Gear Solid 5 - The Phantom Pain"
 subtitle: "recensione"
 sommario: "Il mio personale diario di viaggio nelle lande dell'ultimo capitolo di Metal Gear Solid."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsv1.jpg
+immagine: /img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-cover.jpg
 tags: ["videogiochi"]
 date: 2015-09-02
 lang: it-IT
@@ -36,7 +36,7 @@ Le mie uniche, piccole remore fino a questo momento:
 
 fin'ora, dico solo che è così bello da sentirsi male. 
 
-![metal-gear-solid-5-recensione](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsv2.jpg)
+![metal-gear-solid-5-recensione](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-1.jpg)
 
 ## Seconde Impressioni (10/09/2015)
 
@@ -86,7 +86,7 @@ The Phantom Pain, essendo più gioco e meno "film", riesce certamente a tenere v
 
 Beh, io vado, ho parlato fin troppo e c'è il D-Horse che mi aspetta. Magari risentiamo tra altre quaranta ore.
 
-![metal-gear-solid-5-recensione](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsv3.jpg)
+![metal-gear-solid-5-recensione](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-2.jpg)
 
 ## Terze Impressioni (25/09/2015)
 
@@ -155,7 +155,7 @@ Siamo d'accordo, tanto più che **il comportamento di Konami si è dimostrato al
 
 In ogni caso, ci risentiamo dopo il finale (sperando che Hideo mi smentisca alla grandissima)
 
-![metal-gear-solid-5-recensione](https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/mgsvrecensione.jpg)
+![metal-gear-solid-5-recensione](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-3.jpg)
 
 ## Metal Gear Solid 5: The Phantom Pain - Recensione
 

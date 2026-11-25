@@ -3,7 +3,7 @@ layout: postita
 title: "Corona Virus"
 subtitle: "Diari della Quarantena"
 sommario: "È un periodo terribile e molto strano, di cui credo avremo la giusta misura solo quando l'emergenza sarà terminata"
-immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/COVID-19_Outbreak_World_Map.svg/260px-COVID-19_Outbreak_World_Map.svg.png
+immagine: /img/archivio/xabologia/corona-cover.svg
 tags: ["xabologia"]
 date: 2020-03-20
 lang: it-IT

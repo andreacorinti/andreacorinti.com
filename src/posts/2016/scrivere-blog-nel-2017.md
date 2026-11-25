@@ -3,7 +3,7 @@ layout: postita
 title: "10 suggerimenti per scrivere Blog nel 2017"
 subtitle: "Ha ancora un senso?"
 sommario: "Ha ancora un senso? La risposta è la solita: dipende..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/blog-2016.jpg
+immagine: /img/archivio/xabologia/scrivere-blog-nel-2017-cover.jpg
 tags: ["xabologia"]
 date: 2016-10-28
 lang: it-IT
@@ -129,7 +129,7 @@ Chiariti questi punti prevalentemente di natura "etica", passiamo alla pratica p
 
 ### Wordpress
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wordpress_logo_8.png/280px-Wordpress_logo_8.png" alt="wordpress">
+<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-1.png" alt="wordpress">
 
 È la risposta che state cercando, che probabilmente già conoscete e non necessita di ulteriori conferme:
 
@@ -147,7 +147,7 @@ in parole povere?
 
 ### Blogger
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/768px-Blogger.svg.png" alt="blogger">
+<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-2.svg" alt="blogger">
 
 Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni (anche per le prime versioni di Xaba Cadabra), perciò leviamoci subito il dente:
 
@@ -163,7 +163,7 @@ Aldilà di questo **Blogger comunque resta una buona piattaforma performante, ab
 
 ### Jekyll
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="Jekyll">
+<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-3.png" alt="Jekyll">
 
 Che, in combo con **Github**, è ciò che tiene in piedi il blog dove vi trovate in questo momento!
 

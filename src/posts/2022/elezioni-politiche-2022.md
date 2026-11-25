@@ -3,7 +3,7 @@ layout: postita
 title: "Elezioni Politiche 2022"
 subtitle: "Commentino"
 sommario: "Stiamo all'oggi: dire e condividere che la Meloni è una fascista mascherata a cosa serve?"
-immagine: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CPAC_2022_con_Hermann_Tertsch_y_Victor_Gonzalez._%2851915317801%29.jpg/1280px-CPAC_2022_con_Hermann_Tertsch_y_Victor_Gonzalez._%2851915317801%29.jpg
+immagine: /img/archivio/xabologia/elezioni-politiche-2022-cover.jpg
 tags: ["xabologia"]
 date: 2022-09-26
 lang: it-IT

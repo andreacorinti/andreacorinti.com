@@ -3,7 +3,7 @@ layout: postita
 title: "Fediverso-gram"
 subtitle: ""
 sommario: "tutto ciò che scriverò nei seguenti paragrafi è soggettivo, non conosco come funzionino certe realtà nel dettaglio, è possibile che io mi stia pigliando cantonate giganti..."
-immagine: https://i.ytimg.com/vi/haeoUzvcl_M/maxresdefault.jpg
+immagine: /img/archivio/internet/fediverso-gram-cover.jpg
 tags: ["internet"]
 date: 2025-07-21
 lang: it-IT

@@ -44,7 +44,7 @@ That CD Projekt RED [has repeatedly been the most valuable listed company in all
 
 That... well, [I don't think I need to point out](https://time.com/article/2026/05/07/from-kyoto-with-love-how-japan-conquered-the-world-one-game-at-a-time/) how much they've mattered for Japan's entertainment industry and its soft power.
 
-![Crowd watching a match during Intel Extreme Masters Katowice](https://upload.wikimedia.org/wikipedia/commons/4/4b/IEM_WC_Katowice_2014_inside.jpg)
+![Crowd watching a match during Intel Extreme Masters Katowice](/img/archivio/xabologia/dividersi-in-compartimenti-stagni-1.jpg)
 
 _the crowd at IEM Katowice 2014 inside the Spodek arena, photo by Paul Chaloner, CC BY 2.0, via Wikimedia Commons_
 

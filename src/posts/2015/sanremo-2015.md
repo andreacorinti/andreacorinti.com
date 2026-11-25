@@ -3,7 +3,7 @@ layout: postita
 title: "Sanremo 2015"
 subtitle: "Pagellone & Resoconto"
 sommario: "Pagellone & Resoconto"
-immagine:  https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/sanremo2015.jpg
+immagine:  /img/archivio/musica/sanremo-2015-cover.jpg
 tags: ["musica"]
 date: 2015-02-15
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Pixel Art is Awesome!"
 subtitle: "In difesa dei pixel"
 sommario: "Essere retrogamer vuol dire moltissime cose. Prima di tutto provare un amore viscerale e nostalgico..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/pixelart.jpg
+immagine: /img/archivio/videogiochi/pixel-art-cover.jpg
 tags: ["videogiochi"]
 date: 2013-03-16
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Ghost in the Shell - Il film"
 subtitle: Recensione del Live Action del 2017
 sommario: "Io non amo quelli che rigirano la frittata per ore prima di cacciare numeri e pagelle, quindi vi do subito il mio verdetto: Il live action di Ghost in the Shell è na fetenzia..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/ghost-in-the-shell-film-2017.jpg
+immagine: /img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-cover.jpg
 tags: ["film-serie"]
 date: 2017-04-01
 lang: it-IT
@@ -41,13 +41,13 @@ Nel manga originale e (parzialmente) nell'adattamento di Mamoru Oshii **il rappo
 
 <small>Nota: si legge tutto in stile manga, cioè da destra verso sinistra</small>
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-1.jpg" alt='ghost-in-the-shell-manga'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-1.jpg" alt='ghost-in-the-shell-manga'>
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-2.jpg" alt='ghost-in-the-shell-manga'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-2.jpg" alt='ghost-in-the-shell-manga'>
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-3.jpg" alt='ghost-in-the-shell-manga'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-3.jpg" alt='ghost-in-the-shell-manga'>
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/ghost-in-the-shell-4.jpg" alt='ghost-in-the-shell-manga'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-4.jpg" alt='ghost-in-the-shell-manga'>
 <small>(se inizia a scoppiarvi la testa non fateci caso, è normale)</small>
 </br></br>
 
@@ -55,15 +55,15 @@ Bel casino, eh? <small>(sono solo sprazzi perché sennò facciamo notte, comprat
 
 **Quello del film pareva uscito tuttalpiù da _Age of Ultron_**, col più scontato e classico dei discorsi sulla falsa riga del _"vendichiamoci del nostro creatore"_ (una sorta di Blade Runner / Frankenstein dei poverissimi) scritto da un bonobo particolarmente ispirato.
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/c17-c18.jpg" alt='ghost-in-the-shell'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-5.jpg" alt='ghost-in-the-shell'>
 <small>Il livello è quello, con tutto il rispetto per la saga dei cyborg di Dragon Ball che era molto carina</small>
 </br></br>
 
 **La stessa Motoko/Mira/Maggiore, unico vero epicentro del film, risulta una specie d'incrocio perverso tra Pinocchio e Puffetta.**
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/puffetta.jpg" alt='ghost-in-the-shell'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-6.jpg" alt='ghost-in-the-shell'>
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/geppetta.jpg" alt='ghost-in-the-shell'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-7.jpg" alt='ghost-in-the-shell'>
 
 _"Non m'interessa per cosa mi avete creato Geppetta, anche se sono una puffa artificiale io non farò del male a dei puffi innocenti!"_
 
@@ -77,7 +77,7 @@ E fu così che la Motoko dei Centri Sociali anti-tech divenne ciò che ha sempre
 
 _ah, l'ironia!_
 
-<img src="https://upload.wikimedia.org/wikipedia/it/7/77/Raziel.jpg" alt='raziel'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-8.jpg" alt='raziel'>
 <small>ma che ne sapete voi che non avete fatto le scuole Sarafan </small>
 </br></br>
 
@@ -85,7 +85,7 @@ _ah, l'ironia!_
 
 Intanto Aramaki (un dignitoso **Takeshi Kitano**), noto a tutti i fan di Ghost in the Shell per il proprio senso diplomatico e la sua abilità nel risolvere le situazioni senza mai sporcarsi direttamente le mani...
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/aramaki.jpg" alt='ghost-in-the-shell'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-9.jpg" alt='ghost-in-the-shell'>
 </br></br>
 
 **Decide di sbroccare diventando un cosplayer di _Revolver Ocelot_.**
@@ -98,13 +98,13 @@ Che è bella si sapeva, che è brava pure <small>(grazie a Woody Allen più che 
 
 Salta fuori che, invece, sebbene in una versione scritta da uno struzzo dotato di metalcoperta, **Scarlettuzza porta casa una buona interpretazione**, rivelandosi convincente in un ruolo che forse resta non suo per mere ragioni fisiche.
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/scarlett-johansson.jpg" alt='ghost-in-the-shell'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-10.jpg" alt='ghost-in-the-shell'>
 <small>che poi il fisico di Scarlett io non lo metterò in discussione tipo mai</small>
 </br></br>
 
 ## Batou
 
-<img src="https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/gallery/ghost-in-the-shell/batou.jpg" alt='ghost-in-the-shell'>
+<img src="/img/archivio/film-serie/ghost-in-the-shell-film-2017-recensione-11.jpg" alt='ghost-in-the-shell'>
 </br></br>
 
 **Decente**, tolto il fatto che _ovviamente_ gli americani dovevano spiegare pure i suoi cyberocchietti tra una scena e l'altra _(SPIEGONI! ORIGINI! PASSATO PRESENTE FUTURO!)_ ma vabbè.

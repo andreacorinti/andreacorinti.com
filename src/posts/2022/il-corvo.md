@@ -3,7 +3,7 @@ layout: postita
 title: "Il Corvo - Una retrospettiva"
 subtitle: "L'Impatto del corvo."
 sommario: "Io faccio parte di una generazione strana, tocca sempre ribadirlo."
-immagine: https://upload.wikimedia.org/wikipedia/it/f/fa/The_Crow.png
+immagine: /img/archivio/film-serie/il-corvo-cover.jpg
 tags: ["film-serie"]
 date: 2022-05-11
 lang: it-IT
@@ -48,7 +48,7 @@ Un po' provincialmente, aggiungiamoci pure che questo film possedeva un doppiagg
 
 ## Oggi
 
-![il corvo](https://upload.wikimedia.org/wikipedia/it/f/fa/The_Crow.png)
+![il corvo](/img/archivio/film-serie/il-corvo-cover.jpg)
 
 Oggi Il Corvo viene da un lato osannato un po' troppo romanticamente, figlio di un amore e di un'importanza che certamente nascondono quelle sue piccole ingenuità di fondo, ma dall'altro (molto più raramente) stroncato con una certa fredda sufficienza intellettuale. 
 

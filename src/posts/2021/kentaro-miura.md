@@ -3,7 +3,7 @@ layout: postita
 title: "Grazie Kentaro Miura"
 subtitle: "Perché Berserk ha significato tanto"
 sommario: "Berserk è stato un fenomeno seminale per tanti di noi"
-immagine: https://pbs.twimg.com/media/E1zzm2eXsAMlaj-?format=png&name=medium
+immagine: /img/archivio/film-serie/kentaro-miura-cover.jpg
 lang: it-IT
 tags: ["film-serie"]
 date: 2021-05-21

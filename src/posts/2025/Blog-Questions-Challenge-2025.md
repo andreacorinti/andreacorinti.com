@@ -65,7 +65,7 @@ It's enough for me to keep posting with a certain continuity, to point out the "
 
 ## Italiano
 
-![Dante](https://upload.wikimedia.org/wikipedia/commons/2/2b/Dante_Dor%C3%A9.jpg)
+![Dante](/img/archivio/xabologia/blog-questions-challenge-2025-1.jpg)
 
 ### Perché hai iniziato a bloggare?
 

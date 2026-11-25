@@ -3,7 +3,7 @@ layout: postita
 title: "Parlare di tutto su Internet"
 subtitle: "Un'analisi spiccia dell'evoluzione della comunicazione su Internet"
 sommario: "Da quando sono entrato a far parte di Livello Segreto quasi un anno fa...Ma un attimo, facciamo un passo indietro..."
-immagine: https://upload.wikimedia.org/wikipedia/commons/b/b1/Death_over_Blogs.jpg
+immagine: /img/archivio/internet/parlare-di-tutto-cover.jpg
 tags: ["internet"]
 date: 2023-10-24
 lang: it-IT

@@ -3,7 +3,7 @@ layout: postita
 title: "Giochi Indie"
 subtitle: "Consiglio agli sviluppatori"
 sommario: "Da consumatore attento (e compulsivo) di titoli appartenenti alla fantomatica scena indie, spesso mi diverto a seguirne le peripezie nell'universo sociale del web..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/giochi-indie.jpg
+immagine: /img/archivio/videogiochi/giochi-indie-cover.jpg
 tags: ["videogiochi"]
 date: 2018-03-15
 lang: it-IT
@@ -51,7 +51,7 @@ Eh, la trama.
 
 ## Fiducia guadagnata
 
-![squaresoft](https://upload.wikimedia.org/wikipedia/commons/e/e8/Squaresoft_Logo.svg)
+![squaresoft](/img/archivio/videogiochi/giochi-indie-1.svg)
 
 Ora, prendiamo un _Final Fantasy_ a caso dell'era SNES, o anche PlayStation.
 
@@ -97,7 +97,7 @@ Va detto che pure un Gioco di Ruolo come **Undertale** (di cui [abbiamo recentem
 
 ## Morale
 
-![tetris](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Emacs_Tetris_vector_based_detail.svg/220px-Emacs_Tetris_vector_based_detail.svg.png)
+![tetris](/img/archivio/videogiochi/giochi-indie-2.svg)
 
 **Consiglierei a tutti gli aspiranti creatori di videogiochi di non cimentarsi mai con titoli lunghi ed impegnativi**, almeno all'inizio.
 

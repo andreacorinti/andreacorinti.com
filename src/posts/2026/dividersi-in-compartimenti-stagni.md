@@ -44,7 +44,7 @@ Che CD Projekt RED [è stata più volte l'azienda quotata più valutata dell'int
 
 Che...e beh, [non credo serva evidenziare](https://time.com/article/2026/05/07/from-kyoto-with-love-how-japan-conquered-the-world-one-game-at-a-time/) quanto abbiano contato per l'industria dell'intrattenimento giapponese e il relativo soft power.
 
-![Pubblico che assiste a un match durante gli Intel Extreme Masters di Katowice](https://upload.wikimedia.org/wikipedia/commons/4/4b/IEM_WC_Katowice_2014_inside.jpg)
+![Pubblico che assiste a un match durante gli Intel Extreme Masters di Katowice](/img/archivio/xabologia/dividersi-in-compartimenti-stagni-1.jpg)
 
 _il pubblico di IEM Katowice 2014 dentro lo Spodek, foto di Paul Chaloner, CC BY 2.0, via Wikimedia Commons_
 

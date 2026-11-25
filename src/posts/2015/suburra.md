@@ -3,7 +3,7 @@ layout: postita
 title: "Suburra"
 subtitle: "Recensione"
 sommario: "l'estetica di Sollima è uno spettacolo meraviglioso, complice la bravura di un ottimo Paolo Carnera alla fotografia..."
-immagine: https://raw.githubusercontent.com/Xabacadabra/Xabacadabra.github.io/master/images/suburra.jpg
+immagine: /img/archivio/film-serie/suburra-cover.jpg
 tags: ["film-serie"]
 date: 2015-10-22
 lang: it-IT
