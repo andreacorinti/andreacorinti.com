@@ -360,10 +360,18 @@ module.exports = function (eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
   }).use(markdownItAnchor, {
-    permalink: true,
-    permalinkClass: "tdbc-anchor",
-    permalinkSymbol: "",
-    permalinkSpace: false,
+    // Nuova API (markdown-it-anchor >= 8) al posto delle vecchie opzioni
+    // permalink/permalinkClass/permalinkSymbol/permalinkSpace, deprecate.
+    // linkInsideHeader è proprio lo stile che `permalink: true` usava sotto
+    // il cofano: stesso HTML di prima, <h2 id="x" tabindex="-1">Testo<a
+    // class="tdbc-anchor" href="#x"></a></h2> (link vuoto subito dopo il
+    // testo, senza spazio). Gli id li decide `slugify` qui sotto: non cambiano.
+    permalink: markdownItAnchor.permalink.linkInsideHeader({
+      class: "tdbc-anchor",
+      symbol: "",
+      space: false,
+      placement: "after",
+    }),
     level: [1, 2, 3],
     slugify: (s) =>
       s
