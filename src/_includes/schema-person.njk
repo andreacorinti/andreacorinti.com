@@ -1,0 +1,26 @@
+{#- JSON-LD Person (home e about IT/EN, attivato da `schemaPerson: true` nel
+    front matter). @id fisso: i BlogPosting dei post lo citano come autore.
+    C'è un calciatore omonimo: alternateName e sameAs verso i profili
+    verificati sono il segnale standard per distinguere le due persone.
+    jobTitle come nel riquadro Freelance della pagina about. -#}
+{%- set personEn = lang and lang.startsWith('en') -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": {{ (meta.url + "/#me") | dump | safe }},
+  "name": "Andrea Corinti",
+  "alternateName": "Xab",
+  "url": {{ (meta.url + "/") | dump | safe }},
+  "image": {{ (meta.url + "/img/avatar-bluesky.jpg") | dump | safe }},
+  "jobTitle": {% if personEn %}"Freelance e-learning content & support"{% else %}"Freelance, contenuti e supporto e-learning"{% endif %},
+  "sameAs": [
+    {{ meta.bluesky.profile | dump | safe }},
+    "https://mastodon.social/@Xabacadabra",
+    "https://www.linkedin.com/in/andrea-corinti/",
+    "https://github.com/andreacorinti/",
+    "https://www.instagram.com/xabacadabra/",
+    "https://play.google.com/store/apps/dev?id=4741208109915095861"
+  ]
+}
+</script>

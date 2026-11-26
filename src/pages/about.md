@@ -1,4 +1,5 @@
 ---
+schemaPerson: true
 avatar: /img/avatar-bluesky.jpg
 layout: about
 lang: it-IT

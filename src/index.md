@@ -1,4 +1,5 @@
 ---
+schemaPerson: true
 avatar: img/avatar3.jpg
 layout: home.njk
 sommario: "La casa digitale di Andrea Corinti (Xab), freelance di contenuti e supporto e-learning e Italian Web World Citizen: blog, progetti e link sparsi, come se fossimo nel 2003."

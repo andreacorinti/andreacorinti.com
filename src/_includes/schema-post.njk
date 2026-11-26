@@ -1,0 +1,24 @@
+{#- JSON-LD BlogPosting di ogni post (postita, posteng, postesp), tutto dal
+    front matter. image: la copertina se c'è, altrimenti l'avatar. dateModified
+    solo se il post ha `updated:` nel front matter. author e publisher
+    rimandano alla Person di home/about tramite lo stesso @id (#me). -#}
+{%- set schemaImage %}{% if immagine %}{% if immagine.startsWith('http') %}{{ immagine }}{% else %}{{ meta.url }}{{ immagine }}{% endif %}{% else %}{{ meta.url }}/img/avatar-bluesky.jpg{% endif %}{% endset -%}
+{%- set schemaUrl %}{{ meta.url }}{{ page.url }}{% endset -%}
+{%- set schemaAuthor %}{ "@type": "Person", "@id": {{ (meta.url + "/#me") | dump | safe }}, "name": "Andrea Corinti", "url": {{ (meta.url + "/") | dump | safe }} }{% endset -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ title | dump | safe }},
+  "description": {{ sommario | dump | safe }},
+  "image": {{ schemaImage | dump | safe }},
+  "datePublished": {{ date | dateToRfc3339 | dump | safe }},
+  {%- if updated %}
+  "dateModified": {{ updated | dateToRfc3339 | dump | safe }},
+  {%- endif %}
+  "inLanguage": {{ (lang or schemaLangDefault) | dump | safe }},
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ schemaUrl | dump | safe }} },
+  "author": {{ schemaAuthor | safe }},
+  "publisher": {{ schemaAuthor | safe }}
+}
+</script>
