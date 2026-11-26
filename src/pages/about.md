@@ -10,7 +10,7 @@ translation: /en/about/
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-Sono Andrea Corinti (in arte Xab), un autoproclamato "Italian Web World Citizen": nato nel 1989 tra le colline del comasco, ho trascorso l'adolescenza tra Argentina e Sicilia, poi una decina d'anni a Genova e alcuni anni ad Atene, prima di tornare in Italia. Tra le poche costanti nei miei vagabondaggi: l'amore per internet, la musica, i libri e i videogiochi.
+Sono Andrea Corinti, in arte Xab, autoproclamato "Italian Web World Citizen". Nato nel 1989 tra le colline del comasco, cresciuto tra Argentina e Sicilia, poi Genova per una decina d'anni e Atene per sei, prima di tornare a casa. Ho cambiato parecchi indirizzi, ma l'inventario è rimasto sempre lo stesso: internet, musica, libri, videogiochi, film e fumetti (più una scorta sospetta di Pozioni).
 
 <div class="freelance-box">
   <p class="freelance-box__label">🇮🇹 Freelance</p>

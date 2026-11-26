@@ -11,7 +11,7 @@ permalink: /en/about/
 
 _Bio is a Poison-elemental attack that can inflict the Poison status._
 
-I'm Andrea Corinti (aka Xab), a self-proclaimed "Italian Web World Citizen": born in 1989 in the hills around Como, I spent my teenage years bouncing between Argentina and Sicily, then about ten years in Genoa and a few in Athens, before finally moving back to Italy. Among the very few constants of all my wandering around: a love for the internet, music, books and video games.
+I'm Andrea Corinti, aka Xab, a self-proclaimed "Italian Web World Citizen". Born in 1989 in the hills around Como, raised between Argentina and Sicily, then about ten years in Genoa and six in Athens, before finally coming home. I've changed addresses quite a few times, but my inventory never did: the internet, music, books, video games, movies and comics (plus a suspicious stack of Potions).
 
 <div class="freelance-box">
   <p class="freelance-box__label">🇮🇹 Freelance</p>
