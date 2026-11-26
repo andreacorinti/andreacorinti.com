@@ -60,7 +60,9 @@
     <link href="https://mastodon.social/@Xabacadabra" rel="me">
     <link href="{{ meta.bluesky.profile }}" rel="me">
 
-    {%- set socialImage %}{% if immagine %}{% if immagine.startsWith('http') %}{{ immagine }}{% else %}{{ meta.url }}{{ immagine }}{% endif %}{% else %}{{ pageSocialImg }}{% endif %}{% endset -%}
+    {#- ogImage/ogImageAlt: card social dedicata per pagine che non sono post
+        (es. Lavora con me), senza passare da `immagine`, che è la copertina dei post #}
+    {%- set socialImage %}{% if ogImage %}{{ meta.url }}{{ ogImage }}{% elif immagine %}{% if immagine.startsWith('http') %}{{ immagine }}{% else %}{{ meta.url }}{{ immagine }}{% endif %}{% else %}{{ pageSocialImg }}{% endif %}{% endset -%}
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="fediverse:creator" content="@Xabacadabra@mastodon.social">
@@ -74,7 +76,7 @@
     {%- set isPost = layout and (layout == 'postita' or layout == 'posteng' or layout == 'postesp') %}
     <meta property="og:type" content="{% if isPost %}article{% else %}website{% endif %}" />
     <meta property="og:site_name" content="{{ meta.siteName }}" />
-    <meta property="og:image:alt" content="{{ pageOgTitle | safe }}" />
+    <meta property="og:image:alt" content="{% if ogImageAlt %}{{ ogImageAlt }}{% else %}{{ pageOgTitle | safe }}{% endif %}" />
     {%- set ogLocale %}{% if lang and lang.startsWith('en') %}en_US{% elif lang and lang.startsWith('es') %}es_ES{% else %}it_IT{% endif %}{% endset %}
     <meta property="og:locale" content="{{ ogLocale }}" />
     {%- if translation %}

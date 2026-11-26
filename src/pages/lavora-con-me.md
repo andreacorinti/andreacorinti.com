@@ -7,6 +7,8 @@ seoTitle: "Siti web veloci e leggeri con 11ty"
 sommario: "Realizzo siti statici con 11ty per blogger, professionisti e piccole attività: veloci, sicuri, perfetti da telefono, senza database né plugin da aggiornare. Prezzi chiari e preventivo gratuito."
 translation: /work-with-me/
 permalink: /lavora-con-me/
+ogImage: /img/og-lavora-con-me.jpg
+ogImageAlt: "Lavora con me: siti veloci e leggeri con 11ty, andreacorinti.com, con uno screenshot della home del sito"
 ---
 
 {% include 'work-status.njk' %}

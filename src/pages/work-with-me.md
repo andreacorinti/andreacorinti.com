@@ -7,6 +7,8 @@ seoTitle: "Fast, lightweight websites with Eleventy"
 sommario: "I build static websites with Eleventy (11ty) for bloggers, freelancers and small businesses: fast, secure, mobile-friendly, no database and no plugins to keep updated. Clear prices, free quote."
 translation: /lavora-con-me/
 permalink: /work-with-me/
+ogImage: /img/og-work-with-me.jpg
+ogImageAlt: "Work with me: fast, lightweight websites with Eleventy, andreacorinti.com, with a screenshot of the site homepage"
 ---
 
 {% include 'work-status.njk' %}
