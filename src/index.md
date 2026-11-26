@@ -12,7 +12,7 @@ Benvenuti nella mia casa digitale! Sono [Andrea Corinti](/about) e qui archivio 
 
 <p class="tdbc-ink--gray" lang="en"><small>Mostly writing in Italian around here. English readers: <a href="/en/about/" hreflang="en">here's who I am</a> and <a href="/categoria/english-0/">what I write in English</a>.</small></p>
 
-Questi, per esempio, sono gli ultimi post del mio blog:
+Questi, per esempio, sono gli ultimi post del mio blog (ce ne sono {{ collections.latestPost | length }} in tutto!):{# conteggio in build: tutti i post pubblicati, italiani e inglesi, bozze escluse #}
 
 {%- set latest = collections.latestPost | first -%}
 {%- set latestEn = latest.data.lang and latest.data.lang.startsWith('en') %}
