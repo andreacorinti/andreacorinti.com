@@ -6,11 +6,31 @@ layout: base.njk
 
 <header class="tdbc-hero">
   <div class="tdbc-container">
-    {#- nome con "Xab" come timbro e foto in cornice da vignetta: _about.scss #}
+    {#- nome con "Xab" come timbro e foto in una finestra da menu di Final
+        Fantasy con scheda personaggio: _about.scss. Tutto CSS/SVG originale
+        (nessuno sprite, logo o font di Square Enix). Le voci restano in
+        inglese anche nella pagina italiana, come nei menu dei giochi. #}
     <h1 class="tdbc-ink--primary tdbc-mb-none titolo about-name">Andrea Corinti <span class="about-name__nick">Xab</span></h1>
     <figure class="about-photo">
-      <img class="u-photo about-photo__img" src="{{ avatar }}" alt="Andrea Corinti" width="400" height="400">
+      {%- if lang and lang.startsWith('en') %}{% set ffLabel = "Make your move: poison or cure" %}{% else %}{% set ffLabel = "Fai la tua mossa: veleno o cura" %}{% endif %}
+      <button type="button" class="about-photo__cursor" aria-label="{{ ffLabel }}" title="{{ ffLabel }}"><svg class="about-photo__cursor-icon" viewBox="0 0 26 16" aria-hidden="true" focusable="false"><g class="about-photo__cursor-ink"><rect x="10" y="3" width="15" height="4.6" rx="2.3"/><rect x="3.5" y="3" width="11.5" height="11" rx="3"/><rect x="0.8" y="4.2" width="3.6" height="8.6" rx="1"/></g><g class="about-photo__cursor-fill"><rect x="10" y="3" width="15" height="4.6" rx="2.3"/><rect x="3.5" y="3" width="11.5" height="11" rx="3"/><rect x="0.8" y="4.2" width="3.6" height="8.6" rx="1"/></g><path class="about-photo__cursor-line" d="M9 7.6h5.2M9 10.3h5M9 13h4.2M4.4 4.2v8.6"/></svg></button>
+      <div class="about-photo__row">
+        <div class="about-photo__portrait">
+          <img class="u-photo about-photo__img" src="{{ aboutPhoto or avatar }}" alt="Andrea Corinti" width="400" height="400">
+        </div>
+        <div class="about-photo__sheet">
+        <p class="about-photo__name">Xab</p>
+        <dl class="about-photo__stats">
+          <dt>Lv</dt><dd>{% xabLevel %}</dd>
+          <dt>HP</dt><dd aria-live="polite"><span class="about-photo__hp" data-max="9999">7777</span>/9999</dd>
+          <dt>MP</dt><dd>999/999</dd>
+          <dt>Job</dt><dd>Web World Citizen</dd>
+        </dl>
+        </div>
+      </div>
+      <p class="about-photo__status">Status <span>Poison</span></p>
     </figure>
+    <script src="/js/ff-about.js" defer></script>
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mx-auto p-note about-tagline">
       An Italian Web World Citizen.
     </h2>

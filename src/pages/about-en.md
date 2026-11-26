@@ -1,5 +1,7 @@
 ---
 avatar: /img/avatar3.jpg
+# foto nella finestra stile FF (stessa dell'avatar Bluesky); avatar resta per h-card
+aboutPhoto: /img/avatar-bluesky.jpg
 layout: about
 lang: en-US
 title: About me

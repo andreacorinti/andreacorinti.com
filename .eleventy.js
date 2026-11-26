@@ -129,6 +129,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/js");
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  // "Lv" della scheda personaggio in About (finestra stile Final Fantasy):
+  // anni dal 1989 della bio, ricalcolati a ogni build. Ignora il giorno del
+  // compleanno, che la bio non dice: per un pezzo dell'anno è avanti di uno.
+  eleventyConfig.addShortcode("xabLevel", () => `${new Date().getFullYear() - 1989}`);
   // Impronta del contenuto per il cache-busting (style.css?v=abc123): il CSS
   // può stare in cache un anno (vedi netlify.toml) e cambia indirizzo da solo
   // a ogni modifica. Legge il file compilato in public/ (sass gira prima di

@@ -29,7 +29,7 @@ Il primo incontro è stato del tutto casuale, nel 200X, ma quello vero, quello c
 
 ![Un ASUS Eee PC 701 bianco aperto su una mensola, con lo schermo minuscolo e la tastiera in miniatura](/img/italian-linux-society/eee-pc.jpg)
 
-_un ASUS Eee PC 701, cioè dove ho avuto la bella idea di far girare KDE, foto di Ashley Pomeroy, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Asus_Eee_701.jpg)_
+_un ASUS Eee PC (non ricordo più quale modello fosse il mio, ma la follia di farci girare KDE me la ricordo benissimo), foto di Ashley Pomeroy, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Asus_Eee_701.jpg)_
 
 Io sono sempre stato team [KDE](https://kde.org/), al punto da fare la follia di provarlo su un vecchio ASUS Eee PC (l'amore è cieco).
 
@@ -115,5 +115,4 @@ e sarebbe davvero molto bello che pubblica amministrazione, Stato, UE e di conse
 
 Dopo tutto questo girovagare tra distro e desktop, iscrivermi a ILS mi sembrava davvero il minimo, ora aspetto solo che l'assemblea mi faccia entrare (o che mi chiami il numerino, insomma).
 
-<!-- TODO: dopo averlo condiviso sul fediverso, metti qui l'ID del post Mastodon e togli il commento -->
-<!-- <mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="TODO"></mastodon-comments> -->
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="117683435965538734"></mastodon-comments>
