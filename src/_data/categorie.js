@@ -3,7 +3,7 @@
 module.exports = {
   videogiochi: "Video Games",
   musica: "Music",
-  internet: "Internet",
+  internet: "Internet & Tech",
   // ex "Film & Serie" + "Fumettame", unite a novembre 2026
   "film-serie": "Movies, TV & Fumettame",
   xabologia: "Xabologia",

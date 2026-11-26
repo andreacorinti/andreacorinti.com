@@ -17,6 +17,7 @@ perpetually work in progress...
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Arcweb**](https://www.arcweb.it/) | Sito di Marco Bortone, il mio vecchio best buddy internettiano |
 | [**Note in disordine di Zel**](https://zel.leaflet.pub/) | Blog ad appunti del caro Zello |
+| [**Italian Linux Society**](https://www.ils.org/) | L'associazione italiana per Linux e il software libero, dal 1994 (e mi ci sono appena iscritto!) |
 | [**Cantina Ragnate.la**](https://cantina.ragnate.la//) | Il bel blog di Edoardo Maria Elidoro, Ed di Livello Segreto! |
 | [**Wok Oblomov**](https://wok.oblomov.eu/) | l'interessante sitone di Oblomov, colmo di riflessioni su politica e web |
 | [**SadNES City**](https://www.sadnescity.it/) | Storici traduttori di svariati videogiochi, specie Squaresoft |

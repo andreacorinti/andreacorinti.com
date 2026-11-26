@@ -103,3 +103,45 @@
 .uk:hover {
   fill: white;
 }
+// Badge 88x31 di blogroll.it e stato del deploy Netlify in fondo alla home:
+// in fila, centrati sotto le icone social e allineati a metà altezza (i due
+// badge hanno altezze diverse, 31 e 20px). Il banner di blogroll ha una
+// versione scura e una chiara: si vede quella del tema attivo.
+.home-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0 1rem;
+  gap: 1rem;
+
+  &__badge {
+    display: inline-flex;
+    transition: opacity 140ms ease-out;
+    opacity: 0.85;
+    line-height: 0;
+
+    &:hover,
+    &:focus-visible {
+      opacity: 1;
+    }
+  }
+
+  img {
+    display: block;
+  }
+
+  &__light {
+    display: none !important;
+  }
+
+  :root[data-theme="light"] & {
+    .home-badges__dark {
+      display: none !important;
+    }
+
+    .home-badges__light {
+      display: block !important;
+    }
+  }
+}

@@ -2,8 +2,8 @@
 layout: archivio
 lang: it-IT
 eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Internet - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Internet{% endif %}"
-  sommario: "{% if pagination.pageNumber > 0 %}Post su internet e il fediverso dal blog di Andrea Corinti / Posts about the internet and the fediverse from Andrea Corinti's blog - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Post su internet e il fediverso dal blog di Andrea Corinti. Posts about the internet and the fediverse from Andrea Corinti's blog.{% endif %}"
+  title: "{% if pagination.pageNumber > 0 %}Internet & Tech - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Internet & Tech{% endif %}"
+  sommario: "{% if pagination.pageNumber > 0 %}Post su internet, fediverso e tecnologia dal blog di Andrea Corinti / Posts about the internet, the fediverse and tech from Andrea Corinti's blog - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Post su internet, fediverso e tecnologia dal blog di Andrea Corinti. Posts about the internet, the fediverse and tech from Andrea Corinti's blog.{% endif %}"
 pagination:
     data: collections.internet
     size: 8

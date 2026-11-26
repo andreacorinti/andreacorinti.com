@@ -36,7 +36,11 @@ Questo, per esempio, è l'ultimo post del suo blog:
 
 Qui [**il mio listone di siti belli**](/bookmarks/) (in perpetuo aggiornamento)
 
-<a href="https://blogroll.it/"><img src="https://blogroll.it/banner-dark.gif" alt="Questo sito è su blogroll.it" width="88" height="31" loading="lazy"></a>
-
-<a href="https://app.netlify.com/sites/andreacorinti/deploys"><img src="https://api.netlify.com/api/v1/badges/2ce83520-1a8d-4e99-b17c-84de26b48a13/deploy-status" alt="Netlify Status" width="118" height="20" loading="lazy"></a>
+{# Badge socio ILS, a sinistra di blogroll.it (markup in _includes/ils-badge.njk).
+   L'include deve restare sulla stessa riga del div: una riga vuota lì dentro
+   farebbe chiudere a markdown il blocco HTML e incartare i badge in un <p>. #}
+<div class="home-badges">{% include 'ils-badge.njk' %}
+<a href="https://blogroll.it/" class="home-badges__badge"><img class="home-badges__dark" src="https://blogroll.it/banner-dark.gif" alt="Questo sito è su blogroll.it" width="88" height="31" loading="lazy"><img class="home-badges__light" src="https://blogroll.it/banner.gif" alt="Questo sito è su blogroll.it" width="88" height="31" loading="lazy"></a>
+<a href="https://app.netlify.com/sites/andreacorinti/deploys" class="home-badges__badge"><img src="https://api.netlify.com/api/v1/badges/2ce83520-1a8d-4e99-b17c-84de26b48a13/deploy-status" alt="Netlify Status" width="118" height="20" loading="lazy"></a>
+</div>
 

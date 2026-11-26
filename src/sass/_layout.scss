@@ -59,6 +59,78 @@ footer {
   a:not(.tdbc-button):hover {
     color: #fdeb37;
   }
+
+}
+
+// Badge "Socio Italian Linux Society" (markup in _includes/ils-badge.njk,
+// usato solo in home in index.md, a sinistra di blogroll.it): un bottoncino
+// 88x31 vecchia scuola, stesse misure del banner di blogroll.it, con "ILS"
+// grande e "socio" piccolo; il nome per esteso sta in title/aria-label.
+.ils-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start; // pinguino a ridosso del bordo, come nei vecchi 88x31
+  box-sizing: border-box;
+  width: 88px;
+  height: 31px;
+  padding-left: 3px;
+  border: 1px solid #3a3a3a; // come le linee delle card in tema scuro
+  border-radius: 2px;
+  background-color: var(--tdbc-surface);
+  color: var(--tdbc-text);
+  font-family: Teko, sans-serif;
+  line-height: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+  gap: 0;
+
+  &__tux {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    transform: translateY(-1px); // misurato: senza, la testa sta 1px sotto il centro
+  }
+
+  // la testa è nera fissa: in tema scuro
+  // un filo di contorno grigio la stacca dal fondo
+  &__tux-head {
+    stroke: #555;
+    stroke-width: 0.8;
+  }
+
+  // "ILS" sopra, "socio" piccolo sotto
+  // il testo si centra nello spazio che resta a destra del pinguino
+  &__text {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__name {
+    font-size: 1.45rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    line-height: 0.8;
+  }
+
+  &__role {
+    margin-top: -1px; // stringe lo stacco con "ILS" sopra
+    color: var(--tdbc-muted);
+    font-size: 0.82rem;
+    letter-spacing: 0.12em;
+    line-height: 0.9;
+  }
+
+  :root[data-theme="light"] & {
+    border-color: var(--tdbc-border-subtle);
+  }
+
+}
+
+// col tema chiaro il fondo è bianco: lì il contorno non serve
+:root[data-theme="light"] .ils-badge__tux-head {
+  stroke: none;
 }
 
 article {
@@ -145,7 +217,7 @@ ul.tdbc-column-container {
 hr {
   margin-top: 4rem;
   margin-bottom: 4rem;
-  border: 1px solid var(--tdbc-border-subtle);
+  border: 1px solid #3a3a3a; // come le linee delle card in tema scuro
 }
 
 .avatar {

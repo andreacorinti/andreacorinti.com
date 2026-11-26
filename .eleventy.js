@@ -199,7 +199,11 @@ module.exports = function (eleventyConfig) {
   // rapporto fisso in _postcard.scss le uniforma comunque tutte.
   // `eager` (numero o booleano): le prime card non vanno in lazy-load.
   eleventyConfig.addAsyncShortcode("cardImage", async function (src, alt, eager) {
-    if (!src) return "";
+    // Mai una stringa vuota: le card stanno in pagine .md, e una riga vuota
+    // chiude il blocco HTML per markdown-it, che poi butta un <p></p> nella
+    // griglia (cella fantasma accanto a un post senza immagine). Lo span
+    // vuoto tiene la riga "piena"; il riquadro a righe resta quello di .post-card__media.
+    if (!src) return '<span class="post-card__noimg" aria-hidden="true"></span>';
     const isEager = eager === true || (typeof eager === "number" && eager <= 2);
     const attrs = {
       alt: alt || "",

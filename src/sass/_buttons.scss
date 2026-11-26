@@ -120,6 +120,13 @@
 
   @media (width >= 768px) {
     justify-content: center;
+
+    // con "Internet & Tech" (nov. 2026) i 7 bottoni non stavano più su una
+    // riga sola nel contenitore largo (~1050px): un filo meno di padding
+    // laterale li rimette in fila senza toccare font e icone
+    .cat-btn {
+      padding-inline: 0.6em;
+    }
   }
 
   // Mobile: una sola striscia che scorre in orizzontale invece di 4 righe.
