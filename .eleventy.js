@@ -45,11 +45,11 @@ module.exports = function (eleventyConfig) {
   };  
 
   eleventyConfig.addCollection("searchIndex", function (collection) {
-    // Italian posts (year folders), English posts (posts/eng/), pages and
+    // Italian posts (year folders), English posts (posts/eng/<year>/), pages and
     // projects. Pages with an English `lang` carry `lang: "en"` so search.js can flag them.
     const posts = collection.getFilteredByGlob([
       "./src/posts/20*/*.md",
-      "./src/posts/eng/*.md",
+      "./src/posts/eng/**/*.md",
       "./src/pages/*.md",
       "./src/posts/progetti/*.md"
     ]).filter((item) => item.data.title); // about/projects non hanno né title né sommario: non potrebbero mai uscire come risultato
@@ -65,10 +65,13 @@ module.exports = function (eleventyConfig) {
   /* Collezioni */
 
   // Italian posts live in per-year folders (posts/2013/, posts/2014/, ...);
-  // English ones live together in posts/eng/ regardless of year, since
-  // there are few enough of them that browsing by year isn't useful and
-  // grouping them makes translation pairs (see the `translation` frontmatter
-  // field) easier to find. Layout (postita/posteng/postesp) still decides
+  // English ones live under posts/eng/, split by year too (posts/eng/2026/,
+  // ...), so the two languages stay separate but browse the same way. The
+  // year subfolder is only for tidiness: eng.11tydata.json cascades into it
+  // and the permalink uses fileSlug, so URLs stay flat (/posts/slug/) and
+  // moving a file between years never changes its URL or feed GUID. Every
+  // English glob below must be posts/eng/**/*.md (not *.md) to reach the
+  // subfolders. Layout (postita/posteng/postesp) still decides
   // which collection a post lands in — it's not inferred from the folder.
   //
   // "blog" backs the RSS feed (declared it-IT), so it stays Italian-only on
@@ -83,13 +86,13 @@ module.exports = function (eleventyConfig) {
   // Pagina "Tutti" (/blog-N/): post italiani + inglesi insieme, i più recenti
   // prima. `blog` resta solo italiano perché alimenta il feed RSS italiano.
   eleventyConfig.addCollection("blogTutti", function(collection) {
-    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/*.md"])
+    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/**/*.md"])
       .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng")
       .sort((a, b) => b.date - a.date);
   });
   // Homepage "latest post" teaser: newest post in either language.
   eleventyConfig.addCollection("latestPost", function(collection) {
-    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/*.md"])
+    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/**/*.md"])
       .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng")
       .sort((a, b) => b.date - a.date);
   });
@@ -98,11 +101,10 @@ module.exports = function (eleventyConfig) {
       .filter((item) => item.data.layout === "postita")
       .reverse();
   });
-  // English posts now live in their own posts/eng/ folder (moved out of the
-  // year folders for easier browsing), so this globs that directly instead
-  // of filtering year folders by layout.
+  // English posts live in their own posts/eng/<year>/ folders, so this globs
+  // that tree directly instead of filtering the Italian year folders by layout.
   eleventyConfig.addCollection("blogeng", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/eng/*.md")
+    return collection.getFilteredByGlob("./src/posts/eng/**/*.md")
       .filter((item) => item.data.layout === "posteng")
       .reverse();
   });

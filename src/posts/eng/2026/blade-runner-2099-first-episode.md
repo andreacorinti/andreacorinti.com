@@ -35,6 +35,10 @@ Villeneuve's _Blade Runner 2049_ wasn't a masterpiece, but it was a damn good mo
 
 Then there's the film vs series thing, which would need a whole post (one day, maybe!): a two-hour movie and an eight-episode show are different animals, and if Blade Runner's atmosphere can hold for two hours, I'm not so sure it can hold for eight episodes.
 
+And it's funny, because in this period I'm watching [_The Ramparts of Ice_](https://en.wikipedia.org/wiki/The_Ramparts_of_Ice), an anime, and like it always happens to me when I find an anime I like I'm left shocked by how much beauty they can squeeze in twenty minutes or so, while the 50 minutes series sometimes seem more busy making minutes than anything else (not always, eh, actually in certain contexts I would have wanted more, much more... but anyway)
+
+so maybe for some things it would be better to stay on movies and let series go
+
 ## The Highlander effect
 
 The gap reminded me of when I watched the _Highlander_ TV series with Duncan MacLeod and kept comparing it with the Christopher Lambert movies...

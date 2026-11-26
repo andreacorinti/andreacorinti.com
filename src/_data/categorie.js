@@ -7,6 +7,6 @@ module.exports = {
   // ex "Film & Serie" + "Fumettame", unite a novembre 2026
   "film-serie": "Movies, TV & Fumettame",
   xabologia: "Xabologia",
-  // tutti i post in posts/eng/ (tag assegnato da eng.11tydata.json)
+  // tutti i post in posts/eng/<anno>/ (tag assegnato da eng.11tydata.json)
   english: "English",
 };
