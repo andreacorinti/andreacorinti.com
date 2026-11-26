@@ -31,6 +31,21 @@ Questo, per esempio, è l'ultimo post del suo blog:
 </div>
 </li>
 </ul>
+{#- i due post precedenti: niente immagine né JS, solo categoria, data,
+    titolo e una riga di sommario (_postcard.scss, .home-more) #}
+<ul class="home-more">
+{%- for post in collections.latestPost.slice(1, 3) %}
+{%- set postEn = post.data.lang and post.data.lang.startsWith('en') %}
+{%- set postCat = post.data.tags | reject("equalto", "english") | first %}
+{%- if not categorie[postCat] %}{% set postCat = '' %}{% endif %}
+<li class="home-more__item{% if postCat %} cat-btn--{{ postCat }}{% endif %}"{% if postEn %} lang="en"{% endif %}>
+<div class="post-card__meta">{% if postEn %}<span class="post-card__flag home-more__flag" lang="en"><span aria-hidden="true">🇬🇧</span>English</span>{% endif %}{% if postCat %}<span class="post-card__cat">{{ categorie[postCat] }}</span>{% endif %}<time datetime="{{ post.date | htmlDateString }}">{% if postEn %}{{ post.data.date | dateDisplay('en-US') }}{% else %}{{ post.data.date | dateDisplay }}{% endif %}</time></div>
+<h2 class="home-more__title"><a href="{{ post.url }}"{% if postEn %} hreflang="en"{% endif %}>{{ post.data.title }}</a></h2>
+<p class="home-more__summary">{{ post.data.sommario }}</p>
+</li>
+{%- endfor %}
+</ul>
+<p class="home-more__all"><a class="cat-btn cat-btn--tutti" href="/blog-0/">Tutti i post</a></p>
 
 {% include 'social.njk' %}
 

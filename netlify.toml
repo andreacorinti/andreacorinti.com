@@ -16,6 +16,21 @@
     status = 302
     force = true
 
+  # /blog/ non esiste (l'archivio impaginato parte da /blog-0/, post
+  # italiani e inglesi insieme): chi lo digita a mano finiva su un 404.
+  # Netlify ignora la barra finale nel confronto, ma le scrivo tutte e due.
+  [[redirects]]
+    from = "/blog"
+    to = "/blog-0/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/blog/"
+    to = "/blog-0/"
+    status = 301
+    force = true
+
   # "Fumettame" è stata unita a "Film & Serie" (ora "Film, Serie & Fumettame",
   # slug invariato film-serie). Le vecchie pagine finiscono sulla prima della
   # categoria unita, perché la numerazione delle pagine non corrisponde più.

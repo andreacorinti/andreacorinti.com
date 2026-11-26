@@ -257,3 +257,66 @@
 .post-card .post-card__title a:hover {
   color: var(--tdbc-text);
 }
+
+// Home: i due post prima di quello in evidenza, in versione leggera (niente
+// immagine). Stessa riga meta delle card (timbro categoria + data), un filo
+// del colore della categoria a sinistra e una sola riga di sommario.
+.home-more {
+  display: grid;
+  max-width: 60rem;
+  margin: -1rem 0 1.25rem;
+  padding: 0;
+  // minmax(0, …): senza, il sommario su una riga sola allarga la colonna
+  // oltre il contenitore invece di troncarsi coi puntini
+  grid-template-columns: minmax(0, 1fr);
+  list-style: none;
+  gap: 1.1rem;
+
+  &__item {
+    margin: 0;
+    padding: 0.2rem 0 0.2rem 0.9rem;
+    border-left: 4px solid var(--tdbc-cat, var(--tdbc-text));
+  }
+
+  &__title {
+    margin: 0.5rem 0 0.2rem;
+    font-family: Teko, sans-serif;
+    font-size: 1.7rem;
+    font-weight: normal;
+    line-height: 1;
+
+    a {
+      color: var(--tdbc-text);
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus-visible {
+      text-decoration: underline;
+    }
+  }
+
+  &__summary {
+    margin: 0;
+    color: var(--tdbc-muted);
+    font-size: 0.95rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  // stessa etichetta 🇬🇧 delle card, ma in linea nella riga meta (qui non
+  // c'è un'immagine su cui appoggiarla)
+  &__flag {
+    position: static;
+    font-size: 1rem;
+    box-shadow: 2px 2px 0 #121212;
+  }
+
+  &__all {
+    max-width: 60rem;
+    margin: 0 0 2.5rem;
+    text-align: right;
+  }
+}
+
