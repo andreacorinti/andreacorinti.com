@@ -4,17 +4,43 @@
   max-width: 80ch;
 }
 
+// "#" accanto ai titoli dei post (markdown-it-anchor, ariaHidden): nascosto,
+// compare discreto con hover o focus del titolo (es. arrivando da #ancora).
+// Su touch, senza hover, resta nascosto: il link al titolo funziona lo stesso.
 .tdbc-anchor {
   display: inline-block;
-  margin-left: 0.25em;
+  margin-left: 0.3em;
   transition: 180ms opacity ease-in-out;
-  opacity: 0.6;
+  opacity: 0;
+  color: var(--tdbc-muted);
   font-size: 0.65em;
+  text-decoration: none;
   vertical-align: top;
+
+  :is(h2, h3):hover > &,
+  :is(h2, h3):focus > & {
+    opacity: 0.7;
+  }
 
   &:hover {
     opacity: 1;
+    color: var(--tdbc-link-hover);
   }
+
+  @media (hover: none) {
+    display: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+// Titoli con tabindex="-1" (quelli con l'ancora): ricevono il focus quando ci
+// si arriva da un link #ancora, ma lì il contorno è solo rumore. Il focus
+// degli altri elementi non cambia.
+:is(h1, h2, h3)[tabindex="-1"]:focus {
+  outline: none;
 }
 
 // Allineamenti

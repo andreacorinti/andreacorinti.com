@@ -360,17 +360,20 @@ module.exports = function (eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
   }).use(markdownItAnchor, {
-    // Nuova API (markdown-it-anchor >= 8) al posto delle vecchie opzioni
-    // permalink/permalinkClass/permalinkSymbol/permalinkSpace, deprecate.
-    // linkInsideHeader è proprio lo stile che `permalink: true` usava sotto
-    // il cofano: stesso HTML di prima, <h2 id="x" tabindex="-1">Testo<a
-    // class="tdbc-anchor" href="#x"></a></h2> (link vuoto subito dopo il
-    // testo, senza spazio). Gli id li decide `slugify` qui sotto: non cambiano.
-    permalink: markdownItAnchor.permalink.linkInsideHeader({
+    // Nuova API (markdown-it-anchor >= 8). ariaHidden = linkInsideHeader con
+    // aria-hidden="true": il titolo si legge già da solo, il "#" serve solo
+    // a chi vuole copiare il link. tabindex="-1" sul link perché un elemento
+    // aria-hidden non deve restare raggiungibile da tastiera. Risultato:
+    // <h2 id="x" tabindex="-1">Testo<a class="tdbc-anchor" href="#x"
+    // aria-hidden="true" tabindex="-1">#</a></h2>; il "#" compare solo con
+    // hover o focus del titolo (_utilities.scss). Gli id li decide `slugify`
+    // qui sotto: non cambiano.
+    permalink: markdownItAnchor.permalink.ariaHidden({
       class: "tdbc-anchor",
-      symbol: "",
+      symbol: "#",
       space: false,
       placement: "after",
+      renderAttrs: () => ({ tabindex: "-1" }),
     }),
     level: [1, 2, 3],
     slugify: (s) =>
