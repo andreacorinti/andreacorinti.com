@@ -113,6 +113,33 @@ module.exports = function (eleventyConfig) {
       .filter((item) => item.data.layout === "postesp")
       .reverse();
   });
+  // Tutti i post pubblicati (italiani, inglesi, spagnoli), i più recenti
+  // prima: il serbatoio da cui pescano i "post correlati" in fondo ai post.
+  eleventyConfig.addCollection("relatedPool", function(collection) {
+    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/**/*.md"])
+      .filter((item) => ["postita", "posteng", "postesp"].includes(item.data.layout))
+      .sort((a, b) => b.date - a.date);
+  });
+
+  // Post correlati (related-posts.njk): stessa lingua (= stesso layout) e
+  // stessa categoria, escluso il post corrente. Ordine: prima quelli con più
+  // tag in comune (oltre a categoria e "english"), a parità i più recenti.
+  // Se il post non ha una categoria (alcuni vecchi post inglesi hanno solo
+  // "english") ripiega sui più recenti della stessa lingua.
+  eleventyConfig.addFilter("relatedPosts", function(pool, url, tags, layout, max = 3) {
+    const categorie = require("./src/_data/categorie.js");
+    const own = (tags || []).filter((t) => t !== "english");
+    const cat = own.find((t) => categorie[t]);
+    const extra = new Set(own.filter((t) => t !== cat));
+    return (pool || [])
+      .filter((p) => p.url !== url && p.data.layout === layout)
+      .filter((p) => !cat || (p.data.tags || []).includes(cat))
+      .map((p) => ({ p, score: (p.data.tags || []).filter((t) => extra.has(t)).length }))
+      .sort((a, b) => b.score - a.score || b.p.date - a.p.date)
+      .slice(0, max)
+      .map((x) => x.p);
+  });
+
   eleventyConfig.addCollection("progetti", function(collection) {
     return collection.getFilteredByGlob("./src/posts/progetti/*.md").reverse();
   });

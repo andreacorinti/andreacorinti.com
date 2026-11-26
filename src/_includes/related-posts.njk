@@ -1,0 +1,15 @@
+{#- Post correlati, generati in build (filtro relatedPosts in .eleventy.js):
+    stessa lingua e categoria, solo titolo e data. Se non ce n'è nessuno la
+    sezione non compare. Stile: .related in _postcard.scss. -#}
+{%- set related = collections.relatedPool | relatedPosts(page.url, tags, layout) %}
+{%- if related.length %}
+{%- set relLang = lang or "it-IT" %}
+<section class="related" aria-labelledby="related-title">
+  <h2 id="related-title" class="related__title">{% if relLang.startsWith('en') %}Read next{% elif relLang.startsWith('es') %}Sigue leyendo{% else %}Leggi anche{% endif %}</h2>
+  <ul class="related__list">
+    {%- for post in related %}
+    <li class="related__item"><a href="{{ post.url }}">{{ post.data.title }}</a> <time datetime="{{ post.date | htmlDateString }}">{% if relLang.startsWith('en') %}{{ post.date | dateDisplay('en-US') }}{% else %}{{ post.date | dateDisplay }}{% endif %}</time></li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}

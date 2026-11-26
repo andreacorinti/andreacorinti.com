@@ -320,3 +320,36 @@
   }
 }
 
+// "Leggi anche" in fondo ai post (related-posts.njk): lista sobria, solo
+// titolo e data, con lo stesso filo a sinistra della lista in home.
+.related {
+  margin: 2.5rem 0 0;
+
+  &__title {
+    margin: 0 0 0.75rem;
+    font-family: Teko, sans-serif;
+    font-size: 1.6rem;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  &__list {
+    margin: 0;
+    padding: 0 0 0 0.9rem;
+    border-left: 4px solid var(--tdbc-nav-mark);
+    list-style: none;
+  }
+
+  &__item {
+    margin: 0 0 0.5rem;
+
+    time {
+      margin-left: 0.4rem;
+      color: var(--tdbc-muted);
+      font-size: 0.9em;
+      white-space: nowrap;
+    }
+  }
+}
