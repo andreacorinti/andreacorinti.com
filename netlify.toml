@@ -126,3 +126,14 @@
 
 [build.environment]
   NODE_VERSION = "24"
+
+# IndexNow: a ogni deploy di produzione riuscito avvisa Bing & co. delle sole
+# pagine nuove o modificate (confronta la sitemap con quella del deploy
+# precedente). Plugin locale, nessuna dipendenza: vedi plugins/indexnow/.
+# La chiave è anche il nome del file src/<key>.txt, copiato nella root.
+[[plugins]]
+  package = "./plugins/indexnow"
+
+  [plugins.inputs]
+    host = "www.andreacorinti.com"
+    key = "77b6ed3475014a7298f5e2644ca5e8da"

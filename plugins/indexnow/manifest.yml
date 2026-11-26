@@ -1,0 +1,11 @@
+name: indexnow
+inputs:
+  - name: host
+    description: Host del sito (senza https://), es. www.andreacorinti.com
+    required: true
+  - name: key
+    description: Chiave IndexNow; il file <key>.txt deve stare nella root del sito pubblicato
+    required: true
+  - name: endpoint
+    description: Endpoint IndexNow condiviso (lo inoltra a Bing, Yandex, Seznam, Naver…)
+    default: https://api.indexnow.org/indexnow

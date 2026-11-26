@@ -153,6 +153,10 @@ module.exports = function (eleventyConfig) {
   // src/video (i video del live Opeth, ~318 MB) resta nel repo ma non va
   // più online: nessuna pagina li usa e consumavano banda Netlify.
   eleventyConfig.addPassthroughCopy("./src/favicon.png");
+  // Chiave IndexNow (Bing, Yandex, Seznam…): un .txt nella root che contiene
+  // la chiave stessa, serve ai motori per verificare che le notifiche di
+  // pagine nuove/modificate arrivino davvero da chi gestisce il sito.
+  eleventyConfig.addPassthroughCopy("./src/77b6ed3475014a7298f5e2644ca5e8da.txt");
   eleventyConfig.addPassthroughCopy("./src/js");
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);

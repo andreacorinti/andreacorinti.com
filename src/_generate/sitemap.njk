@@ -2,17 +2,24 @@
 permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
+{#- lastmod solo dove c'è una data vera: `updated:` se il post è stato
+    rivisto, altrimenti `date:` dal front matter. Le pagine senza data (about,
+    archivi /blog-N/, contatti…) non lo hanno: Eleventy userebbe la data del
+    file, che su Netlify cambia a ogni deploy (clone nuovo) e farebbe sembrare
+    modificato tutto. La home prende la data del post più recente. Il plugin
+    IndexNow (plugins/indexnow) confronta questi lastmod tra un deploy e l'altro. -#}
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in collections.all %}
-  {% set absoluteUrl %}{{ page.url | url | absoluteUrl(meta.url) }}{% endset %}
+  {%- set absoluteUrl %}{{ page.url | url | absoluteUrl(meta.url) }}{% endset %}
+  {%- set realDate = page.data.updated or page.data.date %}
   <url>
     <loc>{{ absoluteUrl }}</loc>
-		{% if page.url == '/' %}
-    <lastmod>{{ collections.all | getNewestCollectionItemDate | dateToRfc3339 }}</lastmod>
-    {% else %}
-    <lastmod>{{ page.date | dateToRfc3339 }}</lastmod>
-		{% endif %}
+    {%- if page.url == '/' %}
+    <lastmod>{{ collections.relatedPool | getNewestCollectionItemDate | dateToRfc3339 }}</lastmod>
+    {%- elif realDate %}
+    <lastmod>{{ realDate | dateToRfc3339 }}</lastmod>
+    {%- endif %}
   </url>
 {%- endfor %}
 </urlset>
