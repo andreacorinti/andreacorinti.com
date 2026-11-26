@@ -43,7 +43,6 @@ Questo discorso l'ho già affrontato per massima parte [parlando del coinvolgime
 
 ## Videogioco & Arte
 
-<img src="https://static2.gamespot.com/uploads/original/123/1239113/2526149-rez+hd.jpg" alt="rez">
 <small>Rez, classe 2001, fu un avveniristico esperimento di Tetsuya Mizuguchi che poco aveva a che spartire con i videogame più tradizionali.</small> </br> </br>
 
 Vecchio dibattito, **per me affatto scontato a dispetto di quanto appena scritto**...ma che non è il caso di trattare in questa sede:
@@ -58,7 +57,7 @@ E, giusto per non fare il solito retrogamer, parto con un esempio bello recente:
 
 ## Indiana Drake: L'esempio film di Uncharted
 
-<img src="/img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-1.jpg" alt="uncharted">
+<img src="/img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-1.jpg" alt="Copertina di Uncharted 4: A Thief&#x27;s End">
 
 La serie di **Nathan Drake** ha da sola saputo tenere in piedi un genere, quello dei **film d'avventura**, abbastanza bistrattato dalle grandi produzioni cinematografiche moderne, in genere rintanate in _brand_ sicuri e già collaudati. [^collaudati]
 
@@ -84,15 +83,13 @@ Anche perché sussistono alcuni rischi dettati da precedenti non proprio illustr
 
 ## Adattamenti Brutti
 
-<img src="https://i.ytimg.com/vi/AcYnFadXYFo/maxresdefault.jpg" alt="super mario">
-
 _Max Payne_, _Silent Hill: Revelation_, _Hitman_, _Far Cry_, _Postal_, _Tekken_, _Street Fighter_, un _Resident Evil_ a caso...
 
 Fate voi, davvero: **esempi beceri di film tratti da videogiochi si sprecano.**
 
 ## Adattamenti Inutili
 
-<img src="https://s-media-cache-ak0.pinimg.com/originals/b1/d7/f6/b1d7f6787c835ca6ceef2ada78a25e15.jpg" alt="piramidone">
+<img src="https://s-media-cache-ak0.pinimg.com/originals/b1/d7/f6/b1d7f6787c835ca6ceef2ada78a25e15.jpg" alt="Pyramid Head nel film di Silent Hill">
 <small>Giuro che il primo film di Silent Hill non l'ho trovato affatto male...però, confrontato con la serie originale, è senz'altro un'opera molto dimenticabile, banalotta e quindi fondamentalmente superflua</small> </br> </br>
 
 Ma, anche volendo fare gli ottimisti e aspettarsi opere curate in modo certosino, con un buon budget, un gran cast e una cura per i dettagli rispettosa dell'originale...
@@ -101,7 +98,7 @@ In fondo, _a che serve?_
 
 Voglio dire: avete presente _Kingsglaive_, il film-prequel di Final Fantasy XV realizzato in computer grafica? <small>(se non sapete di che sto parlando, cliccate pure [qui](https://xabacadabra.github.io/2016/Kingsglaive-Final-Fantasy-XV-Recensione/))</small>
 
-<img src="/img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-2.jpg" alt="Kingsglaive-Final-Fantasy-XV">
+<img src="/img/archivio/videogiochi/il-cinema-non-altezza-videogiochi-2.jpg" alt="Nyx e un altro Glaive in Kingsglaive: Final Fantasy XV">
 
 Ci terreste _davvero_ a vederne una nuova versione con **attori in carne ed ossa che ciarlano tra uno schermo verde e l'altro?** [^gandalf]
 
@@ -115,7 +112,7 @@ Perché ecco, **oramai nella _current gen_ siamo sempre più prossimi a quel liv
 
 ## Morale?
 
-<img src="https://images.movieplayer.it/images/2016/12/22/assassins-creed-film-header-1280jpg-685176_1280w.jpg" alt="assassins-creed-film-header">
+<img src="https://images.movieplayer.it/images/2016/12/22/assassins-creed-film-header-1280jpg-685176_1280w.jpg" alt="Un assassino in volo nel salto della fede, dal film Assassin&#x27;s Creed">
 <small>Questo non l'ho visto perché non sono nemmeno fan della serie videoludica, ma il fatto che sia stato accolto così male (per quel che vale l'opinione della critica) nonostante la presenza di sua maestà Michael Fassbender già la dice lunga.</small> </br> </br>
 
 Il mio consiglio spassionato, come al solito, è volto all'**acquisto consapevole:**

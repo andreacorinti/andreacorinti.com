@@ -33,7 +33,7 @@ Ancor di più, l'istanza "primogenia" di mastodon (la solita [mastodon.social di
 
 ### Che problema c'è con mastodon.social?
 
-![fediverso](https://blog.joinmastodon.org/2025/02/bringing-quote-posts-to-mastodon/hero.png)
+![Illustrazione di Mastodon per l'arrivo delle citazioni: mastodonti davanti a un quadro](https://blog.joinmastodon.org/2025/02/bringing-quote-posts-to-mastodon/hero.png)
 
 [Raccomando questa lettura su fedi.tips ](https://fedi.tips/its-a-really-bad-idea-to-join-a-big-server/)
 
@@ -46,8 +46,6 @@ e in particolare questo passaggio:
 _(grassetti miei)_
 
 ### Ma come?!? Decentrato qui, decentrato là... Ma allora Mastodon È UNA MERDA! 
-
-![Gargron](https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png)
 
 > sono così decentralizzato che ora _ti spiezzo in due_.
 
@@ -77,7 +75,7 @@ Direi che **un certo squilibrio è inevitabile**, e questo a prescindere dall'ev
 
 ### E quindi che si fa? Che mi stai dicendo? COME RIMETTIAMO LA CHIESA AL CENTRO DEL VILLAGGIO?
 
-![federico-chiesa](https://i.pinimg.com/736x/3f/ec/b4/3fecb46d67bbf110736b43ccae2d5911.jpg)
+![Federico Chiesa in aereo con la maglia dell'Italia e la medaglia di Euro 2020, con un sorrisetto](https://i.pinimg.com/736x/3f/ec/b4/3fecb46d67bbf110736b43ccae2d5911.jpg)
 
 eh...
 

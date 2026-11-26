@@ -69,7 +69,7 @@ _ça va sans dire_, l'interesse alla base dovrebbe essere nei confronti del fedi
 
 Allora niente, continuiamo così e questo post andrà perso come lacrime nella pioggia, ci sta e alla fine si campa lo stesso, posto ci sia costruiti una bollicina carina dove farlo!
 
-![frieren](/img/frieren.gif)
+![GIF di Frieren in versione chibi](/img/frieren.gif)
 
 <misskey-comments 
     host="misskey.social" 

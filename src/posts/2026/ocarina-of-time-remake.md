@@ -70,4 +70,4 @@ Per me, per dire, è un godimento assoluto, da gioco rilassante e divertente: un
 
 Devo ancora finirlo eh, ma mi manca davvero poco e per il momento resta già uno dei videogiochi più belli che io abbia mai giocato, nonostante, come dicevo, non sia legato a nostalgia o girellismo di sorta.
 
-![Ganondorf](https://assets.nintendo.com/image/upload/f_auto,q_auto,w_1200/Marketing2/DNDPqUcrg1784158469aaH8EIiMcjzbYSlnG0ncVJW3rSzR35s0l1pKOdPLJAm2y/section_characters/character-artwork-ganondorf.png)
+![Ganondorf nell'artwork ufficiale Nintendo, in armatura, che punta il dito verso chi guarda](https://assets.nintendo.com/image/upload/f_auto,q_auto,w_1200/Marketing2/DNDPqUcrg1784158469aaH8EIiMcjzbYSlnG0ncVJW3rSzR35s0l1pKOdPLJAm2y/section_characters/character-artwork-ganondorf.png)

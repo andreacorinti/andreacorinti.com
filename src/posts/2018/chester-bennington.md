@@ -27,8 +27,6 @@ Perché, in un sito web, in questi casi si ha sempre il terrore di mostrarsi por
 
 Ma, e forse soprattutto, perché mi sembrava di **appropriarmi di un lutto non "mio"**.
 
-![chester](https://cdn.pastemagazine.com/www/articles/Chester%20Bennington%20Tribute%20Header.jpg)
-
 E qui parte un lunghissimo excursus.
 
 ## I Linkin Park e i primi del 2000
@@ -39,7 +37,7 @@ E qui parte un lunghissimo excursus.
 
 Perché coi Linkin Park ho sempre un rapporto strano, controverso, altalenante.
 
-![metallaro](https://memegenerator.net/img/instances/34938331/youre-not-metal-bro.jpg)
+![Meme di un metallaro che indica con un sorrisetto: «You're not metal, bro!»](https://memegenerator.net/img/instances/34938331/youre-not-metal-bro.jpg)
 
 Perché quando ero ragazzino facevo mezzo-parte della **chiusissima scena metal _dura&pura_** [^dura], la stessa che i Linkin Park non li poteva vedere, visto che **nei primissimi anni 2000 i Linkin Park erano tipo _ovunque_.**
 
@@ -47,15 +45,13 @@ Perché quando ero ragazzino facevo mezzo-parte della **chiusissima scena metal 
 
 E badate bene:
 
-![rock-tv](/img/archivio/musica/chester-bennington-1.jpg)
+![Il logo di Rock TV](/img/archivio/musica/chester-bennington-1.jpg)
 
 <small>Rock Tv era roba _"da ricchi"_ che avevano Tele+ / Sky</small>
 
 ![mtv music awards 2000](https://i.pinimg.com/originals/65/77/82/657782b0ebc4564c3610cd355e3a3c0d.jpg)
 
 **In quel periodo la televisione e la radio contavano infinitamente più di oggi musicalmente parlando**, specie per chi ascoltava musica _"di nicchia"_, aveva pochi spicci e **una povera connessione a 56k**.
-
-![cassette](https://themorningnews.org/images/Hinkes-Digital.jpg)
 
 Ergo, per noi altri che **spacciavamo vecchie cassette e i primi quintali di cd masterizzati** con dentro _Pantera, Death, Slayer, Blind Guardian, Guns N' Roses, Iced Earth_ e via dicendo **i Linkin Park parevano occupare "abusivamente" spazi inevitabilmente preclusi ai nostri beniamini**...
 
@@ -125,7 +121,7 @@ Inutile dire che dopo la morte di Chester ho finito per ascoltarmela per diversi
 
 ## Respiro
 
-![chester](https://i.pinimg.com/736x/72/73/45/727345ba1dc0e9bf9fd03893e34b20d4--take-a-breath-chester-bennington.jpg)
+![Chester Bennington che canta al microfono sotto le luci blu del palco](https://i.pinimg.com/736x/72/73/45/727345ba1dc0e9bf9fd03893e34b20d4--take-a-breath-chester-bennington.jpg)
 
 Dicevo all'inizio che **quando Chester se ne è andato non me la sono sentita di scrivere niente.**
 
@@ -135,7 +131,7 @@ Io qua alla fine scrivo sempre e solo quando mi sale quel _bisogno_, spesso mals
 
 ## Ossigeno
 
-![ossigeno](https://sentireascoltare.com/wp-content/uploads/2018/02/ossigeno-manuel-agnelli.jpg)
+![La scritta al neon «Ossigeno», il programma di Manuel Agnelli](https://sentireascoltare.com/wp-content/uploads/2018/02/ossigeno-manuel-agnelli.jpg)
 
 Ecco, mentre scoprivo la replica della prima (bellissima) puntata di **Ossigeno**, mi si è innescato quel bisogno lì...precisamente durante l'intervista a Paolo Giordano, il tutto **mentre si parla di tutt'altro e i Linkin Park non vengono menzionati manco di striscio**.
 

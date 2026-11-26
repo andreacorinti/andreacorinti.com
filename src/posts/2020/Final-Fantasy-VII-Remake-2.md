@@ -27,7 +27,7 @@ Siccome immagino che l'algoritmo di Google sia molto confuso al momento (sperand
 
 ## Recap
 
-<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-1.jpg" alt="Final_Fantasy_VII">
+<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-1.jpg" alt="I protagonisti del Final Fantasy VII originale nell&#x27;artwork di Tetsuya Nomura">
 
 Come ne scrissi tempo fa rapportandolo ad [Akira](/posts/akira-e-final-fantasy-vii/), **il Final Fantasy VII originale rappresentò uno sforzo economico devastante**, con ogni probabilità non più replicabile:
 
@@ -43,7 +43,7 @@ Un vero e proprio _all in_, una scommessa che avrebbe potuto benissimo risolvers
 
 ## Epoca
 
-<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-2.jpg" alt="PlayStation">
+<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-2.jpg" alt="La PlayStation originale grigia con il suo controller">
 
 In tutto questo, **il mondo del videogame è agli albori del fenomeno PlayStation e alla vivace scoperta del 3D** che, tornando alle mie metafore musicali, possiamo benissimo rapportare all'avvento della Fender Stratocaster nel 1954.
 
@@ -55,7 +55,7 @@ Un cuore figlio di tutto il suo illustre passato, i piedi ben piantati nel prese
 
 ## Remake 
 
-<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-3.jpg" alt="Final_Fantasy_VII_Remake_gameplay_screenshot">
+<img src="/img/archivio/videogiochi/final-fantasy-vii-remake-2-3.jpg" alt="Final Fantasy VII Remake: Cloud colpisce con la spada un soldato Shinra tra le scintille">
 
 Ora: nei fatti il Remake non è nemmeno la stessa identica canzone, ma una bella cover.
 

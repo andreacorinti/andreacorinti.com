@@ -42,4 +42,4 @@ Postilla: vorrei fare i miei più sentiti complimenti a chi ha curato la localiz
 
 davvero un lavoro di adattamento perfetto e da applausi almeno quanto il gioco!
 
-![until-then-nicole](/img/unti-then.jpg)
+![Until Then: Nicole sorride, con il sottotitolo «Devi soltanto trovare quella scintilla»](/img/unti-then.jpg)

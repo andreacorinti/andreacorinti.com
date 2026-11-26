@@ -53,8 +53,6 @@ Vero. E infatti Pokémon Cristallo, per fare un esempio recente, me lo sono rigi
 
 Ma come direbbe quel maestro di frasi fatte figone di Auron, così è davvero tutta un'altra storia.
 
-![Auron](https://pa1.narvii.com/5791/aeec2d74a2ec9f657d17875b8256bbc0d8bff0ad_hq.gif)
-
 ### Mechdiy 
 
 Ho comprato la Miyoo + SD da 128 giga direttamente da quei fighi di [Mechdiy](https://mechdiy.com/) e posso solo che parlarne bene: 

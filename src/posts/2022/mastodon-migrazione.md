@@ -46,11 +46,11 @@ Dalle impostazioni del tuo nuovo profilo, inserisci il tuo nome nell'istanza da 
 
 Con il sistema di Mastodon, **i tuoi follower verrano con te ma NON i tuoi Seguiti**: siccome seguire tutti da capo è un procedimento tedioso, per fortuna è possibile esportare questa e altre liste:
 
-![esportazione-mastodon](/img/mastodon/export.jpg)
+![Mastodon, pagina «Esportazione dati» con i file CSV di seguiti, liste, blocchi e segnalibri](/img/mastodon/export.jpg)
 
 per poi importarle di nuovo dal profilo dove stai migrando:
 
-![importazione-mastodon](/img/mastodon/import.jpg)
+![Mastodon, pagina «Importa» per caricare la lista dei seguiti da un CSV](/img/mastodon/import.jpg)
 
 la stessa cosa vale per segnalibri, utenti silenziati e blocchi.
 
@@ -70,11 +70,11 @@ Perché mi è uscito d'istinto così, ma sappi che me ne vergogno molto.
 
 Dal profilo dell'istanza originale, vai qui:
 
-![sposta-mastodon](/img/mastodon/sposta.jpg)
+![Mastodon: «Sposta ad un account differente»](/img/mastodon/sposta.jpg)
 
 e inserisci l'indirizzo del tuo nuovo account:
 
-![sposta-mastodon](/img/mastodon/sposta2.jpg)
+![Mastodon, pagina «Migrazione dell'account» con le avvertenze e il campo per il nuovo account](/img/mastodon/sposta2.jpg)
 
 Tutto fatto, congratulazioni! (Shinji?)
 

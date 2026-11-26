@@ -23,7 +23,7 @@ Il punto è che, interpretativamente parlando, questi giochi offrono poco o null
 
 ## Effetto TES
 
-![Dagoth-Ur](https://images.uesp.net/c/ca/MW-creature-Dagoth_Ur.jpg)
+![Dagoth Ur, il nemico finale di Morrowind, con la sua maschera dorata](https://images.uesp.net/c/ca/MW-creature-Dagoth_Ur.jpg)
 
 Non è un caso se serie come _The Elder Scrolls_ abbiano avuto tanto successo nonostante evidenti limiti in termini narrativi: i giochi Bethesda mettono in scena un mondo con le sue società e culture dove chi gioca può immergersi nei modi più disparati, anche ignorando la famigerata _main quest_ di turno.
 
@@ -39,8 +39,6 @@ PS: [qui](https://xabacadabra.github.io/velnias/) trovate un vecchio sitarello b
 
 ## Draghi del pallone
 
-![carriera-nba2k13](https://upload.wikimedia.org/wikipedia/en/3/3d/NBA2K13MyCareerModePlayerCreationScreen.jpg)
-
 Dirò di più, tenetevi forte!
 
 **Le modalità carriera dei vari Nba2k o Fifa hanno molto più del gioco di ruolo propriamente detto che titoloni quali _The Witcher_ o _Deus Ex_.**
@@ -51,7 +49,7 @@ Ferma tutto!
 
 Ascolta un cretino!
 
-![micio-bisio](https://i.makeagif.com/media/9-04-2015/INNj22.gif)
+![GIF di Claudio Bisio al telefono a Mai dire Gol](https://i.makeagif.com/media/9-04-2015/INNj22.gif)
 
 Per quanto i capolavori sopracitati offrano bivi e diversi modi di arrivare alla conclusione di quest e trame, si tratta di **narrazioni e personaggi complessivamente chiusi e passivi.** 
 

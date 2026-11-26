@@ -27,7 +27,7 @@ Anche (soprattutto) se quel qualcuno è dotato di una delle più grandi sensibil
 
 ## Volo
 
-<img src="https://2.bp.blogspot.com/-w19R-F4jCD4/VGSPgoF1dpI/AAAAAAAAK98/PRDeO4cZ0jk/s1600/shot0005.png" alt="si-alza-il-vento-recensione">
+<img src="https://2.bp.blogspot.com/-w19R-F4jCD4/VGSPgoF1dpI/AAAAAAAAK98/PRDeO4cZ0jk/s1600/shot0005.png" alt="Si alza il vento: Jiro bambino sul tetto davanti a un aereo da sogno">
 
 È importante specificare da subito come **questo lungometraggio sia il definitivo tributo di Miyazaki all'aeronautica:**
 
@@ -41,7 +41,7 @@ E la storia, quella pesante come un macigno, nel film c'è tutta.
 
 ## Tre Storie, un solo Vento
 
-<img src="https://1.bp.blogspot.com/-swie_7ZWi0U/VGSPyJg3obI/AAAAAAAAK-E/wHXgiJHyRK0/s1600/kaz1.jpg" alt="si-alza-il-vento-recensione">
+<img src="https://1.bp.blogspot.com/-swie_7ZWi0U/VGSPyJg3obI/AAAAAAAAK-E/wHXgiJHyRK0/s1600/kaz1.jpg" alt="Si alza il vento: Jiro e l&#x27;ingegner Caproni in mezzo agli aerei">
 
 Potremmo dire che, in un certo senso, ci troviamo di fronte a ben tre biografie:
 
@@ -65,7 +65,7 @@ Se avete avuto la grazia e la pazienza di leggermi fino a qui, dovreste comincia
 
 ## Disegni & Animazione
 
-<img src="https://4.bp.blogspot.com/-LCUPy--LT6I/VGSQfSzCiOI/AAAAAAAAK-M/TmMgYbMw5zw/s1600/shot0001.png" alt="si-alza-il-vento-recensione">
+<img src="https://4.bp.blogspot.com/-LCUPy--LT6I/VGSQfSzCiOI/AAAAAAAAK-M/TmMgYbMw5zw/s1600/shot0001.png" alt="Si alza il vento: Jiro sul treno, con Naoko che si sporge dal finestrino">
 
 Eh beh questo è un paragrafo quasi superfluo da commentare.
 

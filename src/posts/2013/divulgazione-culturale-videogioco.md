@@ -19,7 +19,7 @@ Che il Videogioco sia ascrivibile o meno allo stato di Arte è sempre stato un d
 Intendiamoci, so benissimo che molti videogiochi sono dei veri e propri "_contenitori_" di eccellenze nella narrativa, nella musica e nelle arti visuali....il punto è che ciò che **definisce il gioco**, nella sua interezza (da _Pro Evolution Soccer_ a _Final Fantasy_, passando per _Super Mario_ ) è **l'elemento ludico**, vale a dire **l'atto di giocare** di per se.
 
 <figure>
-	<img src="https://4.bp.blogspot.com/-VGmK5map4vg/UMO-vXA8JGI/AAAAAAAAA_Y/7avQuwJ0Vt8/s1600/videogamesart.jpg" alt="marihol">
+	<img src="https://4.bp.blogspot.com/-VGmK5map4vg/UMO-vXA8JGI/AAAAAAAAA_Y/7avQuwJ0Vt8/s1600/videogamesart.jpg" alt="Super Mario in stile cubista, tra i blocchi punto interrogativo">
 	<figcaption>Itsa me, Marihol !</figcaption>
 </figure>
 

@@ -66,7 +66,7 @@ Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d
 
 <article id="62060df2-d1f4-4255-b276-4576b424fe1e">
     <div class="comment__avatar-wrapper">
-        <img class="comment__avatar" src="https://www.gravatar.com/avatar/5D7A8156C157A5489851CBA5591D6B6A?d=mm&s=80" alt="Nancy Infascelli">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/5D7A8156C157A5489851CBA5591D6B6A?d=mm&s=80" alt="">
     </div>
     <div class="comment__author">
         Nancy Infascelli
@@ -81,7 +81,7 @@ Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d
   <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-        <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
     </div>
     <div class="comment__author">
         Xab
@@ -95,7 +95,7 @@ Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d
  <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-        <img class="comment__avatar" src="https://www.gravatar.com/avatar/BB78400D91229F1F96C53CDDB64FC037?d=mm&s=80" alt="Ludos">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/BB78400D91229F1F96C53CDDB64FC037?d=mm&s=80" alt="">
     </div>
     <div class="comment__author">
         Ludos
@@ -109,7 +109,7 @@ Tra qualche decennio **saremo gli unici a ricordarsi di com'era il mondo prima d
  <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-        <img class="comment__avatar" src="https://www.gravatar.com/avatar/5925f98cfd7bf5c3c6fc62b9d9e118b8?d=mm&s=80" alt="Cumbrugliume">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/5925f98cfd7bf5c3c6fc62b9d9e118b8?d=mm&s=80" alt="">
     </div>
     <div class="comment__author">
         Cumbrugliume

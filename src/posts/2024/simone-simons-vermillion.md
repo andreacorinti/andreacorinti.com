@@ -17,7 +17,7 @@ BASTA!
 
 Nulcear Blast va arrestata, processo per direttissima!
 
-![maurizio-mosca](https://c.tenor.com/Qj9axdPmWSIAAAAC/tenor.gif)
+![GIF di Maurizio Mosca che si agita in studio](https://c.tenor.com/Qj9axdPmWSIAAAAC/tenor.gif)
 
 Scherzi a parte, tutto considerato non mi dispiace tornare a fare un post dedicato a un singolo disco, e qui l'occasione era particolarmente ghiotta: **per me non è l'album dell'anno, intendiamoci**, ma per più di un motivo è divertente sciorinarci un po' sopra.
 
@@ -25,7 +25,7 @@ Anche perché è proprio bello!
 
 ## Simone Simons
 
-![simone-simons](https://ilarge.lisimg.com/image/5007402/968full-simone-simons.jpg)
+![Ritratto di Simone Simons degli Epica](https://ilarge.lisimg.com/image/5007402/968full-simone-simons.jpg)
 
 Dunque: come tutto il mondo metallaro e provincia sanno bene, Simone Simons è la storica frontwoman degli Epica, gruppo molto grosso e solido esponente della scena symphonic metal che ha caratterizzato enormemente tutti gli anni 2000.
 

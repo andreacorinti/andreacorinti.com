@@ -41,8 +41,6 @@ La mini-serie di episodi ambientata sulle isole, in cui Shinji Higuchi sostituis
 
 Sarei un bugiardo se non dicessi che questi 7/8 episodi (a volte intermezzati da puntate comunque valide) minano seriamente la godibilità dell'anime (che resta comunque bellissimo) e non avvertissi che l'epilogo per certi versi tende a lasciare con l'amaro in bocca, ma parliamo comunque di quisquiglie se paragonate alla qualità complessiva di quello che è, a tutti gli effetti, un prodotto generazionale
 
-![Jean, Nadia, Marie e Il Team Gratan](https://www.animeclick.it/prove/serie/Nadia/Nadia5.jpg)
-
 Tra il sorriso ed epicità, sti ragazzi vi resteranno davvero nel cuore
 
 ## Adattamento Italiano

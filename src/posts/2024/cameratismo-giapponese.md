@@ -23,11 +23,11 @@ Ma partiamo dall'inizio...
 
 ## In principio, fu Yamato
 
-![yamato](/img/cameratismo/yamato.jpg)
+![Kodai, Yuki e il capitano Okita davanti alla corazzata Yamato](/img/cameratismo/yamato.jpg)
 
 Seguito da _Capitan Harlock_, _Galaxy Express 999_ e diciamo pure tutta la produzione di Leiji Matsumoto in generale.
 
-![harlcok](/img/cameratismo/harlock.jpg)
+![Capitan Harlock con il suo equipaggio sotto un cielo stellato](/img/cameratismo/harlock.jpg)
 
 Il canovaccio Matsumotiano, con qualche variabile, è più o meno sempre lo stesso: 
 
@@ -54,7 +54,7 @@ Comunque, non dilunghiamoci su queste pippe e torniamo a parlare di anime!
 
 ## Gundam
 
-![gundam](/img/cameratismo/gundam.jpg)
+![Amuro e l'equipaggio della White Base seduti insieme, illustrazione di Gundam](/img/cameratismo/gundam.jpg)
 
 Per molti aspetti credo che la prima serie robottonica (1979) di Yoshiyuki Tomino fu il medium veramente cruciale per radicare questo concetto nel pubblico giapponese, che è poi un popolo tradizionalmente isolato e _isolano_ anche nei suoi lati più progressiti.
 
@@ -64,7 +64,7 @@ ecco: dovessi dire, la Base Bianca finì per rappresentare quest'archetipo anche
 
 ## Final Fantasy VIII
 
-![Final-Fantasy-VIII](/img/cameratismo/ff8.jpg)
+![Final Fantasy VIII: Squall e altri SeeD nell'atrio del Garden](/img/cameratismo/ff8.jpg)
 
 Come [scritto a più riprese](/posts/Final-Fantasy-VIII), _Final Fantasy VIII_ resta il mio videogioco preferito (pur con tutti i suoi difetti) e non a caso resta forse l'esponente della saga che meglio ha reso il discorso che sto affrontando qui.
 
@@ -78,7 +78,7 @@ E certo, pure il resto della "serie classica" si portava dietro situazioni simil
 
 ## Nadia
 
-![Nadia](/img/cameratismo/nadia.jpg)
+![La plancia del Nautilus in Nadia - Il mistero della pietra azzurra, con il capitano Nemo](/img/cameratismo/nadia.jpg)
 
 Tornando agli anime, verrebbe facile parlare del futuro _Evangelion_ (che pure lui di 'sta cosa è bello ricco) ma in realtà credo che Anno abbia reso al meglio la dinamica da comunità ciurmesca nello splendido _Nadia - Il mistero della pietra azzurra_ e il Nautilus, ovviamente tratto dal celeberrimo _Ventimila leghe sotto i mari_ di Verne e un soggetto palesemente Miyazakiano.
 

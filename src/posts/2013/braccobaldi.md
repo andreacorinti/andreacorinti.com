@@ -31,13 +31,11 @@ Esempi di Braccobaldi:
 
 ![berlusconi ride](/img/archivio/film-serie/braccobaldi-1.jpg)
 
-![mussolini](https://upload.wikimedia.org/wikipedia/it/8/8a/Mussolini_mezzobusto.jpg)
-
-![napoleone](/img/archivio/film-serie/braccobaldi-3.jpg)
+![Napoleone nel suo studio, il ritratto di Jacques-Louis David](/img/archivio/film-serie/braccobaldi-3.jpg)
 
 ## Caratteristiche
 
-![doraemon](/img/archivio/film-serie/braccobaldi-4.jpg)
+![Copertina di «Sei un vero amico Doraemon» di Fujiko F. Fujio](/img/archivio/film-serie/braccobaldi-4.jpg)
 
 Braccobaldo Nipponico da Combattimento
 

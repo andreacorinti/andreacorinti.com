@@ -57,7 +57,7 @@ Nel dubbio, mi rigocherò pure Final Fantasy VII per la ventordicesima volta...
 
 (ma su Miyoo Mini, che gli sfondi sfocati anche no grazie)
 
-![frieren](/img/frieren.gif)
+![GIF di Frieren in versione chibi](/img/frieren.gif)
 
 <misskey-comments 
     host="misskey.social" 

@@ -132,3 +132,32 @@
     }
   }
 }
+
+// Pagina 404 (src/404.njk)
+.not-found {
+  max-width: 40rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+.not-found__code {
+  display: inline-block;
+  width: fit-content;
+  margin: 0 0 1.25rem;
+  padding: 0.1em 0.3em 0;
+  transform: rotate(-3deg);
+  border: 3px solid var(--tdbc-text);
+  background-color: var(--tdbc-nav-mark);
+  color: #121212;
+  font-family: Teko, sans-serif;
+  font-size: 4rem;
+  line-height: 1;
+  box-shadow: 5px 5px 0 var(--tdbc-text);
+}
+
+.not-found__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+}

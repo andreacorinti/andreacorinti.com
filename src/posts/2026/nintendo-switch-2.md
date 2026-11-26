@@ -26,7 +26,7 @@ Per prima cosa, un mio breve e incompleto recap videoludico:
 
 In mezzo più che altro hanno dominato vari PC (principalmente portatili) che però da anni uso principalmente per lavoro, bloggare e un po' tutto, anzi sul Lenovo Legion che ho preso lo scorso dicembre (piazzandoci sopra l'ottimo Linux Mint) ho installato Steam solo per sport, perché da quando nel 2022 è arrivata la Steam Deck non concepisco altri modi di videogiocare che non siano handheld!
 
-![Switch2-Deck-MiyooMiniPlus](/img/Switch2-Deck-MiyooMiniPlus.jpg)
+![Nintendo Switch 2, Steam Deck e Miyoo Mini+ appoggiate una accanto all'altra su un lenzuolo](/img/Switch2-Deck-MiyooMiniPlus.jpg)
 
 ### E perché la Switch 2?
 

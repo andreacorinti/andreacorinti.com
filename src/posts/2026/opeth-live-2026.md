@@ -29,7 +29,7 @@ Nulla di nuovo sul fronte occidentale eh, però direi che la gestione eventi dov
 
 Compiti a casa per me: tornare a dovere sui Blood Incantation che mi piacciono ma ancora non mi hanno conquistato del tutto (ma è un problema mio!)
 
-![frieren](/img/frieren.gif)
+![GIF di Frieren in versione chibi](/img/frieren.gif)
 
 ### Scaletta Blood Incantation 
 
@@ -56,7 +56,7 @@ Compiti a casa per me: tornare a dovere sui Blood Incantation che mi piacciono m
 - Hex Omega 
 - Deliverance
 
-![blood-incantation-bologna-2026](/img/opeth-live-2026/blood-incantation-bologna-2026.jpg)
+![Il chitarrista dei Blood Incantation fa le corna dal palco di Bologna, con un'eclissi dipinta sullo sfondo](/img/opeth-live-2026/blood-incantation-bologna-2026.jpg)
 
 <misskey-comments 
     host="misskey.social" 

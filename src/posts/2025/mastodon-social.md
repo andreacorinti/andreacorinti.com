@@ -30,7 +30,7 @@ In parte ho un po' cambiato idea:
 
 ### E mastodon.social com'è?
 
-![community-darkest-timeline](https://media.tenor.co/images/fcf5177d22199e1235bbbb1a4cab7fe7/raw)
+![Troy di Community entra sorridente con delle pizze: la «darkest timeline»](https://media.tenor.co/images/fcf5177d22199e1235bbbb1a4cab7fe7/raw)
 
 Ehm.
 
@@ -60,7 +60,7 @@ E qui entra in gioco l'interessante discorso di [MatteoCaronna](https://livellos
 
 ### Mono-istanza 
 
-![GoToSocial](https://gotosocial.org/assets/logo.png)
+![Il logo di GoToSocial: la faccia di un bradipo sorridente](https://gotosocial.org/assets/logo.png)
 
 Viste le mie remore nei confronti di Mastodon come software e la conclamata consapevolezza dei problemi che si porta appresso mastodon.social, ho finalmente fatto il grande salto **e mi sono creato [la mia istanzina personale!](https://social.andreacorinti.com/@xabacadabra)**
 
@@ -80,6 +80,6 @@ l'unico problema (oltre alla gestione dello spazio) è legato **alla gestione de
 
 In sintesi? 
 
-![bugs-bunny-no](https://i.imgflip.com/34mvav.jpg)
+![Bugs Bunny che dice «NO», il meme](https://i.imgflip.com/34mvav.jpg)
 
 Però se cercate un'esperienza molto twitter-like, avete già un gruppo di persone da seguire nel fediverso e sapete giostrarvi con gli hashtag, etica permettendo non è un esperienza troppo nefasta.

@@ -21,7 +21,7 @@ B) Per evidenziare quanto è stato carino Michele Zerocalcare
 
 In tutto questo google non mi ha aiutato per niente, e quando dico che stavo impazzendo non esagero: 
 
-![ricerca-senza-sicura.png](/img/ricerca-senza-sicura.png)
+![Cronologia del browser piena di ricerche su gruppi punk e Zerocalcare](/img/ricerca-senza-sicura.png)
 
 piccola parte della mia cronologia di ieri.
 

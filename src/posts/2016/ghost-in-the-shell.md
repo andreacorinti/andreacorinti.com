@@ -31,8 +31,6 @@ Con lui **Masamune Shirow** è diventato di diritto uno degli autori giapponesi 
 
 ## Il relativo film
 
-<img src="https://static.srcdn.com/wp-content/uploads/ghost-shell-live-action-movie-paramount.jpg" alt="ghost in the shell">
-
 Ovvero quello del 1995, **che a me piace molto meno del manga** (sempre trovato troppo serioso) ma resta parimenti **uno dei massimi esponenti dell'animazione giappa**, nonché un capolavoro di regia firmato **Mamoru Oshii**.
 
 Ad oggi, forse è secondo solo all'inarrivabile _Akira_ in quel particolare campionato lì.
@@ -80,8 +78,6 @@ No, non è noia, tenete a freno il vostro Califano interiore:
 È che c'è talmente tanta roba targata _Ghost in the Shell_ che alla fine uno si perde, letteralmente...e infatti mi mancano molti titoli all'appello, di cui eventualmente parleremo in futuro man mano che me li sviscererò.
 
 ## Scarlett Johansson
-
-<img src="https://opus.fm/_assets/entries/scarlett-johanson-ghost-in-the-shell.jpg" alt="ghost in the shell">
 
 Eh, Scarlettona mia bella...
 

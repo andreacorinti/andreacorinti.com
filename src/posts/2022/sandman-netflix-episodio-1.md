@@ -17,13 +17,13 @@ Tutto davvero molto fedele al fumetto, Tom Sturridge mi ha sorpreso in positivo 
 
 In particolare, **la voce di Sturridge è davvero perfetta per rendere quella di Morfeo**: non voglio sminuire il lavoro di doppiaggio, ma consiglio a tutti di vedersela in inglese perché la prova vocale è stata davvero una delle cose che ho apprezzato di più di questo primo episodio.
 
-![sandman-charles-dance](/img/sandman-charles-dance.jpg)
+![Charles Dance nella prima puntata di The Sandman](/img/sandman-charles-dance.jpg)
 
 > A margine, se c'è da interpretare un padre stronzo ormai si telefona di default a Charles "Tywin" Dance
 
 ## Cosa non mi è piaciuto
 
-![sandman-serie](/img/sandman3.jpg)
+![Morfeo imprigionato in una sfera di vetro, nella serie The Sandman](/img/sandman3.jpg)
 
 Aldilà di un po' di ritmo lentuccio per raccontare la prigionia di Sogno (che tutto sommato ci può stare, ma parliamo pur sempre di una manciata di pagine raccontate in un'ora di girato, quindi 'nzomm) **la fotografia mi è parsa del tutto anonima** e, combinata con la colonna sonora tutta archi, la CGI fantasy e gli inevitabili accenti inglesi, **mi ha fatto sentire in un film di Harry Potter** e non è esattamente quello che mi aspetto da Sandman.
 
@@ -31,8 +31,8 @@ Ora: leggenda vuole che Neil Gaiman scegliesse apposta disegnatori non proprio e
 
 Non so se è vero, ma personalmente a me i disegni di Sandman sono piaciuti praticamente tutti (specie quelli della coppia Mike Dringenberg - Malcolm Jones III).
 
-![sandman-fumetto](/img/sandman1.jpg)
-![sandman-fumetto](/img/sandman2.jpg)
+![Tavola del fumetto di Sandman con Morfeo e una folla di personaggi famosi](/img/sandman1.jpg)
+![Tavole del fumetto di Sandman: il volto di Morfeo e la sua figura che si allontana](/img/sandman2.jpg)
 
 A livello estetico, nella serie secondo me manca quel _qualcosa_, come se non si fosse voluto osare troppo mantenendosi con un stile abbastanza generico e potabile per tutti. 
 
@@ -40,7 +40,7 @@ Potrà sembrare un dettaglio da poco eh, ma per fare un esempio la fotografia de
 
 ## In definitiva
 
-![sandman-fumetto](/img/Sandman4.jpg)
+![Tavole del fumetto di Sandman: Morfeo e Morte su una panchina con i piccioni](/img/Sandman4.jpg)
 
 Impressione tutto sommato positiva, meglio delle mie tiepide aspettative, se lo vedrò tutto magari lascerò qualche altro appunto da queste parti.
 

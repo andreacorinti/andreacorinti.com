@@ -21,7 +21,7 @@ Nulla di memorabile insomma, ma del tutto degno delle vecchie stagioni con un oc
 
 Come infatti tutti i suoi fan sanno bene, _Futurama_ è morta e risorta tante di quelle volte da diventare praticamente la controparte seriale di un personaggio di _Dragon Ball_: 
 
-![la-storia-di-Futurama](/img/futurama-storia.jpg)
+![Infografica di Fandom sulle cancellazioni e i ritorni di Futurama dal 1999 al 2023](/img/futurama-storia.jpg)
 
 La cosa più affascinante?
 
@@ -29,7 +29,7 @@ Nel suo DNA palesemente figlio di Douglas Adams (il capolavoro _Guida galattica 
 
 Esattamente come Fry (ibernato nel 1999), **l'animo della serie ambientata nel 3000 è fondamentalmente ancorato ad una ventina di anni fa**.
 
-![Amy](https://static.wikia.nocookie.net/enfuturama/images/1/1f/Character_Amy.png)
+![Amy Wong di Futurama](https://static.wikia.nocookie.net/enfuturama/images/1/1f/Character_Amy.png)
 
 _ditemi voi se il look di Amy non vi ricorda quello di una ventenne poppettara del 2004_
 
@@ -37,13 +37,13 @@ se da un certo punto di vista questo _futuristico rétro_ è un limite che in al
 
 ## Avvenirismo
 
-![Futurama-Star-Wars-9](https://static1.srcdn.com/wordpress/wp-content/uploads/2019/10/Star-Wars-Episode-9.jpg) 
+![Futurama: Fry, Leela e Bender davanti al cinema con «Star Wars 9 -- Yoda's Bar Mitzvah»](https://static1.srcdn.com/wordpress/wp-content/uploads/2019/10/Star-Wars-Episode-9.jpg) 
 
 Però uno dei punti forti di _Futurama_ è sempre stato giocare con tecnologie future più o meno improbabili incrociandole con situazioni e comportamenti figli del contemporaneo...
 
 un contemporaneo che, come detto, rischia fin troppo di sapere di ventesimo secolo.
 
-![signor-burns-secco](https://media.tenor.com/RqTVEBZufN0AAAAC/burns-simpsons.gif)
+![GIF del signor Burns con il berretto viola che entra dalla porta, I Simpson](https://media.tenor.com/RqTVEBZufN0AAAAC/burns-simpsons.gif)
 
 _eh insomma, sto rischio io lo sento_
 

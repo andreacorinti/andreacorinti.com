@@ -128,7 +128,7 @@ Il consiglio? Fatevi un favore e compratevelo, senza se e senza ma!
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/13356f966e36b37391a952d6e8986fb2?d=mm&s=80" alt="Marco Bortone">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/13356f966e36b37391a952d6e8986fb2?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Marco Bortone

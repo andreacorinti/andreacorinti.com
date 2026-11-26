@@ -29,7 +29,7 @@ Certo una migliore batteria e uno schermo ancora più figo (ma questo è già st
 
 ### Che schermo bellissimo!
 
-![retroid](/img/Retroid/4.jpg)
+![Una Retroid Pocket 5 in mano, con un gioco colorato sullo schermo](/img/Retroid/4.jpg)
 
 Non posso rendere a dovere quanto trovi bello vedere PS2, PSP e Wii con questi colori e luminosità (le mie foto fanno schifo, anche eventuali video renderebbero peggio di quelli che potete già recuperare in rete quindi evito proprio)
 
@@ -71,7 +71,7 @@ A chiunque non abbia una consolina portatile con cui fare del sano retrogame, o 
 
 In questo senso, per le mie esigenze la Miyoo Mini resta il non plus ultra assoluto (ma perché per millemila motivi sono più legato a PS1, SNES e GameBoy) ma PS2, Gamecube, Dreamcast, PSP e anche un po' di Wii e Switch da queste parti sono godibilissime.
 
-![retroid](/img/Retroid/5.jpg)
+![Miyoo Mini+, Retroid Pocket 5 e Steam Deck in fila, dalla più piccola alla più grande](/img/Retroid/5.jpg)
 
 ### Sul tema
 

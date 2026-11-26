@@ -50,8 +50,6 @@ Ci sta!
 
 Ma il fediverso probabilmente farà poco al caso tuo, come dice questa immagine che gira da un po':
 
-![social-bubble](https://cdn.masto.host/livellosegretoit/cache/media_attachments/files/111/560/969/900/516/067/original/60f16d899d9cb442.webp)
-
 _immagine presa da [qui](https://livellosegreto.it/@ploum@mamot.fr/111560969987273716)_
 
 almeno che il tuo target non siano fricchettonɜ alternativɜ più o meno fuori di testa, da queste parti ci puoi fare veramente poco.

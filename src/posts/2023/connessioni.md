@@ -13,13 +13,13 @@ Questo è un post particolare, che vuole in breve spiegare quanto le connessioni
 
 ## 1 - Hideo Kojima
 
-![hideo-kojima](/img/archivio/videogiochi/connessioni-1.jpg)
+![Hideo Kojima che fa il saluto militare con in mano una copia firmata di Metal Gear Solid](/img/archivio/videogiochi/connessioni-1.jpg)
 
 Sono cresciuto con _Metal Gear Solid_, ho amato _Death Stranding_ e, prima di smettere di utilizzarlo, seguivo con interesse la miriade di post che il buon zio Kojima smitraglia su instagram / twitter.
 
 ## 2 - Summer Time Rendering 
 
-![summer-time-rendering](/img/archivio/videogiochi/connessioni-2.jpg)
+![Locandina di Summer Time Rendering con i protagonisti sul molo](/img/archivio/videogiochi/connessioni-2.jpg)
 
 Attirato da [uno di questi post](https://www.instagram.com/p/CryIhBgSPMP/) e lo stile di disegno dell'anime proposto, mi sono andato a cercare questo Summer Time Rendering: 
 
@@ -31,7 +31,7 @@ Proprio a ridosso delle ultime puntate (nessuno spoiler, tranquilli) viene più 
 
 ## 3 - La strana vita di Ivan Osokin
 
-![la-strana-vita-di-ivan-osokin](/img/archivio/videogiochi/connessioni-3.jpg)
+![Copertina di «Strange Life of Ivan Osokin» di P. D. Ouspensky](/img/archivio/videogiochi/connessioni-3.jpg)
 
 ...ovviamente, finito l'anime, ho deciso di recuperarlo immediatamente come lettura "leggera" da alternare all'Iliade (si, è un periodo di letture easy, che ci volete fare?)
 
@@ -45,13 +45,11 @@ Inutile dire che il romanzo di Uspenski mi ha totalmente rapito ([qui su Lore tr
 
 ## 4 - Pëtr Dem'janovič Uspenskij
 
-![uspenskij](https://upload.wikimedia.org/wikipedia/commons/4/4c/P_D_Ouspenski%28y%29.gif)
-
 L'autore del romanzo è stato un personaggio incrediiblmente interessante: filosofo affascinato dalla quarta dimensione e dall'esoterismo, per lungo tempo allievo del mistico greco-armeno Georges Ivanovič Gurdjieff, altro personaggio intrigante...
 
 ## 5 - Georges Ivanovič Gurdjieff
 
-![gurdjieff](/img/archivio/videogiochi/connessioni-5.jpg)
+![Foto in bianco e nero di G. I. Gurdjieff con il fez](/img/archivio/videogiochi/connessioni-5.jpg)
 
 ...che ho scoperto aver interessato un numero incredibile di personalità più o meno illustri, stando a wikipedia compreso per esempio il mai troppo compianto **Franco Battiato**.
 

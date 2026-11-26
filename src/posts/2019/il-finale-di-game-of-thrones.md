@@ -29,6 +29,6 @@ Non sto dicendo “il finale fa schifo”, mi dichiaro fermamente contrario all�
 
 Diciamo solo che patisce quel senso di fretta che ha permeato la serie sin dallo sbarco di Daenerys a Westeros...([continua qui](https://medium.com/@Xab/il-finale-di-game-of-thrones-2712284e01a1))
 
-![bronn](https://cdn-images-1.medium.com/max/800/1*N_agSDmAKa9rGJ5rVSrJIA.png)
+![Bronn seduto con aria annoiata in Game of Thrones](https://cdn-images-1.medium.com/max/800/1*N_agSDmAKa9rGJ5rVSrJIA.png)
 
 <small>E comunque il mio personaggio preferito è sopravvissuto con black jack e squillo di lusso, alla faccia vostra!</small>

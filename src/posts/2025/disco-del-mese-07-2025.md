@@ -81,8 +81,6 @@ Però in sintesi, direi un bel casino o meglio ancora un _¡Un caos hermoso!_, c
 
 ### Ophelion - The Jaunt
 
-![Ophelion - The Jaunt](https://f4.bcbits.com/img/a3687264809_16.jpg)
-
 Progressive metal con concept album su un racconto di Stephen King e secondo voi io non me lo ascolto? 😏
 
 Purtroppo per me il canto clean di Marcello Vieira mi ha portato troppo verso il lato LaBrie della luna quindi non ho apprezzato del tutto il disco, ma alcune cose interessanti ci sono! 

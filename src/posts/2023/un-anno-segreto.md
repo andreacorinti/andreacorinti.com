@@ -17,7 +17,7 @@ A me le ricorrenze non piacciono granché, ma riconosco quanto rappresentino un'
 
 ## Mastodon Social
 
-![mastodon-social](https://files.mastodon.social/site_uploads/files/000/000/001/@1x/57c12f441d083cde.png)
+![Illustrazione di benvenuto di Mastodon: un mastodonte con il fagotto accolto da altri mastodonti con un cartello «WELCOME!»](https://files.mastodon.social/site_uploads/files/000/000/001/@1x/57c12f441d083cde.png)
 
 **Il mio primissimo account su Mastodon (e conseguentemente nel fediverso) risale al 28 Ottobre 2020** (casualmente, il 28 Ottobre in Grecia è [il Giorno del No](https://it.m.wikipedia.org/wiki/Giorno_del_No)!).
 
@@ -47,7 +47,7 @@ Detto questo, preciso che leggere alcuni account di M1 mi piace molto (ad esempi
 
 ## Livello Segreto
 
-![livello-segreto](/img/archivio/xabologia/un-anno-segreto-cover.png)
+![Il logo di Livello Segreto: un controller stretto tra le mani, «Una sacca di presa bene»](/img/archivio/xabologia/un-anno-segreto-cover.png)
 
 Ebbene, **questo aspetto comunitario l'ho trovato proprio su Livello Segreto.**
 

@@ -19,6 +19,8 @@ Sono Andrea Corinti (in arte Xab), un autoproclamato "Italian Web World Citizen"
 
 Nel tempo libero sviluppo [AldusRSS](/projects/aldusrss/).
 
+Realizzo anche piccoli siti statici con 11ty: [**lavora con me**](/lavora-con-me/).
+
 ## Curriculum
 
 Qui trovate il mio [**curriculum professionale**](/resume) online.

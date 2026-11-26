@@ -32,7 +32,7 @@ In ogni modo, parliamo di singoli eventi che hanno a che fare con quello che suc
 
 durante il resto dell'anno, direi che la contrazione di cui sopra sia stata più o meno la norma (ma ripeto, è tutto percezione personale e nulla di statistico) e che la principale attrattiva del fediverso è rappresentata "solo" dallo schifo che c'è altrove.
 
-![Livello-Segreto](https://cdn.masto.host/livellosegretoit/site_uploads/files/000/000/005/@1x/ae2c2ed79689631b.png)
+![Il logo di Livello Segreto: un controller stretto tra le mani, «Una sacca di presa bene»](https://cdn.masto.host/livellosegretoit/site_uploads/files/000/000/005/@1x/ae2c2ed79689631b.png)
 
 ### Livello Segreto
 
@@ -60,7 +60,7 @@ a tal proposito, segnalo che ultimamente c'è stato un bell'ampliamento di disco
 
 ### Comunità
 
-![forum-meme](https://preview.redd.it/vbp06a8pb2t91.jpg?auto=webp&s=70cf877081dde35d965fdd6f6c179d6528e94826)
+![Meme «internet forums of the 2000s»: firme, avatar, Sephiroth, Mario, Sonic e sezioni off-topic](https://preview.redd.it/vbp06a8pb2t91.jpg?auto=webp&s=70cf877081dde35d965fdd6f6c179d6528e94826)
 
 Quello che forse ho percepito meno **è un certo senso comunitario**: 
 
@@ -76,7 +76,7 @@ Di mio, **penso che forse servirebbe enfatizzare di più Livello Segreto in quan
 
 ### Selezione ad personam
 
-![berlusconi](https://i.makeagif.com/media/8-08-2015/rYjtBw.gif)
+![GIF di Berlusconi che ride sul palco](https://i.makeagif.com/media/8-08-2015/rYjtBw.gif)
 
 In parziale contrasto con quanto appena scritto, **confesso di aver maturato un certo scazzo nel leggere roba che non mi piaceva (soprattutto per i toni con cui veniva scritta)** nonché il reiterato ignorare quel minimo di regole presenti sul server (CW e Alt-Text) o dare la sensazione di "partecipare" solo per tentare di promuovere la propria roba (se ne parlava [qui](/posts/account-collettivo/)). 
 

@@ -25,7 +25,7 @@ In tutto questo, quel web spensierato che mi ha accompagnato durante l'adolescen
 
 ### Internet Nostalgia
 
-![emily-is-away](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_08e2c212c04db9807696a24d142d5b788d4cfc42.600x338.jpg?t=1619107266)
+![Emily is Away: la finestra di accesso stile messenger anni 2000 su sfondo Windows XP](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_08e2c212c04db9807696a24d142d5b788d4cfc42.600x338.jpg?t=1619107266)
 
 > Se non l'avete mai provato, vi consiglio un sacco _Emily is Away_ e relativo sequel
 
@@ -49,7 +49,7 @@ Certo con le sue storture, ma con una certa innocenza di fondo: se mi passate il
 
 ### Ergo?
 
-![old-web](https://images.summitmedia-digital.com/spotph/images/2019/06/28/90scomputers-640-1561696405.jpg)
+![Due bambini davanti a un vecchio computer con il terminale acceso](https://images.summitmedia-digital.com/spotph/images/2019/06/28/90scomputers-640-1561696405.jpg)
 
 Ergo, nel mio piccolo voglio farlo rivivere. 
 

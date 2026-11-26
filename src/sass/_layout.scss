@@ -22,6 +22,19 @@ main.tdbc-container {
   }
 }
 
+// la gif della home dentro <picture> (webp + gif di riserva): il <picture>
+// finisce in un <p> e non è più figlio diretto di main, quindi la centriamo qui
+.home-banner {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto 3vh;
+
+  img {
+    height: auto;
+  }
+}
+
 footer {
   margin-top: auto;
 

@@ -42,7 +42,6 @@ Ed ecco, regia e tempi di sceneggiatura un pochino Xenogears rischiano d'ammazza
 
 Ma andiamo con ordine
 
-<img src="https://www.blogcdn.com/www.joystiq.com/media/2012/01/xenogears7vr.jpg" alt="Grahf xenogears">
 <small>Le modeste ambizioni di quel simpaticone di Grahf</small>
 
 ## L'importanza della regia
@@ -182,7 +181,7 @@ Xenogears è solo per il penitente che vorrà passare [cit] un percorso di fede 
 <article id="a7245b25-38ae-4ee8-91ba-12d233c7b961">
 
  <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/B913D88C8B26D2CF938D290FD5DD4A27?d=mm&s=80" alt="mercia">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/B913D88C8B26D2CF938D290FD5DD4A27?d=mm&s=80" alt="">
   </div>
 
   <div class="comment__author">

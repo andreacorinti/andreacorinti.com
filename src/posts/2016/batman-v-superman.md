@@ -83,7 +83,6 @@ Ma perché cazzo...
 
 <img src="https://vignette3.wikia.nocookie.net/dcanimated/images/b/b2/JL_Luthor.png" alt="batman v superman recensione">
 <img src="https://3.bp.blogspot.com/-wZD-VhORCdk/VJRHhh1LW_I/AAAAAAAALL0/F2gTHFbCH5g/s1600/lex.gif" alt="batman v superman recensione">
-<img src="https://images-cdn.moviepilot.com/image/upload/v1426599973/1152385-lex_luthor-batman-v-superman-lex-luthor-for-president-jpeg-169170.jpg" alt="batman v superman recensione">
 
 Il Lex Luthor moderno _è questo_, e **non esiste un film dove sia stato reso in un modo decente.**
 
@@ -116,8 +115,6 @@ Uno noioso ma sperimentale, coraggioso tanto quanto l'altro è stato divertente,
 Poi oh, Snyder non è certo il Santo Protettore della Creatività, infatti in più punti si nota la prosecuzione della strada già tracciata da Nolan (e da Miller), ma la differenza è che **Zack da quella strada vuole uscire spesso e volentieri, mostra insomma una spregiudicatezza e un coraggio che, da detrattore del suo stile, penso che gli faccia certamente onore.**
 
 ## [LIEVE SPOILER] Il momento terrone
-
-<img src="https://idiitalia.com/wp-content/uploads/2015/05/MAMMA-SON-TANTO-FELICE.jpg" alt="batman v superman recensione">
 
 A dispetto dei nomi crucco-sassoni di Snyder e Goyer, la sceneggiatura risolve il conflitto tra i due supereroi in **un momento che è puro melodramma italico.**
 

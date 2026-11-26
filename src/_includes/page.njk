@@ -9,6 +9,14 @@ layout: base.njk
     <h2 class="tdbc-lead tdbc-content-maxlength tdbc-ink--gray tdbc-mt-md tdbc-mx-auto">
       {{ description }}
     </h2>
+    {# stesso pulsante di about.njk e dei post bilingui, solo se c'è `translation` #}
+    {% if translation %}
+    {% if lang and lang.startsWith('en') %}
+    <p class="tdbc-mt-sm"><a class="cat-btn cat-btn--italiano" href="{{ translation }}" hreflang="it" lang="it"><span class="cat-btn__flag" aria-hidden="true">🇮🇹</span>Leggi in italiano</a></p>
+    {% else %}
+    <p class="tdbc-mt-sm"><a class="cat-btn cat-btn--english" href="{{ translation }}" hreflang="en" lang="en"><span class="cat-btn__flag" aria-hidden="true">🇬🇧</span>Read in English</a></p>
+    {% endif %}
+    {% endif %}
   </div>
 </header>
 <main id="main-content" class="tdbc-container">

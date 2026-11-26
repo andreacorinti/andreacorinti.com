@@ -37,11 +37,7 @@ Andiamo con ordine.
 
 Correva l'anno.... _199X_
 
-![cartoni tv locali](https://www.cartoonmag.it/wp-content/uploads/2017/06/cartoni.jpg)
-
 **Italia 7** e altre tv locali avevano già lanciato Goku e relativa nuvoletta da qualche tempo, quand'ecco che quel covo di _comunisti_ che era il biscione, <small>(all'epoca estremamente ghiotto di animazione giapponese)</small> pensa bene di inserire Dragon Ball nel proprio palinsesto in **una versione tutta _mediasettizzata_ per l'occasione.**
-
-![uan](https://upload.wikimedia.org/wikipedia/it/thumb/9/98/Uan.png/260px-Uan.png)
 
 Vivevamo l'era di **Bim Bum Bam** e del nerdismo italico moderno, che come detto contava tra le proprie fila un'infinità di cartoni animati. [^giappi]
 
@@ -67,14 +63,12 @@ Com'è noto, trovandosi all'inizio della pubertà, i suddetti iniziano a _fregar
 
 Tanto è vero che Dragon Ball sul fattore spesse volte ci fa _leva_:
 
-![bulma](https://vignette.wikia.nocookie.net/animebaths/images/0/06/Dragon_Ball_Z_49_6.png)
+![Bulma in un fotogramma di Dragon Ball Z](https://vignette.wikia.nocookie.net/animebaths/images/0/06/Dragon_Ball_Z_49_6.png)
 <small>(La lunga storia d'amore tra il Giappone e il Fanservice, *lacrimuccia*)</small> </br> </br>
 
 Insomma, **Dragon Ball non era indicato allo stesso tipo di pubblico per cui era pensato un Doraemon**.
 
 Ma la Mediaset, zitta zitta, **non ha mai pensato di differenziare alcunché nel proprio modo di propinare i cartoni animati**, gettandoli tutti nel medesimo contenitore **senz'altra logica che non fosse quella pubblicitaria** (tv commerciale mica per niente eh).
-
-![moige](https://assets.vice.com/content-images/contentimage/147497/Schermata-2014-04-09-alle-11-59-39.jpg)
 
 E qui entra in scena il **MOIGE**, movimento dell'estrema braccobaldaggine tra i più ignoranti e patetici sorti in questo paese, che invece di dire alla mediaset (come sarebbe stato legittimo)
 

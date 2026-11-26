@@ -101,7 +101,7 @@ Tuttavia, se chi ci scrive sopra sa come proporsi e dialogare col mondo, nel ben
 
 Conseguentemente, scegliere (o meno) di seguirla e leggere altri contenuti che avrà la bontà di proporre in questo vasto mondo retorico e sovraccarico.
 
-![liam-neeson](https://i.imgflip.com/8u458n.jpg)
+![Liam Neeson al telefono in Io vi troverò: «I will find you and I will follow you»](https://i.imgflip.com/8u458n.jpg)
 
 ## Thread
 

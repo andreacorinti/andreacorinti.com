@@ -49,7 +49,7 @@ Questo aspetto mi pare evidenziare un elemento:
 
 ## Margot Robbie
 
-![margot-robbie-barbie](/img/barbie/margot.jpg)
+![Margot Robbie nei panni di Barbie, sorridente nella sua casa rosa](/img/barbie/margot.jpg)
 
 Sarebbe inutile evidenziare quanto questo splendore di donna sia praticamente perfetta per il ruolo o come, per l'ennesima volta, abbia dimostrato le sue ottime doti come attrice: 
 
@@ -57,7 +57,7 @@ ciò che mi sento di dire è che **con questo film si è definitivamente consacr
 
 ## Ryan Gosling 
 
-![ryan-gosling-barbie](/img/barbie/ryan.jpg)
+![Ryan Gosling nei panni di Ken con pelliccia bianca, bandana e occhiali da sole](/img/barbie/ryan.jpg)
 
 Confesso che non impazzisco per lui, ma **in questo film ha decisamente vinto tutto:** 
 
@@ -67,7 +67,7 @@ Spero di rivederlo in altri ruoli da commedia, perché mi è piaciuto veramente 
 
 ## Will Ferrell 
 
-![will-ferrel-barbie](/img/barbie/will.jpg)
+![Will Ferrell nella locandina-personaggio di Barbie: «Please call me mother.»](/img/barbie/will.jpg)
 
 Menzione di merito per un ruolo secondario al buon vecchio zio Will: i fasti del meraviglioso Mugatu di _Zoolander_ sono lontani, eppure caccia un paio di battute e _faccette buffe_ che sono un amore.
 
@@ -75,7 +75,7 @@ Senza di lui, avremmo avuto un film decisamente meno saporito.
 
 ## Greta Gerwig
 
-![Greta-Gerwig-barbie](/img/barbie/greta.jpg)
+![Greta Gerwig sorridente alla prima di Barbie](/img/barbie/greta.jpg)
 
 Ha messo su davvero un ottimo spettacolo: 
 
@@ -85,7 +85,7 @@ Su certe scene (e un po' tutta la parte finale) direi che è stata davvero corag
 
 ## OST 
 
-![margot-robbie-barbie](/img/barbie/ost.jpg)
+![Margot Robbie che balla e fa l'occhiolino in una scena di festa di Barbie](/img/barbie/ost.jpg)
 
 Dua Lipa si conferma la popstar perfetta per questo decennio, Gosling fa un ottimo lavoro <small>(...e avrò in testa _Push_ dei Matchbox Twenty per le prossime settimane mannaggia a lui)</small>, più in generale tutti i brani sono azzeccati.
 

@@ -19,8 +19,6 @@ E sì, lo so, sento già i _"E grazie al ca...."_ in dirittura d'arrivo, quindi 
 
 ## 1: Voglio fare un Blog per guadagnare
 
-<img src="https://animal-dream.com/data_images/money/money7.jpg" alt="money">
-
 In breve: **scordatelo**.
 
 In lungo: a prescindere dalla miriade di motivazioni tecnico-sociologiche, **stai partendo già con l'approccio sbagliato.**
@@ -35,7 +33,7 @@ Anzi, ancor più probabilmente un misto tra i due.
 
 ## 2: Fashion Blog, Blog di Cucina, Viaggi...
 
-<img src="https://vignette4.wikia.nocookie.net/monkeyisland/images/e/e0/Chef_scumm.png/revision/latest?cb=20120508161802" alt="blog">
+<img src="https://vignette4.wikia.nocookie.net/monkeyisland/images/e/e0/Chef_scumm.png/revision/latest?cb=20120508161802" alt="Il cuoco della SCUMM Bar di Monkey Island">
 
 In due parole: **Blog Tematici**.
 
@@ -55,7 +53,7 @@ Certo, **sempre ammesso che le interazioni col pubblico v'interessino** (non è 
 
 ## 3: Meritocrazia
 
-<img src="https://assets3.bigthink.com/system/idea_thumbnails/56016/size_1024/Big_Think_Pyramid_scramble.jpg?1407524400" alt="blog">
+<img src="https://assets3.bigthink.com/system/idea_thumbnails/56016/size_1024/Big_Think_Pyramid_scramble.jpg?1407524400" alt="Disegno di una piramide piena di simboli del dollaro, con omini che si arrampicano">
 
 Il discorso appena concluso qui sopra ci dice un'altra cosa:
 
@@ -73,7 +71,7 @@ Scelta di lessico e creatività, ahimé, risultano sempre poco sondabili rispett
 
 ## 4: Blog Personali
 
-<img src="https://66.media.tumblr.com/adefb125c4005b411df7ab37f64e9aba/tumblr_nyva16N6861s1vn29o1_500.jpg" alt="blog">
+<img src="https://66.media.tumblr.com/adefb125c4005b411df7ab37f64e9aba/tumblr_nyva16N6861s1vn29o1_500.jpg" alt="Un quaderno aperto scritto a mano con una penna appoggiata sopra">
 
 O meglio, blog-diari dove raccontiamo amabilmente i cazzi nostri (perché un blog dovrebbe essere sempre un minimo personale):
 
@@ -95,7 +93,7 @@ Per intenderci...nel caso la popolarità fosse il vostro mantra, **concentrarsi 
 
 ## 6: Costanza
 
-<img src="https://www.wdonna.it/wp-content/uploads//2015/05/maurizio-costanzo.jpeg" alt="blog">
+<img src="https://www.wdonna.it/wp-content/uploads//2015/05/maurizio-costanzo.jpeg" alt="Maurizio Costanzo con un sorrisetto">
 
 La cosa più difficile, ovviamente, è postare contenuti un minimo strutturati e appetibili il più spesso possibile:
 
@@ -104,8 +102,6 @@ La cosa più difficile, ovviamente, è postare contenuti un minimo strutturati e
 Questo punto è cruciale soprattutto **agli inizi**, quando le interazioni con l'utenza saranno minime se non (probabilmente) nulle...**il che ci porta al vero segreto per portare avanti un blog:**
 
 ## 7: L'esigenza di scrivere
-
-<img src="https://splash.creairtive.com/wp-content/uploads/writing-wall-bulletin-board-ideas.jpg" alt="blog">
 
 Notate la scelta del termine:
 
@@ -123,13 +119,11 @@ Questa necessità non la posseggono in molti, e credo sia quasi fondamentale per
 
 ## 8: Come posso creare un blog?
 
-<img src="https://www.notiziedilavoro.com/wp-content/uploads/2016/08/lego.jpg" alt="blog">
-
 Chiariti questi punti prevalentemente di natura "etica", passiamo alla pratica più concreta:
 
 ### Wordpress
 
-<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-1.png" alt="wordpress">
+<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-1.png" alt="Il logo di WordPress">
 
 È la risposta che state cercando, che probabilmente già conoscete e non necessita di ulteriori conferme:
 
@@ -147,7 +141,7 @@ in parole povere?
 
 ### Blogger
 
-<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-2.svg" alt="blogger">
+<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-2.svg" alt="Il logo di Blogger">
 
 Che il sottoscritto conosce molto bene, avendolo utilizzato per parecchi anni (anche per le prime versioni di Xaba Cadabra), perciò leviamoci subito il dente:
 
@@ -163,7 +157,7 @@ Aldilà di questo **Blogger comunque resta una buona piattaforma performante, ab
 
 ### Jekyll
 
-<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-3.png" alt="Jekyll">
+<img src="/img/archivio/xabologia/scrivere-blog-nel-2017-3.png" alt="Il logo di Jekyll con la provetta rossa">
 
 Che, in combo con **Github**, è ciò che tiene in piedi il blog dove vi trovate in questo momento!
 
@@ -174,8 +168,6 @@ Se siete adepti del formato **Markdown**, del web statico e non vi spaventa util
 Se invece non avete capito una sola parola di quello che ho scritto in quest'ultimo paragrafo, **restate sintonizzati su Xaba Cadabra** che ne parleremo meglio un altro giorno.
 
 ## 9: Concorrenza
-
-<img src="https://quietshadow.com/wp-content/uploads/2015/07/competition-cell-phone-cases-1.jpg" alt="blog">
 
 Questo forse è il punto/concetto più delicato da affrontare:
 

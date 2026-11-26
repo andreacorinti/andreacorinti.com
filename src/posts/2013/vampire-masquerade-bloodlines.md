@@ -15,7 +15,7 @@ pronti per un po' di retroxabbing?
 
 ## Mondo di Tenebra
 
-<img src="https://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://2.bp.blogspot.com/-Ehx106tDj5c/UmJSr1Cy01I/AAAAAAAAE5k/FGxrVx8-tqk/s1600/vampiri-la-masquerade.jpg" alt="Copertina del manuale di Vampiri: la Masquerade, con una rosa rossa sul marmo verde">
 
 - **Vampire: la Masquerade è uno dei più celebri giochi di ruolo cartacei di sempre**, probabilmente secondo soltanto alla pietra miliare D&D in quanto a diffusione, nonostante la "relativamente giovane" età (la White Wolf pubblicò la prima edizione nel 1991)
 
@@ -27,7 +27,7 @@ pronti per un po' di retroxabbing?
 
 **La creazione del personaggio principale è l'elemento primo del gioco, in tutti i sensi:**
 
-<img src="https://2.bp.blogspot.com/-6eHK4z3eXMc/UmJUDHu3nuI/AAAAAAAAE58/tlg4h0BM888/s1600/Smiling+Jack.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://2.bp.blogspot.com/-6eHK4z3eXMc/UmJUDHu3nuI/AAAAAAAAE58/tlg4h0BM888/s1600/Smiling+Jack.jpg" alt="Illustrazione di Smiling Jack di Vampire: The Masquerade – Bloodlines">
 <small>Quel gran figo di Smiling Jack in un artwork ufficiale</small> </br> </br>
 
 Sebbene pesi una certa **scarsa variabilità estetica** (ogni clan ha un unico modello d'aspetto non personalizzabile) **la scelta del sesso e del clan d'appartenenza risultano fattori d'estrema importanza, capaci di porci di fronte a partite assolutamente diverse sia in termini di gameplay (stealth, action, magico) che, e soprattutto, in quelle di gioco di ruolo**
@@ -38,7 +38,7 @@ Bloodlines come detto è **un titolo che si adatta al tipo di personaggio che an
 
 ## Ambientazione
 
-<img src="https://2.bp.blogspot.com/-AZpHqv4VY5w/UmJU0Qw1wGI/AAAAAAAAE6M/aN6anDe9tdg/s1600/jeanette.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://2.bp.blogspot.com/-AZpHqv4VY5w/UmJU0Qw1wGI/AAAAAAAAE6M/aN6anDe9tdg/s1600/jeanette.jpg" alt="Vampire: The Masquerade – Bloodlines: Jeanette con le codine e la gonna scozzese">
 <small>L'adorabile Jeanette, o anche colei che definì inconsapevolmente ciò che sarebbe diventata di lì a poco Harley Quinn</small> </br> </br>
 
 A differenza di quanto accadeva nel vecchio Redemption (focalizzato anzitutto sui _Secoli Bui_) in Bloodlines si parte subito nel pieno della Masquerade:
@@ -49,7 +49,7 @@ Una violazione continua della mascherata potrebbe infatti portare la nostra neon
 
 ## Trama
 
-<img src="https://2.bp.blogspot.com/-X5Me7-PBpKM/UmJsDBdwzqI/AAAAAAAAE7Q/WJAH_6U5FDw/s1600/smilinjack2.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://2.bp.blogspot.com/-X5Me7-PBpKM/UmJsDBdwzqI/AAAAAAAAE7Q/WJAH_6U5FDw/s1600/smilinjack2.jpg" alt="Vampire: The Masquerade – Bloodlines: Smiling Jack spiega che aglio e croci non servono a niente">
 <small>Smiling Jack ci elenca alcuni luoghi comuni sul vampirismo da sfatare</small> </br> </br>
 
 Senza svelare troppo, partiamo col dire che l'incipit non è nulla né di troppo banale né di originalissimo:
@@ -62,7 +62,7 @@ In generale comunque parliamo di una storia molto variegata e avvincente, origin
 
 ## Cast
 
-<img src="https://3.bp.blogspot.com/-57t7S-4y5jk/UmJrj_Ojv1I/AAAAAAAAE7I/8stBEPZuAEI/s1600/gfs_60458_2_9.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://3.bp.blogspot.com/-57t7S-4y5jk/UmJrj_Ojv1I/AAAAAAAAE7I/8stBEPZuAEI/s1600/gfs_60458_2_9.jpg" alt="Vampire: The Masquerade – Bloodlines: Damsel con il basco rosso">
 
 **I personaggi non giocanti sono tra i più caratterizzati che si siano mai visti in un videogame**, e una volta tanto potremo interagire con loro con una sensazione di vera libertà, priva delle solite dicotomie e binari onnipresenti nei videogiochi.
 
@@ -72,7 +72,7 @@ Il problema derivante da questa sciccosissima caratterizzazione, però, **è que
 
 ## Quest
 
-<img src="https://4.bp.blogspot.com/-eGxr28tK9S4/UmJrU403IQI/AAAAAAAAE64/CYoGa_nz-tw/s1600/914819_20041117_screen002.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://4.bp.blogspot.com/-eGxr28tK9S4/UmJrU403IQI/AAAAAAAAE64/CYoGa_nz-tw/s1600/914819_20041117_screen002.jpg" alt="Vampire: The Masquerade – Bloodlines: la protagonista in una strada di Santa Monica">
 
 Qualsiasi sia l'ambientazione, il tema, il tipo di personaggio o lo sviluppatore, buona parte delle missioni nei vari RPG si traducono spesso (ahimè) con il classico:
 
@@ -87,9 +87,9 @@ Ecco, **Bloodlines non funziona così**. Ma manco per il pipistrello proprio.
 
 ## Grafica
 
-<img src="https://2.bp.blogspot.com/-v1T4v-yMxCI/UmJqt29o7iI/AAAAAAAAE6o/3E6Oaqho5cA/s1600/91503-vampire-the-masquerade-bloodlines-windows-screenshot-each-hub.jpg" alt="vampire-the-masquerade-bloodlines">
-<img src="https://3.bp.blogspot.com/-3AlnuDthmFU/UmJtAXre8hI/AAAAAAAAE7g/9Mkl4kYgKKg/s1600/914819_20041117_screen001.jpg" alt="vampire-the-masquerade-bloodlines">
-<img src="https://4.bp.blogspot.com/-OWR4b1Q3qtU/UmJtP25G76I/AAAAAAAAE70/TLQ1gjFVJvQ/s1600/nosfe.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://2.bp.blogspot.com/-v1T4v-yMxCI/UmJqt29o7iI/AAAAAAAAE6o/3E6Oaqho5cA/s1600/91503-vampire-the-masquerade-bloodlines-windows-screenshot-each-hub.jpg" alt="Vampire: The Masquerade – Bloodlines: una strada notturna di Hollywood con le insegne al neon">
+<img src="https://3.bp.blogspot.com/-3AlnuDthmFU/UmJtAXre8hI/AAAAAAAAE7g/9Mkl4kYgKKg/s1600/914819_20041117_screen001.jpg" alt="Vampire: The Masquerade – Bloodlines: un mostro nelle fogne, visto in prima persona con la pistola">
+<img src="https://4.bp.blogspot.com/-OWR4b1Q3qtU/UmJtP25G76I/AAAAAAAAE70/TLQ1gjFVJvQ/s1600/nosfe.jpg" alt="Vampire: The Masquerade – Bloodlines: un Nosferatu con i pugni elettrici in una stanza insanguinata">
 
 **Nel 2004 era da lasciare davvero senza fiato, e ancora oggi è invecchiata bene**, tolte forse le animazioni (spesso quasi tragicomiche)...tuttavia le espressioni dei volti sono di ottima fattura, così come la realizzazione degli ambienti.
 
@@ -109,7 +109,7 @@ Prima e per certi versi forse unica nota dolente: **il gioco è completamente in
 
 ## Commento Finale
 
-<img src="https://4.bp.blogspot.com/-fkgWXWdbh2s/UmJsW2T9jII/AAAAAAAAE7Y/gU8V_tugFPA/s1600/vampire+-the-masquerade----bloodlines-screenshot.jpg" alt="vampire-the-masquerade-bloodlines">
+<img src="https://4.bp.blogspot.com/-fkgWXWdbh2s/UmJsW2T9jII/AAAAAAAAE7Y/gU8V_tugFPA/s1600/vampire+-the-masquerade----bloodlines-screenshot.jpg" alt="Vampire: The Masquerade – Bloodlines: primo piano di Jeanette in discoteca">
 <small>Cosa succede quando un Malkavian ne incontra un altro, e uno dei due è una gnoccolona ninfomane bionda?</small> </br> </br>
 
 Semplicemente, **è uno di quei giochi che non può mancare a nessuno**...soltanto un acceso detrattore dei Giochi di Ruolo e del Vampirismo dovrebbe lasciarsi scappare questo gioiello.

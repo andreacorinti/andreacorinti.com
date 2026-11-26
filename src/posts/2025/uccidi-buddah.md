@@ -19,7 +19,7 @@ perché certo, da grande estimatore di Gaiman la cosa mi ha ovviamente colpito..
 
 ### Dio è morto. Dio resta morto. E noi lo abbiamo ucciso!
 
-![Beatlemania](/img/archivio/xabologia/uccidi-buddah-1.jpg)
+![Fan in attesa dietro una transenna con lo striscione «BEATLES!»](/img/archivio/xabologia/uccidi-buddah-1.jpg)
 
 ...Salvo farlo continuamente reincarnare in questo o quel Mito.
 
@@ -50,7 +50,7 @@ In pratica, si parte dall'indipendenza dai crismi del sistema lavorativo per arr
 
 ### Classismo
 
-![secessione-della-plebe](/img/archivio/xabologia/uccidi-buddah-3.jpg)
+![Incisione della secessione della plebe sul Monte Sacro, con soldati romani e plebei](/img/archivio/xabologia/uccidi-buddah-3.jpg)
 
 È una storia vecchia come il mondo: 
 
@@ -72,7 +72,7 @@ D'altronde, **il grosso della storia umana ha sempre visto piccole sacche di ari
 
 ### Bruciamo Sandman?
 
-![Olympia](/img/archivio/xabologia/uccidi-buddah-4.jpg)
+![Locandina di Olympia di Leni Riefenstahl con il Discobolo](/img/archivio/xabologia/uccidi-buddah-4.jpg)
 
 [Otto anni fai incontrai Shin'ichiro Watanabe](/posts/shinichiro-watanabe-cartoons-on-the-bay-cowboy-bebop/), autore di _Cowboy Bebop_, al Cartoons on the Bay di Torino del 2017.
 
@@ -101,7 +101,7 @@ _le palanche_ e, conseguentemente, la pirateria.
 
 ### Pirateria etica? 
 
-![emule](/img/archivio/xabologia/uccidi-buddah-5.svg)
+![La mascotte di eMule: un mulo seduto con la lingua di fuori](/img/archivio/xabologia/uccidi-buddah-5.svg)
 
 È un discorso controverso, ma per esempio credo che mai come in questo caso _"rubare"_ possa vantare un certo valore etico: 
 
@@ -114,8 +114,6 @@ Di mio, credo di no.
 E credo pure che sia legittimo togliersi la soddisfazione di leggere una serie di bei libri per ragazzi che, aldilà di eventuali (comprensibili) dietrologie, tanto ha segnato una recente epoca storica.
 
 ### Cattivi maestri e pericolose influenze
-
-![Protocolli-dei-Savi-di-Sion](https://upload.wikimedia.org/wikipedia/commons/8/8d/1912ed_TheProtocols_by_Nilus.jpg)
 
 Si potrebbe obbiettare, con ragione, che opere problematiche (o di autori problematici) possano influenzare negativamente il pensiero di chi ne usufruisce.
 

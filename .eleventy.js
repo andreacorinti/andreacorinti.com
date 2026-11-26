@@ -205,6 +205,9 @@ module.exports = function (eleventyConfig) {
       loading: isEager ? "eager" : "lazy",
       decoding: "async",
     };
+    // `true` lo passa solo la card in evidenza della home: è quasi sempre
+    // l'elemento LCP su mobile, quindi va scaricata prima di tutto il resto.
+    if (eager === true) attrs.fetchpriority = "high";
     const plainImg = () =>
       `<img src="${src}" ${Object.entries(attrs)
         .map(([key, value]) => `${key}="${String(value).replace(/"/g, "&quot;")}"`)

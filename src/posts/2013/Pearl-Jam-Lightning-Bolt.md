@@ -87,7 +87,7 @@ I Pearl Jam si sono da un lato concessi **qualche sprazzo di punk "badreliginoso
 
 <article id="38e045a6-91b0-4c92-bc34-ee512f6a42c5">
     <div class="comment__avatar-wrapper">
-        <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
     </div>
     <div class="comment__author">
         Lollo
@@ -102,7 +102,7 @@ I Pearl Jam si sono da un lato concessi **qualche sprazzo di punk "badreliginoso
   <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -117,7 +117,7 @@ I Pearl Jam si sono da un lato concessi **qualche sprazzo di punk "badreliginoso
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo
@@ -132,7 +132,7 @@ I Pearl Jam si sono da un lato concessi **qualche sprazzo di punk "badreliginoso
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/DF2797D9038C659BC484693951718CFE?d=mm&s=80" alt="Enzo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/DF2797D9038C659BC484693951718CFE?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Enzo
@@ -147,7 +147,7 @@ I Pearl Jam si sono da un lato concessi **qualche sprazzo di punk "badreliginoso
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -161,7 +161,7 @@ si sono 22 euro iva esclusa, vuole lo scontrino? Scherzi a parte, di base spotif
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -175,7 +175,7 @@ Probabilmente è che ho più stima della band di te a prescindere, barbün! :D</
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo
@@ -190,7 +190,7 @@ Probabilmente è che ho più stima della band di te a prescindere, barbün! :D</
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -204,7 +204,7 @@ no non hai capito, quel <i>generazione x</i> stava per Generazione <b>Xab</b>, m
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -218,7 +218,7 @@ Comunque su quel che dici ci sarebbe da scrivere effettivamente, ma poi ho paura
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo
@@ -233,7 +233,7 @@ Comunque su quel che dici ci sarebbe da scrivere effettivamente, ma poi ho paura
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -247,7 +247,7 @@ Beh però considera che tu stai parlando dei Pearl Jam di vent'anni fa, oramai �
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo

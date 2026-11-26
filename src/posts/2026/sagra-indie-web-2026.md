@@ -13,7 +13,7 @@ _l'immagine è "Carovana araba all'esterno di una città fortificata in Egitto" 
 
 Oh primo post del 2026, buon anno!
 
-![frieren](/img/frieren.gif)
+![GIF di Frieren in versione chibi](/img/frieren.gif)
 
 In realtà questa è una bloggata di risposta a [quanto scriveva](https://cantina.ragnate.la/accountability-sagra-indieweb-gennaio-2026/) il buon [Ed](https://livellosegreto.it/@ed), utilissima perché mi porta a una riflessione più vasta riguardo il web contemporaneo e in particolare a tutto il suo circuito "alternativo".
 

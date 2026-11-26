@@ -21,8 +21,6 @@ Volendo guardare il Canton Ticino (che estero lo è per davvero) mi è sempre se
 
 ## La mia Nibelheim
 
-![nibelheim](https://universalsoluce.com/guides/ffvii/zones/ouest/Nibelheim1.gif)
-
 **Nella mia carriera di videogiocatore ho sempre associato Albavilla a Nibelheim di Final Fantasy VII**, con cui in effetti non mancano i paralleli:
 
 l'Alpe del Vicerè alle spalle di Albavilla era il cuore di un villaggio fascista finito sotto le bombe che, per molti aspetti, fa scopa con il reattore Shinra del Mt. Nibel alle spalle del paesino di Cloud.

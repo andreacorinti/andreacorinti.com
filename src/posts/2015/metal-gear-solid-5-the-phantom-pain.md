@@ -36,7 +36,7 @@ Le mie uniche, piccole remore fino a questo momento:
 
 fin'ora, dico solo che è così bello da sentirsi male. 
 
-![metal-gear-solid-5-recensione](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-1.jpg)
+![Illustrazione di Yoji Shinkawa per Metal Gear Solid V: Big Boss con la benda](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-1.jpg)
 
 ## Seconde Impressioni (10/09/2015)
 
@@ -86,7 +86,7 @@ The Phantom Pain, essendo più gioco e meno "film", riesce certamente a tenere v
 
 Beh, io vado, ho parlato fin troppo e c'è il D-Horse che mi aspetta. Magari risentiamo tra altre quaranta ore.
 
-![metal-gear-solid-5-recensione](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-2.jpg)
+![Illustrazione di Yoji Shinkawa per Metal Gear Solid V: il volto di Big Boss](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-2.jpg)
 
 ## Terze Impressioni (25/09/2015)
 
@@ -155,7 +155,7 @@ Siamo d'accordo, tanto più che **il comportamento di Konami si è dimostrato al
 
 In ogni caso, ci risentiamo dopo il finale (sperando che Hideo mi smentisca alla grandissima)
 
-![metal-gear-solid-5-recensione](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-3.jpg)
+![Illustrazione di Yoji Shinkawa per Metal Gear Solid V: Big Boss di profilo su sfondo rosso](/img/archivio/videogiochi/metal-gear-solid-5-the-phantom-pain-3.jpg)
 
 ## Metal Gear Solid 5: The Phantom Pain - Recensione
 
@@ -177,7 +177,7 @@ E anzi, se vogliamo dirla tutta, il vero finale di Peace Walker, con il relativo
 
 ## Ludus e Pathos
 
- <img src="https://4.bp.blogspot.com/-2vIlvBngqv8/Vk6Q2WyBD1I/AAAAAAAANWA/TsDyzjmXyhc/s320/QuietStare.jpg" alt="Quiet">
+ <img src="https://4.bp.blogspot.com/-2vIlvBngqv8/Vk6Q2WyBD1I/AAAAAAAANWA/TsDyzjmXyhc/s320/QuietStare.jpg" alt="Quiet nell&#x27;elicottero in Metal Gear Solid V">
  <small>Oh, ma certo che ho una backstory. Ma sei proprio sicuro che non preferiresti vedere qualche altro tipo di back?</small>
 
 Per inciso, **non sono tra quei fan che si ostinano a dire _"la cosa più importante dei Metal Gear è la trama"_**, non l'ho mai pensato, l'ho sempre trovato un concetto parecchio approssimativo e sono del resto tra quelli che lamentarono l'eccessivo sproloquiare di Metal Gear Solid 4...
@@ -186,7 +186,7 @@ Eppure, **la componente narrativa è un perno fondante dell'opera Kojimiana**, o
 
 E in The Phantom Pain, 'sta cosa non esiste.
 
-<img src="https://1.bp.blogspot.com/-FS7KxO9QtYM/Vk6SmHdOWYI/AAAAAAAANWQ/n9oGeFL7iQw/s200/ocelot%2Bddog.jpg" alt="Quiet" alt="Ocelot e D-Dog">
+<img src="https://1.bp.blogspot.com/-FS7KxO9QtYM/Vk6SmHdOWYI/AAAAAAAANWQ/n9oGeFL7iQw/s200/ocelot%2Bddog.jpg" alt="Ocelot con in braccio il cucciolo D-Dog, disegno" alt="Ocelot con in braccio il cucciolo D-Dog, disegno">
  <small>Ehilà, siamo i due personaggi più carismatici del gioco! Includerei anche Miller, ma il suo essere esagitato alla lunga scassa</small>
 
 Non saprei dire se è tutta una questione di soldi, se la Konami non c'ha creduto fino infondo e ha messo una data-ultimatum per fare uscire un gioco che a molti saprà d'incompleto, ma sono speculazioni che sinceramente non m'interessano:
@@ -200,7 +200,7 @@ Quello su cui mi concentro, tuttavia, è il risultato, **la somma di quello che 
 
 ## Valutazione
 
-<img src="https://4.bp.blogspot.com/-JoYoXmPG1Q8/Vk6R0jnLkdI/AAAAAAAANWI/GqUEvbpMHRM/s320/MGSV_Code_Talker.png" alt="Quiet" alt="Code Talker">
+<img src="https://4.bp.blogspot.com/-JoYoXmPG1Q8/Vk6R0jnLkdI/AAAAAAAANWI/GqUEvbpMHRM/s320/MGSV_Code_Talker.png" alt="Code Talker in Metal Gear Solid V" alt="Code Talker in Metal Gear Solid V">
 
 <small>Vorresti una trama..eh..dinè...e invece...ti becchi...quattrocentosessanta ore di mie audiocassette autografate e parassitate.</small>
 
@@ -225,7 +225,7 @@ E stando così le cose, sinceramente, avrebbero potuto chiamarlo direttamente in
 <article id="5d1f636b-59cf-4926-8ba5-5d4a81e11e73">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9B9A1989B3CB2739B35239A93034B627?d=mm&s=80" alt="Paolo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9B9A1989B3CB2739B35239A93034B627?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Paolo
@@ -240,7 +240,7 @@ Spettacolare unico fantastico. ...kojima sei un dio. ....e non dirò altro
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/A7569E5D21556134ACDC941DA33AE0E0?d=mm&s=80" alt="Mei">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/A7569E5D21556134ACDC941DA33AE0E0?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Mei
@@ -255,7 +255,7 @@ insomma un mezzo disastro? io non so se comprarlo perchè tutte le recensioni lo
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -269,7 +269,7 @@ Dire disastro sarebbe quantomeno disonesto: Phantom Pain è assolutamente un gio
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9B9A1989B3CB2739B35239A93034B627?d=mm&s=80" alt="Paolo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9B9A1989B3CB2739B35239A93034B627?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Paolo
@@ -284,7 +284,7 @@ spoiler - <br>ma se hai capito tutto il discorso del finale e di big boss non pu
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -298,7 +298,7 @@ spoiler - <br>ma se hai capito tutto il discorso del finale e di big boss non pu
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="Emerson Edmilson">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Emerson Edmilson
@@ -312,7 +312,7 @@ lo sto finalmente giocando e beh...è bellissimo, ma inizio a sentire quel disco
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/7f6c1d1a1759b31a6b232e899803b2b8?d=mm&s=80" alt="Marco Cecchi">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/7f6c1d1a1759b31a6b232e899803b2b8?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Marco Cecchi
@@ -326,7 +326,7 @@ finito completamente l'altro ieri (mancano 3 missioni hard e il video del finale
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -340,7 +340,7 @@ Sì, diciamo che 1) C'è un indubbio problema di tempistica, legato al free-roam
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/7f6c1d1a1759b31a6b232e899803b2b8?d=mm&s=80" alt="Marco Cecchi">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/7f6c1d1a1759b31a6b232e899803b2b8?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Marco Cecchi
@@ -353,7 +353,7 @@ Sì, diciamo che 1) C'è un indubbio problema di tempistica, legato al free-roam
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -368,7 +368,7 @@ Sì, diciamo che 1) C'è un indubbio problema di tempistica, legato al free-roam
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="Emerson Edmilson">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Emerson Edmilson
@@ -382,7 +382,7 @@ anche a me sta ricordando parecchio le meccaniche da mmorpg, speravo che però d
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/D34AE1628245C9AB4A3F9081064D2006?d=mm&s=80" alt="Gendo Ikari">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/D34AE1628245C9AB4A3F9081064D2006?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Gendo Ikari
@@ -396,7 +396,7 @@ Complimenti. Finalmente una recensione che dice la verità. E la verità è che 
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -410,7 +410,7 @@ Complimenti. Finalmente una recensione che dice la verità. E la verità è che 
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/55A16202FC38AC945931C7709021FCA8?d=mm&s=80" alt="Meryl">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/55A16202FC38AC945931C7709021FCA8?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Meryl
@@ -424,7 +424,7 @@ Concordo con te al 100% anche se forse ci andrei giù pure più pesante, secondo
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/4E5355B08AF47ACAA58590713FF4D163?d=mm&s=80" alt="sengetsu">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/4E5355B08AF47ACAA58590713FF4D163?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     sengetsu
@@ -438,7 +438,7 @@ basti vedere come tutta quella marea di hype cresciuta per anni e anni è letter
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/AFD5CC6E24FD8E5A3BD4E47F03B8352C?d=mm&s=80" alt="Rоботs">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/AFD5CC6E24FD8E5A3BD4E47F03B8352C?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Rоботs

@@ -23,7 +23,7 @@ Prima di tutto occorre un breve preambolo sulla storia editoriale del personaggi
 
 ## Il Deadpool fumettistico
 
-<img src="https://static.comicvine.com/uploads/original/0/40/1298328-_31.jpg" alt="deadpool-recensione">
+<img src="https://static.comicvine.com/uploads/original/0/40/1298328-_31.jpg" alt="Psylocke armata davanti a Deadpool, Wolverine e altri membri della X-Force, illustrazione Marvel">
 
 **Deadpool nasce, cresce e (non) muore come ottimo comprimario.**
 
@@ -36,8 +36,6 @@ Viceversa, almeno secondo chi vi scrive, **le storie in cui Deadpool è il diret
 Specifico che non ho una conoscenza esagerata del personaggio, ma la mia impressione oltre i limiti del superficiale è stata un po' quella.
 
 ## Le responsabilità di essere una macchietta
-
-<img src="https://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-06-gallery-image.jpg" alt="deadpool-recensione">
 
 Non che il buon Wade Wilson sia solo questo, ma fondamentalmente al 90% questo è quello che passa di lui:
 
@@ -63,15 +61,11 @@ L'eccezione, ovviamente, sarebbero i sopracitati *X-Men*...che rappresentano com
 
 ## Regia
 
-<img src="https://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-02-gallery-image.jpg" alt="deadpool-recensione">
-
 **Tim Miller** è alla sua seconda prova dopo _The Goon_ e direi che offre una regia niente male, anche se personalmente **le scene d'azione m'hanno annoiato parecchio**, forse per via dell'overdose da **bullettime** (certe sequenze sono il sogno bagnato di Max Payne).
 
 In generale, **se Deadpool non dicesse qualche cazzata ogni petosecondo ci si annoierebbe davvero in fretta**, ma per contro questo impedisce ad ogni altro momento di spiccare più di tanto (come le parti dedite alla love story, che non sono girate affatto male, anzi).
 
 ## Ryan Reynolds & Co
-
-<img src="https://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-04-gallery-image.jpg" alt="deadpool-recensione">
 
 **Ryan è bravissimo**, sembra nato per questo ruolo e uscito dall'immaginazione collettiva dei lettori di fumetti Marvel:
 
@@ -82,8 +76,6 @@ Buona prova anche per **Francesco Venditti** (sì, il figlio di Antonellone nost
 Il resto del cast fa il suo, con una menzione di merito per la bella veneto-brasiliana **Morena Baccarin**.
 
 ## Strizzate d'Occhio
-
-<img src="https://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool1-gallery-image.jpg" alt="deadpool-recensione">
 
 Prendendo in prestito la grandiosa definizione di JJ Abrams _made in Leo Ortolani_, direi che qui ci troviamo di fronte ad un caso abbastanza simile, ma con una strizzata d'occhio collettiva da parte di tutta la produzione:
 
@@ -99,8 +91,6 @@ Ed ecco, la fedeltà qui c'è tutta, assolutamente, e l'intrattenimento pure...
 
 ## Conclusioni
 
-<img src="https://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-03-gallery-image.jpg" alt="deadpool-recensione">
-
 > "Sto per massacrarti come i Limp Bizkit hanno massacrato la musica negli anni '90"
 
 Il problema semmai, è proprio a livello concettuale:
@@ -114,8 +104,6 @@ Per certi versi in effetti **Deadpool assomiglia molto ai cinecomic che uscivano
 soprattutto nei suoi lati più seri (davvero, ci sono anche quelli), **trovo che Deadpool risulti un parente più stretto della scuola anni '90 - primi 2000 che dell'odierna overdose trainata dalla Marvel Studios.**
 
 ## Valutazione
-
-<img src="https://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-01-gallery-image.jpg" alt="deadpool-recensione">
 
 **Deadpool è un film che può piacere ad un sacco di gente, ma dare immenso fastidio a chiunque malsopporti la sovraesposizione mediatica** (e al MOIGE, se ancora esiste).
 

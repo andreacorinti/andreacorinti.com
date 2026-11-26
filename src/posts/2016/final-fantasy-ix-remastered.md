@@ -21,7 +21,7 @@ Ora, sicomme:
 Ho pensato di cogliere lo _scaraburi_ al balzo e illustrare tramite una bella galleria di screenshot parte di questo ragionamento, anche perché a rigiocarlo mi rendo conto di quanto il nono esponente della saga, in questo senso, fosse uno dei più emblematici.
 
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-1.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-1.jpg" alt="Final Fantasy IX Remastered: Francesca Buttalesca saluta con «Buongiorno!»">
 
 ## Antecedenti
 
@@ -37,43 +37,43 @@ Ma è in Final Fantasy IX, dicevamo, che le cose si spingono pure oltre:
 
 ## Perdersi in un Mondo
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-2.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-2.jpg" alt="Final Fantasy IX Remastered: un listino prezzi con stuzzichini, patate al forno e sottaceti di Lindblum">
 
 A Lindblum (e non solo) _tutti_ pensano un po' ai fatti propri: chi vende sottaceti, chi dipinge, chi fangirleggia, chi va a messa....
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-3.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-3.jpg" alt="Final Fantasy IX Remastered: Theodore in una chiesa, «Se partecipi alla sagra, prima devi santificarti qui!»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-4.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-4.jpg" alt="Final Fantasy IX Remastered: il presidente del fan club, «Che ce ne frega a noi di te!»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-5.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-5.jpg" alt="Final Fantasy IX Remastered: il presidente del fan club, «Non siamo mica venuti per lo spettacolo. Siamo qui per Rouel!»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-6.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-6.jpg" alt="Final Fantasy IX Remastered: Molid, «Vado matto per il caffè!»">
 
 _BUONGIORNISSIMO!!!!!!!!!!_
 
 **Quasi tutti hanno un nome e un relativo soprannome** (spesso meravigliosi), hanno faccende da sbrigare da qualche parte, aspettano qualcuno e magari posseggono piccole ma significative scenette.
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-7.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-7.jpg" alt="Final Fantasy IX Remastered: Hisarin, «Dai, Ryo! Andiamo da un&#x27;altra parte»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-8.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-8.jpg" alt="Final Fantasy IX Remastered: Torres, «Il calore è fondamentale per fabbricare le armi!»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-9.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-9.jpg" alt="Final Fantasy IX Remastered: Wayne, «La smetti di fare chiasso? Non vedi che ci sono clienti?»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-10.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-10.jpg" alt="Final Fantasy IX Remastered: Sam lo stitico si lamenta dell&#x27;aria inquinata di Lindblum">
 
 **I negozi hanno le loro pubblicità, ed i monumenti le relative targhe commemorative tutte da leggere**:
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-11.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-11.jpg" alt="Final Fantasy IX Remastered: l&#x27;insegna della pescheria da Ivan, «Signore, accattateve &#x27;o pesce!»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-12.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-12.jpg" alt="Final Fantasy IX Remastered: l&#x27;insegna di Peppe il lattaio, «Latte fresco direttamente dalle vallate di Lindblum!»">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-13.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-13.jpg" alt="Final Fantasy IX Remastered: un biglietto dove Lani si lamenta dei vicini che fanno «Kupò kupò» tutta la notte">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-14.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-14.jpg" alt="Final Fantasy IX Remastered: la targa della statua di Cid 8°">
 
 In generale, **se notiamo qualcosa di curioso difficilmente passerà inosservato agli occhi di Gidan.**
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-15.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-15.jpg" alt="Final Fantasy IX Remastered: Gidan, «Credevo fosse un forziere, invece è il motore del Cargoship»">
 
 _Oh, siamo in due_
 
@@ -81,9 +81,9 @@ E, a distanza di tanti anni confesso che **io da queste parti mi sento sempre le
 
 Si verifica cioè un tipo di "sospensione dell'incredulità" molto particolare, che temo la serie abbia un po' perso per sempre già dal decimo capitolo in poi.
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-16.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-16.jpg" alt="Final Fantasy IX Remastered: il signor Scigu racconta della moglie che preferisce i sottaceti">
 
-<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-17.jpg" alt="final-fantasy-ix">
+<img src="/img/archivio/videogiochi/final-fantasy-ix-remastered-17.jpg" alt="Final Fantasy IX Remastered: Manolo chiede «Tu dove lo metteresti?», con le scelte Davanti e Dietro">
 
 _Uhm..._
 

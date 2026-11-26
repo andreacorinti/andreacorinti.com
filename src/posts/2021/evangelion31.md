@@ -29,7 +29,7 @@ Quel bimbo si innamorò immediatamente di [_Zankoku na tenshi no tēze_](https:/
 
 Del resto non era certo nei programmi di Hideaki Anno, _la bestia che urlò amore nel cuore del mondo_, il genio assoluto che ha contribuito a ridefinire l'animazione giapponese (e non solo) combattendo contemporaneamente con la propria depressione, raccontando una storia (delle storie?) universale e al tempo stesso intima, personale, catartica per lui tanto quanto per lo spettatore.
 
-![albero](/img/archivio/film-serie/evangelion31-1.jpg)
+![L'Albero della vita della Cabala, illustrazione con le sefirot e le radici](/img/archivio/film-serie/evangelion31-1.jpg)
 
 ## Rebuild of Evangelion
 
@@ -44,6 +44,6 @@ Shinji è diventato grande, e lo spettatore deve seguirlo, smettendo di fuggire.
 Congratulazioni!
 
 
-![asuka](https://images-na.ssl-images-amazon.com/images/I/51WPYEVGMRL.jpg)
+![Asuka in abito rosa in un acquerello di Evangelion](https://images-na.ssl-images-amazon.com/images/I/51WPYEVGMRL.jpg)
 
 [The Heady Feeling Of Freedom/Good, Or Don't Be](https://www.youtube.com/watch?v=qP3qT5sFjNI)

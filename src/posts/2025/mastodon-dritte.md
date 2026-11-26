@@ -43,7 +43,7 @@ ma anche perché, sebbene sia un'impostazione non proprio notissima, **non è da
 
 se per esempio scrivessi un post in greco ma impostandolo in italiano, user grecofonx con i filtri attivi non mi leggerebbero mai!
 
-![mastodon-filtri-lingua](/img/mastodon/lingua4.jpg)
+![Preferenze di Mastodon con la sezione «Filtra lingue» evidenziata da una freccia gialla](/img/mastodon/lingua4.jpg)
 
 ## Ottimizzazione delle immagini e dei video
 

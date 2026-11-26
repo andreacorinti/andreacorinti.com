@@ -98,7 +98,7 @@ Forse un po' troppo criptico
 ## Jack Sparrow
 
 <figure>
- <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/Jack_Sparrow_In_Pirates_of_the_Caribbean-_At_World%27s_End.JPG" alt="Il significato del finale di Birdman Jack Sparrow">
+ 
 </figure>
 
 Curiosità: l'idea originale per il finale, geniale ma poi scartata, pare comprendesse un cameo di **Johnny Depp** interloquire con un poster di Jack Sparrow in uno stato analogo a quello di Riggan
@@ -118,7 +118,7 @@ un'eredità scenica, fasulla, **da milioni di visualizzazioni e molta apparenza,
 <article id="16b6e91e-3c83-403e-9f14-19aa521e685e">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo
@@ -133,7 +133,7 @@ un'eredità scenica, fasulla, **da milioni di visualizzazioni e molta apparenza,
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -147,7 +147,7 @@ eh ho appena letto.fondamentalmente, un po' sono d'accordo con lui, ma Inarritu 
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="Emerson Edmilson">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Emerson Edmilson
@@ -161,7 +161,7 @@ molto interessante. <br>Io sinceramente sul momento a istinto ho pensato al fina
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/13356f966e36b37391a952d6e8986fb2?d=mm&s=80" alt="Marco Bortone">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/13356f966e36b37391a952d6e8986fb2?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Marco Bortone
@@ -176,7 +176,7 @@ Considera anche questo: così come la Dickinson dalle parole di Riggan ha una so
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -190,7 +190,7 @@ Sulla Dickinson non sono d'accordo, mi sembra perfettamente in linea con il suo 
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/ACC6D2235A8C01222C8B977734999941?d=mm&s=80" alt="Nardino">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/ACC6D2235A8C01222C8B977734999941?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Nardino
@@ -204,7 +204,7 @@ A teatro vuole davvero suicidarsi, ma non ci riesce (parallelismo con uno dei pe
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -218,7 +218,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/239177F35DFDC6609A7F44DEAB512DFA?d=mm&s=80" alt="L'opinionista Approfondito">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/239177F35DFDC6609A7F44DEAB512DFA?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     L'opinionista Approfondito
@@ -231,7 +231,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/7A94DB9DDC4FC0506FDBF4DF437241C5?d=mm&s=80" alt="Andrea Oliva">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/7A94DB9DDC4FC0506FDBF4DF437241C5?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Andrea Oliva
@@ -244,7 +244,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/F625164813673584B03582B8F809FFBB?d=mm&s=80" alt="Qwerty97">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/F625164813673584B03582B8F809FFBB?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Qwerty97
@@ -257,7 +257,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/6335A8F4C4CD933CF225E49B939DE46F?d=mm&s=80" alt="felice mastronzio">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/6335A8F4C4CD933CF225E49B939DE46F?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     felice mastronzio
@@ -270,7 +270,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/3CBC7C327A4112157D469A26F5CEA887?d=mm&s=80" alt="nic">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/3CBC7C327A4112157D469A26F5CEA887?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     nic
@@ -283,7 +283,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/E732EE015131AE8FC35026D7B4FABCD5?d=mm&s=80" alt="Luigi Bonfante">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/E732EE015131AE8FC35026D7B4FABCD5?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Luigi Bonfante
@@ -296,7 +296,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:D6899F4568F1660463E79BF256BE0C23?d=mm&s=80" alt="Elisa Zordan">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:D6899F4568F1660463E79BF256BE0C23?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Elisa Zordan
@@ -309,7 +309,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:9DEA859287DCC9206F5E1486BEC68C2B?d=mm&s=80" alt="RobertJ">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:9DEA859287DCC9206F5E1486BEC68C2B?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     RobertJ
@@ -322,7 +322,7 @@ sono abbastanza d'accordo, ma continuo a credere che Riggan alla fine non si sen
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -336,7 +336,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:492E450691158EF77D08CD293C22B976?d=mm&s=80" alt="Walterin">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:492E450691158EF77D08CD293C22B976?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Walterin
@@ -349,7 +349,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:846ECAD58C2F61112046B844F02DFB22?d=mm&s=80" alt="Tex">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:846ECAD58C2F61112046B844F02DFB22?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Tex
@@ -362,7 +362,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:61B50025BF8456821BA336828C25DAFD?d=mm&s=80" alt="Tobia Tesan">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:61B50025BF8456821BA336828C25DAFD?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Tobia Tesan
@@ -375,7 +375,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:61B50025BF8456821BA336828C25DAFD?d=mm&s=80" alt="Tobia Tesan">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:61B50025BF8456821BA336828C25DAFD?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Tobia Tesan
@@ -388,7 +388,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:29055BCBD853B7ED4B2D17348AF15509?d=mm&s=80" alt="LucaP">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:29055BCBD853B7ED4B2D17348AF15509?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     LucaP
@@ -401,7 +401,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:B4DF2719C1376A6BE5C7DB381FD8D000?d=mm&s=80" alt="Vito D'Orilia">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:B4DF2719C1376A6BE5C7DB381FD8D000?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Vito D'Orilia
@@ -414,7 +414,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -427,7 +427,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:0C45BAAAD386E404B664383961A07F4E?d=mm&s=80" alt="tommys">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:0C45BAAAD386E404B664383961A07F4E?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     tommys
@@ -440,7 +440,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:CD4ED8DEB15BAD9D00022FA606BB2BCC?d=mm&s=80" alt="Davide">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:CD4ED8DEB15BAD9D00022FA606BB2BCC?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Davide
@@ -453,7 +453,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:07912F35D3E5248893F1770069E64E31?d=mm&s=80" alt="Francesco Gallina">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:07912F35D3E5248893F1770069E64E31?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Francesco Gallina
@@ -466,7 +466,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:07912F35D3E5248893F1770069E64E31?d=mm&s=80" alt="Francesco Gallina">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:07912F35D3E5248893F1770069E64E31?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Francesco Gallina
@@ -479,7 +479,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:248B52FA6E8F1C30BD19392B874572EB?d=mm&s=80" alt="STEFANO">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:248B52FA6E8F1C30BD19392B874572EB?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     STEFANO
@@ -492,7 +492,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:9AAD6F0B73D25FB8F5D2DF2481AF35B7?d=mm&s=80" alt="Irene">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:9AAD6F0B73D25FB8F5D2DF2481AF35B7?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Irene
@@ -505,7 +505,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:B271F64BD3C3176B1CBAB55D92CF1306?d=mm&s=80" alt="Maometto Diocancaro">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:B271F64BD3C3176B1CBAB55D92CF1306?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Maometto Diocancaro
@@ -518,7 +518,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:D0249CDA4DBE30F8558EAD91ABC16BA9?d=mm&s=80" alt="STO CAZZO">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:D0249CDA4DBE30F8558EAD91ABC16BA9?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     STO CAZZO
@@ -531,7 +531,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:5680C5FEF54B5E05FAE302259BC9F0EA?d=mm&s=80" alt="Alberto">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:5680C5FEF54B5E05FAE302259BC9F0EA?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Alberto
@@ -544,7 +544,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:1FFF5E924277FD7255B1EBEB8ACECC8E?d=mm&s=80" alt="Prometeus">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:1FFF5E924277FD7255B1EBEB8ACECC8E?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Prometeus
@@ -557,7 +557,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:53555B5E7C0FC03D836028409F4B93AD?d=mm&s=80" alt="Razmataz">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:53555B5E7C0FC03D836028409F4B93AD?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Razmataz
@@ -568,7 +568,7 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
 <p class="comment__body">Il suicidio è l'unica forma di liberazione dalla manipolazione del protagonista; la figlia sorride perchè condivide lo stesso dramma del padre...e adesso sa come potersi liberare</p>
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:7666DCD346AA9DA0A1E7E28614C96828?d=mm&s=80" alt="Manu Gr">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/email:7666DCD346AA9DA0A1E7E28614C96828?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Manu Gr
@@ -577,6 +577,5 @@ però in realtà finali aperti e votati al dibattito sono più che altro caratte
     </span>
 </div>
 <p class="comment__body">Secondo me ha veramente i super poteri presi da meteorite che cade sulla terra anni prima .<br>Il calore che ha sentito sulle spalle non era dovuto alle meduse ma al meteorite .<br>E come tutti i supereroi i superpoteri si prendono da cose che cadono dallo spazio</p>
-
 
 </article>

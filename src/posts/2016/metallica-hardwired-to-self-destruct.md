@@ -129,7 +129,6 @@ Il disco si chiude con quello che è probabilmente **il miglior pezzo dei Metall
 
 ## Vecchi
 
-<img src="https://up-1.cdn-fullscreendirect.com/production/photos/7549/large/20161121_075004_7549_961332.jpeg" alt="metallica hardwired recensione">
 <small>"Cornuto ci sarai TE!"</small> </br> </br>
 
 **Un disco da pensionati che si ritrovano al garage vedendo se hanno ancora un po' di quel pepe che li caratterizzava a vent'anni.**

@@ -29,8 +29,6 @@ Anche se in termini certamente più moderati, è paragonabile alle sensazioni ch
 
 **il primo 3d**, grezzo
 
-<img src="https://dvsgaming.org/wp-content/uploads/2017/09/150559-Final_Fantasy_X_USA-9.jpg" alt="final fantasy x">
-
 seguito dal secondo, ben più **raffinato.**
 
 Le successive generazioni, che per stare in ambito sony potremmo identificare con PlayStation 3 e 4 (ma il discorso si applica su tutte le piattaforme, PC in primis) per me **quel tipo di scintilla non l'hanno avuta più.**

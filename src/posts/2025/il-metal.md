@@ -29,7 +29,7 @@ Un po' certamente perché sono uno scontato maschio bianco cisetero, ma principa
 
 Della serie: pur apprezzando il calcio, sentirmi identificato come parte di una tifoseria è una roba che personalmente malsopporto.
 
-![sociologia](/img/archivio/musica/il-metal-1.svg)
+![Grafo di una rete sociale: nodi neri collegati da fitte linee viola](/img/archivio/musica/il-metal-1.svg)
 
 Ho sempre avuto simili problemi anche con vari partiti politici, specialmente quelli di sinistra (perché è idealmente l'area a cui mi sento più vicino, il resto non l'ho mai guardato come una possibilità).
 
@@ -87,4 +87,3 @@ Ozzy non è l'unico nume tutelare nel nostro phanteon, ma forse il più totalizz
 
 Il tutto nell'arco di svariati decenni, colmi di tutte le contraddizioni e gli eccessi di questo mondo.
 
-![Ozzy Osbourne](https://lastfm.freetls.fastly.net/i/u/770x0/ad32637a343d6431c0d2b282e9b2af53.jpg)

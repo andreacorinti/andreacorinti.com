@@ -78,4 +78,4 @@ Megumi Ida)
 
 E quel _Main Theme of FFIV_ ce lo si porta dietro per sempre.
 
-![frieren](/img/frieren.gif)
+![GIF di Frieren in versione chibi](/img/frieren.gif)

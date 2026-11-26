@@ -17,7 +17,7 @@ La Discover Weekley di Spotify mi ha messo in cima un bel pezzo dal titolo parti
 
 ## Una settimana dopo
 
-![calenda](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-914578574-1541263732.jpg?crop=1.00xw:0.751xh;0,0.112xh&resize=1200:*)
+![Carlo Calenda con un'espressione corrucciata](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-914578574-1541263732.jpg?crop=1.00xw:0.751xh;0,0.112xh&resize=1200:*)
 
 Onestamente?
 
@@ -41,8 +41,6 @@ Sembra un controsenso, un "_ora che ho perso la vista ci vedo di più_", ma giur
 
 ## Il troppo stroppia ?
 
-![tette](https://pics.me.me/still-not-enough-to-store-my-steam-library-28661476.png)
-
 Ragionandoci, credo che anche **l'indigestione figlia di _Steam_ abbia un peso in tutto questo** e, anche se non gioco su console da molto tempo, credo che anche _PS Now_, _Xbox Live_ giochino nel medesimo campionato.
 
 **Le nostre mega-librerie di giochi presi per una manciata di euro creano un'affezione del tutto diversa dai costosissimi CD della nostra infanzia** (o casettine, DVD, Blueray, fate voi), un po' come un film visto su Netflix sembra perdere quel senso "d'artigianato" e ritualità tipica del Blockbuster.
@@ -56,5 +54,4 @@ Fa strano eh, perché chi vi scrive è da sempre stato un convinto alfiere del d
 Sì, dai: vediamo dove ci porterà questa piccola, pseudo _twelve-step suite_
 
 <iframe src="https://open.spotify.com/embed/playlist/4svse6TVoIvYCRMLu5EXGF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 

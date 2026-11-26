@@ -19,13 +19,13 @@ Tuttavia, la provenienza USA del gergo (talvolta importato goffamente anche da n
 
 ### L'animazione giapponese in Italia 
 
-![topo-gigio-anime](/img/otaku/topo-gigio.jpg)
+![Topo Gigio nell'anime giapponese, con il titolo in katakana](/img/otaku/topo-gigio.jpg)
 
 Se negli USA la _Japanimation_ inizierà davvero a carburare su vasta scala solo dai tardi anni '90 in poi, in Italia il fenomeno è partito sin dagli anni '70 con numeri via via più gargantueschi: 
 
 importare Anime costava evidentemente poco sia per la RAI che in seguito per le millemila TV private (tra cui ovviamente Mediaset), di conseguenza almeno un paio di generazioni sono state letteralmente _svezzate_ da quel tipo di discorso...Ma non solo: 
 
-![topo-gigio-anime](/img/otaku/candy-candy.jpg)
+![Candy Candy con un cappellino fiorito, in un fotogramma dell'anime](/img/otaku/candy-candy.jpg)
 
 A titolo di excursus personale, ricordo bene quanto mia nonna (classe '22, pace all'anima sua) si appassionò a quella telenevoleona di _Candy Candy_. 
 E d'altronde, mia madre mi raccontava che lo stesso era accaduto nei tardi anni '70 con _Ascolta sempre il cuore Remì_, tristissimo cartone TMS che appassionò _financo la mia bisnonna_, donna nata sul finire del 1800! 
@@ -36,7 +36,7 @@ Pensandoci, è un po' quello che successe con _Twin Peaks_, vista da mezza Itali
 
 ### Zorro! Topo Gigio!
 
-![Zorro-anime](/img/otaku/zorro.jpg)
+![Zorro con maschera e cappello nell'anime giapponese a lui dedicato](/img/otaku/zorro.jpg)
 
 Tra gli anni '80 e '90 ci furono addirittura interessanti esperimenti di coproduzioni italo-giapponesi (e svizzere): 
 
@@ -44,7 +44,7 @@ a memoria, ricordo [_Zorro_](https://it.wikipedia.org/wiki/Zorro_(serie_animata)
 
 Nel mentre, negli USA pensavano di proporre [un atroce remake de _I Cavalieri dello Zodiaco_](https://www.youtube.com/watch?v=ODTQZfysM9s), tale _Guardians of the Cosmos_.
 
-![Guardians-of-the-Cosmos](/img/otaku/guardian-of-the-cosmos.jpg)
+![Titolo di «Guardians of the Cosmos», l'adattamento americano dei Cavalieri dello Zodiaco, con i cinque cavalieri](/img/otaku/guardian-of-the-cosmos.jpg)
 
 Visto?
 
@@ -58,7 +58,7 @@ Ovviamente in Italia pure i cartoni americani abbondavano, intendiamoci (perché
 
 ### Le conseguenze 
 
-![MTV-Anime-Night](/img/otaku/mtv-anime-night.jpg)
+![Logo di MTV Anime Night con grandi kanji tridimensionali](/img/otaku/mtv-anime-night.jpg)
 
 Infatti, arrivando in tempi più recenti, è impossibile non citare l'impatto dell'**MTV Anime Night** o le miriadi di repliche di _Kenshiro_ o _L'Uomo Tigre_ nelle varie TV locali che spesso e volentieri anticipavano il colosso Mediaset o la stessa MTV.
 
@@ -74,7 +74,7 @@ Chiedete a un vostro zio Gen X / Millennial se ha mai visto uno schermo nero con
 
 ### Le parentele 
 
-![Lupin](/img/otaku/lupin.jpg)
+![Lupin, Jigen e Zenigata in un inseguimento con la Fiat 500 gialla](/img/otaku/lupin.jpg)
 
 Oltre a tutta questa manfrina, pur parlando di paesi e culture lontanissimi, è interessante notare quanti intrecci avvicinino Italia e Giappone: 
 
@@ -95,8 +95,8 @@ i classici opposti che si attraggono praticamente e, anche per questo, vale la p
 
 non per niente la Francia è legata a doppio filo con l'intrattenimento nipponico, forse ancora più dell'Italia stessa.
 
-![Meloni-chan](/img/otaku/meloni-chan.jpeg)
-![Macron-One-Piece](/img/otaku/macron.avif) 
+![«Meloni-chan»: Giorgia Meloni disegnata in stile anime, accanto a una sua foto](/img/otaku/meloni-chan.jpeg)
+![Emmanuel Macron di spalle davanti al disegno autografato di Eiichiro Oda con la ciurma di One Piece](/img/otaku/macron.avif) 
 
 > certo a loro è andata meglio: il disegno autografato di Oda tra qualche secolo se la potrebbe giocare con la Gioconda
 

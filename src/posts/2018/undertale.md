@@ -36,7 +36,7 @@ C'è un po' tutto quel discorso sull' **"Infantilismo Maturo"**, che **ho già a
 ## 'Sto gioco pare partorito da 4chan
 
 <figure>
-<img src="https://www.wykop.pl/cdn/c3201142/comment_QnKs4KLvF3tGfWnCvYsQhtWjwhl3F2mZ.jpg" alt="4chan">
+<img src="https://www.wykop.pl/cdn/c3201142/comment_QnKs4KLvF3tGfWnCvYsQhtWjwhl3F2mZ.jpg" alt="Collage di thread di 4chan sugli spaghetti di Papyrus, pieno di meme di Undertale">
 </figure>
 
 Ecco: la mia repulsione istintiva partiva anzitutto da lì.
@@ -88,7 +88,7 @@ Nonostante questo potesse rappresentare un limite spaventoso, nell'economia del 
 
 Un'altra fondamentale ispirazione per Undertale (per stessa ammissione di Toby Fox, come leggerete tra un attimo) è questo misterioso videogioco mai uscito dal Giappone:
 
-![moon remix](https://r.mprd.se/media/images/53568-Moon_-_Remix_RPG_Adventure_(Japan)-8.png)
+-8.png)
 
 Distribuito da ASCII e realizzato da Kenichi Nishi [^Nishi] nel 1997, **_Moon: Remix_ rappresentò il proverbiale successo di critica dalle vendite precarie**, risultando forse fin troppo visionario per la sua epoca di riferimento.
 
@@ -103,12 +103,12 @@ Potrà sembrare un dettaglio da cultori della storia del videogioco ma, come ved
 ## Onesto con se stesso
 
 <figure>
-<img src="https://undertale.com/assets/images/screen7.png" alt="Undertale">
+<img src="https://undertale.com/assets/images/screen7.png" alt="Undertale: Papyrus al telefono, «I wish I had eight legs...»">
 </figure>
 
 Undertale è un titolo peculiare che **vuole sentitamente essere ciò che è, senza strizzare goffamente l'occhio alla nicchia che ha inevitabilmente finito per innamorarsi di lui**.
 
-![undertale](https://undertale.com/assets/images/screen8.png)
+![Undertale: Papyrus al telefono, «So I could wear four pairs of hotpants.»](https://undertale.com/assets/images/screen8.png)
 
 Retrò, grezzo, colmo di enigmi e visionario nei combattimenti, è **un videogame forte di una semplice (ma originale) filosofia di fondo**, interpretabile a diretta discrezione del giocatore in una ben cucinata miscela tra libero arbitrio da RPG occidentale e classici stilemi dei JRPG del Sol Levante.
 
@@ -118,7 +118,7 @@ Se da un lato **i personaggi e la trama di Undertale hanno forse raccolto fin tr
 
 [^discorso]: Certamente il mio è un discorso inficiato dai miei - ben lontani - gusti, intendiamoci.
 
-![undertale](https://undertale.com/assets/images/screen6.png)
+![Undertale: combattimento contro un buffone, con i comandi Fight, Act, Item e Mercy](https://undertale.com/assets/images/screen6.png)
 
 La cosa si traduce in modo evidente anche **nell'originale gestione dei finali**, nei colpi di scena nascosti rivelabili solo dalle azioni del giocatore, e **dall'utilizzo spregiudicato e molto ispirato dei savegame** (detta così potrà suonare strano, ma chi ha finito il gioco capirà ciò che intendo).
 
@@ -138,7 +138,7 @@ E intendiamoci: sarebbe stato **un gran peccato.**
 
 ## Conclusioni
 
-![undertale](https://undertale.com/assets/images/screen10.png)
+![Undertale: due figure con l'ombrello guardano da lontano il castello sotto un cielo di cristalli](https://undertale.com/assets/images/screen10.png)
 
 Sarebbe stato un gran peccato perché, in fin della fiera, **Undertale è davvero un gran bel gioco.**
 

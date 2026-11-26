@@ -51,7 +51,7 @@ Di sicuro, li voglio riascoltare per benino per farmi un'idea migliore.
 
 ### Bianca 
 
-![Bianca](https://f4.bcbits.com/img/a1326944483_16.jpg)
+![Copertina dell'album: fiori appassiti su fondo scuro, con il logo della band in alto](https://f4.bcbits.com/img/a1326944483_16.jpg)
 
 Anche qui extramese (galetto fu Halloween) e grazie a Zel!
 

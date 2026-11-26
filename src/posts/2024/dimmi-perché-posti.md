@@ -11,7 +11,7 @@ lang: it-IT
 
 Oggi mi è arrivato questo messaggio nel contact form:
 
-![messaggio-contact-form-andrea-corinti](/img/g.jpg)
+![Un messaggio dal form contatti: «Ciao Xab, hai visto cos'è successo con…? Perché non fai un post a riguardo?», con i dati coperti](/img/g.jpg)
 
 Ho già risposto via email a G con una bozza di quanto segue, anticipando che avrei usato il suo messaggio come spunto per un post più generale.
 

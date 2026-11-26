@@ -23,8 +23,6 @@ Non cerca facili ammiccamenti [come qualcuno...](/posts/star-wars-7-il-risveglio
 
 ## Sceneggiatura
 
-<img src="https://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-01108A.jpg?itok=mOq8HIRk" alt="animali fantastici e dove trovarli recensione">
-
 Trovarsi di fronte ad **una Rowling sceneggiatrice, prima ancora che scrittrice**, si percepisce a più non posso ed è forse il segreto della bellezza del film:
 
 Tolto l'impatto iniziale della _Pietra Filosofale_, **personalmente non ho mai trovato nessun film di Harry Potter minimamente all'altezza delle relative controparti cartacee.**
@@ -33,15 +31,11 @@ Essendo invece lo scritto di Animali Fantastici direttamente concepito per il gr
 
 ## Regia
 
-<img src="https://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-EW-2.jpg?itok=YmrE9Lak" alt="animali fantastici e dove trovarli recensione">
-
 **I ritmi di questo film sono come i suoi animali: fantastici**, freschi e simpatici, conditi da abbondante humor deliziosamente _british_.
 
 Davvero portentoso, considerando che partivo con aspettative decisamente basse!
 
 ## Cast
-
-<img src="https://www.warnerbros.it/sites/default/files/styles/media_gallery/public/videos/FB-JB-01830.jpg?itok=bWITIJt3" alt="animali fantastici e dove trovarli recensione">
 
 **Eddie Redmayne** è un ottimo attore, ma nel complesso il cast si è comportato benissimo ad ogni livello...
 
@@ -56,8 +50,6 @@ Johnny Depp lo hanno conciato tanto male che pareva un mix tra
 <img src="https://vignette4.wikia.nocookie.net/disneyvillains/images/b/b0/Toon_Judge_Doom.jpg/revision/latest?cb=20150608025419" alt="animali fantastici e dove trovarli recensione johnny depp">
 
 E
-
-<img src="https://quotidianomolise.com/wp-content/uploads/2016/07/paolo-belli-concerto-edison.jpg" alt="animali fantastici e dove trovarli recensione johnny depp">
 
 Detto ciò: **per età e tratti somatici non ce lo vedo affatto come giovane Grindelwald**, ma parliamo pur sempre di un grandissimo attore (quando non è morso dal morbo del Jack Sparrow perenne almeno) quindi non mi fascerei ancora la testa.
 

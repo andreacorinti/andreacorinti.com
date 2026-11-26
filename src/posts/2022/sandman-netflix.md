@@ -15,11 +15,11 @@ Allora: non sono bravo con le classifiche, ma Sandman è il mio fumetto preferit
 
 Per dire, nei miei vecchi blog quest'immagine: 
 
-![sandman-death](https://i.pinimg.com/736x/78/36/63/7836635e7804415331c080c5c645ed4e.jpg)
+![Morfeo e Morte seduti su un muretto con i piccioni, dal fumetto di Sandman](https://i.pinimg.com/736x/78/36/63/7836635e7804415331c080c5c645ed4e.jpg)
 
 saltava sempre fuori in banner e cose così.
 
-![xabacadabra](https://4.bp.blogspot.com/-Iy1vUxXQciI/Vo7uLt8lMFI/AAAAAAAANpY/YnRVYdluou0/s1600-r/provalogo2.jpg)
+![La vecchia intestazione del blog «Xaba Cadabra» con Morfeo e Morte di Sandman](https://4.bp.blogspot.com/-Iy1vUxXQciI/Vo7uLt8lMFI/AAAAAAAANpY/YnRVYdluou0/s1600-r/provalogo2.jpg)
 
 ## Prime impressioni
 

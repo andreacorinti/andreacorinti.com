@@ -47,8 +47,6 @@ Il tutto in una produzione che ti aspetteresti dal Giappone, e invece!
 
 ### Estas Tonne - Old Style
 
-![estas-tonne-old-style](https://etmusic-4b58.kxcdn.com/wp-content/uploads/2025/01/ET-OLD-STYLE-1500x1500-1-650x650.jpg)
-
 Estas Tonne dovreste averlo intercettato su YouTube o qualche reel Instagram: chitarrista acustico dall'Ucraina, fenomenale nella resa dello stile "gypsy" miscelato con influenze da flamenco spagnolo e una certa vocazione che definirei da colonna sonora. 
 
 Io lo adoro, e Old Style è l'ennesimo lavoro che tira fuori e non posso evitare di amare tantissimo.

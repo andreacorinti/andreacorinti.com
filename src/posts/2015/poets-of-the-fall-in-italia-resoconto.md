@@ -110,7 +110,7 @@ Ma vabbè. _Quisquiglie, pinzillacchere!_
 Sono le 18 e qualcosa ed ecco Cadorna
 
 <figure>
-	<img src="https://1.bp.blogspot.com/-KIPYySwGL5Y/VWhID0jivhI/AAAAAAAAMGw/bjTMabzUQug/s1600/cadorna.jpg" alt="cadorna">
+	<img src="https://1.bp.blogspot.com/-KIPYySwGL5Y/VWhID0jivhI/AAAAAAAAMGw/bjTMabzUQug/s1600/cadorna.jpg" alt="Ritratto del generale Luigi Cadorna alla scrivania">
 </figure>
 
 prossima destinazione metropolitana linea verde, capolinea di Gessate!
@@ -142,7 +142,7 @@ Ma poi, finalmente, Gessate.
 Un luogo scartato dal più sadico degli sviluppatori di Fallout con motivazione "no regà, va bene il postapocalittico, ma anche io c'ho un cuore"
 
 <figure>
-	<img src="https://3.bp.blogspot.com/-vZJrkjeQu1k/VWhGU6TStzI/AAAAAAAAMGg/n3OoNU7sMVk/s1600/gessate.jpg" alt="gessate">
+	<img src="https://3.bp.blogspot.com/-vZJrkjeQu1k/VWhGU6TStzI/AAAAAAAAMGg/n3OoNU7sMVk/s1600/gessate.jpg" alt="Una strada di Gessate controluce all&#x27;alba">
 </figure>
 
 Gessate.
@@ -160,13 +160,13 @@ Di poco eh, però sul momento non te ne rendi conto e da Urlo di Munch ti trasfo
 Corri, cammini, corri e d'un tratto, ti balza in mente il buon Sanji di onepieciana memoria:
 
 <figure>
-	<img src="https://2.bp.blogspot.com/-8Nid9QAcgH0/VWhEZt1u5MI/AAAAAAAAMF8/INQjE3_GcY4/s1600/sanji.jpg" alt="Sanji">
+	<img src="https://2.bp.blogspot.com/-8Nid9QAcgH0/VWhEZt1u5MI/AAAAAAAAMF8/INQjE3_GcY4/s1600/sanji.jpg" alt="Tavola del manga di One Piece: Sanji in volo con lo «Sky Walk»">
 </figure>
 
 E allora voli, anche tu, perché cenare è un lusso, il mal di schiena non esiste.
 
 <figure>
-	<img src="https://3.bp.blogspot.com/-wD54pTmyCsA/VWhF8xbEO6I/AAAAAAAAMGY/QdQVu2SXFd0/s1600/trezzo.jpg" alt="trezzo">
+	<img src="https://3.bp.blogspot.com/-wD54pTmyCsA/VWhF8xbEO6I/AAAAAAAAMGY/QdQVu2SXFd0/s1600/trezzo.jpg" alt="L&#x27;autostrada vista da un cavalcavia con la rete, a Trezzo">
 </figure>
 
 Il resto, beh, è storia.

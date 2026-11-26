@@ -65,7 +65,7 @@ It's enough for me to keep posting with a certain continuity, to point out the "
 
 ## Italiano
 
-![Dante](/img/archivio/xabologia/blog-questions-challenge-2025-1.jpg)
+![Ritratto di Dante con la corona d'alloro, incisione di Gustave Doré](/img/archivio/xabologia/blog-questions-challenge-2025-1.jpg)
 
 ### Perché hai iniziato a bloggare?
 

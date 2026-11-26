@@ -29,7 +29,7 @@ Quindi, ho riflettuto.
 
 ## Il genere di riferimento
 
-![rpg](http://i0.kym-cdn.com/photos/images/original/001/015/010/0b4.jpg)
+![Fumetto stilizzato che confronta JRPG, WRPG e giochi di ruolo Nintendo](http://i0.kym-cdn.com/photos/images/original/001/015/010/0b4.jpg)
 
 Onestamente, credo sia **pressoché impossibile che un gioco simile possa avere successo.** [^successo]
 
@@ -43,7 +43,7 @@ Perché per loro intrinseca natura **sono videogame che richiedono una mole spro
 
 ## Ma LA TRAMA...
 
-![plot](https://i.imgur.com/TuNUiAn.gif)
+![Fotogramma anime con la scritta «PLOT»](https://i.imgur.com/TuNUiAn.gif)
 
 Eh, la trama.
 
@@ -51,11 +51,9 @@ Eh, la trama.
 
 ## Fiducia guadagnata
 
-![squaresoft](/img/archivio/videogiochi/giochi-indie-1.svg)
+![Il logo di Squaresoft](/img/archivio/videogiochi/giochi-indie-1.svg)
 
 Ora, prendiamo un _Final Fantasy_ a caso dell'era SNES, o anche PlayStation.
-
-![final-fantasy-vi-ultima-weapon](http://wikiimages.qwika.com/images/en/b/b2/UltimaWeapon_FF6.png)
 
 Per dire, **quanti tra i vostri conoscenti hanno giocato a quella meraviglia di _Final Fantasy VI_?**
 
@@ -63,7 +61,7 @@ I miei non sono mica tanti, e praticamente tutti (me compreso) **ci si sono cime
 
 Quest'ultimo ha sempre fornito **un fattore motivazionale** molto importante (capace di andare oltre a vecchiaia, incontri casuali, drammi legati all'emulazione eccetera eccetera):
 
-![final-fantasy-iv](https://rpgsquare.files.wordpress.com/2012/05/final-fantasy-iv-snes-cecil.png)
+![Final Fantasy IV: il re ordina «Take this Package to the Village Mist. You may depart tomorrow morning!»](https://rpgsquare.files.wordpress.com/2012/05/final-fantasy-iv-snes-cecil.png)
 
 Per dire, è quello che mi ha permesso di giocarmi il vecchio Final Fantasy IV per SNES senza patirne troppo l'età. [^ffiv]
 
@@ -71,7 +69,7 @@ Per dire, è quello che mi ha permesso di giocarmi il vecchio Final Fantasy IV p
 
 ## Non ti conosco
 
-![unkown](https://i.stack.imgur.com/2vxPN.png)
+![Gli Unown di Pokémon, uno per ogni lettera](https://i.stack.imgur.com/2vxPN.png)
 
 Questa fiducia un Indie, per forza di cose, **non ce l'ha.**
 
@@ -81,7 +79,7 @@ ma nella stragrande maggioranza dei casi queste funzionano solo quando c'è un'a
 
 ## L'Immediatezza
 
-![axiomverge](https://static1.squarespace.com/static/4f7c8818e4b000a129e38a56/52e7365ae4b090f501f6fe77/5303cb18e4b06deb22466907/1392757544747/LightningGun.gif)
+![Axiom Verge: il protagonista spara un raggio elettrico in una caverna viola](https://static1.squarespace.com/static/4f7c8818e4b000a129e38a56/52e7365ae4b090f501f6fe77/5303cb18e4b06deb22466907/1392757544747/LightningGun.gif)
 
 Ultimamente sto giocando allo splendido _Axiom Verge_, un palese figlio dei vari _metroidvania_ che **riesce a conquistare nel giro di pochi secondi.**
 
@@ -97,13 +95,13 @@ Va detto che pure un Gioco di Ruolo come **Undertale** (di cui [abbiamo recentem
 
 ## Morale
 
-![tetris](/img/archivio/videogiochi/giochi-indie-2.svg)
+![Una partita a Tetris con i pezzi colorati in fondo al pozzo](/img/archivio/videogiochi/giochi-indie-2.svg)
 
 **Consiglierei a tutti gli aspiranti creatori di videogiochi di non cimentarsi mai con titoli lunghi ed impegnativi**, almeno all'inizio.
 
 Mi rendo conto che più o meno tutti abbiamo nel cassetto **una megastoria da raccontare** (e che spesso _merita_ di essere raccontata, intendiamoci)...
 
-![indie-game-developers](https://media.makeameme.org/created/indie-game-developers.jpg)
+![Meme sugli sviluppatori di giochi indie](https://media.makeameme.org/created/indie-game-developers.jpg)
 
 Diciamo solo che, prima di farlo, bisogna prima conquistarsi **la famosa fiducia** su cui costruire la propria credibilità futura.
 

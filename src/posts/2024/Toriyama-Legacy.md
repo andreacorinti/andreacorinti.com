@@ -43,4 +43,4 @@ In effetti, basta considerare quanto lo stile di disegno di Toriyama sia così i
 
 Insomma, non serve farla lunga perché tanto lo sapete già: al signor Toriyama dobbiamo davvero un enorme grazie.
 
-![toribot](https://static.wikia.nocookie.net/dragonball/images/f/fd/Tori(SpStVol17).jpg)
+![Toribot, il robottino con cui Akira Toriyama ritraeva sé stesso](https://static.wikia.nocookie.net/dragonball/images/f/fd/Tori(SpStVol17).jpg)

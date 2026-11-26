@@ -56,15 +56,15 @@ In mezzo ben **3 Final Fantasy, un MMORPG, un sequel maledetto ed un film orribi
 Era anche un'epoca in cui **certe differenze ancora si notavano a occhio nudo**, senza bisogno dei Vittorio Sgarbi del 4k che imperversano oggigiorno...
 
 <figure>
-	<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/0/01/Double.png/revision/latest?cb=20091116050826" alt="FFVIII">
+	<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/0/01/Double.png/revision/latest?cb=20091116050826" alt="Un nemico di Final Fantasy VIII">
 </figure>
 
 <figure>
-<img src="https://vignette2.wikia.nocookie.net/finalfantasy/images/0/00/Black-Waltz-2.png/revision/latest?cb=20130514025524" alt="FFIX">
+<img src="https://vignette2.wikia.nocookie.net/finalfantasy/images/0/00/Black-Waltz-2.png/revision/latest?cb=20130514025524" alt="Il Black Waltz 2 di Final Fantasy IX">
 </figure>
 
 <figure>
-<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/1/1b/Auron_Victory_Pose.png/revision/latest?cb=20131228200338" alt="FFX">
+<img src="https://vignette1.wikia.nocookie.net/finalfantasy/images/1/1b/Auron_Victory_Pose.png/revision/latest?cb=20131228200338" alt="Auron nella posa di vittoria di Final Fantasy X">
 </figure>
 
 eccetera eccetera.
@@ -118,7 +118,7 @@ _Soprattutto questa..._
 Poi, il fatto che tale **Denzel** avesse più spazio del gruppo originale, che **Reno e Rude** fossero ridotti a mere macchiette e che tutto trasparisse così mestamente serio, buio e desaturato mi diede subito da pensare.[^reno]
 
 <figure>
-	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-3.jpg" alt="Reno">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-3.jpg" alt="Reno con il manganello in spalla in Final Fantasy VII Advent Children">
 </figure>
 
 _Oh certo, simpaticissimo sogno bagnato delle ragazzine. Un Jack Sparrow giappo. ANDATE A DIRLO A WEDGE, JESSE, BIGGS E TUTTI GLI ABITANTI DEL SETTORE 7, STRONZI_
@@ -130,7 +130,7 @@ C'era qualcosa che non andava...
 Ma [questa scena](https://www.youtube.com/embed/bp-UgLklPfA"), effettivamente splendida (forse l'unica che salvo ancora oggi) ti faceva dimenticare di tutto.
 
 <figure>
-	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-4.jpg" alt="Bahamut">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-4.jpg" alt="Bahamut sopra le rovine di Edge in Final Fantasy VII Advent Children">
 </figure>
 
 _Meno il fatto che questo al massimo è il Bahamut di FFX, INFAMI BASTARDI!_
@@ -138,7 +138,7 @@ _Meno il fatto che questo al massimo è il Bahamut di FFX, INFAMI BASTARDI!_
 Giocava col tuo cuore, questo Advent Children.
 
 <figure>
-	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-5.jpg" alt="Aerith">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-5.jpg" alt="Il volto di Aerith nella luce del Lifestream in Final Fantasy VII Advent Children">
 </figure>
 
 E il guaio è che, beh, **non lo faceva manco tanto bene.**
@@ -150,7 +150,7 @@ Il tempo raffredda certi entusiasmi, soprattutto quando il resto della Compilati
 Ed è allora che di Advent Children inizi a vedere solo le debolezze, **i dialoghi nebulosi e le spiegazioni farlocche.**
 
 <figure>
-	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-6.jpg" alt="Sephiroth">
+	<img src="/img/archivio/film-serie/final-fantasy-vii-advent-children-6.jpg" alt="Sephiroth con l&#x27;ala nera in Final Fantasy VII Advent Children">
 </figure>
 
 È allora che ti senti ingannato e tradito, rivedendolo.

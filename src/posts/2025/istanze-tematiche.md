@@ -58,7 +58,7 @@ Diciamo che per forza di cose l'impronta politica di un'istanza porta ad abbracc
 
 ### Ok, ho capito, maaaaa così ci dividiamo in gruppetti di quattro gatti, non ha senso!
 
-![greek-polis](https://image3.slideserve.com/5405476/the-greek-polis-l.jpg)
+![Slide scolastica «The Greek Polis» con una mappa della Grecia antica](https://image3.slideserve.com/5405476/the-greek-polis-l.jpg)
 
 > per loro ha funzionato abbastanza bene dai. Basta tenere lontani Macedoni e Romani!
 
@@ -85,8 +85,6 @@ Aggiungendo il solito discorso, quello [legato alla poca diffusione degli hashta
 Però se guardiamo ai vantaggi...
 
 ### Quali?
-
-![zio-paperone-povero](https://i0.wp.com/scenarieconomici.it/wp-content/uploads/2014/06/paperone-povero.jpg)
 
 Anzitutto, **i costi di gestione:** 
 

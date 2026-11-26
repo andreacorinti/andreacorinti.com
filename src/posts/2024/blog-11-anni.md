@@ -25,7 +25,7 @@ Insomma, se come me eravate adolescenti parecchio digitalizzati, dovreste ricord
 
 Anzi, c'è una buona probabilità che all'epoca foste blogger pure voi!
 
-![night-garden](/img/night-garden.jpg)
+![Il mio vecchio blog «Per Aspera Ad Astra» con Sephiroth e altri personaggi nell'intestazione](/img/night-garden.jpg)
 
 > Il mio vecchio blog su Splinder. Sì, mi vergogno come un ladro, ma direi che puzza così tanto d'adolescenza che ha fatto il giro e, a ripensarci oggi, è un ricordo che mi scalda il cuore.
 
@@ -47,7 +47,7 @@ Siccome **post come [questo](https://www.andreacorinti.com/posts/il-significato-
 
 ### Clickbait Flame
 
-![naruto](https://3.bp.blogspot.com/-o56suYNxX-E/VF3TgKWc03I/AAAAAAAAK3k/8ZCJvHoYFV0/w1200-h630-p-k-no-nu/Naruto__Shocked_by_idahidaya.jpg)
+![Naruto in primo piano con gli occhi sgranati](https://3.bp.blogspot.com/-o56suYNxX-E/VF3TgKWc03I/AAAAAAAAK3k/8ZCJvHoYFV0/w1200-h630-p-k-no-nu/Naruto__Shocked_by_idahidaya.jpg)
 
 Parlando di numeri, ricordo in particolare un post del 2014 dove "_blastavo_" il finale di Naruto di cui mi pentii quasi immediatamente (e infatti ho deciso di non archiviarlo qui).
 

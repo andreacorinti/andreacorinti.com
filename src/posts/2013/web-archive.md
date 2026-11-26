@@ -54,7 +54,7 @@ Se vi sentite pronti, [cliccate qui](https://archive.org/web/)...
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo

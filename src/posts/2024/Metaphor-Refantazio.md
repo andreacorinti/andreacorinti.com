@@ -33,7 +33,7 @@ Tutto considerato, pur avendolo apprezzato un sacco, trovando il gameplay appaga
 
 Dovessi fare una sintesi, mi è piaciuto tanto ma non mi ci sono mai davvero innamorato.
 
-![metaphor-refantazio](https://metaphor.atlus.com/media/img/hero/hero-art.jpg)
+![Artwork di Metaphor: ReFantazio con il protagonista e una folla davanti a creature mostruose](https://metaphor.atlus.com/media/img/hero/hero-art.jpg)
 
 ### Perché? La trama è brutta?
 
@@ -49,7 +49,7 @@ Intendiamoci, Louis per esempio l'ho trovato un villain straordinario: il Grifis
 
 Nel party invece, tolta forse _Junah_ (che però, come gli altri, non ha una gran "social quest"), confesso di aver trovato tutti simpatici ma un po' dimenticabili.
 
-![metaphor-refantazio-eloquenza](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_292f6c637e0c0e81b225aa055c4a348f821cbd48.600x338.jpg)
+![Metaphor: ReFantazio, il protagonista tiene un discorso alla folla e la sua Eloquenza aumenta](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_292f6c637e0c0e81b225aa055c4a348f821cbd48.600x338.jpg)
 
 ### E la Lore?! Che mi dici della Lore? Datemi LoreZio!
 
@@ -61,7 +61,7 @@ Siccome non voglio fare spoiler, dal lato prettamente narrativo posso dire che v
 
 A dispetto delle apparenze e di quanto detto, il gioco è lontano dall'epico misticismo tipico dei vecchi _Final Fantasy_ e sempre fedele al disturbante conflitto mistico-esoterico che caratterizza le varie incarnazioni di _Megami Tensei_.
 
-![metaphor-refantazio](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_d7b6ce25211a2900b4158afbecc7ff3b5184f377.600x338.jpg?t=1730283977)
+![Metaphor: ReFantazio, il protagonista corre per le vie della capitale Grand Trad](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_d7b6ce25211a2900b4158afbecc7ff3b5184f377.600x338.jpg?t=1730283977)
 
 ### It's the economy, stupid
 
@@ -87,7 +87,7 @@ In più, i dungeon sono di tre-quattro tipologie che si ripetono e, escludendone
 
 Nulla di troppo grave eh, ma diciamo che si vede che Atlus non è proprio abituatissima a giocare nel campionato delle vecchie Squaresoft o Enix.
 
-![metaphor-refantazio](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_dea9ff5f1572b5d4efb4d33b4d1d3decb1e8ce48.600x338.jpg)
+![Metaphor: ReFantazio, il protagonista stringe la mano a una ragazza con le orecchie da coniglio](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_dea9ff5f1572b5d4efb4d33b4d1d3decb1e8ce48.600x338.jpg)
 
 ### A difficoltà come stiamo messi?
 
@@ -103,7 +103,7 @@ Nulla di grave direte voi, basta non utilizzarli... Ma diciamo solo che nel gioc
 
 Detto ciò, mi sono divertito un mondo con il battle system e, da vecchio _aficionado_ dei JRPG a turni, mi sono sentito davvero a casa come non mi succedeva da tanto tempo...anzi, direi proprio da _Persona 5_, non per niente. 
 
-![metaphor-refantazio](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_de16693b88cfb65a20157ddd41925b3ce80e96f1.600x338.jpg)
+![Metaphor: ReFantazio, la piccola Maria parla con il protagonista](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679460/ss_de16693b88cfb65a20157ddd41925b3ce80e96f1.600x338.jpg)
 
 ### Conclusioni
 
@@ -111,7 +111,7 @@ Probabilmente non parliamo della storia più bella e memorabile offerta dal vast
 
 Personalmente speravo di trovare qualcosa di più nel rapporto tra i personaggi, ma nel complesso abbiamo senz'altro uno dei migliori JRPG degli ultimi anni, con un good ending (facendo tutto-tutto) straordinariamente appagante.
 
-![la-fantasia-vivrà-per-sempre](https://steamuserimages-a.akamaihd.net/ugc/42315723780217615/91D723B4F6BA54869F1E7F53BB90D18BCF51851A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Schermata con la scritta «La fantasia vivrà per sempre...»](https://steamuserimages-a.akamaihd.net/ugc/42315723780217615/91D723B4F6BA54869F1E7F53BB90D18BCF51851A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ### PS: Steam Deck
 

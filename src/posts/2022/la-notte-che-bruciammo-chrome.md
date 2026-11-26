@@ -27,7 +27,7 @@ Ergo, se v'interessa un'introduzione al genere, recuperate subito questo libro.
 
 Parliamo di 250 paginette, eppure rappresentano un summa creativo capace di pigliare a schiaffi il grosso della fantascienza cinematografica.
 
-![bruciammo-chrome](https://1.bp.blogspot.com/-qQ9W8B2kCrA/UviF8wQtk2I/AAAAAAAAG2I/35qEE6SeibE/s1600/burning-chrome.jpg)
+![Il logo di Chrome avvolto dalle fiamme](https://1.bp.blogspot.com/-qQ9W8B2kCrA/UviF8wQtk2I/AAAAAAAAG2I/35qEE6SeibE/s1600/burning-chrome.jpg)
 
 > La notte che _realizzammo il sogno erotico di Mozilla e Microsoft_
 

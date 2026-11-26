@@ -20,8 +20,6 @@ Si è già detto tutto, il suo contrario ed in generale _troppo_, salvo (inevita
 
 ## Nato Vecchio
 
-![cyberpunk2077-inventario](https://lh3.googleusercontent.com/cloudcast/AGY_3L-YCtx1QQi9kHFbIKbdFUUQEMxdv15JkUGDkb7ScWJRLb-_dm6YJTd7xQ=w2400-h1350-rw-no)
-
 Cyberpunk 2077 porta in scena un futuro immaginario pensato negli anni '80 (traendo liberamente ispirazione da un gioco di ruolo cartaceo uscito nella medesima decade): 
 
 Chi vi scrive l'estetica Cyberpunk l'ha sempre adorata...ma, [come diceva benissimo il Dr Manhattan tempo fa](https://docmanhattan.blogspot.com/2014/08/giappone-in-film-fantascienza-anni-80-e-90.html), ormai **rappresenta un futuro già passato**.
@@ -48,8 +46,6 @@ Esistono le eccezioni, ma fondamentalmente la ciccia resta questa.
 
 ## Un World più vuoto che Open
 
-![cyberpunk2077-nightcity](https://lh3.googleusercontent.com/cloudcast/AGY_3L8BeZKQ25wOzaQ74h9KexDNzFxcSqhmDDY5F5ucNz54aPF67sff2abjnA=w2400-h1350-rw-no)
-
 Solitamente **sono un giocatore che ama perdersi nei mondi che esplora:** siano essi piccoli pianeti fatti di splendide schermate in 2D (come nei vecchi Final Fantasy) una provincia di Tamriel oppure la metropoli di un GTA.
 
 Eppure **Night City l'ho percepita poco più che un agglomerato di distributori e punti sulla mappa con negozi tutti uguali**, roba più triste e generica di un vecchio MMORPG coreano a caso.
@@ -59,8 +55,6 @@ Non saprei bene descrivere i motivi, ma posso ricordarmi bene le vie di Portland
 Di Night City invece non ho punti di riferimento o memorie, proprio perché l'ho vista solo come uno splendido sfondo dove interagire senza la benché minima sospensione d'incredulità.
 
 ## Gioco di Ruolo ?
-
-![cyberpunk2077-johnny](https://lh3.googleusercontent.com/cloudcast/AGY_3L_z19kjt8LOM_qUBaULYNCKNPRN_SAFRc7G6iRax-5DNSdM5gOBKSe4bg=w2400-h1350-rw-no)
 
 Cyberpunk 2077 non offre quasi nulla in termini d'interpretazione e una libertà di scelta ridotta all'osso: 
 
@@ -80,8 +74,6 @@ Decisamente calzante, **ma non quello che è stato reclamizzato in tutti questi 
 
 ## Cosa avrebbe potuto essere ?
 
-![cyberpunk2077-bike](https://lh3.googleusercontent.com/cloudcast/AGY_3L8EVscnVtDp-PiXjY4Qz7YimtQ83wjW7tT8J5GAsEHVS3TSU1eEal6qZA=w2400-h1350-rw-no)
-
 Il parente più prossimo a cui credo si sarebbe potuto guardare è la prima trilogia di _Mass Effect_:
 
 Come Cyberpunk, è un GDR molto per modo di dire (Shepard è sempre Shepard, anche se può avere un paio di allineamenti diversi) ha personaggi scritti splendidamente e una bella trama di fondo.
@@ -93,8 +85,6 @@ Il problema è che i vecchi Mass Effect...beh, intanto sono _vecchi_:
 L'altro, banale esempio è giocoforza un _Deus Ex_ a caso: **uno _Human Revolution_ batterà sempre _Cyberpunk 2077_ proprio perché meno ambizioso** e da subito coerente con l'idea che vuole portare in scena.
 
 ## Trama e Personaggi 
-
-![cyberpunk2077-judy](https://lh3.googleusercontent.com/cloudcast/AGY_3L9h_X2Wlcd8CwiNwrRr0HT_pGWWYxJOenvFLTExDNxGvI7KZs-RYxWqaw=w2400-h1350-rw-no)
 
 Chi ha scritto e curato la sceneggiatura di Cyberpunk 2077 conosce e ama il genere: 
 
@@ -116,8 +106,6 @@ Come tutto, i videogiochi giovano dei grandi nomi ma penso che se _Cyberpunk_ fo
 
 ## Meccaniche
 
-![cyberpunk2077-demolition-man](https://lh3.googleusercontent.com/cloudcast/AGY_3L88fRDreIxJOihyNO7MlIu_QepOxNDGMzmX6VmMl39R2lNyGgNYF3gpUQ=w2400-h1350-rw-no)
-
 Personalmente **l'ho giocato molto sull'hacking, con un po' di stealth e combattimenti all'arma bianca (katane)**: 
 
 Non male davvero, di certo più intrigante che come sparatutto (piuttosto deludente, almeno per il mio gusto) anche se niente di particolarmente memorabile.
@@ -127,8 +115,6 @@ Menzione di (de)merito per la quantità spasmodica di oggetti, iconcine, segnali
 Abbastanza tristi anche **le pressoché inutili auto/moto** (il fast travel è accessibile più o meno ovunque), anche se ammetto che **farmi delle derapate in una città cyberpunk è stato molto evocativo**...almeno prima di scoprire che quella città come già detto non era altro che un bellissimo pacco regalo senza il regalo.
 
 ## Conclusioni 
-
-![cyberpunk2077-river](https://lh3.googleusercontent.com/cloudcast/AGY_3L-DYpRxjPJAPgXHsLCXbk67FzIwsuuHkIYB3vVUv4TFpMseCKBPb6zfiQ=w2400-h1350-rw-no)
 
 Preso nella sua essenza (trama, personaggi, ambientazione e amore per il genere) **Cyberpunk 2077 è un bel gioco con tanti problemi, una bella scrittura soffocata in un'insipida melassa ma comunque non priva di momenti godibilissimi**.
 

@@ -25,7 +25,7 @@ Ed è comprensibile!
 
 ### Twitter, Musk, X
 
-![Musk-Space-Karen](https://img.winfuture.de/teaser/1920/41000.1.jpg)
+![Elon Musk e un suo doppio con parrucca bionda, il meme «Space Karen»](https://img.winfuture.de/teaser/1920/41000.1.jpg)
 
 Di recente, il _simpaticissimo_ miliardario sudafricano più famoso del mondo (dopo di [lui](https://it.wikipedia.org/wiki/Cuordipietra_Famedoro)) [**ha invitato a smettere di utilizzarli su X**](https://www.ndtv.com/feature/system-doesnt-need-them-elon-musk-on-why-x-users-should-stop-using-hashtags-7285253) visto che, a detta sua, sono superflui e _brutti_.
 
@@ -41,7 +41,7 @@ tuttavia, bisogna riconoscere che la faccenda è figlia di una dinamica compless
 
 ### Quando è moda è moda
 
-![Chris-Messina](/img/archivio/internet/hashtag-fediverso-1.jpg)
+![Chris Messina che parla dietro un portatile al SXSW Interactive](/img/archivio/internet/hashtag-fediverso-1.jpg)
 > Chris Messina, ispirandosi a IRC, nel 2007 suggerì l'implementazione degli hashtag su Twitter.
 
 Non ho dati alla mano per supportare la mia tesi (e non vale la pena cercarli per lo scopo di questo post) ma ho ragione di credere **che gli hasthag non piacciano all'algoritmo di Twitter da ben prima che quest'ultimo si tramutasse in X**.
@@ -52,7 +52,7 @@ Senza avventurarci troppo in sofismi sul costume del linguaggio di questa o quel
 
 ### Gli hashtag sono CRINGE! O no?
 
-![gif-hash](https://cdn.flipboard.com/wp-content/uploads/2015/11/Hashtag_header1220.gif)
+![Il simbolo del cancelletto bianco su fondo rosso](https://cdn.flipboard.com/wp-content/uploads/2015/11/Hashtag_header1220.gif)
 
 Instagram e tutto il discorso content-creation in questo probabilmente ci ha messo il carico da 90 visto che, non avendo particolari limiti in termini di caratteri, consente di **buttare pure centinaia di hashtag più o meno ridicoli sotto alla solita foto / reel di turno**, il che porta al classico cortocircuito:
 
@@ -64,7 +64,7 @@ ed è un peccato perché, sebbene tenda ad ignorare i post che ne includono trop
 
 ### Perché gli Hashtag nel Fediverso sono importanti?
 
-![Fediverso](/img/archivio/internet/fediverso-fandango-cover.svg)
+![Il logo del Fediverso: un pentagramma di nodi colorati collegati tra loro](/img/archivio/internet/fediverso-fandango-cover.svg)
 
 Intanto, cercare post nel Fediverso è quello che è: 
 
@@ -80,7 +80,7 @@ Ma non solo, in realtà ci si possono fare un sacco di cose!
 
 ### Esempio
 
-![phanpy](/img/mastodon/phanpy.jpg)
+![La timeline dell'hashtag #FinalFantasy su Phanpy, con la copertina di Final Fantasy III](/img/mastodon/phanpy.jpg)
 
 Come ormai saprete adoro Final Fantasy e ovviamente seguo l'hashtag **#FinalFantasy**.
 
@@ -145,8 +145,6 @@ Ciò significa che a breve avremo **#Sanremo2025**, anch'esso [estremamente semp
 Altri argomenti sono sfortunatamente molto più vaghi e complessi da inquadrare con un singolo _"hashtag di massa"_, da cui il discorso CW (ma lo lasciamo per un'altra volta).
 
 ### Gli Hashtag aiutano a recuperare i vecchi post!
-
-![Gli archeologi - Giorgio De Chirico](https://cms.lagallerianazionale.com/wp-content/uploads/2020/03/Giorgio-de-Chirico-Gli-archeologi-1927-700x907.jpg)
 
 Come ho fatto a trovare il post del 2023 che ho riportato qui sopra? 
 

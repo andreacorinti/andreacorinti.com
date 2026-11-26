@@ -77,11 +77,11 @@ questo ci porta ad un altro aspetto interessante: **la vera verifica la si fa co
 rel="me"
 ```
 
-![verifica-mastodon](/img/mastodon_verifica.jpg)
+![Mastodon, sezione «Verifica» con il codice rel="me" da copiare sul proprio sito](/img/mastodon_verifica.jpg)
 
 nel profilo, il vostro sito / blog apparirà così:
 
-![verifica-mastodon](/img/mastodon_verifica2.jpg)
+![Il mio profilo Mastodon con il sito andreacorinti.com verificato in verde](/img/mastodon_verifica2.jpg)
 
 credo che questo sia un enorme incentivo per tornare ad utilizzare in modo massiccio blog e siti web personali, investendo tempo e lavoro nel _proprio_ spazio di internet: 
 

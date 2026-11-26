@@ -33,7 +33,7 @@ Tra le altre cose, in ambito professionale è quello che ha portato parecchie az
 
 ### Enter The Fediverse
 
-![enter-the-matrix](/img/archivio/xabologia/reach-3.jpg)
+![Copertina di Enter the Matrix con la pioggia di codice verde](/img/archivio/xabologia/reach-3.jpg)
 
 Il fediverso, da questo punto di vista, rappresenta uno splendido ritorno al passato: 
 
@@ -45,7 +45,7 @@ O meglio, questo in teoria:
 
 ### Resurrezioni 
 
-![Killed-by-Death](https://i.makeagif.com/media/9-07-2015/5BgD5f.gif)
+![GIF dal video di «Killed by Death» dei Motörhead](https://i.makeagif.com/media/9-07-2015/5BgD5f.gif)
 
 In varie forme, con una parentesi da webzine e collaborazioni varie, _bloggo forte_ e con una certa costanza da quasi 12 anni.
 
@@ -63,7 +63,7 @@ Non ci guadagno nulla, **scrivo perché mi diverte e mi fa stare bene**, e non �
 
 ### Tematiche
 
-![Neuromancer](/img/archivio/xabologia/reach-4.jpg)
+![Copertina di Neuromancer di William Gibson, edizione italiana](/img/archivio/xabologia/reach-4.jpg)
 
 Posso dirmi complessivamente molto contento, e da qualche mese ho notato un paio di aspetti interessanti: 
 
@@ -124,7 +124,7 @@ Insomma, come insegna il buon Manuel Agnelli, mi sento _nato per rompere i cogli
 
 ### E quindi?
 
-![Snoqualmie_Falls_in_June](/img/archivio/xabologia/reach-6.jpg)
+![Le cascate di Snoqualmie con un arcobaleno e l'albergo sulla scogliera, quelle di Twin Peaks](/img/archivio/xabologia/reach-6.jpg)
 
 E quindi, tutto questo credo spieghi come mai ci siano meno interazioni legate al mondo videoludico rispetto a quelle con post riguardo boh, a politica o fatti di cronaca, specialmente quando ci sono eventi eccezionali di mezzo: 
 

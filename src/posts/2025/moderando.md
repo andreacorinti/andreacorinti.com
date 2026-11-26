@@ -20,13 +20,13 @@ Anche perché, nel frattempo, come di certo saprete, [Zuck ne ha sparata un'altr
 
 Su quest'ultimo punto, credo che più o meno mezzo mondo abbia ben chiaro che **a Meta del fact-checking è sempre importato il giusto** e che il sistema algoritmico, così come la moderazione, da quelle parti abbia sempre lasciato a desiderare. 
 
-![Mark-Zuckerberg](https://i2-prod.mirror.co.uk/incoming/article12343355.ece/ALTERNATES/s1200/Untitled-design-10.jpg)
+![Primo piano di Mark Zuckerberg serio](https://i2-prod.mirror.co.uk/incoming/article12343355.ece/ALTERNATES/s1200/Untitled-design-10.jpg)
 
 Comunque, visto che questo è come mio solito un post da blog senza troppe pretese, ci butto dentro un piccolo excursus personale che forse può aiutare a comprendere meglio come funzionano certe dinamiche.
 
 ### Le compagnie di terze parti che "moderano" per Meta
 
-![fact-checking-facebook](https://i.cbc.ca/1.5230628.1564513518!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/fact-check-warning-on-facebook.jpg)
+![Avviso di Facebook «Additional reporting on this» che rimanda a un fact-check di Full Fact](https://i.cbc.ca/1.5230628.1564513518!/fileImage/httpImage/image.jpg_gen/derivatives/original_1180/fact-check-warning-on-facebook.jpg)
 
 Attorno al 2017 ho lavorato come freelance per [Appen](https://en.wikipedia.org/wiki/Appen_(company)) e, tra le altre cose, mi sono occupato di distinguere fake news e valutare segnalazioni di commenti inappropriati per conto di un noto social network blu il cui nome inizia con la F.
 
@@ -71,7 +71,7 @@ Il livello di moderazione offerto? Pessimo. Ma anche un vantaggio, perché [odio
 
 ### Vocazione alla Moderazione
 
-![Bender](https://c.tenor.com/8rtkhH9zsacAAAAM/futurama-escape.gif)
+![Futurama: un personaggio scappa di corsa, con la scritta «Good-bye, moderation!»](https://c.tenor.com/8rtkhH9zsacAAAAM/futurama-escape.gif)
 
 Da ragazzino (2003) sono stato mod del caro _Your Final Fantasy Community_ e, nel 2007, admin del buon vecchio _Cetramod_.
 
@@ -109,7 +109,7 @@ Che certo, è facile bloccare (o anche sfanculare) opinioni palesemente razziste
 
 ### Futuro
 
-![Vault-Boy](/img/archivio/internet/moderando-1.png)
+![Vault Boy di Fallout con il pollice alzato](/img/archivio/internet/moderando-1.png)
 
 Spero che piccole comunità possano sopravvivere e un minimo prosperare, tipo Vault nelle postatomiche lande di _Fallout_. 
 

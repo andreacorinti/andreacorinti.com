@@ -1,0 +1,392 @@
+// Riquadro "Lavora con me" in cima alla pagina Projects: stesso linguaggio
+// di .freelance-box e delle card (bordo spesso, ombra piena sfalsata, bordo
+// sinistro giallo del sito). Il bottone è un .cat-btn col giallo come colore.
+.work-box {
+  // linee morbide in scuro, inchiostro pieno in chiaro (come _postcard.scss)
+  --tdbc-card-line: #3a3a3a;
+  --tdbc-card-shadow: #000;
+
+  :root[data-theme="light"] & {
+    --tdbc-card-line: var(--tdbc-text);
+    --tdbc-card-shadow: var(--tdbc-text);
+  }
+
+  position: relative;
+  max-width: 46rem;
+  margin: 1rem 0 3rem;
+  padding: 1.25rem 1.5rem 1.4rem;
+  border: 2px solid var(--tdbc-card-line, var(--tdbc-text));
+  border-left: 6px solid var(--tdbc-nav-mark);
+  border-radius: 4px;
+  background-color: var(--tdbc-surface);
+  box-shadow: 6px 6px 0 var(--tdbc-card-shadow, var(--tdbc-text));
+
+  &__label {
+    margin: 0;
+    color: var(--tdbc-muted);
+    font-family: Teko, sans-serif;
+    font-size: 1.25rem;
+    letter-spacing: 0.05em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  &__title {
+    margin: 0.4rem 0 0;
+    font-size: 2.2rem;
+    line-height: 1.05;
+  }
+
+  &__text {
+    margin: 0.75rem 0 0;
+  }
+
+  &__prices {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+    gap: 0.75rem;
+
+    li {
+      display: flex;
+      align-items: baseline;
+      margin: 0;
+      padding: 0.35em 0.7em 0.2em;
+      border: 2px solid var(--tdbc-card-line, var(--tdbc-text));
+      border-radius: 3px;
+      font-family: Teko, sans-serif;
+      font-size: 1.35rem;
+      line-height: 1;
+      gap: 0.5em;
+    }
+
+    span {
+      color: var(--tdbc-muted);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    strong {
+      color: var(--tdbc-text);
+      font-weight: normal;
+    }
+  }
+
+  &__cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 1.25rem 0 0;
+    gap: 0.75rem 1.25rem;
+  }
+
+  // timbro "Party al completo": appoggiato sul bordo in alto a destra
+  &__stamp {
+    position: absolute;
+    top: -1.1rem;
+    right: 1rem;
+    font-size: 1.25rem;
+  }
+
+  // su schermi stretti il timbro arriva sopra l'etichetta: un po' d'aria in alto
+  &:has(.work-box__stamp) {
+    @media (width <= 34rem) {
+      padding-top: 2.25rem;
+    }
+  }
+
+  &__btn {
+    --tdbc-cat: var(--tdbc-nav-mark);
+  }
+
+  &__note {
+    color: var(--tdbc-muted);
+    font-size: 0.95rem;
+  }
+}
+
+.projects-heading {
+  margin: 0 0 1.5rem;
+}
+
+// Timbro "Party al completo / Party full" (meta.work.available = false):
+// stessa famiglia del timbro "Xab" dell'about (ruotato, bordo spesso, ombra
+// piena), ma rosso e con un pallino da "server pieno".
+.work-stamp {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  padding: 0.25em 0.6em 0.1em;
+  transform: rotate(-3deg) translateZ(0);
+  border: 3px solid var(--tdbc-text);
+  outline: 1px solid transparent;
+  background-clip: padding-box;
+  background-color: #ff6b6b;
+  color: #121212;
+  font-family: Teko, sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  text-transform: uppercase;
+  box-shadow: 4px 4px 0 var(--tdbc-text);
+  backface-visibility: hidden;
+  gap: 0.45em;
+
+  &__dot {
+    width: 0.5em;
+    height: 0.5em;
+    margin-top: -0.15em; // Teko siede basso
+    animation: work-stamp-blink 1.6s ease-in-out infinite;
+    border-radius: 50%;
+    background-color: #121212;
+
+    @media (prefers-reduced-motion: reduce) {
+      animation: none;
+    }
+  }
+}
+
+@keyframes work-stamp-blink {
+  50% { opacity: 0.25; }
+}
+
+// sulla pagina Lavora con me / Work with me, prima del testo
+.work-status {
+  margin: 0 0 2rem;
+
+  &__text {
+    margin: 1rem 0 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Pagina Lavora con me / Work with me: stesso linguaggio delle card del sito
+// (bordo, ombra piena sfalsata, etichette in Teko maiuscolo).
+// ---------------------------------------------------------------------------
+
+// "Perché un sito statico": quattro mini-card in griglia
+.work-features {
+  --tdbc-card-line: #3a3a3a;
+  --tdbc-card-shadow: #000;
+
+  :root[data-theme="light"] & {
+    --tdbc-card-line: var(--tdbc-text);
+    --tdbc-card-shadow: var(--tdbc-text);
+  }
+
+  display: grid;
+  margin: 1.5rem 0 2.5rem;
+  padding: 0;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  list-style: none;
+  gap: 1.25rem;
+
+  li {
+    margin: 0;
+    padding: 1rem 1.1rem;
+    border: 2px solid var(--tdbc-card-line);
+    border-top: 5px solid var(--tdbc-nav-mark);
+    border-radius: 4px;
+    background-color: var(--tdbc-surface);
+    box-shadow: 4px 4px 0 var(--tdbc-card-shadow);
+  }
+
+  strong {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-family: Teko, sans-serif;
+    font-size: 1.75rem;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+}
+
+// Punteggi Lighthouse (Speedlify) come i cerchi di Lighthouse
+.work-scores {
+  margin: 1.5rem 0 2.5rem;
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 1.25rem 2rem;
+
+    li {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 6.5rem;
+      margin: 0;
+      color: var(--tdbc-muted);
+      font-family: Teko, sans-serif;
+      font-size: 1.2rem;
+      line-height: 1.1;
+      text-align: center;
+      text-transform: uppercase;
+      gap: 0.5rem;
+    }
+  }
+
+  // anello verde Lighthouse riempito in proporzione al punteggio
+  &__num {
+    display: grid;
+    width: 5rem;
+    height: 5rem;
+    padding-top: 0.2rem; // Teko siede basso
+    border-radius: 50%;
+    background:
+      radial-gradient(closest-side, var(--tdbc-bg, #121212) 80%, transparent 81%),
+      conic-gradient(#0cce6b calc(var(--tdbc-score) * 1%), var(--tdbc-card-line, #3a3a3a) 0);
+    color: var(--tdbc-text);
+    font-size: 2rem;
+    place-items: center;
+  }
+
+  figcaption {
+    margin-top: 1rem;
+    color: var(--tdbc-muted);
+    font-size: 0.95rem;
+  }
+}
+
+// "Cosa include": spunte su due colonne
+.work-checklist {
+  margin: 1rem 0 2.5rem;
+  padding: 0;
+  columns: 2 16rem;
+  column-gap: 2rem;
+  list-style: none;
+
+  li {
+    position: relative;
+    margin: 0 0 0.6rem;
+    padding-left: 1.75rem;
+    break-inside: avoid;
+
+    &::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #0cce6b;
+      font-weight: bold;
+      content: "✓";
+    }
+  }
+}
+
+// Prezzi: due card grandi, poi la lista del resto
+.work-prices {
+  --tdbc-card-line: #3a3a3a;
+  --tdbc-card-shadow: #000;
+
+  :root[data-theme="light"] & {
+    --tdbc-card-line: var(--tdbc-text);
+    --tdbc-card-shadow: var(--tdbc-text);
+  }
+
+  display: grid;
+  margin: 1.5rem 0 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+  gap: 1.5rem;
+}
+
+.work-price {
+  display: flex;
+  flex-direction: column;
+  padding: 1.1rem 1.25rem 1rem;
+  border: 2px solid var(--tdbc-card-line);
+  border-left: 6px solid var(--tdbc-nav-mark);
+  border-radius: 4px;
+  background-color: var(--tdbc-surface);
+  box-shadow: 5px 5px 0 var(--tdbc-card-shadow);
+
+  p {
+    margin: 0;
+  }
+
+  &__name {
+    font-family: Teko, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  &__what {
+    margin-top: 0.3rem !important;
+    color: var(--tdbc-muted);
+    font-size: 0.95rem;
+  }
+
+  &__amount {
+    margin-top: auto !important;
+    padding-top: 0.75rem;
+    font-family: Teko, sans-serif;
+    font-size: 3rem;
+    line-height: 1;
+
+    span {
+      color: var(--tdbc-muted);
+      font-size: 0.5em;
+      text-transform: uppercase;
+    }
+  }
+}
+
+// "Come funziona": tre passi numerati affiancati
+.work-steps {
+  display: grid;
+  margin: 1.5rem 0 2.5rem;
+  padding: 0;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+  list-style: none;
+  counter-reset: passo;
+  gap: 1.25rem;
+
+  li {
+    position: relative;
+    margin: 0;
+    padding-left: 3.25rem;
+    counter-increment: passo;
+
+    &::before {
+      position: absolute;
+      top: -0.35rem;
+      left: 0;
+      color: var(--tdbc-nav-mark);
+      font-family: Teko, sans-serif;
+      font-size: 3rem;
+      line-height: 1;
+      content: counter(passo);
+    }
+  }
+}
+
+// chiusura con il bottone per scrivermi
+.work-cta {
+  margin: 2.5rem 0 1rem;
+  padding: 1.5rem;
+  border: 2px dashed var(--tdbc-muted);
+  border-radius: 4px;
+  text-align: center;
+
+  p {
+    margin: 0 0 1rem;
+  }
+
+  &__title {
+    font-family: Teko, sans-serif;
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  &__note {
+    margin: 0 !important;
+    color: var(--tdbc-muted);
+    font-size: 0.95rem;
+  }
+}

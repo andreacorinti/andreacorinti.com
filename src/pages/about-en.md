@@ -20,6 +20,8 @@ I'm Andrea Corinti (aka Xab), a self-proclaimed "Italian Web World Citizen": bor
 
 In my spare time I develop [AldusRSS](/projects/aldusrss/).
 
+I also build small static websites with Eleventy: [**work with me**](/work-with-me/).
+
 This blog is written mostly in Italian, but you'll find everything I write in English under the [**English filter**](/categoria/english-0/).
 
 ## Resume

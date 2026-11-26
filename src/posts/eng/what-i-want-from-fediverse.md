@@ -54,8 +54,6 @@ This happens after exchanges of impromptu comments that will disappear like tear
 
 ## So what's the point?
 
-![fediverse](https://fediverse.info/img/fedid.png)
-
 It is rather utopian to think that the Fediverse can change the world, or that, with the eventual growth of its inhabitants, certain toxic dynamics will not tend to reappear.
 
 I think it is more than anything a great opportunity to improve "our particular," the slice of the internet that we want to take for ourselves.

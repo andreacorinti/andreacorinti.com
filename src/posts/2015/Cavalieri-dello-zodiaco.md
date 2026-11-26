@@ -78,7 +78,7 @@ PS: Il fatto che **il Cavaliere dello Scorpione qui sia una donna** personalment
 <article id="fc8825da-7fce-4333-abc2-f7721cc547ea">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="Emerson Edmilson">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/2113a7fa96e6d98ce03cf4c31cffa8e2?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Emerson Edmilson
@@ -92,7 +92,7 @@ visto subbato in lingua originale. Quanto mai...sono anche io affezionato al dop
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/F708122C6D287B1094D41FADE19018AF?d=mm&s=80" alt="Davion">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/F708122C6D287B1094D41FADE19018AF?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Davion
@@ -106,7 +106,7 @@ sono assolutamente d'accordo con la recensione. Tra l'altro ho notato che un sac
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab

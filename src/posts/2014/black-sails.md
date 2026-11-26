@@ -74,7 +74,7 @@ Ciò detto, partiamo con i "pro e contro" perché come avrete capito una recensi
 
 ## Concludendo
 
-<img src="https://1.bp.blogspot.com/-SdVtmFF2-MU/VEdJRimHNeI/AAAAAAAAKhw/Guv3tqZ10G8/s1600/3BlackSails.jpg" alt="Silver">
+<img src="https://1.bp.blogspot.com/-SdVtmFF2-MU/VEdJRimHNeI/AAAAAAAAKhw/Guv3tqZ10G8/s1600/3BlackSails.jpg" alt="John Silver con un coltello piantato nel tavolo, in Black Sails">
 
 **Consigliatissima in tutto e per tutto a chiunque abbia anche solo un vago amore per il mondo dei filibustieri, soprattutto quelli storici e romanzeschi.**
 

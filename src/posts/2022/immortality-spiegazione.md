@@ -133,67 +133,67 @@ per tentare di rendere più chiare le cose, sfruttero un approccio che ho sempre
 
 The One e The Other One sono entità immortali apparentemente antiche quanto il mondo: la bibbia è solo una delle tante storie che hanno inventato con lo scopo di "elevare" l'umanità. 
 
-![elevare](/img/immortality/elevare.jpg)
-![elevare](/img/immortality/elevare2.jpg)
+![Immortality: The One a braccia aperte in un abito plissettato, «Abbiamo tentato di elevare l'umanità»](/img/immortality/elevare.jpg)
+![Immortality: The One a braccia aperte, «raccontandole la più grande tra le storie»](/img/immortality/elevare2.jpg)
 
 Vanno particolarmente fieri della morte e resurrezione di Gesù Cristo, ma anche delle figure di Adamo ed Eva, oltre che il ruolo di Maria.
 
-![Cristo-Magia](/img/immortality/Cristo-Magia.jpg)
+![Immortality: un'attrice vestita da Madonna, «La nascita di Cristo è stata un trucco di magia»](/img/immortality/Cristo-Magia.jpg)
 
 Le entità non temono invecchiamento, malattia, ferite o altro: a quanto sanno loro stesse, **solo un rogo può ucciderle** definitivamente (forse alcuni membri della specie sono deceduti durante l'inquisizione).
 
-![fuoco](/img/immortality/fuoco.jpg)
-![eravamo](/img/immortality/eravamo.jpg)
+![Immortality: The One ospite di un talk show, «Il fuoco funziona»](/img/immortality/fuoco.jpg)
+![Immortality: The One al talk show, «Una volta eravamo di più»](/img/immortality/eravamo.jpg)
 
 inoltre non possono riprodursi e infatti sono arrivati quasi all'estinzione (solo The One e The Other One sopravvivono).
 
 The One sembra più affezionata al genere umano per via dell'estro artistico di cui è perdutamente innamorata, mentre The Other One considera gli uomini poco più che scimmie.
 
-![volgare](/img/immortality/volgare.jpg)
-![scimmie](/img/immortality/scimmie.jpg)
+![Immortality: The One deformata nel filmato del talk show, «Ci imitate, ma tutto quello che fate è volgare»](/img/immortality/volgare.jpg)
+![Immortality: due figure nude una di fronte all'altra, «Sono scimmie che lanciano merda»](/img/immortality/scimmie.jpg)
 
 è possibile che il suo astio derivi da com'è stato recepito il sacrificio di Cristo (probabilmente interpretato da The One) il cui messaggio, nelle sue intenzioni, avrebbe dovuto portare ad un miglioramento della condizione umana: ovviamente sappiamo che non è finita proprio benissimo.
 
 Le entità possono "divorare" gli esseri umani, assumendone così l'aspetto e assorbendone personalità e ricordi
 
-![forma-storia](/img/immortality/forma-storia.jpg)
+![Immortality: The One in primo piano, «Quando assumiamo una forma, ne assorbiamo anche la storia»](/img/immortality/forma-storia.jpg)
 
 potendo quindi interpretarli come dei [doppelgänger](https://it.wikipedia.org/wiki/Doppelg%C3%A4nger) o, più banalmente, come degli _attori_.
 
 ### ? - 1789
 
-![strega](/img/immortality/strega.jpg)
-![strega](/img/immortality/strega2.jpg)
+![Immortality: una donna dai capelli scuri nella penombra](/img/immortality/strega.jpg)
+![Immortality: la stessa donna dai capelli scuri seduta in una camera da letto](/img/immortality/strega2.jpg)
 
 The One in passato (tra le altre) ha assunto le fattezze di quella che sembrerebbe essere una sorta di strega e, durante la rivoluzione francese, quelle di un appartenente alla casta nobiliare francese del periodo.
 
-![bastiglia](/img/immortality/bastiglia.jpg)
+![Immortality: The One seduta a un tavolo sotto una lampada, «Una volta mi hanno rinchiusa nella Bastiglia»](/img/immortality/bastiglia.jpg)
 
 ### 1789 - 1914
 
 Scoppia la prima guerra mondiale. The One inizia il suo lungo "sonno".
 
-![guerra](/img/immortality/guerra.jpg)
+![Immortality: The One in primo piano, «È stato sorprendente dormire per tutta la durata di una grande guerra»](/img/immortality/guerra.jpg)
 
 ### 1945
 
-![guerra2](/img/immortality/guerra2.jpg)
+![Immortality: The One in primo piano, «e risvegliarsi al termine di un'altra»](/img/immortality/guerra2.jpg)
 
 The One si risveglia in Francia durante la fine della seconda guerra mondiale. 
 
 Il suo aspetto in questo momento è quello di un uomo di colore, probabilmente divorato poco dopo il suo risveglio.
 
-![nero](/img/immortality/nero.jpg)
-![nero2](/img/immortality/nero2.jpg)
-![1945B](/img/immortality/1945B.jpg)
+![Immortality: un uomo in bretelle nella penombra](/img/immortality/nero.jpg)
+![Immortality: lo stesso uomo in bretelle in piedi in una camera](/img/immortality/nero2.jpg)
+![Immortality: un uomo morde il collo di una donna, «Vous vivrez en moi»](/img/immortality/1945B.jpg)
 
 Poco dopo, incontra una giovane ragazza francese e ne rimane incantata: è Marissa.
 
-![1945](/img/immortality/1945.jpg)
+![Immortality: due figure che si sfiorano tra le canne, in bianco e nero](/img/immortality/1945.jpg)
 
 Marissa, nella sua ingenuità, si convince che The One sia una sorta di angelo.
 
-![angelo](/img/immortality/angelo.jpg)
+![Immortality: The One in un abito plissettato, «Êtes-vous une ange?»](/img/immortality/angelo.jpg)
 
 The One decide di divorarla e assumerne le fattezze, facendola _rivivere dentro di lei_.
 
@@ -203,22 +203,22 @@ Marissa/The One vive a Londra posando come Modella (e interpretando uno spot per
 
 Affascinata dal lavoro del regista Arthur Fischer (personaggio probabilmente basato su Alfred Hitchcock) fa un provino per la parte di Matilda nel venturo _Ambrosio_, adattamento cinematografico de _Il Monaco_ (seminale romanzo gotico di Lewis).
 
-![film](/img/immortality/i-suoi-film.jpg)
+![Immortality: The One, «perché i suoi film raffigurano il modo in cui noi vediamo il mondo»](/img/immortality/i-suoi-film.jpg)
 
 Fischer, imbolsito sessantenne, in realtà è ormai nel pieno della sua fase discendente e The One ne resta amaramente delusa.
 
-![declino](/img/immortality/declino.jpg)
+![Immortality: The One, «ma era già in declino quando l'ho conosciuto»](/img/immortality/declino.jpg)
 
 Tuttavia, il suo decadimento funge da _fertilizzante_ per il promettente direttore della fotografia John Durick, di cui Marissa / The One finisce per invaghirsi.
 
-![fertilizzare](/img/immortality/fertilizzare.jpg)
-![fertilizzare](/img/immortality/fertilizzare2.jpg)
-![fertilizzare](/img/immortality/fertilizzare3.jpg)
+![Immortality: The One, «Ogni artista ha un ciclo di vita»](/img/immortality/fertilizzare.jpg)
+![Immortality: The One, «ed è fondamentale avere il giusto tempismo per sfoltire»](/img/immortality/fertilizzare2.jpg)
+![Immortality: The One, «usarne uno per fertilizzarne un altro»](/img/immortality/fertilizzare3.jpg)
 
 Anche The Other One partecipa alle riprese, assumendo l'aspetto dell'interprete di Lucifero.
 
-![Marissa-Lucifero](/img/immortality/Lucifero.jpg) 
-![Marissa-Lucifero](/img/immortality/Marissa-Lucifero.jpg)
+![Immortality: un uomo a torso nudo con una corona di spine, «Ho già interpretato questo ruolo»](/img/immortality/Lucifero.jpg) 
+![Immortality: un'attrice e un uomo in un dietro le quinte](/img/immortality/Marissa-Lucifero.jpg)
 
 Probabilmente vuole sorvegliare la sua compagna, sperando di evitare un suo eccessivo coinvolgimento nelle umane faccende.
 
@@ -230,17 +230,17 @@ Dopo lo sviluppo della relazione sul set di _Ambrosio_, Marissa/The One assiste 
 
 The Other One entra nelle riprese di _Minsky_ anzitutto nel ruolo di una delle comparse.
 
-![hippy](/img/immortality/hippy.jpg)
+![Immortality: The One a braccia conserte in uno studio d'artista rivestito di stagnola](/img/immortality/hippy.jpg)
 
 poi assumendo l'aspetto del protagonista Carl Greenwood: in questa fase, esplicita a più riprese il desiderio che The One smetta di "giocare" e si allontani una volta per tutte da Durick.
 
-![bambino](/img/immortality/bambino.jpg)
+![Immortality: una coppia a letto, «È un bambino che gioca»](/img/immortality/bambino.jpg)
 
 Conseguentemente, The One diventa sempre più ostile nei confronti di The Other One che, a detta sua, "pretende che io scelga tra lui e loro" dove con _loro_ ovviamente intende l'umanità.
 
 The One rivela la propria natura a Durick, ottenendone una reazione deludente: Durick sembra spaventato dalla creatura, e forse al tempo stesso piuttosto possessivo nei suoi confronti.
 
-![durick](/img/immortality/durick.jpg)
+![Immortality: un bacio nella penombra](/img/immortality/durick.jpg)
 
 The One uccide Durick e lo divora, assumendone le fattezze. 
 
@@ -248,14 +248,14 @@ La situazione tra le due entità precipita e The One arriva ad uccidere The Othe
 
 In qualche modo, The One fa bruciare il corpo di Carl/The Other One uccidendolo definitivamente.
 
-![cremato](/img/immortality/cremato.jpg)
-![cremato2](/img/immortality/cremato2.jpg)
+![Immortality: primo piano dell'occhio di un uomo, «Lei ha visto che mi hanno cremato,»](/img/immortality/cremato.jpg)
+![Immortality: lo stesso primo piano, «ma non sono morto»](/img/immortality/cremato2.jpg)
 
 ### 1970 - 1999
 
 The One, nei panni di John Durick, è ormai un'affermata regista di successo che può vantare numerosi capolavori all'attivo.
 
-![the-one-durick](/img/immortality/the-one-durick.jpg)
+![Immortality: The One con giacca di pelle ospite di un talk show notturno](/img/immortality/the-one-durick.jpg)
 
 Senza The Other One a mettergli i bastoni tra le ruote, vive la sua vita da John Durick come un normale essere umano (almeno, per quanto ne possiamo sapere) sfogando tutto il suo estro artistico.
 
@@ -271,8 +271,8 @@ Da questo momento in poi, sia Durick che Marissa sono entrambi alterego di The O
 
 Riguardando la scena della morte di Carl, Amy resuscita The Other One: nonostante il corpo di The Other One sia stato bruciato, a quanto pare anche in questo caso le entità hanno un modo di risorgere: merito della magia del cinema.
 
-![sono-rinata](/img/immortality/sono-rinata.jpg)
-![sono-rinata](/img/immortality/sono-rinata2.jpg)
+![Immortality: una donna di profilo al cinema, «L'ho visto morire sullo schermo»](/img/immortality/sono-rinata.jpg)
+![Immortality: la stessa donna, «e sono rinata»](/img/immortality/sono-rinata2.jpg)
 
 The One è felice di rivedere il suo compagno che temeva di aver perso per sempre ed è al tempo stesso intrigata dalla possibilità di "morire" come lui e quindi trasformarsi in qualcos'altro.
 
@@ -314,7 +314,7 @@ Sofia Morgana non appare nella festa di fine produzione di _Ambrosio_: è pratic
 
 Nelle varie scene è abbastanza chiaro come Sofia e Robert (l'interprete di Ambrosio) avessero una relazione sul set, relazione che ha affascinato The One tanto da volerne "fare parte". 
 
-![gelosa](/img/immortality/gelosa.jpg)
+![Immortality: The One sorride, «Non ero gelosa, ma quel che c'era tra loro era dolcissimo»](/img/immortality/gelosa.jpg)
 
 Le ultime immagini di Sofia sono di lei in lacrime, disperata (anche a scena finita dopo il _cut!_ del regista) forse perché gelosa del rapporto tra Robert e Marissa.
 
@@ -339,7 +339,7 @@ Dal punto di vista estetico, direi che si sprecano i rimandi filosofici e, forse
 
 Com'è noto, il buon Platone non vedeva di buon occhio l'arte, cioé la _mimesi_, ovvero l'imitazione.
 
-![mimesi](/img/immortality/mimesi.jpg)
+![Immortality: The One deformata nel filmato del talk show, «Ci imitate, ma tutto quello che fate è volgare»](/img/immortality/mimesi.jpg)
 
 In questo senso, **potremmo dire che le entità fanno parte del _mondo delle idee_, e forse  che _siano_ Idee antropomorfizzate.** 
 
@@ -351,8 +351,8 @@ Il concetto di mimesi è pressapoco questo (spero che tutti i filosofi mi perdon
 
 Tenendo per buona questa teoria, The One mostrerebbe invece un approccio più "aristotelico", che valorizza cioè l'estetica dell'Arte.
 
-![idea](/img/immortality/idea.jpg)
-![idea2](/img/immortality/idea2.jpg)
+![Immortality: The One nella penombra, «L'Altro vuole che io scelga tra»](/img/immortality/idea.jpg)
+![Immortality: The One nella penombra, «tutto ciò che è reale e un'idea»](/img/immortality/idea2.jpg)
 
 Ovviamente, viene da chiedersi che intendono loro per "reale"...
 

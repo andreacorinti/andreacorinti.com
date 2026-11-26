@@ -5,7 +5,7 @@ sommario: "La casa digitale di Andrea Corinti (Xab), freelance di contenuti e su
 lang: it-IT
 ---
 
-<img src="/img/gardenight2.gif" alt="gardenight" width="760" height="223">
+<picture class="home-banner"><source srcset="/img/gardenight2.webp" type="image/webp"><img src="/img/gardenight2.gif" alt="gardenight" width="760" height="223" decoding="async"></picture>
 
 Benvenuti nella casa digitale di [Andrea Corinti](/about), dove archivia ciò che scrive e combina in giro per la rete come se fossimo nel 2003.
 
@@ -36,7 +36,7 @@ Questo, per esempio, è l'ultimo post del suo blog:
 
 Qui [**il mio listone di siti belli**](/bookmarks/) (in perpetuo aggiornamento)
 
-<a href="https://blogroll.it/"><img src="https://blogroll.it/banner-dark.gif" alt="Questo sito è su blogroll.it" width="88" height="31"></a>
+<a href="https://blogroll.it/"><img src="https://blogroll.it/banner-dark.gif" alt="Questo sito è su blogroll.it" width="88" height="31" loading="lazy"></a>
 
-<a href="https://app.netlify.com/sites/andreacorinti/deploys"><img src="https://api.netlify.com/api/v1/badges/2ce83520-1a8d-4e99-b17c-84de26b48a13/deploy-status" alt="Netlify Status" width="118" height="20"></a>
+<a href="https://app.netlify.com/sites/andreacorinti/deploys"><img src="https://api.netlify.com/api/v1/badges/2ce83520-1a8d-4e99-b17c-84de26b48a13/deploy-status" alt="Netlify Status" width="118" height="20" loading="lazy"></a>
 

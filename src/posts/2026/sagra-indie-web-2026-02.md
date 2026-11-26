@@ -21,7 +21,7 @@ di mio ho scritto parecchio a riguardo e, visto che è il minimo comune denomina
 
 ### Di criticità e Batman
 
-![gordon](https://freebeacon.com/wp-content/uploads/2014/06/tumblr_m8i5rkLO0A1rtmlvfo1_500.gif)
+![Il commissario Gordon nel Cavaliere Oscuro: «Because he's the hero Gotham deserves»](https://freebeacon.com/wp-content/uploads/2014/06/tumblr_m8i5rkLO0A1rtmlvfo1_500.gif)
 
 Ora.
 
@@ -43,7 +43,7 @@ Resto sempre dell'idea che mettere il thread e non il profilo al centro sia un'e
 
 ### Misskey.social 
 
-![misskey](/img/archivio/internet/sagra-indie-web-2026-02-1.svg)
+![Logo di Misskey](/img/archivio/internet/sagra-indie-web-2026-02-1.svg)
 
 Con l'arrivo dei cari compari [Efi](https://misskey.social/@lunarvesperia) e [Zel](https://misskey.social/@Zel) devo dire che mi trovo sempre meglio: misskey a tratti è un software bislacco e casinaro ma bello proprio per questo, poi mi fa molto piacere ostenti meno pretese "alternative" di Mastodon e parenti (pur di fatto garantendole).
 

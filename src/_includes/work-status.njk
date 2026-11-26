@@ -1,0 +1,11 @@
+{%- comment -%}
+  Disponibilità per nuovi lavori, guidata da meta.work.available (src/_data/meta.js).
+  Incluso da pagine markdown (Liquid): niente sintassi solo-Nunjucks qui.
+{%- endcomment -%}
+{%- unless meta.work.available -%}
+{%- assign isEn = false -%}{%- if lang contains 'en' -%}{%- assign isEn = true -%}{%- endif -%}
+<div class="work-status">
+  <p class="work-stamp"><span class="work-stamp__dot" aria-hidden="true"></span>{% if isEn %}Party full{% else %}Party al completo{% endif %}</p>
+  <p class="work-status__text">{% if isEn %}I'm not taking on new work right now: my schedule is full. Feel free to write anyway, I'll reply and let you know as soon as a slot opens up.{% else %}Al momento non prendo nuovi lavori: ho l'agenda piena. Se vuoi, scrivimi lo stesso: ti rispondo e ti avviso appena si libera un posto.{% endif %}</p>
+</div>
+{%- endunless -%}

@@ -17,7 +17,7 @@ Dovessi dire, lasciando da parte l'ovvia nostalgia del caso, **decisamente più 
 
 ## Ma come?! Nella home prometti nostalgia, e mo ci rifili 'sta sola?! _Accio_ forconi!
 
-![ducktales](https://cdn.mbl.is/frimg/9/30/930496.jpg)
+![La sigla di DuckTales: Zio Paperone e i nipotini nel deposito pieno di monete](https://cdn.mbl.is/frimg/9/30/930496.jpg)
 
 Intendiamoci:
 
@@ -33,7 +33,7 @@ _Però._
 
 Però c'era un guaio:
 
-<img src="https://www.movimentolibertario.com/wp-content/uploads/2015/02/paperone-tasse.jpg" alt="paperone-tasse">
+<img src="https://www.movimentolibertario.com/wp-content/uploads/2015/02/paperone-tasse.jpg" alt="Vignetta Disney: Zio Paperone dice «...perché non pago un cent di tasse!» a un Paperino sbalordito">
 
 Da accanito lettore di _Topolino_, e nella fattispecie estimatore delle bislacche, caserecce avventure dei Paperi nostrani, **a confronto DuckTales l'ho sempre trovato un melenso polpettone americano** privo di tutto quel "pepe" che è nei fatti **materia principe della nostra scuola disneyana**, da Guido Martina in giù.
 
@@ -43,7 +43,6 @@ Insomma: abituato a debiti, intrallazzi, **sindaci maiali** e maltrattamenti di 
 
 [^nonnino]: Paperone pare più che altro un buon nonnino un po' parsimonioso, niente a che vedere con la malsana cupidigia caratteristica della versione a fumetti, che spesso sfocia oltre i limiti del codice penale
 
-<img src="https://outducks.org/webusers/webusers/2008/12/it_tl_2133c_001.jpg" alt="ducktales 2017">
 <small>E diciamolo: gli americani quel genio di Silvia Ziche se lo sognano</small> </br> </br>
 
 ## Ducktales 2017
@@ -58,7 +57,7 @@ In questo senso, il fatto che **Paperino risulti una presenza fissa** (sebbene s
 
 ## Le strizzate d'occhio
 
-![david-tennant](https://i1.wp.com/thekingdominsider.com/wp-content/uploads/2017/07/david-tennant-scrooge-mcduck.jpg)
+![David Tennant accanto a Zio Paperone in carne e ossa davanti a una banca a Disneyland](https://i1.wp.com/thekingdominsider.com/wp-content/uploads/2017/07/david-tennant-scrooge-mcduck.jpg)
 
 Ovviamente il doppiaggio originale di **David Tennant** <small>(che a quanto pare fa impazzire svariati - soprattutto _svariate_ - fan del Dr Who)</small>, che aldilà del "fanservice uditivo" bisogna riconoscere come _scozzesemente_ perfetto...
 
@@ -70,13 +69,11 @@ Le tre giovani marmotte sono infatti pensate per incarnare **lo spirito del pisc
 
 L'anonima Gaia invece è stata trasformata totalmente:
 
-![ducktales gaia](https://blog.screenweek.it/wp-content/uploads/2017/06/ducktales-gaia-copertina.jpg)
-
 Emblema (a tratti forzato) della solita, moderna _"emancipazione a tutti i costi"_, per certi versi mi è sembrata una versione infantile della Jess protagonista di _New Girl_...**il che andrebbe bene, non fosse spesso così centrale da risultare un po' _stucchevole_.**
 
 <small>E sì, ho appena scritto "_stucchevole_" in una recensione quindi mi vado a fustigare da solo.</small>
 
-![jess](http://hallofseries.com/wp-content/uploads/2016/04/Jess-Day-New-Girl.jpg)
+![Jess di New Girl con un sorriso imbarazzato](http://hallofseries.com/wp-content/uploads/2016/04/Jess-Day-New-Girl.jpg)
 
 <small>(lei in realtà la trovo adorabile, anche se New Girl l'ho mollato da un pezzo)</small>
 
@@ -86,15 +83,11 @@ Il rischio, però, è quello di saltare da un estremo all'altro, sconfinando nel
 
 ## Cuordipietra Famedoro
 
-![cuoredipietra](https://www.serialclick.it/prove/img_tmp/201710/DuckTales-1x07-Zio-Paperone-Cuordipietra-Famedoro.jpg)
-
 Anche qui, è un po' triste vedere la resa macchiettistica di colui che ha sempre rappresentato la nemesi per eccellenza di Paperone:
 
-![cuoredipietra](https://vignette.wikia.nocookie.net/paperpedia/images/d/d6/Il_segreto_di_cuordipietra_005.jpg/revision/latest/scale-to-width-down/250?cb=20171123161059&path-prefix=it)
+![Zio Paperone e Cuordipietra Famedoro in una vignetta](https://vignette.wikia.nocookie.net/paperpedia/images/d/d6/Il_segreto_di_cuordipietra_005.jpg/revision/latest/scale-to-width-down/250?cb=20171123161059&path-prefix=it)
 
 A differenza del ben più bonario **Rockerduck** <small>(poco noto al pubblico americano)</small>, i classici **Bassotti** e la nostra cara **Amelia**, Cuoredipietra è sempre stato inquadrato tra i massimi esempi di malvagità concepibili tra le pagine di un Topolino.
-
-![cuoredipietra](https://blog.screenweek.it/wp-content/uploads/2017/10/ducktales-1x7-copertina.jpg)
 
 E insomma, vederlo relegato ad una specie di Sergente Garcia mi ha un po' affranto...un po' come la ridicolizzazione di LeChuck a partire da _The Curse of Monkey Island_.
 

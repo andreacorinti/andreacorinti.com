@@ -65,7 +65,7 @@ In più, ammetto di aver avuto più di qualche problema con il "mondo nerd" di c
 
 ## Il fumetto 
 
-![Scott-Pilgrim](/img/archivio/film-serie/scott-pilgrim-2.jpg)
+![Copertina del primo volume di Scott Pilgrim di Bryan Lee O'Malley](/img/archivio/film-serie/scott-pilgrim-2.jpg)
 
 Ecco invece: _Takes Off_ mi è piaciuto talmente tanto che finalmente ho iniziato a leggere il fumetto pure io, trovandolo molto bello (meglio del film) **ma comunque lontano dai livelli che questa serie a mio parere raggiunge.**
 

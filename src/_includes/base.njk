@@ -36,7 +36,11 @@
       name="description"
       content="{{ pageDescription | safe }}"
     />
+    {%- if noindex %}
+    <meta name="robots" content="noindex" />
+    {%- else %}
     <link rel="canonical" href="{{ meta.url }}{{ page.url }}" />
+    {%- endif %}
     {# `translation` is a per-post opt-in field (not every post has one): the
        relative URL of the same post in the other language. hreflang tells
        search engines the two pages are translations of each other rather
@@ -65,8 +69,23 @@
     <meta property="og:description" content="{{ pageDescription | safe }}" />
     <meta property="og:image" content="{{ socialImage }}" />
     <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
-    <meta property="og:type" content="article" />
+    {#- og:type article solo per i post (hanno una data e un layout post*),
+        il resto del sito è un "website" #}
+    {%- set isPost = layout and (layout == 'postita' or layout == 'posteng' or layout == 'postesp') %}
+    <meta property="og:type" content="{% if isPost %}article{% else %}website{% endif %}" />
     <meta property="og:site_name" content="{{ meta.siteName }}" />
+    <meta property="og:image:alt" content="{{ pageOgTitle | safe }}" />
+    {%- set ogLocale %}{% if lang and lang.startsWith('en') %}en_US{% elif lang and lang.startsWith('es') %}es_ES{% else %}it_IT{% endif %}{% endset %}
+    <meta property="og:locale" content="{{ ogLocale }}" />
+    {%- if translation %}
+    <meta property="og:locale:alternate" content="{% if ogLocale == 'en_US' %}it_IT{% else %}en_US{% endif %}" />
+    {%- endif %}
+    {%- if isPost and page.date %}
+    <meta property="article:published_time" content="{{ page.date.toISOString() }}" />
+    <meta property="article:author" content="{{ meta.url }}/about/" />
+    {%- for t in tags %}{% if categorie[t] and t != 'english' %}
+    <meta property="article:section" content="{{ categorie[t] }}" />{% endif %}{% endfor %}
+    {%- endif %}
 
     {# There's a footballer with the same name; this Person entity with
        sameAs links to verified profiles is the standard signal for search
@@ -97,7 +116,7 @@
     <link
       rel="alternate"
       type="application/rss+xml"
-      title="RSS Feed for {{ meta.siteName }}"
+      title="{% if lang and lang.startsWith('en') %}RSS feed (Italian posts) – {% else %}Feed RSS di {% endif %}{{ meta.siteName }}"
       href="/feed/"
     />
     {# English pages (posteng layout + English filter page) also advertise the
@@ -138,7 +157,7 @@
     <footer class="tdbc-background--secondary">
       <div class="tdbc-container tdbc-text-align-center">
         <div class="tdbc-row tdbc-ink--light tdbc-mx-auto">
-          <p class="tdbc-mb-none">&copy; 2018 - {% year %} <a class="h-card u-url" rel="me author" href="https://www.andreacorinti.com/about">{{ meta.siteName }}</a> • {% packageVersion %}</p>
+          <p class="tdbc-mb-none">&copy; 2018 - {% year %} <a class="h-card u-url" rel="me author" href="https://www.andreacorinti.com/about">{{ meta.siteName }}</a> • {% packageVersion %} • {% if lang and lang.startsWith('en') %}<a href="/work-with-me/">Work with me</a>{% else %}<a href="/lavora-con-me/">Lavora con me</a>{% endif %}</p>
           <span class="tdbc-row tdbc-row--center-content">
           {# le icone stanno in un unico span flex: la griglia tdbc-row su mobile
              è a una colonna e le metterebbe una sotto l'altra #}
@@ -158,7 +177,6 @@
           </span>
         </div>
       </div>
-      <a rel="me" class="p-author h-card" href="https://mastodon.social/@Xabacadabra" style="display: none;">Andrea Corinti</a>
       <a rel="me" class="p-author h-card" href="https://mastodon.social/@Xabacadabra" style="display: none;">Andrea Corinti</a>
     </footer>
         <!-- ricerca -->

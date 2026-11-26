@@ -81,8 +81,7 @@ Perché è una cosa importante, lodevole e soprattutto **si tratta di un argomen
 
 Mettiamo che invece qualche giorno fa Zerocalcare avesse scritto qualcosa del tipo:
 
-![Fake-zerocalcare](/img/fake-zerocalcare.jpg)
-
+![Falsa citazione di Zerocalcare con il timbro «FAKE»](/img/fake-zerocalcare.jpg)
 
 non dico che mi sarebbe scaduto o altro, anche perché starebbe facendo una cosa di per sé positiva per i miei canoni (smerdare Salvini lo dovrebbero fare pure i leghisti secondo me).
 
@@ -101,8 +100,6 @@ Oh: io sono il primo a cui spesso scappa da scrivere roba riguardo l'argomento d
 Di sicuro pure sarò stato banale e retorico in chissà quante occasioni: non parlo da un pulpito, parlo dalla tribuna.
 
 È anche un meccanismo a cui i social in fondo ci hanno abituato e addomesticato, se ci si pensa: 
-
-![umarell](https://assiviarilucca.it/wp-content/uploads/2015/06/vecchietti.jpg)
 
 lo sviluppo artificiale di quell'istinto insito nell'animo umano sin da quando esistono i vecchi che vanno a ubriacarsi nelle taverne per discutere bestemmiando sulle prime pagine dei giornali.
 

@@ -17,7 +17,7 @@ Don’t think so.
 
 It would certainly be welcome as a wonderful ballad, sure, but it will not be the quintessential rock ballad, the one forbidden in music stores because is played way too much.
 
-![stairway-to-heaven](https://miro.medium.com/max/753/0*w5VDVV18zVg5BBdc)
+![Sign in a guitar shop: «Playing Stairway To Heaven is strictly prohibited here!»](https://miro.medium.com/max/753/0*w5VDVV18zVg5BBdc)
 
 _Stairway to Heaven_ was released in 1971, the gem of the fourth album that marks the full artistic maturity of Led Zeppelin, when the progressive hard rock is exploding, leaving behind the hippie psychedelia from the 60s.
 
@@ -41,7 +41,7 @@ It was real _all-in_, a bet that could very well have gone wrong leading to a co
 
 ## Era 
 
-![PlayStation](https://miro.medium.com/max/875/0*DKaFr9FB-DxDw6wa.jpg)
+![The original grey Sony PlayStation with its controller](https://miro.medium.com/max/875/0*DKaFr9FB-DxDw6wa.jpg)
 
 In ’97, the Videogame world was at the dawn of the PlayStation phenomenon and the discovery of 3D gaming which, returning to my musical metaphors, we can very well relate to the advent of the Fender Stratocaster in 1954.
 
@@ -57,7 +57,7 @@ Now: in fact, the Remake isn’t even the same song, but a nice cover.
 
 Visually stunning?
 
-![Tifa](https://miro.medium.com/max/875/0*eiLjzyiTETDpz01S.jpg)
+![Tifa Lockhart leaning on a bar counter in Final Fantasy VII Remake](https://miro.medium.com/max/875/0*eiLjzyiTETDpz01S.jpg)
 
 Yeah, ok: but to be honest it represents a virginity we already lost many years ago with the movie _Advent Children_.
 
@@ -84,7 +84,7 @@ It can only hope not to become Greta Van Fleet.
 
 ## New Players
 
-![mako](https://miro.medium.com/max/375/0*NVZFMVGoLp_HC_v6.jpg)
+![Sephiroth in the original Final Fantasy VII: «The Mako smells pretty bad here.»](https://miro.medium.com/max/375/0*NVZFMVGoLp_HC_v6.jpg)
 
 Without spoiling anything, let’s just say that the ending of Remake “Part 1” shows the cards on the table, clarifying where we are going to end up in future installments and the concept itself behind the term “Remake” (which should also be seen as a sort of “Rewritten”).
 

@@ -74,7 +74,7 @@ Per quanto precari sul piano narrativo, **i titoli della serie di punta della Be
 
 ## Cosa ci perdiamo, creando un personaggio ?
 
-<img src="https://1.bp.blogspot.com/--zSZP-RaczE/UlxY0bnkeNI/AAAAAAAAEq8/D8cdmBjuRg8/s1600/baldur's+gate.png" alt='Baldurs-gate'>
+<img alt="La scheda del personaggio di Baldur&#x27;s Gate con caratteristiche, ritratto e statistiche" src="https://1.bp.blogspot.com/--zSZP-RaczE/UlxY0bnkeNI/AAAAAAAAEq8/D8cdmBjuRg8/s1600/baldur's+gate.png" alt='Baldurs-gate'>
 <small>Baldur's Gate e seguito sono, sin dalla loro uscita, uno degli elementi di paragone per tutti i  Giochi di Ruolo 
 </small> </br> </br>
 
@@ -144,7 +144,7 @@ Io sotto sotto spero di vedere questa funzione, magari trainata dal successo di 
 
 <article id="f76f3c21-2226-43a9-b9c0-1233d105303d">
     <div class="comment__avatar-wrapper">
-        <img class="comment__avatar" src="https://www.gravatar.com/avatar/2651CABF9ECC6DA044DD906613E70598?d=mm&s=80" alt="Gengis Khan Drogo">
+        <img class="comment__avatar" src="https://www.gravatar.com/avatar/2651CABF9ECC6DA044DD906613E70598?d=mm&s=80" alt="">
     </div>
     <div class="comment__author">
         Gengis Khan Drogo
@@ -159,7 +159,7 @@ Io sotto sotto spero di vedere questa funzione, magari trainata dal successo di 
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -173,7 +173,7 @@ Eh si parla di cose diverse, io personalmente le apprezzo entrambe: con gli Elde
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="Lollo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/be59a4d3c49b5767ddfd92cc691566296629?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Lollo
@@ -188,7 +188,7 @@ Eh si parla di cose diverse, io personalmente le apprezzo entrambe: con gli Elde
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="Claudio Palumbo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Claudio Palumbo
@@ -203,7 +203,7 @@ Eh si parla di cose diverse, io personalmente le apprezzo entrambe: con gli Elde
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -217,7 +217,7 @@ beh ora dando a cesare quel che di cesare (e mi costa perché odio la blizzard) 
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="Claudio Palumbo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Claudio Palumbo
@@ -232,7 +232,7 @@ beh ora dando a cesare quel che di cesare (e mi costa perché odio la blizzard) 
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab
@@ -246,7 +246,7 @@ eh ultima 7 l'ho solo iniziato, mai finito :( purtroppo soffro molto la tipologi
 <hr class="comment__hr">
 
 <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="Claudio Palumbo">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/9385F4E6FCC6083A90BE56694B1A3D44?d=mm&s=80" alt="">
 </div>
 <div class="comment__author">
     Claudio Palumbo
@@ -261,7 +261,7 @@ eh ultima 7 l'ho solo iniziato, mai finito :( purtroppo soffro molto la tipologi
 <hr class="comment__hr">
 
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="Xab">
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/bd18ddb59d2288eca9e2231dce46bf42?d=mm&s=80" alt="">
   </div>
     <div class="comment__author">
     Xab

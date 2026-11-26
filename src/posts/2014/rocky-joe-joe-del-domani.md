@@ -19,7 +19,7 @@ Un manga classe '68 che possiede tutte quelle caratteristiche che tanto mi hanno
 
 _Rocky Joe_ è l'emblema di questi valori, molto **sentiti e radicati nel Giappone post-bellico**, di cui ahimè sopravvivono oramai poche tracce, rimpastate assieme a prodotti più o meno _plastici_ ([ma questa è un'altra storia](/posts/perche-non-mi-piacciono-piu-anime-e-manga/))
 
-<img src="https://2.bp.blogspot.com/-RO-B-JzI5YI/VIhS8jGD0KI/AAAAAAAALGI/VYfMobhI2zI/s1600/Rocky%2BJoe%2B1.png" alt="rocky-joe">
+<img src="https://2.bp.blogspot.com/-RO-B-JzI5YI/VIhS8jGD0KI/AAAAAAAALGI/VYfMobhI2zI/s1600/Rocky%2BJoe%2B1.png" alt="Tavole del manga di Rocky Joe: Joe tira i primi pugni">
 
 L'autore, il compianto **Asao Takamori** (pseudonimo di **Ikki Kajiwara**), non a caso fu padre anche di un certo _Uomo Tigre_, ambientato in un contesto sociale del tutto simile:
 
@@ -27,11 +27,11 @@ lo stile di Takamori era infatti non solo estremamente contemporaneo per l'epoca
 
 **L'aggressiva irriverenza di Joe, antieroe canagliesco ed indisciplinato**, pareva quasi preannunciare la straordinaria rivalsa sociale del [**_Miracolo economico giapponese_.**](https://it.wikipedia.org/wiki/Miracolo_economico_giapponese)
 
-<img src="https://1.bp.blogspot.com/-cxKagIdpI8M/VIha0PKO2CI/AAAAAAAALGY/J8qpW5NewAA/s1600/Rocky%2BJoe%2B2.png" alt="rocky-joe">
+<img src="https://1.bp.blogspot.com/-cxKagIdpI8M/VIha0PKO2CI/AAAAAAAALGY/J8qpW5NewAA/s1600/Rocky%2BJoe%2B2.png" alt="Tavole del manga di Rocky Joe: Joe e il vecchio Danpei">
 
 **Al solito, il manga è invecchiato decisamente meglio della controparte animata**: considerevole vantaggio di non dover sottostare ai processi d'animazione/colorazione economici di svariate decadi fa.
 
-<img src="https://4.bp.blogspot.com/-EfWyAxxVkqg/VIhcAVlrYuI/AAAAAAAALGk/PiBCIdSWUU0/s1600/Rocky%2BJoe%2B3.png" alt="rocky-joe">
+<img src="https://4.bp.blogspot.com/-EfWyAxxVkqg/VIhcAVlrYuI/AAAAAAAALGk/PiBCIdSWUU0/s1600/Rocky%2BJoe%2B3.png" alt="Tavole del manga di Rocky Joe: Joe tra gli altri ragazzi del riformatorio">
 
 E poi i disegni sono della leggenda **Tetsuya Chiba**, uno dei più importanti pionieri dell'arte manga, **possessore di un dinamismo e di un'intensità straordinari nel loro essere classici** (diretti figli dell'epoca di **Osamu Tezuka**, per forza di cose) e che per questo penso sosterranno la prova del tempo praticamente in eterno.
 

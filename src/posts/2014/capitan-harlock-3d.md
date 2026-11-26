@@ -21,7 +21,7 @@ La risposta è...
 
 ## JAPAN!
 
-<img src="https://1.bp.blogspot.com/-FBSSc2r7Rio/UsWCyamm3dI/AAAAAAAAF9M/UJd_bFcc28M/s1600/toei+logo.jpg" alt="capitan-harlock-3d">
+<img src="https://1.bp.blogspot.com/-FBSSc2r7Rio/UsWCyamm3dI/AAAAAAAAF9M/UJd_bFcc28M/s1600/toei+logo.jpg" alt="Il logo della Toei Animation sul mare in tempesta">
 <small>dopo 30 minuti di pubblicità e trailer di merda, sbotto "SE NON VEDO LE ONDE CHE SI STAGLIANO SULLO SCOGLIO DELLA TOEI ANIMATION IO ME NE VADO!" e in quell'istante, eccotelola</small> </br> </br>
 
 No.
@@ -40,7 +40,7 @@ Nonostante questo però, **si avverte anche da subito che sceneggiatura e regia 
 
 ## Ke-mo-sah-bee, Fratello sbagliato
 
-<img src="https://2.bp.blogspot.com/-Y6X-vigSeVI/UsbL1qOOOgI/AAAAAAAAF9c/K5nllXzKkDI/s1600/yama_space_pirate_captain_harlock_by_yamimaetel-d6hcc4g.jpg" alt="capitan-harlock-3d">
+<img src="https://2.bp.blogspot.com/-Y6X-vigSeVI/UsbL1qOOOgI/AAAAAAAAF9c/K5nllXzKkDI/s1600/yama_space_pirate_captain_harlock_by_yamimaetel-d6hcc4g.jpg" alt="Il giovane Yama in uniforme, da Capitan Harlock 3D">
 <small>Diceva il saggio Tonto in Lone Ranger, ed è un po' quello che dicevo pure io al cinema (giudicate da voi le azioni e l'operato di Yama, vero protagonista del filmozzo)</small> </br> </br>
 
 La storia, come preventivato, **nulla ha a che vedere con quella della serie animata classica.**
@@ -53,7 +53,7 @@ Non a caso **l'universo di Matsumoto è la quintessenza della cosiddetta space-o
 
 ## Tirando le somme di materia oscura
 
-<img src="https://3.bp.blogspot.com/-HDSEzvx23qY/UsbVV2edbeI/AAAAAAAAF94/3hf1rYxYq8U/s1600/yattaran-ride.jpg" alt="capitan-harlock-3d">
+<img src="https://3.bp.blogspot.com/-HDSEzvx23qY/UsbVV2edbeI/AAAAAAAAF94/3hf1rYxYq8U/s1600/yattaran-ride.jpg" alt="Yattaran che ride, con occhiali tondi e berretto col teschio, da Capitan Harlock 3D">
 
 **Yattaran** è meraviglioso (anche se non gioca coi suoi modellini), **Harlock** è l'indiscutibile fierissimo antieroe che ci si aspettava, **Mime** è sempre bellissima e la figona bionda (**Yuki**) fa del fanservice d'ottima qualità.
 

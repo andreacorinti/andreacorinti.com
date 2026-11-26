@@ -15,7 +15,7 @@ Sebbene disprezzi i Casinò dal punto di vista etico/sociale e sarei ben felice 
 
 Beh, una parte di me ne resta tremendamente affascinata. Forse per il film di Scorsese e tutto quel mood lì (d'altronde con certi film ci sono praticamente cresciuto)
 
-![Casinò-Film-De-Niro-Scorsese](https://m.media-amazon.com/images/M/MV5BMjAxOTE0MzM0NF5BMl5BanBnXkFtZTgwNjczMTg1MDI@._V1_FMjpg_UX1000_.jpg)
+![Robert De Niro in Casinò di Scorsese, tra le luci del casinò](https://m.media-amazon.com/images/M/MV5BMjAxOTE0MzM0NF5BMl5BanBnXkFtZTgwNjczMTg1MDI@._V1_FMjpg_UX1000_.jpg)
 
 Badate bene: 
 
@@ -43,7 +43,7 @@ il guaio?
 
 Nell'orrida tempolinea che viviamo, se cercate dei videogiochi sul tema si finisce quasi sempre su roba online brutta dove c'è gente che si brucia soldi _veri_.
 
-![red-dead-redemption-poker](https://static1.srcdn.com/wordpress/wp-content/uploads/2022/02/rdr-2-how-to-win-poker.jpg)
+![Partita a poker in un saloon in Red Dead Redemption 2](https://static1.srcdn.com/wordpress/wp-content/uploads/2022/02/rdr-2-how-to-win-poker.jpg)
 
 Le eccezioni ci sono eh: 
 

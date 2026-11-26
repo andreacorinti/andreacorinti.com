@@ -1,0 +1,25 @@
+---
+layout: base.njk
+permalink: /404.html
+eleventyExcludeFromCollections: true
+noindex: true
+title: "404 – Pagina non trovata / Page not found"
+sommario: "Questa pagina non esiste (più). This page doesn't exist (anymore)."
+---
+{# Netlify serve /404.html per ogni indirizzo inesistente, con stato 404.
+   Bilingue perché arrivano link vecchi sia italiani che inglesi; noindex
+   (base.njk) e fuori dalle collection, quindi anche dalla sitemap. #}
+{% include 'sitenav.njk' %}
+
+<main id="main-content" class="tdbc-container not-found">
+  <p class="not-found__code" aria-hidden="true">404</p>
+  <h1 class="tdbc-ink--primary">Game over? Non ancora!</h1>
+  <p>Questa pagina non esiste, oppure si è persa in uno dei tanti traslochi del blog. Prova con la ricerca qui sopra, o riparti da uno di questi:</p>
+  <p lang="en"><em>This page doesn't exist (or got lost in one of this blog's many moves). Try the search above, or start again from here:</em></p>
+  <nav class="not-found__links" aria-label="Link utili">
+    <a class="cat-btn cat-btn--tutti" href="/">Home</a>
+    <a class="cat-btn cat-btn--tutti" href="/blog-0/">Blog</a>
+    <a class="cat-btn cat-btn--english" href="/categoria/english-0/" lang="en" hreflang="en"><span class="cat-btn__flag" aria-hidden="true">🇬🇧</span>English</a>
+    <a class="cat-btn cat-btn--tutti" href="/contact/">Contact</a>
+  </nav>
+</main>

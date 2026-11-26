@@ -73,7 +73,7 @@ Poco prima delle elezioni mi sono lanciato [in questo sproloquio (con CW!)](http
 
 ### Boost / Reblog
 
-![disattivare-i-reblog-retweet-su-mastodon](/img/reblog.jpg)
+![Impostazioni della Home di Mastodon con «Mostra reblog» disattivato](/img/reblog.jpg)
 
 Questo è un discorso molto personale e controverso, perché **il boost di un post è tendenzialmente qualcosa di bello:**
 

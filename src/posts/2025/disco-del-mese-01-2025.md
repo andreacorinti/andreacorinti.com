@@ -47,8 +47,6 @@ se invece siete completamente a digiuno di melodeath o avete problemi con il _ti
 
 ### Bunsenburner – Reverie
 
-![Bunsenburner – Reverie](https://lastfm.freetls.fastly.net/i/u/770x0/265e783acc33138820581497bfa793e8.jpg)
-
 ...ok, non si giudica un libro dalla copertina, ma un album sì giusto?
 
 Perché io questo l'ho ascoltato proprio per lei.

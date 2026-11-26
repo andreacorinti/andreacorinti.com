@@ -65,7 +65,7 @@ Ma, dentro di sé, sapeva che era una bugia.
 
 ## Su Andrea Delogu
 
-![andrea-delogu](/img/andrea-delogu.jpg)
+![Andrea Delogu accovacciata su un palco, con maglietta bianca e stivali neri](/img/andrea-delogu.jpg)
 
 Sistemato il libro, come anticipavo credo occorra spendere qualche parola sull'autrice perché lo ammetto: non fosse di Andrea Delogu, _Contrappasso_ non l'avrei mai conosciuto (e sarebbe stato un gran peccato).
 

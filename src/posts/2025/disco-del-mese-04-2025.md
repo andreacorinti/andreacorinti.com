@@ -41,8 +41,6 @@ Mi ci sono divertito parecchio e mi ha riportato a quando da pischello ascoltavo
 
 ### Epica - Aspiral 
 
-![Epica - Aspiral](https://lastfm.freetls.fastly.net/i/u/770x0/1485dc1a1712354163e69fad4d2026aa.jpg)
-
 Disco carino ma non memorabile?
 
 Non so eh, magari non ero nel mood giusto ma ammetto che [l'album solista di Simone dell'anno scorso](/posts/simone-simons-vermillion/) mi era piaciuto di più.

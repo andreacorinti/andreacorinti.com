@@ -21,7 +21,7 @@ la cosa interessante?
 
 **La legge è arrivata da un governo di centrodestra.**
 
-![mitsotakis](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F4l4wt0.jpg&f=1&nofb=1&ipt=c26b932a5e009e0f0ea2380cbbbb6151be4f858d688d9522a1f07b4b5d193260&ipo=images)
+![Kyriakos Mitsotakis con la mascherina che mostra un foglio con scritto «WTF?»](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F4l4wt0.jpg&f=1&nofb=1&ipt=c26b932a5e009e0f0ea2380cbbbb6151be4f858d688d9522a1f07b4b5d193260&ipo=images)
 
 ovviamente non all'unanimità (anche perché **Mistotakis** ha più di qualche nemico all'interno del partito) ed è anzi stata votata anche dall'opposizione progressista, in particolare Syriza dove il nuovo segretario **Stefanos Kasselakis** è dichiaratamente omosessuale (l'anno scorso si è sposato negli USA, dove ha vissuto buona parte della sua vita).
 

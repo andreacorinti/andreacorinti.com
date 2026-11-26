@@ -36,7 +36,7 @@ Y, como el Cholo bien demostró, siempre es complicado de superar (aunque no sea
 
 Por supuesto siempre ha habido una tradición defensiva en Italia: Trapattoni en 2002 fue quizás el emblema de la moderna mas "fea" (en relación a la calidad del equipo que tenía)
 
-![Trap](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.ilbianconero.com%2Fimages%2F2019-03%2Ftrapattoni.moreno.combo.2018.2019.1080x648.jpg&f=1&nofb=1)
+![Giovanni Trapattoni che urla in panchina, accanto a un giocatore della Nazionale che protesta con l'arbitro](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.ilbianconero.com%2Fimages%2F2019-03%2Ftrapattoni.moreno.combo.2018.2019.1080x648.jpg&f=1&nofb=1)
 
 > aunque dejemos ese mundial por culpa de Moreno…
 

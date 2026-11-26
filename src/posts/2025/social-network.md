@@ -72,7 +72,7 @@ Anche per questi motivi, credo che molta gente se ne sia andata o abbia smesso d
 
 **chiaramente ci sono tutte le eccezioni del caso**, con singoli account che continuano a comunicare in allegria di questo o quel tema (anche qui, mi ci metto pure io) ma torniamo a questo grafico: 
 
-![fedicalo](/img/mastodon/calo.png)
+![Grafico degli account attivi su Mastodon da dicembre 2023 ad agosto 2025, in calo di 45.000](/img/mastodon/calo.png)
 
 Ora: non siamo nel 2022 con l'arrivo di massa che ben presto ha levato le tende, ho ragione di credere che molta della gente che ha smesso di stare qui abitasse il fediverso da parecchio tempo.
 

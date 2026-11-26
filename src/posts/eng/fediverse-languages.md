@@ -20,7 +20,7 @@ I also speak English and Spanish fairly well (or I hope so at least!) and I'm wr
 
 One thing that perhaps not everyone knows about the Fediverse is that it is possible to filter posts in various languages to see only those that you know.
 
-![fediverse-language-filter.jpg](/img/fediverse-language-filter.jpg)
+![Mastodon's public timeline language filter: a long list of languages with checkboxes](/img/fediverse-language-filter.jpg)
 
 Between me and you?
 

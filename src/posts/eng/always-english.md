@@ -22,7 +22,7 @@ _But._
 
 ## Loving languages
 
-![haggard](https://www.haggard.de/images/header.png)
+![Haggard band photo above the band's gothic logo](https://www.haggard.de/images/header.png)
 
 This reflection comes from [this post of mine](https://livellosegreto.it/@xabacadabra/111773715282272926) and the poor **Bergtatt** guys,  whom I hope are doing well and continue to play somewhere in the Norwegian regions...
 
@@ -33,8 +33,6 @@ In fact, it's no coincidence that some of my favorite bands include **Haggard**,
 There are examples in Spanish as well, but I must admit that I have never been really enthralled by bands like **Mago de Oz** or **Rata Blanca** (in contrast, I adore the **Soda Stereo**, **Heroes del Silencio** and **Sumo** in a more classic rock scene).
 
 ## Promotion
-
-![lacuna-coil](https://wallpapercave.com/wp/ROvo8Hs.jpg)
 
 Look, I understand: 
 
@@ -49,8 +47,6 @@ Take into consideration that compared to many Italian acts, bands like **Judas P
 And let's not even discuss how much I regret the lack of Latin—it's a fantastic language that is, in my opinion, far more useful than Italian in some situations.
 
 ## Language as an instrument
-
-![the-hu](https://www.discovermongolia.mn/uploads/the-hu-band-blog-cover.jpg)
 
 The concept is that languages should be thought of as musical instruments because, in fact, _they are one_ and have substantial influence in music:
 

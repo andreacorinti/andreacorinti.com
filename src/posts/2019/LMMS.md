@@ -17,7 +17,7 @@ Tutti prodotti commerciali, software proprietario che offre i propri servigi die
 
 ## LMMS
 
-![LMMS](/img/archivio/musica/lmms-1.jpg)
+![L'interfaccia di LMMS con song editor, beat editor e mixer](/img/archivio/musica/lmms-1.jpg)
 
 Non tutti conoscono però **LMMS**, progetto totalmente libero (e quindi gratuito) partito nell'ormai lontano 2004 e ancora vivo e vegeto, qua a lottare assieme a noi.
 
@@ -37,11 +37,7 @@ E specificando che io in vita mia ho sempre strimpellato e giocato [^play] con l
 
 Su **Linux** in particolare, che tra **PulseAudio** e **_Jack_** ha _davvero_ molti gap da colmare in termini di produzione sonora, è davvero complesso utilizzare determinati VST o anche solo ottenere effetti interessanti in termini **d'equalizzazione riverbero, delay** eccetera: 
 
-![fl-studio](https://www.image-line.com/flstudio/fl12full_1.jpg)
-
 Funzionalità a parte, **software come FL Studio hanno anzitutto interfacce più chiare** e "belle" da consultare, rendendo il lavoro molto più semplice ed appagante, specie per chi viene dal mondo analogico e ancora malsopporta l'universo puramente digitale...
-
-![lmms-pianoroll](https://lmms.io/wiki/images/thumb/3/3a/Piano_Roll1.0.0.png/600px-Piano_Roll1.0.0.png)
 
 discorso analogo lo potrei fare anche per il **pianoroll**, che certe volte mi ha portato a bestemmiare in aramaico.
 
@@ -53,6 +49,6 @@ si possono realizzare molte chicche con buoni **soundfont** combinati con il **T
 
 ## Morale
 
-![lmms](https://lmms.io/img/screen.png)
+![Un progetto aperto in LMMS con tracce di piano, synth, voce, basso e rumori](https://lmms.io/img/screen.png)
 
 Con un'estetica diversa, un migliore supporto per certi VST ed effetti vari potrebbe crescere davvero parecchio, ma già così è ottimo per pasticciare un po' e, per i più bravi, farci pure cose davvero notevoli.

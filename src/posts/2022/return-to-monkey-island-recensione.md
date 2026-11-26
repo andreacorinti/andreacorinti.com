@@ -21,8 +21,6 @@ In più c'erano un po' delle perplessità personali che derivano da quanto descr
 
 ## Celeste Nostalgia ♩ ♪ ♫ ♬
 
-![stan-e-otis](https://returntomonkeyisland.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F06.9935bfae.png&w=1920&q=75)
-
 Qualche anno fa, come riporta [il bellissimo sito Lucasdelirium](https://www.lucasdelirium.it/pettine.php), Ron Gilbert scrisse questo commento sul suo blog: 
 
 > Mi piace provare cose nuove, esplorare. Fare e rifare lo stesso gioco, come molti vogliono che faccia, è noioso. Se facessi un nuovo punta & clicca, la gente direbbe che non è all'altezza di Monkey Island. Ma non si starebbero realmente lamentando di quello, si lamenterebbero in realtà perché non sarebbe all'altezza della loro nostalgia ventennale di Monkey Island. Non posso competere con una cosa del genere, nessuno può.
@@ -35,7 +33,7 @@ George Lucas con la trilogia dei prequel di Star Wars, i Metallica post-Black Al
 
 Con Monkey Island la faccenda è ulteriormente complicata perché parliamo di una saga che, dopo Ron Gilbert, ha vissuto di vita propria tra vari alti e bassi:
 
-![monkey-island-evolution](https://steamuserimages-a.akamaihd.net/ugc/852725391222559700/3C7F5047329D2BA02FB7FC56E7020D93D28FCBCF/)
+![L'evoluzione di Guybrush Threepwood dal 1990 al 2010](https://steamuserimages-a.akamaihd.net/ugc/852725391222559700/3C7F5047329D2BA02FB7FC56E7020D93D28FCBCF/)
 
 Per esempio, _The Curse of Monkey Island_ (che chi vi scrive non ha mai amato) rappresentò una pietra miliare delle Avventure Grafiche pur condividendo molto poco di ciò che i primi due leggendari capitoli di Ron Gilbert avevano donato al genere, specialmente per design, tipo di humor e alcuni aspetti vagamente _dark_ che lo stile Gilbertiano è in grado di far riaffiorare pur con tutto lo humor assurdo del mondo.
 
@@ -53,23 +51,19 @@ Questo significa che la scelta grafica e l'approccio generale avuto con _Return_
 
 ## La grafica
 
-![guybrush-vedetta](https://returntomonkeyisland.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fa01.eb436701.png&w=1920&q=75)
-
 Personalmente, lo stile di Rex Crowle non mi aveva affatto convinto dai trailer (soprattutto per le animazioni) e questo non significa che io pretendessi pixel art o gusto retrò, ma magari un ritorno di Steve Purcell un pochino sì.
 
 Però devo dire che giocando, la mia diffidenza si è esaurita abbastanza presto: vedere Melee Island risentendo il meraviglioso theme di Michael Land mi ha scaldato il cuore e fatto sentire subito dentro Monkey Island: è stato come ritornare in un luogo dove hai passato le vacanze da bambino, ritrovando tanti vecchi amici.
 
 ## La magia
 
-![vodoo-lady](https://returntomonkeyisland.com/_next/image?url=%2Fimages%2Fscrapbook%2Fpage6%2Fvoodoo-lady.webp&w=1920&q=75)
+![La Voodoo Lady in Return to Monkey Island](https://returntomonkeyisland.com/_next/image?url=%2Fimages%2Fscrapbook%2Fpage6%2Fvoodoo-lady.webp&w=1920&q=75)
 
 La scrittura di Ron Gilbert è sempre meravigliosa, il gameplay è comodo ed essenziale (tutto via mouse e compatibilissimo con controller: perfettamente funzionale per un'avventura grafica moderna), il finale di Monkey Island 2 non è stato bellamente ignorato come sarebbe stato certamente più semplice fare, la nostalgia c'è ma non manca l'ironia che ci affonda dentro i propri cannibalissimi denti.
 
 Dicevo all'inizio che mi stavo mentalmente preparando a scrivere un post negativo, e invece in nemmeno due ore ero già innamorato, correndo in giro con il caro vecchio Guybrush alla ricerca di oggetti improbabili per risolvere splendidi enigmi.
 
 ## Vecchio e Nuovo
-
-![le-chuck](https://returntomonkeyisland.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F02.a9414fe0.png&w=1920&q=75)
 
 Credo sia la prima volta che mi capita di vedere qualcosa di così squistamente nostalgico unito ad un'opera veramente nuova: 
 
@@ -78,8 +72,6 @@ qui per intenderci non vale il discorso del buon [Pillars of Eternity](/posts/pi
 Return of Monkey Island è un terzo capitolo perfetto proprio perché non ha fatto la scelta "facile" sedendosi sui vecchi SCUMM e grafiche retrò come sarebbe stato in suo pieno diritto.
 
 ## Il finale (no spoiler)
-
-![elaine](https://returntomonkeyisland.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F10.0701842a.png&w=1920&q=75)
 
 Non saprei dire se mi è piaciuto, lo confesso: di sicuro non mi ha deluso e per molti aspetti un po' me l'aspettavo: è un sapore dolceamaro e consapevole di esserlo, per tanti motivi per me stretto parente di quello di [Thimbleweed Park](/posts/thimbleweed-park).
 

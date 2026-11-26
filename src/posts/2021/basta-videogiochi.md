@@ -25,7 +25,7 @@ Penso sia passato per la testa a tanti over 30 pronti ad avviare _TES: V Skyrim_
 
 ## Tempus fugit
 
-![freddie](https://m.media-amazon.com/images/I/71X4gt15JAL._SS500_.jpg)
+![Freddie Mercury sullo sfondo del cielo: «Time waits for no one»](https://m.media-amazon.com/images/I/71X4gt15JAL._SS500_.jpg)
 
 Qualsiasi hobby "spreca" parte del nostro tempo. 
 
@@ -35,7 +35,7 @@ I videogiochi, essendo il medium d'intrattenimento più vasto e variopinto del m
 
 ## Lockdown Mon Amour
 
-![hikikomori](https://i.pinimg.com/originals/0c/fd/e2/0cfde2f835b6315198f362239c0ea2a1.jpg)
+![Illustrazione di un ragazzo rannicchiato a terra in una stanza disordinata, al buio](https://i.pinimg.com/originals/0c/fd/e2/0cfde2f835b6315198f362239c0ea2a1.jpg)
 
 Penso che tutti i videogiocatori[^videogiocatori] più o meno incalliti abbiano vissuto il COVID come una buona occasione per dedicarsi anima e corpo ad uno di quei pochi hobby che nonostante la pandemia ancora "funzionano bene", specie grazie alle grandi riserve di tempo normalmente occupate da tutto ciò che era la vita prima del virus:
 
@@ -69,7 +69,7 @@ quindi **certe riflessioni non le potrà fare davvero nessun altro prima di noi*
 
 ## Dieta
 
-![quina](https://static.wikia.nocookie.net/finalfantasy/images/d/df/Quina_Quen_from_Final_Fantasy_IX_render.png)
+![Quina di Final Fantasy IX](https://static.wikia.nocookie.net/finalfantasy/images/d/df/Quina_Quen_from_Final_Fantasy_IX_render.png)
 
 Per almeno una settimana, l'unico videogioco a cui dedicherò un po' di tempo sarà [Lichess](https://lichess.org/), ma conto di rimanere a "stecchetto" per più tempo.
 
@@ -79,4 +79,4 @@ Eppure credo che sia il caso di **formalizzare per iscritto la mia necessità di
 
 Niente _Game Over_ quindi, ma per ora arrivederci. 
 
-![monkey](https://4.bp.blogspot.com/-EC8Chao7Qzo/U4cVEDu1yxI/AAAAAAAALpA/e6xMh32hol8/s1600/scummvm03628.png)
+![Schermata nera con la scritta «Turn your computer off and go to sleep!»](https://4.bp.blogspot.com/-EC8Chao7Qzo/U4cVEDu1yxI/AAAAAAAALpA/e6xMh32hol8/s1600/scummvm03628.png)

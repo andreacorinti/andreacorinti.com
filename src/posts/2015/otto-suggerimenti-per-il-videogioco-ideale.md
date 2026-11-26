@@ -32,7 +32,7 @@ Diamine, hanno scelte e binari più ridotti del già citato _Planescape: Torment
 
 ## 3. Freeroaming
 
-<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-2.jpg" alt="Morrowind">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-2.jpg" alt="Morrowind: un personaggio davanti ai funghi giganti di Vvardenfell">
 <small>Morrowind è stato forse il miglior titolo "esplorativo" del suo tempo</small> </br> </br>
 
 **Skyrim e i vari Elder Scrolls mi hanno viziato molto in questo senso**, ma anche Baldur's Gate in fin dei conti (con tutti i limiti dell'isometrico) era fondato su questo tipo d'approccio.
@@ -52,7 +52,7 @@ Poi beh, tutto questo per non parlare di quanto scritto e realizzato da Warren S
 
 ## 5. Ambientazione Originale
 
-<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-4.jpg" alt="Arcanum">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-4.jpg" alt="Copertina di Arcanum: Of Steamworks &amp; Magick Obscura">
 <small>Arcanum: Of Steamworks and Magick Obscura: nome degno di una band progressive</small> </br> </br>
 
 E qui potrei iniziare a parlare male **dell'inflazionatissimo fantasy, proprio perché semplicemente non se ne può più, sono vent'anni che gioco RPG occidentali quasi esclusivamente FANTASY.**
@@ -101,7 +101,7 @@ Cioè, **quando uno gioca al cartaceo, non è che muove e gestisce anche i perso
 
 ## 7. Esplorazione
 
-<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-6.jpg" alt="Oblivion">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-6.jpg" alt="Oblivion: la Torre d&#x27;Oro bianco vista da lontano oltre il lago">
 <small>Oblivion perde sotto molti aspetti con Skyrim e Morrowind, ma bisogna ammettere che offriva una varietà d'ambienti esplorabili decisamente superiore</small> </br> </br>
 
 Perché sarebbe troppo facile silurarla con il "semplice" free roaming di cui sopra.
@@ -121,7 +121,7 @@ va bene fare una metropoli ultradettagliata, ma visto che c'è tutto sto spazio,
 
 ## 8. Gameplay
 
-<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-7.jpg" alt="vampire-masquerade-bloodlines">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-7.jpg" alt="Copertina di Vampire: The Masquerade – Bloodlines con Jeanette">
 
 La parola d'ordine qui dev'essere una: **varietà.**
 
@@ -135,7 +135,7 @@ L'istinto e la memoria mentre scrivo non possono fare altro che riportarmi ai so
 
 ## Conclusioni
 
-<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-8.jpg" alt="ultima">
+<img src="/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-8.jpg" alt="Ultima: schermata in grafica a blocchi con mappa e messaggi di combattimento">
 <small>1986 dixit: Ultima I.</small> </br> </br>
 
 Probabilmente, anzi sicuramente ci sono altri elementi che non ho avuto modo di segnalare (vuoi la memoria, vuoi il post abnorme)

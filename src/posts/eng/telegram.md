@@ -18,7 +18,7 @@ In fact, during these 9 years, I’ve shared many fragments of my life inside Te
 
 I’ve put both important and stupid things, silly audios, “compromising” videos, games, photos…and so did my contacts.
 
-![telegram](https://miro.medium.com/max/950/0*PPryRJycp0t2xKoR.jpg)
+![Telegram's Privacy and Security settings, with «Delete my account if away for 6 months» highlighted](https://miro.medium.com/max/950/0*PPryRJycp0t2xKoR.jpg)
 
 At present time, if I don’t access my account for more than one year (six months in the default settings), everything will be deleted, lost forever.
 

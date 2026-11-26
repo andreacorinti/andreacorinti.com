@@ -21,7 +21,7 @@ Certo, con **un bel po' di difetti ciccioni**, soprattutto nella sua seconda met
 
 Parlando di performance, **Hugh Jackman è fantastico** e PER L'AMOR DI DIO QUALCUNO LO SCRITTURI PER UNO SPAGHETTI WESTERN
 
-<img src="https://crackedrearviewer.files.wordpress.com/2017/02/gbu4.jpg" alt="clint-eastwood">
+<img src="https://crackedrearviewer.files.wordpress.com/2017/02/gbu4.jpg" alt="Un uomo sfinito a terra nel deserto e un cavaliere sullo sfondo, scena di Il buono, il brutto, il cattivo">
 <small>Tra Jackman ed [il figlio della McGrannit che interpreta Flint](/posts/black-sails/) abbiamo dei papabilissimi cosplayer di sua maestà Eastwood.</small> </br> </br>
 
 **Il suo Wolverine un po' attempato, depresso e distrutto è credibile ed interpretato alla grande:**
@@ -47,7 +47,6 @@ Certo, aldilà di tutto questo, i difetti veri e propri del self-titled di _Ghio
 
 ## Il Problema Principale
 
-<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/17015640_679216565583899_8634977701366976455_o.jpg?oh=af057e6de48801672f4311a6311d176c&oe=5963117B" alt="logan-the-wolverine">
 <small>C'è anche Murphy di [Narcos](/posts/narcos/), che senza il suo buddy Pedro "Vipera Rossa" Pascal si rivela un po' na pippa.</small> </br> </br>
 
 Sono gli antagonisti: **blandi, anonimi, deboli e, parlando del _"boss finale"_, decisamente discutibili per una MAREA di ragioni diverse.**
@@ -59,8 +58,6 @@ _Logan_ gioca molto sul fatto di essere _"un film nerd profondo lontano dai soli
 E diamine, per un film del genere **servirebbero ben altre nemesi.**
 
 ## Il Problema Derivato
-
-<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/17192057_681053588733530_9090454811219338453_o.jpg?oh=5d89b52518e2e0a7ca778ce34a1e8d65&oe=592FF1FE" alt="x-23">
 
 Oltre a questo, sorge lo spettro del franchise incombente a cui accennavo qualche paragrafo fa:
 

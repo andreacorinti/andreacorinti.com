@@ -38,8 +38,6 @@ In mezzo buttiamoci pure un bel quadro pseudo-reganiano ma pregno d'epicità nel
 
 ## Bonus: Apollo Creed
 
-<img src="https://www.todaysport.it/wp-content/uploads/2015/04/Apollo-Creed.jpg" alt="analisi rocky balboa apollo creed">
-
 In molti non ci faranno poi troppo caso, ma **Apollo Creed** è un personaggio straordinario: 
 
 **quasi interamente ricalcato su Muhammad Ali** (Cassius Clay), onnipotente pugile nero in un periodo in cui la segregazione razziale era storia fresca, leggenda sportiva americana consapevole del proprio status di moderno eroe dell'epica classica:

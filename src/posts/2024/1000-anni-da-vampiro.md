@@ -43,8 +43,6 @@ Questo perché, col passare dei secoli, non è dato sapere quanto la scheda del 
 
 ## Narattiva 
 
-![narattiva](https://pixel.livellosegreto.it/storage/m/_v2/627614251342880884/3b17271c9-2ea36d/P7s6YJY1LNML/K0mLvC4ola5xgTXYDINZ07JRUrEMSwth3EQBpR4o.jpg)
-
 Da loro avevo già preso la bellissima edizione di Dungeon World, quindi andavo sul sicuro: 
 
 l'unica remora che posso manifestare (che però immagino caratterizzi anche l'edizione originale) sta nella **leggibilità delle pagine degli spunti**: 

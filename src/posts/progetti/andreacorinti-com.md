@@ -25,4 +25,6 @@ Questo sito è sia una webcasa che un giornaletto, un raccoglitore dove tengo in
 
 È il mio biglietto da visita digitale sì, ma vecchio stampo, ed è la prova provata che un profilo social può sparire da un giorno all'altro (bannato, cancellato, spolpato dagli algoritmi, comprato da chi ci fa quello che vuole) mentre un sitarello resta mio, e giocoforza deve somigliarmi nel bene e (spero non troppo) nel male.
 
-Sotto al cofano gira ancora [11ty](https://www.11ty.dev/), markdown, niente database, hosting statico su [GitHub](https://github.com/andreacorinti/andreacorinti.com).
+Sotto al cofano gira ancora [11ty](https://www.11ty.dev/), markdown, niente database, il codice su [GitHub](https://github.com/andreacorinti/andreacorinti.com) e la pubblicazione su [Netlify](https://www.netlify.com/).
+
+E se un sito così piccolo, veloce e senza fronzoli lo volete anche voi, [**lavoriamoci insieme**](/lavora-con-me/).

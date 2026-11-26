@@ -55,7 +55,7 @@ Buona parte di quel team è ancora in Square Enix (principalmente Kitase e Nomur
 
 ### Mistwalker 
 
-![mistwalker](/img/archivio/videogiochi/the-last-story-1.jpg)
+![Il logo di Mistwalker](/img/archivio/videogiochi/the-last-story-1.jpg)
 
 Ora, parlare di Mistwalker nel dettaglio è un discorso molto lungo ma direi che possiamo senz'altro dire che è una compagnia: 
 
@@ -90,7 +90,7 @@ Per il resto, l'esplorazione è a corridoi con una linearità interessantemente 
 
 ### Grafica
 
-![the-last-story](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wii_7/wii_thelaststory/Wii_TheLastStory_01.jpg)
+![Zael e Calista affacciati a un balcone in The Last Story](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/wii_7/wii_thelaststory/Wii_TheLastStory_01.jpg)
 
 Non sono espertissimo di Wii, ma ho ragione di credere che rappresentò uno sforzo notevole per l'hardware della vecchia console Nintendo: 
 

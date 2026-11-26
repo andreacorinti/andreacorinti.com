@@ -51,7 +51,6 @@ Mai! Ancor oggi non gioco minimamente ai videogiochi.
 
 Le illustrazioni per il libretto delle istruzioni di [_Alpha_](https://www.youtube.com/watch?v=6fuDz8pa6HQ). Però i miei ricordi di quel periodo sono un po' fumosi. [risate]
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/alpha.jpg" alt="Alpha">
 <small>Una pagina del libretto d'istruzioni di Alpha, avventura fantascientifica realizzata da Square per il NEC PC-8801, con illustrazioni della Shibuya (nota di xab: prima o poi ci dovrò dare un'occhiata)</small> </br> </br>
 
 **In mezzo ad _Alpha_ ed il primo _Final Fantasy_ ci sono un sacco di giochi a cui ha lavorato**
@@ -88,7 +87,6 @@ Penso di sì. Qualcuno l'aveva comprato, e ricordo bene tutti in giro guardando 
 
 ...la camminata da granchio dell'eroe. [risate]
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/dragoncrab.gif" alt="dragon-quest">
 <small>E come darle torto?</small> </br> </br>
 
 **Sì, nel primo gioco lo sprite del protagonista sembra guardarti continuamente in faccia mentre va in giro proseguendo nella sua avventura. [risate]**
@@ -113,7 +111,6 @@ Se volevamo creare un certo accento nello scenario, prima capovolgevamo lo sprit
 
 Come ulteriore contromisura per economizzare sullo spazio a disposizione, realizzammo la scena in primo piano completamente in nero, rappresentando solo la collina e i personaggi lì sopra.
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/ffopening.png" alt="final-fantasy-opening">
 <small>L'introduzione di Final Fantasy</small> </br> </br>
 
 **Eppure in ogni caso quelle silhouette sono bellissime. Si può notare il mantello mosso dal vento, o l'orlo della veste del mago.**
@@ -142,7 +139,6 @@ Inoltre, parecchi altri mostri furono concepiti da altri membri dello staff, inc
 
 Già. I miei disegni avevano qualcosa del "tocco di Amano" all'epoca. Spesi una marea di tempo a studiare la sua arte.
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/Amano_FF1_Golem.gif" alt="final-fantasy-golem">
 <small>Illustrazione del Golem di Yoshitaka Amano</small> </br> </br>
 
 **A proposito, ha qualche aneddoto interessante riguardo lo sviluppo di _Final Fantasy I_?**
@@ -175,7 +171,6 @@ Alzavo la mano esclamando "Sakaguchi-saaaan" e lui arrivava. [risate]
 
 Era troppo piccola, quindi finivamo sempre per litigare! [risate] I programmatori e i tre in mezzo finivano spesso per dirsele quattro...[risate]
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/square1986.jpg" alt="final-fantasy-staff">
 <small>Lo staff Square nel 1986.</small> </br> </br>
 
 **Dovevate essere tutti nel bel mezzo dei vostri vent'anni! Pieni d'energia e vigore!**
@@ -194,10 +189,8 @@ L'ultimo boss, _Kurayami no Kumo_ (Cloud of Darkness). Se osservate le illustraz
 
 Finii per realizzare un grosso "remix" per donarle l'adeguata maestosità.
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/amano-cloudofdarkness.jpg" alt="cloud-of-darkness-amano">
 <small>Concept originale di Yoshitaka Amano per Cloud of Darkness</small> </br> </br>
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/ff3-finalbattle01.png" alt="cloud-of-darkness-shibuya">
 <small>Resa in-game di Cloud of Darkness realizzata dalla Shibuya</small> </br> </br>
 
 **Anche se ne ha mostrato solo la metà superiore, lo stile rievoca decisamente quello di Amano**
@@ -224,7 +217,7 @@ Sì. Non lavorai direttamente ai dati del gioco, ma realizzai i _nitoushin_ [^ni
 
 Sì. Ho disegnato le illustrazioni su cui sono basati. All'esibizione per il venticinquesimo anniversario di _Final Fantasy_, ho presentato il mio sketchbook contenente parecchi nitoushin di _Final Fantasy IV_.
 
-<img src="https://www.hellandheavennet.com/files/final-fantasy-4/box-snes-jp-1.jpg" alt="final-fantasy-iv-cover-art">
+<img src="https://www.hellandheavennet.com/files/final-fantasy-4/box-snes-jp-1.jpg" alt="La copertina giapponese di Final Fantasy IV per Super Famicom con i personaggi disegnati da Kazuko Shibuya">
 <small>Box giapponese di Final Fantasy IV</small> </br> </br>
 
 **Il suo sketchbook?**
@@ -235,7 +228,6 @@ Sì, disegni fatti a mano con gli acquarelli. Non c'era Photoshop all'epoca. [ri
 
 Mi spiegava cose del tipo "questo personaggio dovrebbe essere così" eccetera. Era un lavoro semplice per me, e credo anche per lui. Lavoriamo seguendo lo stesso metodo tutt'oggi, in effetti.
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/shibuyasketchbook.jpg" alt="shibuya-sketchbook">
 <small>Lo sketchbook della Shibuya mostrato durante le celebrazioni per il 25° anniversario di Final Fantasy.</small> </br> </br>
 
 ## Romancing SaGa e Tomomi Kobayashi
@@ -254,7 +246,6 @@ Con i mostri in _Final Fantasy_ spendevo un sacco di tempo ad osservare le opere
 
 Con _Romancing SaGa_ ho lavorato a stretto contatto con Tomomi, e mi sono potuta rivolgere a lei mentre disegnavo. Quindi _Romancing SaGa_ si mostra naturalmente in questo modo. [risate]
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/shibuyatomomi.jpg" alt="romancing-saga">
 <small>Il team di Romancing SaGa nel 2013. Da sinistra: Kazuko Shibuya (designer), Tomomi Kobayashi (artist), Kenji Ito (musica), Akitoshi Kawazu (director) e Masanori Ishikawa (producer di Emperor's Saga)</small> </br> </br>
 
 **A proposito, ha spiegato che creava i personaggi di _Final Fantasy_ prima dei concept di Amano. Con _SaGa Frontier_ cosa arrivò prima: le illustrazioni di Tomomi, o i suoi character design?**
@@ -297,7 +288,6 @@ Lavorai a _SaGa Frontier_ e _SaGa Frontier 2_ con lo stesso staff che realizzò 
 
 Per _SaGa Frontier_ usai alcuni editor di grafica 3D e realizzai alcuni modelli io stessa. Creavo l'animazione basica e i pre-render in questo modo, quindi li ritoccavo con un po' di lavoro sui pixel.
 
-<img src="https://shmuplations.com/wp-content/uploads/2014/02/saga3.png" alt="saga-frontier-3">
 <small>Splendido esempio di pixel art in SaGa Frontier 3</small> </br> </br>
 
 **Oh, non sapevo che lei facesse anche modellazione 3D. Pensavo erroneamente che lavorasse solo alla pixel art, senza coinvolgimenti nella terza dimensione**

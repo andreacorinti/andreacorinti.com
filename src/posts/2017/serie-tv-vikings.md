@@ -13,15 +13,13 @@ Nessuno Spoiler, tranquilli: solo qualche generica osservazione sparsa nel pieno
 
 ## Cosa c'insegna Vikings?
 
-<img src="https://thedockyards.com/wp-content/uploads/2015/08/Floki.jpg" alt="Vikings">
-
 Anzitutto che **la Storia è sexy.**
 
 Anche se non parliamo di un documentario <small>(o di Alberto Angela, per tutte le signorine all'ascolto)</small>, **le ambientazioni storiche** rese bene e con un buon livello di fedeltà offrono molto spesso **gli scenari più suggestivi e affascinanti della narrativa a tutti i livelli**, e le Serie TV non fanno eccezione (in questo discorso inserirei bene anche [Black Sails](/posts/black-sails/))
 
 ## La vera lezione
 
-<img src="https://i.ytimg.com/vi/DpEZBz8ax2k/maxresdefault.jpg" alt="Vikings">
+<img src="https://i.ytimg.com/vi/DpEZBz8ax2k/maxresdefault.jpg" alt="Ragnar e re Ecbert seduti fianco a fianco in Vikings">
 <small>I dialoghi più interessanti della serie probabilmente li hanno fatti questi due simpaticoni</small> </br> </br>
 
 Ecco, per una volta **non sono qui a scrivere recensioni o panoramiche varie**, m'interessava semplicemente sottolineare **un elemento fondamentale** che altrove viene fin troppo spesso trascurato:
@@ -30,7 +28,7 @@ Ecco, per una volta **non sono qui a scrivere recensioni o panoramiche varie**, 
 
 ## The Times They Are a-Changin'
 
-<img src="https://media1.popsugar-assets.com/files/thumbor/BL52naGytxrIhwUTfpwfcUtWM6w/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/05/20/867/n/1922283/79c9b480_edit_img_cover_file_16548855_1432138964_V_featured/i/Vikings-TV-Show-Historically-Accurate.jpg" alt="Vikings">
+<img src="https://media1.popsugar-assets.com/files/thumbor/BL52naGytxrIhwUTfpwfcUtWM6w/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/05/20/867/n/1922283/79c9b480_edit_img_cover_file_16548855_1432138964_V_featured/i/Vikings-TV-Show-Historically-Accurate.jpg" alt="Ragnar, Rollo e i vichinghi in cammino su una collina in Vikings">
 
 Attraversare **dinastie, mondi e forse intere epoche sfruttando le vite dei personaggi protagonisti**:
 

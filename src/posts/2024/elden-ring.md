@@ -27,7 +27,7 @@ Eppure, per il giocatore che sono oggi, mi tocca ammettere che un mondo così ap
 
 ### Open World 
 
-![Morrowind](/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-2.jpg)
+![Morrowind: un personaggio davanti ai funghi giganti di Vvardenfell](/img/archivio/videogiochi/otto-suggerimenti-per-il-videogioco-ideale-2.jpg)
 
 > You N'wah!
 
@@ -41,7 +41,7 @@ Nei titoli Bethesda, ad esempio, amavo creare background per i miei personaggi, 
 
 ### Souls
 
-![souls](/img/archivio/videogiochi/elden-ring-2.jpg)
+![Dark Souls: il combattimento con il cavaliere Artorias](/img/archivio/videogiochi/elden-ring-2.jpg)
 
 Il mio primo incontro con *Dark Souls 1* su PlayStation 3 fu traumatico. Perso nella Città Infame con un'arma a base di fuoco e Queelag in agguato, fui costretto a mettere in pausa il gioco.  
 
@@ -55,7 +55,7 @@ Tra tutti, *Dark Souls 1* resta il mio preferito. L’atmosfera, il ritmo lento 
 
 ### Soulslike 
 
-![Enotria](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2102450/ss_0e6407216412cd4aa22ff9b24b42186d61a2c097.600x338.jpg?t=1730220222)
+![Enotria: The Last Song, un guerriero mascherato con una lancia](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2102450/ss_0e6407216412cd4aa22ff9b24b42186d61a2c097.600x338.jpg?t=1730220222)
 
 Negli ultimi anni ho provato alcuni Soulslike moderni, come il promettente *Enotria* (affascinante dal punto di vista estetico e musicale, un po' limitato per tutto il resto), l’acclamato *Lies of P* e altri titoli che ora mi scordo.
 

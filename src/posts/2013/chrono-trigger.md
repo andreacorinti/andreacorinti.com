@@ -19,7 +19,7 @@ A voler tenere in conto certe nerdate, **Chrono Trigger potrebbe esserlo sul ser
 
 ## Il Dream Team
 
-![crono](https://cdn.wikimg.net/strategywiki/images/6/6c/Chrono_Trigger_Portraits_Crono.png)
+![Il ritratto di Crono da Chrono Trigger](https://cdn.wikimg.net/strategywiki/images/6/6c/Chrono_Trigger_Portraits_Crono.png)
 
 Il gruppo di sviluppatori di Chrono Trigger rappresentò un po' l'equivalente videoludico della Nazionale americana di Basket del '92:
 
@@ -36,7 +36,7 @@ Questi sono _alcuni_ dei nomi principali, ma moltissimi altri pesi massimi del s
 
 ## Trama
 
-![magus](https://cdn.wikimg.net/strategywiki/images/f/f0/Chrono_Trigger_Portraits_Magus.png)
+![Il ritratto di Magus da Chrono Trigger](https://cdn.wikimg.net/strategywiki/images/f/f0/Chrono_Trigger_Portraits_Magus.png)
 
 Incentrata sul **viaggio nel tempo e sui paradossi tanto cari al relativo archetipo narrativo**, la trama di Chrono Trigger risulta caratterizzata da uno sviluppo fresco ed originale:
 
@@ -54,7 +54,7 @@ Colpi di scena e intrecci temporali non mancheranno e, a seconda delle azioni de
 
 [^finali]: Ufficialmente dovrebbero essere 10, ma se si considera l'eventualità "game over" e qualche variante tra alcuni finali minori dovrebbero essere 14 se non sbaglio
 
-![ayla](https://www.chronocompendium.com/images/wiki/thumb/f/f3/T_Dactyl_Ride_Custom_Levels.jpg/640px-T_Dactyl_Ride_Custom_Levels.jpg)
+![Illustrazione di Akira Toriyama: Ayla in volo su uno pterodattilo con Crono e gli altri dietro](https://www.chronocompendium.com/images/wiki/thumb/f/f3/T_Dactyl_Ride_Custom_Levels.jpg/640px-T_Dactyl_Ride_Custom_Levels.jpg)
 
 Anche in questo senso, **Chrono Trigger rappresentò un JRPG piuttosto atipico:**
 
@@ -62,13 +62,13 @@ Rispetto alla linearità caratteristica del genere infatti, Chrono Trigger vanta
 
 ## Gameplay
 
-![marle](https://cdn.wikimg.net/strategywiki/images/5/57/Chrono_Trigger_Portraits_Marle.png)
+![Il ritratto di Marle da Chrono Trigger](https://cdn.wikimg.net/strategywiki/images/5/57/Chrono_Trigger_Portraits_Marle.png)
 
 Come detto, Chrono Trigger rappresentò senza dubbio qualcosa di nuovo nell'ambito del JRPG e la cosa si traduce anche nel gameplay vero e proprio:
 
 Per cominciare, **dimenticate gli incontri casuali.**
 
-![chrono trigger combattimento](https://lparchive.org/Chrono-Trigger-(by-Leavemywife)/Update%2002/22-chronocrit1.gif)
+/Update%2002/22-chronocrit1.gif)
 
 Gli scontri si svolgeranno _"on field"_ <small>(concetto ripreso in seguito da buona parte dei JRPG moderni)</small>, ovvero direttamente sul luogo dove abbiamo incrociato il mostro, rendendo i combattimenti di fatto molto più veloci e integrati con l'esplorazione.
 
@@ -92,7 +92,7 @@ temi medievaleggianti, cupe ballate futuristiche, sinfonie demoniache e ritmi tr
 
 ## Versioni
 
-![versioni](https://www.chronocompendium.com/images/wiki/thumb/2/2d/T_Resting_at_Luccas.jpg/640px-T_Resting_at_Luccas.jpg)
+![Illustrazione di Akira Toriyama di Chrono Trigger: Crono, Lucca, Marle, Frog e Robo in casa di Lucca](https://www.chronocompendium.com/images/wiki/thumb/2/2d/T_Resting_at_Luccas.jpg/640px-T_Resting_at_Luccas.jpg)
 
 Chrono Trigger nasce ovviamente per Super Nintendo, ed è stato [tradotto amatorialmente dai soliti grandissimi Sadnes in Italiano](https://www.sadnescity.it/traduzioni/ct/ct.php).
 

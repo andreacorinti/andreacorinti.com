@@ -23,7 +23,7 @@ Sul momento, ho strabuzzato gli occhi temendo di essermi bevuto il cervello a ca
 
 _non solo_ avevo risposto a Caos, ma la conversazione è proseguita diventando un allegro delirio che ha coinvolto nell'ordine [Nikole](https://livellosegreto.it/@nikole), [CapeTaun](https://livellosegreto.it/@capetaun) e [Raffy_Baffy](https://livellosegreto.it/@Raffy_Baffy).
 
-![basil](/img/archivio/internet/mastodon-silenziare-1.jpg)
+![Basil l'investigatopo con la lente d'ingrandimento accanto al dottor Topson](/img/archivio/internet/mastodon-silenziare-1.jpg)
 
 esempio pratico: 
 
@@ -55,7 +55,7 @@ Come detto non date per scontato nulla visto che sto sperimentando io per primo 
 
 In ogni modo, lasciamo perdere il caso specifico, e vediamolo nell'ottica generale: 
 
-![istanze-ban](/img/mastodon/istanze-ban.jpg)
+![Schema di come i messaggi di utenti bannati da istanze diverse arrivano a un'altra istanza](/img/mastodon/istanze-ban.jpg)
 
 _lo so faccio schifo coi grafici_
 
@@ -65,7 +65,7 @@ Pensate per esempio ad una conversazione con al centro un tema ben più serio, e
 
 Non solo: altri magari potrebbero avere accesso alla discussione completa facendosi un'idea precisa della piega presa dal topic, altri ancora potrebbero vedere _un'altra fetta_, diversa dalla prima...
 
-![paperi](/img/mastodon/paperi-1.jpg)
+![Una finta discussione su Mastodon tra Pippo, Topolino, Paperino e Paperoga](/img/mastodon/paperi-1.jpg)
 
 _forse così è più chiaro: la parte in grigio è invisibile a Pippo e Topolino perché Paperoga è silenziato, di conseguenza le risposte che lo coinvolgono sono invisibili (Paperino lo vede perché usa Fedilab oppure sta in un'altra istanza che ho dimenticato di specificare)_
 

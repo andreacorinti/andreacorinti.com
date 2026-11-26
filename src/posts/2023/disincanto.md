@@ -17,7 +17,7 @@ Nella mia testa, sembra sempre un cartone animato uscito da molto meno tempo.
 
 ## Il fantasy di Matt Groening più che ridere fa pensare
 
-![disincanto](https://theartsdesk.com/sites/default/files/mastimages/Dis1.jpg)
+![Disincanto: Bean annoiata sul trono con Luci ed Elfo accanto](https://theartsdesk.com/sites/default/files/mastimages/Dis1.jpg)
 
 Ho riflettuto sul discorso del tempo perché, in uno dei rari commenti positivi che si trovano in rete su Disincanto, ho letto quello di un ragazzo che spiegava come le avventure di Bean lo avessero accompagnato nella cruciale fase che passa dai 13 ai 18 anni (che credo rappresenti il target in assoluto più importante per opere d'intrattenimento di questo tipo).
 
@@ -27,7 +27,7 @@ Del resto, il discorso _"ok, si ride ma non è la priorità"_ si potrebbe fare a
 
 ## Va bene tutto, ma vale la pena guardarselo?
 
-![disincanto](https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQcpGOpe-Vzi2KtfOexbE7AvPBiX9CcWKHDpQN2Uc2DAXhj8mKCLFpL-vN5l7TKetKR67IdavfLCGIjZmziHQj5J3y8YpQ0fBCn2d6Qmen14DUVHS9HAPl3Oek-ZCS7MhJR53ANjtdGOO12inVPHVmug2.jpg?r=ff7)
+![Disincanto: Bean ed Elfo davanti a una fiamma verde, con una folla dietro le sbarre](https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQcpGOpe-Vzi2KtfOexbE7AvPBiX9CcWKHDpQN2Uc2DAXhj8mKCLFpL-vN5l7TKetKR67IdavfLCGIjZmziHQj5J3y8YpQ0fBCn2d6Qmen14DUVHS9HAPl3Oek-ZCS7MhJR53ANjtdGOO12inVPHVmug2.jpg?r=ff7)
 
 Sì con qualche riserva, o non ne starei scrivendo:
 
@@ -37,7 +37,7 @@ molte sottotrame sembrano superflue e gli elementi all'apparenza paradossali e c
 
 ## Non me lo stai vendendo bene, eh.
 
-![disincanto](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSMOcpjGHYSnzj10bkFnUAhlvKTJlviyGjC-64HFI7dzI6V1l8hRbsZSt77a0k-nx1N_4AxFRxooLe6a0SC9WJ2xIbPiVhcKFqtiMkAm0iiogirSyEDWU6k7vE0RVlvtEE5NN0OGolEZzT33uFVr2-FPhzE.jpg)
+![Disincanto: Bean su una coffa insieme a una piratessa, di notte](https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSMOcpjGHYSnzj10bkFnUAhlvKTJlviyGjC-64HFI7dzI6V1l8hRbsZSt77a0k-nx1N_4AxFRxooLe6a0SC9WJ2xIbPiVhcKFqtiMkAm0iiogirSyEDWU6k7vE0RVlvtEE5NN0OGolEZzT33uFVr2-FPhzE.jpg)
 
 Lo so, ma è soprattutto un mettere in guardia con l'impatto non proprio roseo della prima stagione: 
 
@@ -47,7 +47,7 @@ più va avanti, pur con i suoi difetti, più la storia e i personaggi di Disinca
 
 ## Morale
 
-![disincanto-mappa](https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQfCIds9BPcWHDeef96byXFVaH4X2o12GhMpf-2YLtHKr9INTCZuV6lEcGxALaxypAs2VieuUJkLtLOz5n4BgSo0310AJy1KAiJo5WDVvhwvqI7TecAF9m2ZKH50dCoqSV5psI0wCNsU0MsoNOuMcXNqx.jpg?r=f47)
+![La mappa ufficiale del mondo di Disincanto, circondata dai ritratti dei personaggi](https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQfCIds9BPcWHDeef96byXFVaH4X2o12GhMpf-2YLtHKr9INTCZuV6lEcGxALaxypAs2VieuUJkLtLOz5n4BgSo0310AJy1KAiJo5WDVvhwvqI7TecAF9m2ZKH50dCoqSV5psI0wCNsU0MsoNOuMcXNqx.jpg?r=f47)
 
 Ridendo e scherzando (ma manco tanto a dire il vero) l'ultima stagione me la sono bevuta: 
 
