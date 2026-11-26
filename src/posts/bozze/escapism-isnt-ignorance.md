@@ -1,5 +1,6 @@
 ---
 layout: posteng
+tags: ["internet"]
 title: "Escapism Isn't Ignorance (and No Social Network Is Pure)"
 subtitle: "Bluesky, Mastodon, online outrage and following the money"
 sommario: "An old rant of mine about content warnings on Mastodon, remixed for Bluesky, plus some doubts about who pays for the fediverse and how decentralised it really is."
