@@ -7,7 +7,7 @@ sommario: "First impressions of Blade Runner 2099 from someone who loves Blade R
 immagine: /img/blade-runner-2099/michelle-yeoh.jpg
 date: 2026-11-26
 lang: en-US
-bluesky: ""
+bluesky: "https://bsky.app/profile/andreacorinti.com/post/3n37jcrwf5s22"
 fediverse: ""
 ---
 
