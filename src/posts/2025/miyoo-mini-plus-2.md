@@ -1,15 +1,18 @@
 ---
 layout: postita
 title: "Le prime 100 ore di Miyoo Mini Plus"
+seoTitle: "Miyoo Mini Plus dopo 100 ore: giochi e alternative"
 subtitle: "Piccole gioie tascabili"
 sommario: "dopo due mesi e 100 ore giocate, credo di poter parlare con un po' più di cognizione di causa di questo magnifico aggeggino."
+seoDescription: "Miyoo Mini Plus dopo due mesi e 100 ore in treno: a cosa ho giocato (Castlevania, Final Fantasy IX, Gran Turismo 2) e come la vedo contro Miyoo Flip."
 immagine: "/img/miyoo-mini-plus-100.jpg"
 tags: ["videogiochi"]
 date: 2025-04-14
 lang: it-IT
+updated: 2026-11-27
 ---
 
-Per l'impatto della prima settimana, rimando al [post di febbraio](/posts/miyoo-mini-plus)
+**Prima parte:** per l'impatto della prima settimana, rimando al [post di febbraio](/posts/miyoo-mini-plus/)
 
 Bene: dopo due mesi e 100 ore giocate, credo di poter parlare con un po' più di cognizione di causa di questo magnifico aggeggino.
 

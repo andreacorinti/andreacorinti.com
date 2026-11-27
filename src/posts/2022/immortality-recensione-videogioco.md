@@ -5,6 +5,7 @@ subtitle: "Straordinario e sorprendentemente nuovo nella sua essenzialità."
 tags: ["videogiochi"]
 date: 2022-08-31
 sommario: Coincidenza volle che io abbia appena finito di leggere Il Monaco di Lewis (è un libro bellissimo che porta egregiamente i suoi più di 200 anni, consigliato a tutti i fan del gotico) perciò mi sono ritrovato con un passaporto privilegiato per entrare in questo nuovo, splendido figlio di Sam Barlow.
+seoDescription: "Recensione senza spoiler di Immortality, il gioco di Sam Barlow (Her Story): un'opera tra cinema e videogioco, per chi ama gli esperimenti narrativi."
 immagine: /img/immortality-sam-barlow.jpg
 lang: it-IT
 ---

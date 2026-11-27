@@ -7,7 +7,11 @@
 {%- set effectiveTitle %}{% if seoTitle %}{{ seoTitle }}{% else %}{{ title }}{% endif %}{% endset -%}
 {%- set pageTitle %}{% if effectiveTitle %}{{ effectiveTitle | safe }} | {% endif %}{{ meta.siteName }}{% endset -%}
 {%- set pageOgTitle %}{% if effectiveTitle %}{{ effectiveTitle | safe }}{% else %}{{ meta.siteName }}{% endif %}{% endset -%}
-{%- set pageDescription %}{% if sommario %}{{ sommario }}{% elif description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
+{# seoDescription: come seoTitle, ma per meta description/og:description.
+   Il `sommario` resta quello delle card in home, del feed e della ricerca
+   (spesso è l'inizio del post): seoDescription cambia solo cosa vedono
+   Google e le anteprime social. #}
+{%- set pageDescription %}{% if seoDescription %}{{ seoDescription }}{% elif sommario %}{{ sommario }}{% elif description %}{{ description }}{% else %}{{ meta.siteDescription }}{% endif %}{% endset -%}
 {# Pages without their own `immagine` fell back to /previews/{slug}.png,
    a path nothing in this project ever generates — a permanently-broken
    social preview image on every page that hits this branch (homepage,

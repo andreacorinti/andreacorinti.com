@@ -1,10 +1,12 @@
 ---
 layout: postita
 title: "Immortality - possibile spiegazione ed elenco delle scene segrete del gioco"
+seoTitle: "Immortality: spiegazione e scene segrete"
 subtitle: "Proviamo ad avanzare ipotesi sul significato del capolavoro di Sam Barlow."
 tags: ["videogiochi"]
 date: 2022-09-05
 sommario: Premessa. Ciò che seguirà è assolutamente SPOILER e vi consiglio caldamente di giocare e sperimentare con Immortality per i fatti vostri...
+seoDescription: "Attenzione, spoiler: le scene segrete di Immortality di Sam Barlow, come trovarle e un'interpretazione della storia di The One, dalle origini al finale."
 immagine: /img/immortality/cover.jpg
 lang: it-IT
 ---

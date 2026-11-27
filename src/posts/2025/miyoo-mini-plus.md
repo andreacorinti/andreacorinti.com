@@ -1,12 +1,15 @@
 ---
 layout: postita
 title: "Miyoo Mini Plus"
+seoTitle: "Miyoo Mini Plus: recensione e impressioni dopo una settimana"
 subtitle: "Resoconto dopo una settimana"
 sommario: "Siccome sono in Italia, a inzio febbraio ho avuto un attacco di nostalgia e recuperato il mio vetusto, impolverato e scassatissimo (ma più o meno funzionante) Game Boy..."
+seoDescription: "Miyoo Mini Plus dopo una settimana: comandi, OnionOS, emulazione dal Game Boy alla PS1, i giochi provati e le differenze con la Miyoo Mini base."
 immagine: "/img/miyoo-mini-plus-cover.jpg"
 tags: ["videogiochi"]
 date: 2025-02-24
 lang: it-IT
+updated: 2026-11-27
 ---
 
 Siccome sono in Italia, a inzio febbraio ho avuto un attacco di nostalgia e recuperato il mio vetusto, impolverato e scassatissimo (ma più o meno funzionante) Game Boy Color.
@@ -109,10 +112,18 @@ Come detto, avendo la Deck per giochi più "ciccioni" questo corrisponde alle mi
 
 Stando alle banalità, su schermini simili analogici o altre sovrastrutture per me diventerebbero piuttosto superflue, visto che in ogni caso andare oltre la PS1 mi servirebbe a poco.
 
+E la Miyoo Mini "liscia"? 
+
+Non l'ho mai avuta in mano, quindi vado sulla carta: il cuore è lo stesso (stesso processore, quindi girano gli stessi giochi), ma la Plus ha lo schermo più grande (3,5 pollici contro 2,8), una batteria più capiente e il Wi-Fi, comodo per OnionOS e RetroAchievements. 
+
+La Mini base in compenso è ancora più piccina e tascabile: se volete proprio il formato più piccolo possibile è lei, io per come gioco quei pollici in più me li tengo stretti.
+
 ### Conclusioni
 
 Se viaggiate spesso in treno / autobus / metropolitana / aerei eccetera eccetera questa consolina è davvero una meraviglia, in particolare per i retrogamer curiosi e nostalgici.
 
 Ci risentiremo tra qualche tempo con qualche update più a freddo!
+
+**Seconda parte:** [Le prime 100 ore di Miyoo Mini Plus](/posts/miyoo-mini-plus-2/)
 
 <mastodon-comments host="livellosegreto.it" user="xabacadabra" tootId="114059184158199967"></mastodon-comments>
