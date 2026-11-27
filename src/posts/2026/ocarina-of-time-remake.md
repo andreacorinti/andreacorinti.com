@@ -1,12 +1,15 @@
 ---
 layout: postita
 title: "The Legend of Zelda: Ocarina of Time Remake"
+seoTitle: "Zelda: Ocarina of Time Remake su Switch 2, la mia recensione"
 subtitle: "Come si restaura un monumento"
 sommario: "Il mio primo preorder di sempre, uno Zelda giocato senza nostalgia e un remake che fa esattamente quello che non volevo dal remake di Final Fantasy VII: restare fedele all'originale. E meno male!"
+seoDescription: "Zelda: Ocarina of Time Remake su Switch 2: grafica, stile da teatro dei burattini, colonna sonora orchestrale, comandi moderni e la questione difficoltà."
 immagine: /img/ocarina-of-time-remake/ocarina-of-time-remake-keyart.jpg
 tags: ["videogiochi"]
 date: 2026-11-17
 lang: it-IT
+updated: 2026-11-27
 ---
 
 _(qui trovate le mie [prime impressioni dopo il trailer](/posts/remake-zelda-ocarina-of-time/))_
@@ -68,6 +71,10 @@ I nuovi accorgimenti semplificano certamente ancora di più l'esperienza ma... _
 
 Per me, per dire, è un godimento assoluto, da gioco rilassante e divertente: un'esperienza diversissima da roba volutamente molto più impegnativa (senza scomodare i Dark Souls, anche qui potremmo citare di nuovo Breath e Tears, che pur non essendo difficilissimi chiedevano molta più concentrazione e soprattutto tempo al giocatore).
 
-Devo ancora finirlo eh, ma mi manca davvero poco e per il momento resta già uno dei videogiochi più belli che io abbia mai giocato, nonostante, come dicevo, non sia legato a nostalgia o girellismo di sorta.
+Nel frattempo l'ho finito e lo confermo: resta uno dei videogiochi più belli che io abbia mai giocato, nonostante, come dicevo, non sia legato a nostalgia o girellismo di sorta.
 
 ![Ganondorf nell'artwork ufficiale Nintendo, in armatura, che punta il dito verso chi guarda](https://assets.nintendo.com/image/upload/f_auto,q_auto,w_1200/Marketing2/DNDPqUcrg1784158469aaH8EIiMcjzbYSlnG0ncVJW3rSzR35s0l1pKOdPLJAm2y/section_characters/character-artwork-ganondorf.png)
+
+### Aggiornamento: finito!
+
+Piccola nota a margine: lo trovo un po' pacchiano tra i candidati a gioco dell'anno. È come se la MERAVIGLIOSA cover di _Stairway to Heaven_ degli Heart finisse in lizza per un concorso: nessuno ne discute la bellezza, ma non dovremmo ragionare di inediti?

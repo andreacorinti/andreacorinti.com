@@ -9,6 +9,8 @@ date: 2026-09-09
 lang: it-IT
 ---
 
+_(e qui trovate la mia [recensione del remake dopo l'uscita](/posts/ocarina-of-time-remake/))_
+
 Beh dai, il trailer l'avrete visto tutti oramai no?
 
 Vabbè mettiamolo pure qui per ogni evenienza:
