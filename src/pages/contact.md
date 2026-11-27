@@ -35,4 +35,6 @@ title: Contact
   <p class="freelance-box__piva"><span>P.IVA</span> <strong>04319490134</strong></p>
 </div>
 
+{% include 'work-box.njk' %}
+
 {% include 'social.njk' %}

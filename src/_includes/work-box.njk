@@ -1,0 +1,21 @@
+{%- comment -%}
+  Riquadro "Lavora con me" (_work.scss), sintesi di /lavora-con-me/: in fondo
+  alla pagina Progetti e nei Contatti. Liquid, come le pagine che lo includono.
+  Quando si riaprono le richieste si può rispostare più in alto.
+{%- endcomment -%}
+<section class="work-box" aria-labelledby="work-box-title">
+  {%- unless meta.work.available %}
+  <p class="work-stamp work-box__stamp"><span class="work-stamp__dot" aria-hidden="true"></span>Party al completo</p>
+  {%- endunless %}
+  <p class="work-box__label">Lavora con me</p>
+  <h2 class="work-box__title" id="work-box-title">Siti piccoli e veloci, fatti con 11ty</h2>
+  <p class="work-box__text">Per blogger, professionisti e piccole attività: niente database né plugin da aggiornare, hosting gratuito, tema chiaro e scuro. Come questo sito.</p>
+  <ul class="work-box__prices">
+    <li><span>Blog o sito personale</span> <strong>da {{ meta.work.prices.blog }} €</strong></li>
+    <li><span>Sito vetrina</span> <strong>da {{ meta.work.prices.vetrina }} €</strong></li>
+  </ul>
+  <p class="work-box__cta">
+    <a class="cat-btn work-box__btn" href="/lavora-con-me/">Prezzi e dettagli <span aria-hidden="true">→</span></a>
+    <span class="work-box__note">Preventivo gratuito</span>
+  </p>
+</section>
