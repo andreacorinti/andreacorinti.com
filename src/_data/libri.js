@@ -44,7 +44,7 @@ const libri = {
     cover: "/img/libri/too-social/cover.jpg",
     coverAlt: "Cover of Too Social: an app icon with a red “99+” badge on a petrol blue background",
     datePublished: "2025",
-    primaEdizione: "First published in 2025 on Amazon and itch.io.",
+    primaEdizione: "First published in 2025 on itch.io.",
     license: ccByNc,
     translation: "troppo-social",
     translationOf: "troppo-social",
