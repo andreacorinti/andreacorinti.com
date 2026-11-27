@@ -47,4 +47,4 @@ Unless stated otherwise, the content on this site is published under a <a href="
 
 Feel free to take a peek at the source code on <a href="https://github.com/andreacorinti/andreacorinti.com" target="_blank" rel="noopener">Github</a>.
 
-Built with <a href="https://www.11ty.io/" target="_blank" rel="noopener">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="_blank" rel="noopener">11ty Jumpstart</a>, <a href="https://github.com/" target="_blank" rel="noopener">Github</a> and <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>.
+Built with <a href="https://www.11ty.io/" target="_blank" rel="noopener">11ty</a>, <a href="https://github.com/5t3ph/11ty-netlify-jumpstart" target="_blank" rel="noopener">11ty Jumpstart</a>, <a href="https://github.com/" target="_blank" rel="noopener">Github</a> and <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>. Optimized with <a href="https://claude.com/claude-code" target="_blank" rel="noopener">Claude Code</a>.
