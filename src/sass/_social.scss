@@ -17,6 +17,17 @@
     width: 96px;
   }
 
+// su telefono 96px mandavano le 5 icone su due righe: più piccole, in fila
+@media (width < 600px) {
+  .social ul {
+    padding: 0;
+  }
+
+  .social svg {
+    width: 56px;
+  }
+}
+
 .twitter {
  fill: #00acee;
 }
