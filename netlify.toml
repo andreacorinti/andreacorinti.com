@@ -104,6 +104,43 @@
     status = 301
     force = true
 
+  # 404 segnalati da Search Console (novembre 2026).
+  # /italian-N/ era il vecchio indirizzo dell'archivio del blog, ora /blog-N/.
+  [[redirects]]
+    from = "/italian-0"
+    to = "/blog-0/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/italian-*"
+    to = "/blog-0/"
+    status = 301
+    force = true
+
+  # Pagina del download di Giochi Troppo!, tornata in bozze (il libro è in
+  # KDP Select fino a fine gennaio 2027): si rimanda alla pagina del libro.
+  # Non forzato: se la pagina torna online, vince il file.
+  [[redirects]]
+    from = "/piratiamo-giochi-troppo/"
+    to = "/projects/giochi-troppo/"
+    status = 301
+
+  # Due link relativi scritti male (senza / iniziale o senza https://),
+  # corretti nei post ma già finiti nell'indice di Google. La prima arriva qui
+  # dopo il redirect di /posts/ita/* qui sopra.
+  [[redirects]]
+    from = "/posts/misskey/posts/ita/*"
+    to = "/posts/:splat"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/posts/disco-del-mese-09-2025/mastodon.social/*"
+    to = "https://mastodon.social/:splat"
+    status = 301
+    force = true
+
   # No Content-Security-Policy here on purpose: a decade of posts embed
   # iframes/images from dozens of ad-hoc third-party hosts (Spotify,
   # YouTube, Bandcamp, old blogspot/tumblr/wordpress media...), so a CSP
@@ -122,6 +159,19 @@
   # they keep the same filename across deploys (no content hash), so a
   # long cache there would serve stale styles/scripts until it expires.
   # (CSS: ora ha l'impronta ?v=, vedi più sotto.)
+  # File tecnici che Google aveva scansionato come pagine: la verifica
+  # rel="me" e l'indice della ricerca interna. Restano raggiungibili, ma
+  # fuori dai risultati.
+  [[headers]]
+    for = "/.well-known/me"
+    [headers.values]
+      X-Robots-Tag = "noindex"
+
+  [[headers]]
+    for = "/search-index.json"
+    [headers.values]
+      X-Robots-Tag = "noindex"
+
   [[headers]]
     for = "/fonts/*"
     [headers.values]

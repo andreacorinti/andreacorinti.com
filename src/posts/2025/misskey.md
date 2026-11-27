@@ -11,7 +11,7 @@ lang: it-IT
 
 Escludendo il solito mondo social-centralizzato (Threads, Bluesky), Misskey è uno dei software più utilizzati del Fediverso dopo Mastodon...
 
-E, visto che [come detto e ridetto con Mastodon ho qualche problema](posts/ita/mastodon%20e%20fediverso), ieri mi sono messo a provarlo in modo serio - avevo già fatto un vago tentativo qualche anno fa, ma avevo mollato subito.
+E, visto che [come detto e ridetto con Mastodon ho qualche problema](/posts/mastodon%20e%20fediverso/), ieri mi sono messo a provarlo in modo serio - avevo già fatto un vago tentativo qualche anno fa, ma avevo mollato subito.
 
 ### Galeotta fu la spilletta
 

@@ -11,7 +11,7 @@ lang: it-IT
 
 [_**Agosto 2025**_](/posts/disco-del-mese-08-2025)
 
-Beh, con _A Dark Poem Part I: The Shores of Melancholia_ [mi sono dissanguato per il Vinile rosso](mastodon.social/@Xabacadabra/115230596583003216) al Bandcamp friday e per me è potenzialmente il disco dell'anno (in dubbio con un altro paio in realtà, ma se ne riparla a dicembre), quindi che dire?
+Beh, con _A Dark Poem Part I: The Shores of Melancholia_ [mi sono dissanguato per il Vinile rosso](https://mastodon.social/@Xabacadabra/115230596583003216) al Bandcamp friday e per me è potenzialmente il disco dell'anno (in dubbio con un altro paio in realtà, ma se ne riparla a dicembre), quindi che dire?
 
 Progressive metal struggente e teatrale, con pure quella punta di growl death metal per gradire in _The Slave that you are_, con soluzioni proggone classiche ma rese con epica magnificenza.
 
