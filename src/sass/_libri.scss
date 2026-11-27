@@ -1,8 +1,37 @@
 // Saggi leggibili sul sito (/libri/, /books/): stessa larghezza di testo dei
 // post (article, 80ch), interlinea più generosa per leggere a lungo,
 // navigazione tra capitoli sobria, note in fondo al capitolo.
+// Un po' di "libro" senza uscire dal sito: testata nei colori della
+// copertina (variabili --tdbc-libro-* da _data/libri.js, via libro-colori.njk),
+// barra di avanzamento, corpo in serif di sistema (nessun font da
+// scaricare), capolettera, sommario con numeri colorati, fregio ⁂.
+
+.libro-pagina {
+  --tdbc-libro-accento-testo: var(--tdbc-libro-accento);
+
+  :root[data-theme="light"] & {
+    --tdbc-libro-accento-testo: var(--tdbc-libro-accento-chiaro);
+  }
+}
+
+// serif "da libro" già presenti nei sistemi operativi più diffusi
+$tdbc-libro-serif: "Iowan Old Style", "Palatino Linotype", palatino, "Book Antiqua", charter, "Bitstream Charter", georgia, serif;
 
 .libro-hero {
+  // la fascia nei colori della copertina, uguale nei due temi
+  min-height: 0;
+  padding: 3rem 0 2.5rem;
+  background-color: var(--tdbc-libro-fondo);
+  color: var(--tdbc-libro-inchiostro);
+
+  h1 {
+    color: var(--tdbc-libro-inchiostro);
+  }
+
+  a {
+    color: var(--tdbc-libro-inchiostro);
+  }
+
   &__book {
     margin: 0 0 0.4rem;
     font-family: Teko, sans-serif;
@@ -12,24 +41,46 @@
     text-transform: uppercase;
 
     a {
-      color: var(--tdbc-muted);
+      opacity: 0.85;
       text-decoration: none;
     }
 
     a:hover,
     a:focus-visible {
-      color: var(--tdbc-link-hover);
+      opacity: 1;
+      text-decoration: underline;
     }
+  }
+
+  &__count {
+    margin: 0 0 0.6rem;
+    opacity: 0.8;
+    font-size: 0.9rem;
+    letter-spacing: 0.04em;
   }
 
   &__subtitle,
   &__author {
     margin: 0.5rem auto 0;
-    color: var(--tdbc-muted);
+    opacity: 0.85;
   }
 
   &__subtitle {
+    font-family: $tdbc-libro-serif;
+    font-size: 1.15rem;
     font-style: italic;
+  }
+}
+
+// avanzamento nel libro, sul bordo inferiore della testata
+.libro-progresso {
+  height: 5px;
+  background-color: color-mix(in srgb, var(--tdbc-libro-fondo) 55%, #000);
+
+  span {
+    display: block;
+    height: 100%;
+    background-color: var(--tdbc-libro-accento);
   }
 }
 
@@ -38,8 +89,30 @@
   margin: 0 auto;
 
   &__testo {
-    font-size: 1.08rem;
-    line-height: 1.75;
+    font-family: $tdbc-libro-serif;
+    font-size: 1.18rem;
+    line-height: 1.7;
+
+    // capolettera all'inizio del capitolo; flow-root lo tiene dentro il
+    // primo paragrafo, anche quando è di una riga sola
+    > p:first-of-type {
+      display: flow-root;
+    }
+
+    > p:first-of-type::first-letter {
+      margin: 0.06em 0.12em 0 0;
+      float: left;
+      color: var(--tdbc-libro-accento-testo);
+      font-family: $tdbc-libro-serif;
+      font-size: 3.6em;
+      font-weight: bold;
+      line-height: 0.82;
+    }
+
+    h2,
+    h3 {
+      color: var(--tdbc-text);
+    }
 
     p,
     li {
@@ -77,14 +150,23 @@
     }
 
     // note a piè di pagina (markdown-it-footnote): in fondo al capitolo
+    // fregio ⁂ al posto della riga sopra le note
     .footnotes-sep {
       margin: 2.5rem 0 1rem;
       border: 0;
-      border-top: 1px solid var(--tdbc-border-subtle);
+      text-align: center;
+      overflow: visible;
+
+      &::before {
+        color: var(--tdbc-libro-accento-testo);
+        font-size: 1.4rem;
+        content: "⁂";
+      }
     }
 
     .footnotes {
       color: var(--tdbc-muted);
+      font-family: inherit;
       font-size: 0.92rem;
       line-height: 1.6;
     }
@@ -128,6 +210,7 @@
   }
 
   &__index {
+    color: var(--tdbc-libro-accento-testo);
     font-family: Teko, sans-serif;
     font-size: 1.25rem;
     letter-spacing: 0.05em;
@@ -175,7 +258,7 @@
     margin: 0 auto;
     border: 2px solid var(--tdbc-card-line, var(--tdbc-text));
     border-radius: 3px;
-    box-shadow: 5px 5px 0 var(--tdbc-nav-mark);
+    box-shadow: 6px 6px 0 var(--tdbc-libro-accento);
   }
 
   &__intro p {
@@ -203,11 +286,30 @@
 
   &__toc {
     margin: 0;
-    padding-left: 1.6rem;
-    line-height: 1.6;
+    padding-left: 2rem;
+    font-family: $tdbc-libro-serif;
+    font-size: 1.12rem;
+    line-height: 1.5;
 
     li {
-      margin-bottom: 0.3rem;
+      margin-bottom: 0.15rem;
+      padding: 0.35rem 0;
+      border-bottom: 1px dotted var(--tdbc-border-subtle);
+    }
+
+    li::marker {
+      color: var(--tdbc-libro-accento-testo);
+      font-family: Teko, sans-serif;
+      font-size: 1.15em;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus-visible {
+      text-decoration: underline;
     }
   }
 }

@@ -44,9 +44,10 @@ layout: base.njk
 
 {% include 'sitenav.njk' %}
 
+<div class="libro-pagina" {% include "libro-colori.njk" %}>
 <header class="tdbc-hero libro-hero">
   <div class="tdbc-container">
-    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ libro.title }}</h1>
+    <h1 class="tdbc-mb-none">{{ libro.title }}</h1>
     {%- if libro.subtitle %}
     <p class="libro-hero__subtitle">{{ libro.subtitle }}</p>
     {%- endif %}
@@ -63,6 +64,9 @@ layout: base.njk
         <p class="libro-indice__actions">
           <a class="cat-btn libro-indice__download" href="{{ libro.epub }}" download>{{ t.download }}</a>
         </p>
+        {%- if libro.primaEdizione %}
+        <p class="libro-indice__meta">{{ libro.primaEdizione }}</p>
+        {%- endif %}
         <p class="libro-indice__meta">{{ t.license }}: <a href="{{ libro.license.url }}" rel="license">{{ libro.license.name }}</a>{% if twin.visibile %} · <a href="{{ twin.url }}" hreflang="{{ twin.lang }}" lang="{{ twin.lang }}">{{ t.otherLang }}</a>{% endif %}</p>
       </div>
     </div>
@@ -75,3 +79,4 @@ layout: base.njk
     </ol>
   </article>
 </main>
+</div>

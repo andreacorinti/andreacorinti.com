@@ -28,12 +28,16 @@ layout: base.njk
 
 {% include 'sitenav.njk' %}
 
+<div class="libro-pagina" {% include "libro-colori.njk" %}>
 <header class="tdbc-hero libro-hero">
   <div class="tdbc-container">
     <p class="libro-hero__book"><a href="{{ libro.url }}">{{ libro.title }}</a></p>
-    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
+    <p class="libro-hero__count">{{ t.chapterOf | replace("{n}", order) | replace("{tot}", capitoli.length) }}</p>
+    <h1 class="tdbc-mb-none">{{ title }}</h1>
   </div>
 </header>
+{#- avanzamento nel libro: solo decorativo, il numero è già scritto sopra -#}
+<div class="libro-progresso" aria-hidden="true"><span style="width: {{ (order / capitoli.length * 100) | round(1) }}%"></span></div>
 
 <main id="main-content" class="tdbc-container">
   <article class="libro">
@@ -49,3 +53,4 @@ layout: base.njk
     {% include 'libro-nav.njk' %}
   </article>
 </main>
+</div>

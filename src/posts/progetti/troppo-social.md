@@ -6,7 +6,7 @@ subtitle: "Ciao Zuck!"
 permalink: false
 link: /libri/troppo-social/
 sommario: "Un piccolo saggio per ragionare sulla nostra nefasta esperienza coi social media"
-immagine: /img/troppo-social.jpg
+immagine: /img/libri/troppo-social/card.jpg
 lang: it-IT
 date: 2025-07-04
 ---
