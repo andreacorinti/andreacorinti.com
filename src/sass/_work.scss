@@ -1,4 +1,4 @@
-// Riquadro "Lavora con me" in cima alla pagina Projects: stesso linguaggio
+// Riquadro "Lavora con me" in fondo alla pagina Projects, sotto le card: stesso linguaggio
 // di .freelance-box e delle card (bordo spesso, ombra piena sfalsata, bordo
 // sinistro giallo del sito). Il bottone è un .cat-btn col giallo come colore.
 .work-box {
@@ -13,7 +13,7 @@
 
   position: relative;
   max-width: 46rem;
-  margin: 1rem 0 3rem;
+  margin: 3rem 0 1rem;
   padding: 1.25rem 1.5rem 1.4rem;
   border: 2px solid var(--tdbc-card-line, var(--tdbc-text));
   border-left: 6px solid var(--tdbc-nav-mark);
