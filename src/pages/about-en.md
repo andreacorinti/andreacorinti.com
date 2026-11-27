@@ -37,6 +37,8 @@ Want to ask something in particular?
 
 And here you can find some of my favourite sites on the web: [**Xab's Bookmarks**](/bookmarks/).
 
+If you enjoy what I write and feel like supporting me, you can [buy me a coffee on Liberapay]({{ meta.liberapay }}).
+
 {% include 'social.njk' %}
 
 ## License & Tech

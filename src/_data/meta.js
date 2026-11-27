@@ -8,6 +8,8 @@ module.exports = {
   siteDescription: "Blog and website of Andrea Corinti (Xab), freelance content & e-learning platform coordinator and Italian Web World citizen.",
   authorName: "Andrea Corinti",
   domain: "andreacorinti.com",
+  // Link testuale "Offrimi un caffè" (footer, about, fondo dei capitoli dei saggi)
+  liberapay: "https://liberapay.com/Xabacadabra/",
   // Usati dai commenti Bluesky (front matter `bluesky`) e dai link al profilo.
   bluesky: {
     handle: "andreacorinti.com",

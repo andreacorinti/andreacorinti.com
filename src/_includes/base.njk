@@ -137,7 +137,7 @@
     <footer class="tdbc-background--secondary">
       <div class="tdbc-container tdbc-text-align-center">
         <div class="tdbc-row tdbc-ink--light tdbc-mx-auto">
-          <p class="tdbc-mb-none">&copy; 2018 - {% year %} <a class="h-card u-url" rel="me author" href="https://www.andreacorinti.com/about">{{ meta.siteName }}</a> • {% packageVersion %} • {% if lang and lang.startsWith('en') %}<a href="/work-with-me/">Work with me</a>{% else %}<a href="/lavora-con-me/">Lavora con me</a>{% endif %}</p>
+          <p class="tdbc-mb-none">&copy; 2018 - {% year %} <a class="h-card u-url" rel="me author" href="https://www.andreacorinti.com/about">{{ meta.siteName }}</a> • {% packageVersion %} • {% if lang and lang.startsWith('en') %}<a href="/work-with-me/">Work with me</a> • <a href="{{ meta.liberapay }}">Buy me a coffee</a>{% else %}<a href="/lavora-con-me/">Lavora con me</a> • <a href="{{ meta.liberapay }}">Offrimi un caffè</a>{% endif %}</p>
           <span class="tdbc-row tdbc-row--center-content">
           {# le icone stanno in un unico span flex: la griglia tdbc-row su mobile
              è a una colonna e le metterebbe una sotto l'altra #}

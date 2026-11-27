@@ -34,6 +34,8 @@ Volete chiedermi qualcosa in particolare?
 
 E qui trovate alcuni dei miei siti preferiti del web: [**Xab's Bookmarks**](/bookmarks/).
 
+Se vi piace quello che scrivo e vi va di sostenermi, potete [offrirmi un caffè su Liberapay]({{ meta.liberapay }}).
+
 {% include 'social.njk' %}
 
 ## Licenza e tecnologia
