@@ -18,6 +18,8 @@ Non preordinavo un videogioco da...? Non lo so, forse in realtà credo di non av
 
 Ho preso al day one [Ni no Kuni](/posts/ni-no-kuni/) su PS3 e vari giochi in digitale su Steam, ma il preorder per me è stata un'esperienza nuova (e conoscendomi più unica che rara).
 
+<iframe src="https://mastodon.social/@Xabacadabra/117563754792869587/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+
 ![Link nella foresta Kokiri](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/store/software/switch2/70010000130792/2e76ea7cb3eb833a0cbe8c9b016b28b3a7ef95838b66c1eaced1c0db7747dd37)
 
 ### Fan dell'ultima ora
