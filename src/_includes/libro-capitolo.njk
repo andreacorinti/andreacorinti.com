@@ -45,6 +45,9 @@ layout: base.njk
     <div class="libro__testo">
       {{ content | safe }}
     </div>
+    {%- if nota %}
+    <p class="libro__nota"><em>{{ nota }}</em></p>
+    {%- endif %}
     <p class="libro__cta">{{ t.cta
       | replace("{epub}", '<a href="' + libro.epub + '" download>' + t.ctaEpub + '</a>')
       | replace("{rss}", '<a href="' + t.rss + '">' + t.ctaRss + '</a>')

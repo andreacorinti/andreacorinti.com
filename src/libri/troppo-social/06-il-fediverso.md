@@ -6,9 +6,10 @@ sommario: "Come accennato qua e la nei capitoli precedenti, il Fediverso è un i
 lang: "it-IT"
 permalink: "/libri/troppo-social/il-fediverso/"
 translation: "/books/too-social/the-fediverse/"
+nota: "Nota: aggiornato a novembre 2026 per correggere un’imprecisione su Bluesky."
 ---
 
-Come accennato qua e la nei capitoli precedenti, il Fediverso è un insieme di tanti social decentralizzati e tendenzialmente Open Source (ma non solo) uniti dal protocollo ActivityPub, quello che per intenderci viene utilizzato anche da **Threads** di Meta e **Bluesky** di Jack Dorsey.
+Come accennato qua e la nei capitoli precedenti, il Fediverso è un insieme di tanti social decentralizzati e tendenzialmente Open Source (ma non solo) uniti dal protocollo ActivityPub, quello che per intenderci viene utilizzato anche da **Threads** di Meta. **Bluesky** invece usa un protocollo tutto suo, l’AT Protocol, anche se grazie a ponti come Bridgy Fed i due mondi riescono comunque a parlarsi.
 
 ## Non capisco che intendi con *“social decentralizzati”*
 

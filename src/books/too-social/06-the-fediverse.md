@@ -6,9 +6,10 @@ sommario: "As mentioned here and there in previous chapters, the Fediverse is a 
 lang: "en-US"
 permalink: "/books/too-social/the-fediverse/"
 translation: "/libri/troppo-social/il-fediverso/"
+nota: "Note: updated in November 2026 to fix an inaccuracy about Bluesky."
 ---
 
-As mentioned here and there in previous chapters, the Fediverse is a group of many decentralized, and mostly (though not exclusively) open-source social platforms, joined together by the ActivityPub protocol — the same one used, just to be clear, by Meta's **Threads** and Jack Dorsey's **Bluesky**.
+As mentioned here and there in previous chapters, the Fediverse is a group of many decentralized, and mostly (though not exclusively) open-source social platforms, joined together by the ActivityPub protocol — the same one used, just to be clear, by Meta's **Threads**. **Bluesky**, on the other hand, runs on its own protocol, the AT Protocol, although bridges like Bridgy Fed let the two worlds talk to each other anyway.
 
 ## I don't understand what you mean by *"decentralized social media"*
 

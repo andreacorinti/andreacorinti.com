@@ -177,6 +177,13 @@ $tdbc-libro-serif: "Iowan Old Style", "Palatino Linotype", palatino, "Book Antiq
     }
   }
 
+  // nota di aggiornamento del capitolo (front matter `nota`), dopo le note
+  &__nota {
+    margin: 1.5rem 0 0;
+    color: var(--tdbc-muted);
+    font-size: 0.92rem;
+  }
+
   &__cta {
     margin: 2.5rem 0 0;
     padding-top: 1rem;
