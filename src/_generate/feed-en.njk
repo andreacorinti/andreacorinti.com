@@ -46,7 +46,11 @@
       <description><![CDATA[{{ post.data.sommario | htmlToAbsoluteUrls(absolutePostUrl) | safe }}]]></description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
-      <guid>{{ absolutePostUrl }}</guid>
+      {#- GUID: l'URL di quando il post è uscito. I post vecchi con le maiuscole
+          nel nome del file (es. RPGMakerMV_VampireDice) ora escono in
+          minuscolo, ma il GUID resta quello con le maiuscole: se cambiasse, i
+          lettori RSS li mostrerebbero di nuovo come post nuovi. -#}
+      <guid>{{ ("/posts/" + post.page.fileSlug + "/") | absoluteUrl(metadata.url) }}</guid>
     </item>
     {%- endfor %}
   </channel>
