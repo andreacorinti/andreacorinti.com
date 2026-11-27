@@ -6,6 +6,7 @@ sommario: "Since these two terms keep popping up, for the sake of clarity let's 
 lang: "en-US"
 permalink: "/books/too-social/a-brief-history-of-social-media/"
 translation: "/libri/troppo-social/breve-storia-dei-social-media/"
+nota: "Note: updated in November 2026 to fix an inaccuracy about Bluesky."
 ---
 
 ## Social Media or Social Network?
@@ -214,7 +215,7 @@ In practice, these are environments where users interact, share media, and above
 
 Coming back to Twitter, if you look at the numbers, I think it's clear that its influence has been massively overrated by the mass media *precisely* because it's traditionally been the platform of choice for journalists and public figures.
 
-And obviously we could make a similar case for BlueSky (Dorsey's newest creation), Threads, or Mastodon.
+And obviously we could make a similar case for Bluesky (born from a project Dorsey started, before he walked away from it), Threads, or Mastodon.
 
 ## That's why election results are always so different from the trends in my timeline…
 

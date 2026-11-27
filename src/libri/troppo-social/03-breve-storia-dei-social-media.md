@@ -6,6 +6,7 @@ sommario: "Visto che le due definizioni saltano spesso fuori, per amor di chiare
 lang: "it-IT"
 permalink: "/libri/troppo-social/breve-storia-dei-social-media/"
 translation: "/books/too-social/a-brief-history-of-social-media/"
+nota: "Nota: aggiornato a novembre 2026 per correggere un’imprecisione su Bluesky."
 ---
 
 ## Social Media o Social Network?
@@ -216,7 +217,7 @@ Nei fatti, si tratta di ambienti dove gli utenti interagiscono, condividono medi
 
 Tornando a Twitter, analizzandone i numeri credo sia chiaro come la sua influenza sia stata fin troppo sopravvalutata dai mass media *proprio* perché, tendenzialmente, è stato il social preferito da giornalisti e teste coronate.
 
-E chiaramente potremmo fare un simile per BlueSky (nuova creatura di Dorsey), Threads o Mastodon.
+E chiaramente potremmo fare un simile per Bluesky (nato da un progetto di Dorsey, che poi se n’è andato), Threads o Mastodon.
 
 ## Ecco perché i risultati elettorali sono sempre così diversi dai trend nella mia timeline…
 
