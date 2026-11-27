@@ -1,4 +1,4 @@
-import { injectCommentStyles, respondToVisibility, isEnglishPage, fediverseIdentities } from "./comments-common.js";
+import { injectCommentStyles, respondToVisibility, isEnglishPage, fediverseIdentities, startHidden, settleComments, hideComments } from "./comments-common.js";
 
 // Commenti da Bluesky: legge le risposte pubbliche a un post tramite l'API
 // pubblica dell'AppView (nessun login, nessuna dipendenza) e le rende con lo
@@ -187,7 +187,9 @@ class BlueskyComments extends HTMLElement {
     const replyLink = el("a", { href: this.parsed.url, class: "tdbc-button tdbc-button--small" }, t.reply);
     this.append(el("p", {}, replyLink));
 
-    respondToVisibility(this.list, this.loadComments.bind(this));
+    // invisibile finché non si sa se ci sono commenti (comments-common.js)
+    startHidden(this);
+    respondToVisibility(this, this.loadComments.bind(this));
   }
 
   // https://bsky.app/profile/<handle|did>/post/<rkey>
@@ -240,9 +242,10 @@ class BlueskyComments extends HTMLElement {
         this.list.append(el("p", { class: "hidden-replies" }, t.hidden(this.hiddenCount)));
       }
       this.commentsLoaded = true;
+      settleComments(this);
     } catch (err) {
       console.error("Commenti Bluesky:", err);
-      this.list.replaceChildren(el("p", { class: "error" }, err.notFound ? t.notFound : t.error));
+      hideComments(this);
     } finally {
       clearTimeout(timer);
     }
@@ -309,7 +312,8 @@ class BlueskyComments extends HTMLElement {
     const content = el("div", { class: "content" },
       renderRichText(post.record?.text, post.record?.facets));
 
-    const comment = el("div", { class: "mastodon-comment" },
+    const mine = author.did === this.parsed.atUri.split("/")[2];
+    const comment = el("div", { class: `mastodon-comment${mine ? " is-mine" : ""}` },
       el("div", { class: "author" }, avatar, details, date),
       content,
       renderEmbed(post)

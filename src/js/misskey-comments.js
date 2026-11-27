@@ -1,3 +1,5 @@
+import { injectCommentStyles, startHidden, settleComments, hideComments } from "./comments-common.js";
+
 const styles = `
 misskey-comments {
   --font-color: #e0e0e0;
@@ -80,8 +82,10 @@ class MisskeyComments extends HTMLElement {
       <div id="misskey-comments-list"></div>
     `;
 
-    const target = document.getElementById("misskey-comments-list");
-    this.respondToVisibility(target, this.loadComments.bind(this));
+    // invisibile finché non si sa se ci sono commenti (comments-common.js)
+    injectCommentStyles();
+    startHidden(this);
+    this.respondToVisibility(this, this.loadComments.bind(this));
   }
 
   escapeHtml(s) {
@@ -120,10 +124,11 @@ class MisskeyComments extends HTMLElement {
       }
 
       this.commentsLoaded = true;
+      settleComments(this);
 
     } catch (err) {
       console.error("Errore:", err);
-      container.innerHTML = "<p>Errore nel caricamento dei commenti Misskey.</p>";
+      hideComments(this);
     }
   }
 
@@ -177,7 +182,7 @@ class MisskeyComments extends HTMLElement {
       .join("");
 
     const html = `
-      <div class="misskey-comment" style="margin-left: ${indent}">
+      <div class="misskey-comment${note.user.username === this.user && !note.user.host ? " is-mine" : ""}" style="margin-left: ${indent}">
         <div class="author">
           <div class="avatar"><img src="${note.user.avatarUrl}" width="60"></div>
           <div class="details">

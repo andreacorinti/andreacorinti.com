@@ -1,4 +1,4 @@
-import { injectCommentStyles, escapeHtml, respondToVisibility, isEnglishPage } from "./comments-common.js";
+import { injectCommentStyles, escapeHtml, respondToVisibility, isEnglishPage, startHidden, settleComments, hideComments } from "./comments-common.js";
 
 // Lo stile ora sta in comments-common.js, condiviso con i commenti Bluesky.
 const t = isEnglishPage()
@@ -39,8 +39,9 @@ class MastodonComments extends HTMLElement {
       <div id="mastodon-comments-list"></div>
     `;
 
-    const target = document.getElementById("mastodon-comments-list");
-    respondToVisibility(target, this.loadComments.bind(this));
+    // invisibile finché non si sa se ci sono commenti (comments-common.js)
+    startHidden(this);
+    respondToVisibility(this, this.loadComments.bind(this));
   }
 
   escapeHtml(s) {
@@ -80,10 +81,11 @@ class MastodonComments extends HTMLElement {
       this.render_toot_tree(descendants, this.tootId, 0);
 
       this.commentsLoaded = true;
+      settleComments(this);
 
     } catch (err) {
       console.error("Errore:", err);
-      container.innerHTML = `<p>${t.error}</p>`;
+      hideComments(this);
     }
   }
 
@@ -120,7 +122,7 @@ class MastodonComments extends HTMLElement {
       .join("");
 
     const html = `
-      <div class="mastodon-comment" style="margin-left: ${indent}">
+      <div class="mastodon-comment${account.acct === this.user ? " is-mine" : ""}" style="margin-left: ${indent}">
         <div class="author">
           <div class="avatar"><img src="${this.escapeHtml(account.avatar_static)}" width="60" alt=""></div>
           <div class="details">

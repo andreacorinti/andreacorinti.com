@@ -3,6 +3,9 @@ import {
   respondToVisibility,
   isEnglishPage,
   registerFediverseLoader,
+  startHidden,
+  settleComments,
+  hideComments,
   loadFediverseThread,
 } from "./comments-common.js";
 
@@ -221,7 +224,9 @@ class FediverseComments extends HTMLElement {
     this.append(this.list);
     this.append(el("p", {}, el("a", { href: this.target.url, class: "tdbc-button tdbc-button--small" }, t.reply)));
 
-    respondToVisibility(this.list, () => this.render());
+    // invisibile finché non si sa se ci sono commenti (comments-common.js)
+    startHidden(this);
+    respondToVisibility(this, () => this.render());
   }
 
   async render() {
@@ -229,17 +234,14 @@ class FediverseComments extends HTMLElement {
     this.list.textContent = t.loading;
     const thread = await loadFediverseThread();
     if (!thread) {
-      this.list.replaceChildren(el("p", { class: "error" }, t.error));
+      hideComments(this);
       return;
     }
     this.loaded = true;
     this.thread = thread;
     this.list.replaceChildren();
-    if (!thread.statuses.length) {
-      this.list.append(el("p", {}, t.empty));
-      return;
-    }
     this.renderChildren(thread.root.uri, 0);
+    settleComments(this);
   }
 
   renderChildren(parent, depth) {

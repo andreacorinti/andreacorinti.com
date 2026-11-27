@@ -118,6 +118,26 @@ fediverse-comments a { color: var(--link-color); }
 .mastodon-comment.is-mine { border-left: 3px solid var(--link-color); }
 .mastodon-comment .details .name img.emoji { display: inline; height: 1.1em; width: auto; vertical-align: -0.15em; }
 
+/* in attesa di sapere se ci sono commenti: invisibile, alto 1px perché
+   l'IntersectionObserver possa ancora accorgersi che ci si sta arrivando */
+mastodon-comments.comments-pending,
+bluesky-comments.comments-pending,
+fediverse-comments.comments-pending,
+misskey-comments.comments-pending {
+  height: 1px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: none;
+}
+
+/* senza commenti: via del tutto (lo stile qui sopra forza display: block,
+   che altrimenti vincerebbe sull'attributo hidden) */
+mastodon-comments[hidden],
+bluesky-comments[hidden],
+fediverse-comments[hidden],
+misskey-comments[hidden] { display: none; }
+
 mastodon-comments #error,
 bluesky-comments .error,
 fediverse-comments .error { color: var(--error-color); }
@@ -182,4 +202,31 @@ export async function fediverseIdentities(timeoutMs = 8000) {
   const run = customElements.whenDefined("fediverse-comments").then(loadFediverseThread);
   const result = await Promise.race([run, timeout]);
   return result?.identities || new Set();
+}
+
+// Commenti solo se ci sono: il blocco parte invisibile (startHidden) e
+// compare (settleComments) solo se nel thread c'è almeno un messaggio di
+// qualcun altro (non .is-mine, cioè non mio). Senza risposte, o se il
+// caricamento fallisce, resta nascosto insieme alla sua <section>: i
+// commenti arrivano quando il post è fresco, non mesi dopo dal blog.
+function commentBox(host) {
+  return host.closest(".comments-bluesky, .comments-fediverse") || host;
+}
+
+export function startHidden(host) {
+  host.classList.add("comments-pending");
+}
+
+export function settleComments(host) {
+  const altri = host.querySelectorAll(".mastodon-comment:not(.is-mine), .misskey-comment:not(.is-mine)").length;
+  if (altri > 0) {
+    host.classList.remove("comments-pending");
+    commentBox(host).hidden = false;
+  } else {
+    commentBox(host).hidden = true;
+  }
+}
+
+export function hideComments(host) {
+  commentBox(host).hidden = true;
 }
