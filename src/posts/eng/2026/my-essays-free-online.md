@@ -23,7 +23,7 @@ with all the problems AI carries around (and there are many, eh), certain optimi
 
 Honestly no, or better, it's not like I could do much about it:
 
-I'm not an artist, I live of written words and flying ideas, sharing passions and helping to manage certain things, so my point of view is very different from the one of someone who draws and sees a machine copying their style without permission.
+I'm not an artist, I live off written words and flying ideas, sharing passions and helping to manage certain things, so my point of view is very different from the one of someone who draws and sees a machine copying their style without permission.
 
 Sure, there would be the whole talk about web design or programming in general, but I won't tell you how many more or less messy copy and pastes I did from Stack Overflow, GitHub and so on...
 
