@@ -49,5 +49,4 @@ Per [*Giochi Troppo!*](/libri/giochi-troppo/) in italiano bisogna aspettare febb
 
 In fondo a ogni capitolo c'è anche un link a Liberapay, ma l'importante è che ve li leggiate 😌
 
-<!-- TODO: dopo averlo condiviso sul fediverso, metti qui l'ID del post Mastodon -->
-<!-- <mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="TODO"></mastodon-comments> -->
+<mastodon-comments host="mastodon.social" user="Xabacadabra" tootId="117687636915674600"></mastodon-comments>
