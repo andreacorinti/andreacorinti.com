@@ -320,3 +320,17 @@ $tdbc-libro-serif: "Iowan Old Style", "Palatino Linotype", palatino, "Book Antiq
     }
   }
 }
+
+// Avviso in cima alla vecchia pagina progetto di Giochi Troppo! (finché la
+// versione italiana è in embargo): riquadro ben visibile, giallo del sito
+.libro-avviso {
+  margin: 0 0 2rem;
+  padding: 0.9rem 1.1rem;
+  border: 2px solid var(--tdbc-text);
+  border-left: 8px solid var(--tdbc-nav-mark);
+  border-radius: 4px;
+  background-color: var(--tdbc-surface);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.5;
+}

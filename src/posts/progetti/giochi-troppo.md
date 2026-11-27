@@ -8,13 +8,23 @@ lang: it-IT
 date: 2022-08-14
 ---
 
+<p class="libro-avviso">La versione italiana arriva qui da leggere gratis a febbraio 2027. Nel frattempo c'è già l'edizione inglese: <a href="/books/too-much-gaming/" hreflang="en">Too Much Gaming!</a></p>
+
 Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 
 Lo considero un parto dovuto al processo di autoanalisi in cui mi sono ritrovato dopo i lockdown COVID-19, nonché una forma di "risarcimento" per tutte le ore che ho speso appresso ai videogame.
 
 Anche se tento di usare un tono leggero e il più possibile "giocoso", specifico che dietro c'è una bella bibliografia piena di studi molto seri e interessanti che consiglio a tutti quelli che volessero approfondire in modo più accademico l'argomento.
 
-<blockquote><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/GiochiTroppo?src=hash&amp;ref_src=twsrc%5Etfw">#GiochiTroppo</a><br><br>Da qualche tempo sto elaborando un libretto che ha l&#39;ambizione di ragionare su quanto tempo ci costano i videogiochi, e ho scoperto diverse cose interessanti: <br><br>Anzitutto in Italia si fa fatica a vederli trattati in contesti &quot;generalisti&quot;:<br><br>Thread ⬇️</p>&mdash; Andrea Corinti (@XabCorinti) <a href="https://twitter.com/XabCorinti/status/1458550157600043021?ref_src=twsrc%5Etfw">November 10, 2021</a></blockquote>
+> #GiochiTroppo
+>
+> Da qualche tempo sto elaborando un libretto che ha l'ambizione di ragionare su quanto tempo ci costano i videogiochi, e ho scoperto diverse cose interessanti:
+>
+> Anzitutto in Italia si fa fatica a vederli trattati in contesti "generalisti":
+>
+> Thread ⬇️
+>
+> — Andrea Corinti (@XabCorinti), [10 novembre 2021](https://twitter.com/XabCorinti/status/1458550157600043021)
 
 ## Descrizione
 
