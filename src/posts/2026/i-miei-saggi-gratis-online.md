@@ -2,7 +2,7 @@
 layout: postita
 title: "I miei saggi, gratis e solo qui (grazie a una notte insonne con Claude)"
 subtitle: "Addio Amazon, addio itch.io"
-sommario: "Una notte insonne, un sito rivoltato con l'aiuto di Claude e una scelta: Troppo Social e Giochi Troppo! si leggono gratis qui, senza più passare da Amazon o itch.io."
+sommario: "Una notte insonne, un sito rivoltato con l'aiuto di Claude e una scelta: Troppo Social e Too Much Gaming! si leggono gratis qui (Giochi Troppo! arriva a febbraio), senza più passare da Amazon o itch.io."
 immagine: /img/i-miei-saggi-gratis-online/copertina-it.jpg
 tags: ["xabologia"]
 date: 2026-11-27
