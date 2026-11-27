@@ -12,7 +12,7 @@ Benvenuti nella mia casa digitale! Sono [Andrea Corinti](/about) e qui archivio 
 
 <p class="tdbc-ink--gray" lang="en"><small>Mostly writing in Italian around here. English readers: <a href="/en/about/" hreflang="en">here's who I am</a> and <a href="/categoria/english-0/">what I write in English</a>.</small></p>
 
-Questi, per esempio, sono gli ultimi post del mio blog (ce ne sono {{ collections.latestPost | length }} in tutto!):{# conteggio in build: tutti i post pubblicati, italiani e inglesi, bozze escluse #}
+Questi, per esempio, sono gli ultimi post del mio blog (ce ne sono {{ collections.relatedPool | length }} in tutto!):{# conteggio in build: tutti i post pubblicati, italiani e inglesi (anche le traduzioni), bozze escluse #}
 
 {%- set latest = collections.latestPost | first -%}
 {%- set latestEn = latest.data.lang and latest.data.lang.startsWith('en') %}
@@ -29,6 +29,8 @@ Questi, per esempio, sono gli ultimi post del mio blog (ce ne sono {{ collection
 <div class="post-card__meta">{% if latestCat %}<span class="post-card__cat">{{ categorie[latestCat] }}</span>{% endif %}<time>{% if latestEn %}{{ latest.data.date | dateDisplay('en-US') }}{% else %}{{ latest.data.date | dateDisplay }}{% endif %}</time></div>
 <h2 class="post-card__title"><a href="{{ latest.url }}"{% if latestEn %} hreflang="en"{% endif %}>{{ latest.data.title }}</a></h2>
 <p class="post-card__summary">{{ latest.data.sommario }}</p>
+{%- set latestTrad = latest.data.translation | traduzioneInglese %}{% if latestTrad %}
+<a class="post-card__also" href="{{ latestTrad }}" hreflang="en" lang="en"><span aria-hidden="true">🇬🇧</span> Also in English</a>{% endif %}
 </div>
 </li>
 </ul>
@@ -43,6 +45,8 @@ Questi, per esempio, sono gli ultimi post del mio blog (ce ne sono {{ collection
 <div class="post-card__meta">{% if postEn %}<span class="post-card__flag home-more__flag" lang="en"><span aria-hidden="true">🇬🇧</span>English</span>{% endif %}{% if postCat %}<span class="post-card__cat">{{ categorie[postCat] }}</span>{% endif %}<time datetime="{{ post.date | htmlDateString }}">{% if postEn %}{{ post.data.date | dateDisplay('en-US') }}{% else %}{{ post.data.date | dateDisplay }}{% endif %}</time></div>
 <h2 class="home-more__title"><a href="{{ post.url }}"{% if postEn %} hreflang="en"{% endif %}>{{ post.data.title }}</a></h2>
 <p class="home-more__summary">{{ post.data.sommario }}</p>
+{%- set postTrad = post.data.translation | traduzioneInglese %}{% if postTrad %}
+<a class="post-card__also" href="{{ postTrad }}" hreflang="en" lang="en"><span aria-hidden="true">🇬🇧</span> Also in English</a>{% endif %}
 </li>
 {%- endfor %}
 </ul>

@@ -83,19 +83,44 @@ module.exports = function (eleventyConfig) {
       .filter((item) => item.data.layout === "postita")
       .reverse();
   });
+  // Coppie tradotte (post IT e post EN collegati da `translation`): nelle
+  // liste miste (home, "Tutti", categorie) compare solo la versione italiana,
+  // con l'etichetta "also in English" (filtro traduzioneInglese, post-card.njk);
+  // l'inglese resta nella categoria English, nel feed inglese e nei correlati.
+  // Si nasconde solo se il gemello italiano è davvero pubblicato.
+  const tuttiIPost = (collection) =>
+    collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/**/*.md"])
+      .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng");
+  let urlInglesiTradotti = new Set();
+  const senzaDoppioniInglesi = (posts) => {
+    const urlItaliani = new Set(posts.filter((p) => p.data.layout === "postita").map((p) => p.url));
+    const doppione = (p) => p.data.layout === "posteng" && p.data.translation && urlItaliani.has(p.data.translation);
+    urlInglesiTradotti = new Set(posts.filter(doppione).map((p) => p.url));
+    return posts.filter((p) => !doppione(p));
+  };
+  // url della traduzione inglese di un post italiano, se pubblicata ("" se no)
+  eleventyConfig.addFilter("traduzioneInglese", (translation) =>
+    translation && urlInglesiTradotti.has(translation) ? translation : "");
+
   // Pagina "Tutti" (/blog-N/): post italiani + inglesi insieme, i più recenti
-  // prima. `blog` resta solo italiano perché alimenta il feed RSS italiano.
+  // prima, senza i doppioni tradotti. `blog` resta solo italiano perché
+  // alimenta il feed RSS italiano.
   eleventyConfig.addCollection("blogTutti", function(collection) {
-    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/**/*.md"])
-      .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng")
-      .sort((a, b) => b.date - a.date);
+    return senzaDoppioniInglesi(tuttiIPost(collection)).sort((a, b) => b.date - a.date);
   });
-  // Homepage "latest post" teaser: newest post in either language.
+  // Homepage: ultimi post in entrambe le lingue, senza i doppioni tradotti.
   eleventyConfig.addCollection("latestPost", function(collection) {
-    return collection.getFilteredByGlob(["./src/posts/20*/*.md", "./src/posts/eng/**/*.md"])
-      .filter((item) => item.data.layout === "postita" || item.data.layout === "posteng")
-      .sort((a, b) => b.date - a.date);
+    return senzaDoppioniInglesi(tuttiIPost(collection)).sort((a, b) => b.date - a.date);
   });
+  // Pagine delle categorie: stessi post del tag, senza i doppioni tradotti
+  // (categoria_videogiochi, categoria_musica, …). English resta com'è.
+  for (const cat of Object.keys(require("./src/_data/categorie.js"))) {
+    if (cat === "english") continue;
+    eleventyConfig.addCollection(`categoria_${cat}`, function(collection) {
+      const ids = new Set(senzaDoppioniInglesi(tuttiIPost(collection)).map((p) => p.inputPath));
+      return collection.getFilteredByTag(cat).filter((p) => ids.has(p.inputPath));
+    });
+  }
   eleventyConfig.addCollection("blogita", function(collection) {
     return collection.getFilteredByGlob("./src/posts/20*/*.md")
       .filter((item) => item.data.layout === "postita")

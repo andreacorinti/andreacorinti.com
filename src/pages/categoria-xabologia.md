@@ -5,7 +5,7 @@ eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Xabologia - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Xabologia{% endif %}"
   sommario: "{% if pagination.pageNumber > 0 %}Post personali, di vita e sul blog stesso / Personal posts, about life and this blog - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Post personali, di vita e sul blog stesso. Personal posts, about life and this blog.{% endif %}"
 pagination:
-    data: collections.xabologia
+    data: collections.categoria_xabologia
     size: 8
     alias: postita
     reverse: true

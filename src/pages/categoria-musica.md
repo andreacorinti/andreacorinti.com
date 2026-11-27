@@ -5,7 +5,7 @@ eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Music - pagina {{ pagination.pageNumber | plus: 1 }}{% else %}Music{% endif %}"
   sommario: "{% if pagination.pageNumber > 0 %}Post sulla musica dal blog di Andrea Corinti / Music posts from Andrea Corinti's blog - pagina/page {{ pagination.pageNumber | plus: 1 }}.{% else %}Post sulla musica dal blog di Andrea Corinti. Music posts from Andrea Corinti's blog.{% endif %}"
 pagination:
-    data: collections.musica
+    data: collections.categoria_musica
     size: 8
     alias: postita
     reverse: true

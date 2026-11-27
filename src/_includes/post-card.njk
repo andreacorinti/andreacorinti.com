@@ -5,7 +5,9 @@
   sfalsata come i bottoni categoria, immagine in un riquadro a rapporto fisso,
   etichetta della categoria nel suo colore (--tdbc-cat da .cat-btn--<slug>).
   I post inglesi hanno lang="en", data in formato inglese e, se bandierina
-  è true (archivi misti), un 🇬🇧 sull'angolo dell'immagine.
+  è true (archivi misti), un 🇬🇧 sull'angolo dell'immagine. I post italiani
+  con una traduzione inglese pubblicata hanno il link "Also in English" (la
+  versione inglese non compare come card a sé nelle liste miste).
 {%- endcomment -%}
 {%- assign inglese = false -%}
 {%- if post.data.layout == 'posteng' -%}{%- assign inglese = true -%}{%- endif -%}
@@ -23,5 +25,9 @@
           </div>
           <h2 class="post-card__title"><a href="{{ post.url }}"{% if inglese %} hreflang="en"{% endif %}>{{ post.data.title }}</a></h2>
           <p class="post-card__summary">{{ post.data.sommario }}</p>
+          {%- assign traduzione = post.data.translation | traduzioneInglese -%}
+          {%- if traduzione != "" %}
+          <a class="post-card__also" href="{{ traduzione }}" hreflang="en" lang="en"><span aria-hidden="true">🇬🇧</span> Also in English</a>
+          {%- endif %}
         </div>
       </li>

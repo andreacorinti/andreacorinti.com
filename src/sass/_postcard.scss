@@ -353,3 +353,24 @@
     }
   }
 }
+
+// "Also in English" sulle card dei post italiani tradotti: sopra il link
+// del titolo che copre tutta la card (z-index), così resta cliccabile
+.post-card__also {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  align-self: flex-start;
+  margin-top: 0.6rem;
+  color: var(--tdbc-muted);
+  font-size: 0.85rem;
+  text-decoration: none;
+  z-index: 2;
+  gap: 0.35em;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--tdbc-link-hover);
+    text-decoration: underline;
+  }
+}
