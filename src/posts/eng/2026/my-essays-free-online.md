@@ -8,7 +8,7 @@ tags: ["xabologia"]
 date: 2026-11-27
 lang: en-US
 translation: /posts/i-miei-saggi-gratis-online/
-bluesky: ""
+bluesky: "https://bsky.app/profile/andreacorinti.com/post/3n3cknmurls2a"
 ---
 
 Last night I didn't sleep, and the site took advantage of it:
