@@ -19,7 +19,7 @@ So che a molti sembrerà strano, ma questi vicoli ciechi perpetui costituiscono 
 
 fatevi un favore e leggete quanto segue solo quando avrete sbloccato quasi tutto e vi sarete fatti una vostra idea personale.
 
-A margine, io che ho scritto [_Giochi Troppo!_](https://www.amazon.it/dp/B0B9LNVLCH) su _Immortality_ ho finito per spenderci 22 ore in 2-3 giorni dopo averlo comprato.
+A margine, io che ho scritto [_Giochi Troppo!_](/libri/giochi-troppo/) su _Immortality_ ho finito per spenderci 22 ore in 2-3 giorni dopo averlo comprato.
 
 questo per ribadire che:
 

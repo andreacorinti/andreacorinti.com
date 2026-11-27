@@ -23,7 +23,7 @@ Per me, è molto complicato parlare di Baldur's Gate III.
 
 * Da bimbo Baldur's Gate I e (soprattutto) II furono importantissimi nella mia carriera di giocatore: ne parlavo un po' [qualche anno fa.](/posts/baldurs-gate)
 
-* Ho scritto [_Giochi Troppo!_](/projects/giochi-troppo/) e, avendo abbondantemente superato le 100 ore, BG3 è decisamente un titolo che mi ha fatto giocare troppo, portandomi via un sacco di tempo di vita che rimpiangerò di non aver dedicato ad altro...
+* Ho scritto [_Giochi Troppo!_](/libri/giochi-troppo/) e, avendo abbondantemente superato le 100 ore, BG3 è decisamente un titolo che mi ha fatto giocare troppo, portandomi via un sacco di tempo di vita che rimpiangerò di non aver dedicato ad altro...
 
 * ...ma lo ha fatto nei migliori dei modi possibili, **portando le meccaniche di D&D nel mondo videoludico meglio di qualsiasi altro videogioco prima di lui.**
 

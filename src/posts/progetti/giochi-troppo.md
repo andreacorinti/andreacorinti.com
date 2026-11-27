@@ -1,16 +1,12 @@
 ---
 title: "Giochi Troppo!"
 subtitle: "Spegni il computer e vai a dormire!"
-permalink: "projects/giochi-troppo/"
+# permalink e link della card: vedi giochi-troppo.11tydata.js (embargo KDP)
 sommario: "Un film di 10 ore è un mattone. Un videogioco di 10 ore è troppo breve."
 immagine: /img/giochi-troppo.jpg
 lang: it-IT
 date: 2022-08-14
 ---
-
-## [Link per l'epub su itch.io](https://xabacadabra.itch.io/giochi-troppo)
-
-## [Link per acquistare il libro cartaceo su Amazon](https://www.amazon.it/dp/B0B9LNVLCH)
 
 Ho iniziato a scrivere questo scanzonatissimo saggio tra il settembre e l'ottobre del 2021.
 

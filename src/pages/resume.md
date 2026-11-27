@@ -35,8 +35,8 @@ immagine: /img/cv/avatar.jpg
 
 | Year                | Title                              |
 |---------------------|------------------------------------|
-| 2022                | [Giochi Troppo!: Spegni il computer e vai a dormire!](https://www.amazon.it/GIochi-Troppo-Spegni-computer-dormire/dp/B0B9LNVLCH/) |
-| 2025                | [Troppo Social](https://xabacadabra.itch.io/troppo-social) |
+| 2022                | [Giochi Troppo!: Spegni il computer e vai a dormire!](/libri/giochi-troppo/) |
+| 2025                | [Troppo Social](/libri/troppo-social/) |
 
 ### + Projects
 

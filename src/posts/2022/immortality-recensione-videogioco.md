@@ -20,7 +20,7 @@ Ma cos'è _Immortality_? Un videogioco, un film, entrambe le cose? Mi imbarazza 
 > quando diciamo videogame è come se stessimo ragionando genericamente di “cibo”, considerando allo stesso tempo un insieme che in realtà include elementi tra loro differenti come melanzane, tofu o tiramisù. Analogamente, quando parliamo dell’insieme "videogioco" possiamo intendere opere d’arte, e-sport, semplici
 passatempi ma anche veri e propri giochi d’azzardo.
 
-> _Da [Giochi Troppo!](/projects/giochi-troppo/)_
+> _Da [Giochi Troppo!](/libri/giochi-troppo/)_
 
 Direi senza dubbio che _Immortality_ rientra ampiamente nella categoria delle opere d'arte, un esempio di potente crossmedialità che sfrutta alla grande recitazione, sceneggiatura, fotografia e partecipazione del giocatore. 
 

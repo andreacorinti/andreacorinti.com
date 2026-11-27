@@ -11,7 +11,7 @@ lang: it-IT
 
 Il 14/10 mi è arrivata la Steam Deck (ordinata il 7/10, una settimana giusta): più che a giocarci, confesso che ho cominciato subito a smanettarci come un canguro idrofobo.
 
-E sì, lo so, per chi ha scritto [_Giochi Troppo!_](https://www.amazon.it/gp/product/B0B9LNVLCH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) comprarsela è un controsenso, ma la macchina di Valve sembrava fatta apposta per me e (mi sento di confermarlo) quindi, appena le spedizioni si sono fatte più rapide, non ho potuto resistere.
+E sì, lo so, per chi ha scritto [_Giochi Troppo!_](/libri/giochi-troppo/) comprarsela è un controsenso, ma la macchina di Valve sembrava fatta apposta per me e (mi sento di confermarlo) quindi, appena le spedizioni si sono fatte più rapide, non ho potuto resistere.
 
 ## La mia Deck 
 

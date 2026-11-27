@@ -57,6 +57,6 @@ l'hardware è importante, ma come _Zelda: Breath of Wild_ ci insegna un gioco la
 
 ## Considerazioni
 
-L'unica mia remora con la Deck è che, [tenendo fede al libro che ho scritto](https://www.amazon.it/gp/product/B0B9LNVLCH/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1), non gioco troppo e talvolta confesso di sentirmi un po' in colpa dell'acquisto che ho fatto: nel complesso però il discorso sarebbe il medesimo per qualsiasi console / videogame e anzi, vista la sua duttilità devo dire che se non altro con Valve ho investito bene il mio budget ludico.
+L'unica mia remora con la Deck è che, [tenendo fede al libro che ho scritto](/libri/giochi-troppo/), non gioco troppo e talvolta confesso di sentirmi un po' in colpa dell'acquisto che ho fatto: nel complesso però il discorso sarebbe il medesimo per qualsiasi console / videogame e anzi, vista la sua duttilità devo dire che se non altro con Valve ho investito bene il mio budget ludico.
 
 Al solito, dipende molto dalle vostre esigenze e da quanto avete voglia di smanettare, ma il rapporto qualità/prezzo offerto dalla Steam Deck per quanto mi riguarda la fa svettare su tutta la concorrenza.
