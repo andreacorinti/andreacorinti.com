@@ -9,6 +9,7 @@ immagine: "/img/miyoo-mini-plus-100.jpg"
 tags: ["videogiochi"]
 date: 2025-04-14
 lang: it-IT
+translation: /posts/miyoo-mini-plus-review-part-2/
 updated: 2026-11-27
 ---
 
