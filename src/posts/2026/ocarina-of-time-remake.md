@@ -77,4 +77,8 @@ Nel frattempo l'ho finito e lo confermo: resta uno dei videogiochi più belli ch
 
 ### Aggiornamento: finito!
 
+Ebbene sì, titoli di coda visti! E come avevo già messo in conto, adesso mi sa che mi tocca fare il completista sul serio (vedremo quanto dura eh, conoscendomi).
+
+Niente spoiler sul finale, tranquilli, ma posso confermare tutto quello che ho scritto sopra: restauro da manuale dall'inizio alla fine, e pure per uno come me che con Ocarina non ha nessun imprinting d'infanzia, arrivarci in fondo è stato un gran bel viaggio.
+
 Piccola nota a margine: lo trovo un po' pacchiano tra i candidati a gioco dell'anno. È come se la MERAVIGLIOSA cover di _Stairway to Heaven_ degli Heart finisse in lizza per un concorso: nessuno ne discute la bellezza, ma non dovremmo ragionare di inediti?
