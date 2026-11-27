@@ -1,0 +1,51 @@
+---
+layout: base.njk
+---
+{#- Un capitolo di un saggio (src/libri/, src/books/). Dati del libro in
+    _data/libri.js, elenco capitoli dalla collezione capitoliLibri. -#}
+{%- set libro = libri[book] %}
+{%- set t = libri.ui.en if lang.startsWith('en') else libri.ui.it %}
+{%- set capitoli = collections.capitoliLibri | bookChapters(book) %}
+{%- set prevCh = false %}{% set nextCh = false %}
+{%- for c in capitoli %}{% if c.url == page.url %}{% set prevCh = capitoli[loop.index0 - 1] if loop.index0 > 0 else false %}{% set nextCh = capitoli[loop.index0 + 1] if not loop.last else false %}{% endif %}{% endfor %}
+{%- set bookUrl = meta.url + libro.url %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": {{ title | dump | safe }},
+  "position": {{ order }},
+  "url": {{ (meta.url + page.url) | dump | safe }},
+  "inLanguage": {{ lang | dump | safe }},
+  {%- if sommario %}
+  "description": {{ sommario | dump | safe }},
+  {%- endif %}
+  "author": { "@type": "Person", "@id": {{ (meta.url + "/#me") | dump | safe }}, "name": "Andrea Corinti", "url": {{ (meta.url + "/") | dump | safe }} },
+  "license": {{ libro.license.url | dump | safe }},
+  "isPartOf": { "@type": "Book", "@id": {{ (bookUrl + "#book") | dump | safe }}, "name": {{ libro.title | dump | safe }}, "url": {{ bookUrl | dump | safe }} }
+}
+</script>
+
+{% include 'sitenav.njk' %}
+
+<header class="tdbc-hero libro-hero">
+  <div class="tdbc-container">
+    <p class="libro-hero__book"><a href="{{ libro.url }}">{{ libro.title }}</a></p>
+    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ title }}</h1>
+  </div>
+</header>
+
+<main id="main-content" class="tdbc-container">
+  <article class="libro">
+    {% include 'libro-nav.njk' %}
+    <div class="libro__testo">
+      {{ content | safe }}
+    </div>
+    <p class="libro__cta">{{ t.cta
+      | replace("{epub}", '<a href="' + libro.epub + '" download>' + t.ctaEpub + '</a>')
+      | replace("{rss}", '<a href="' + t.rss + '">' + t.ctaRss + '</a>')
+      | replace("{coffee}", '<a href="' + meta.liberapay + '">' + t.ctaCoffee + '</a>')
+      | safe }}</p>
+    {% include 'libro-nav.njk' %}
+  </article>
+</main>

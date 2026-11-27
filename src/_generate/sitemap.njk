@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
     IndexNow (plugins/indexnow) confronta questi lastmod tra un deploy e l'altro. -#}
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for page in collections.all %}
+{%- for page in collections.all %}{% if page.url %}
   {%- set absoluteUrl %}{{ page.url | url | absoluteUrl(meta.url) }}{% endset %}
   {%- set realDate = page.data.updated or page.data.date %}
   <url>
@@ -21,5 +21,5 @@ eleventyExcludeFromCollections: true
     <lastmod>{{ realDate | dateToRfc3339 }}</lastmod>
     {%- endif %}
   </url>
-{%- endfor %}
+{%- endif %}{%- endfor %}
 </urlset>

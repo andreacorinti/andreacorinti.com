@@ -1,0 +1,213 @@
+// Saggi leggibili sul sito (/libri/, /books/): stessa larghezza di testo dei
+// post (article, 80ch), interlinea più generosa per leggere a lungo,
+// navigazione tra capitoli sobria, note in fondo al capitolo.
+
+.libro-hero {
+  &__book {
+    margin: 0 0 0.4rem;
+    font-family: Teko, sans-serif;
+    font-size: 1.4rem;
+    letter-spacing: 0.05em;
+    line-height: 1;
+    text-transform: uppercase;
+
+    a {
+      color: var(--tdbc-muted);
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus-visible {
+      color: var(--tdbc-link-hover);
+    }
+  }
+
+  &__subtitle,
+  &__author {
+    margin: 0.5rem auto 0;
+    color: var(--tdbc-muted);
+  }
+
+  &__subtitle {
+    font-style: italic;
+  }
+}
+
+.libro {
+  width: 100%;
+  margin: 0 auto;
+
+  &__testo {
+    font-size: 1.08rem;
+    line-height: 1.75;
+
+    p,
+    li {
+      line-height: inherit;
+    }
+
+    img,
+    picture img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 1.5rem auto;
+    }
+
+    blockquote {
+      margin: 1.5rem 0;
+      padding-left: 1rem;
+      border-left: 4px solid var(--tdbc-border-subtle);
+      color: var(--tdbc-muted);
+    }
+
+    // tabella dei contatti nella bio dell'autore (HTML rimasto dall'EPUB)
+    table {
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 0.3rem 0.8rem 0.3rem 0;
+      border-bottom: 1px solid var(--tdbc-border-subtle);
+      color: var(--tdbc-body-text);
+      font-weight: normal;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    // note a piè di pagina (markdown-it-footnote): in fondo al capitolo
+    .footnotes-sep {
+      margin: 2.5rem 0 1rem;
+      border: 0;
+      border-top: 1px solid var(--tdbc-border-subtle);
+    }
+
+    .footnotes {
+      color: var(--tdbc-muted);
+      font-size: 0.92rem;
+      line-height: 1.6;
+    }
+
+    .footnote-ref a,
+    .footnote-backref {
+      text-decoration: none;
+    }
+  }
+
+  &__cta {
+    margin: 2.5rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--tdbc-border-subtle);
+    color: var(--tdbc-muted);
+    font-size: 0.95rem;
+  }
+}
+
+// precedente · indice · successivo (in alto e in fondo al capitolo)
+.libro-nav {
+  display: grid;
+  align-items: start;
+  margin: 1.5rem 0;
+  grid-template-columns: 1fr auto 1fr;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  gap: 0.5rem 1rem;
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover,
+  a:focus-visible {
+    text-decoration: underline;
+  }
+
+  &__next {
+    text-align: right;
+  }
+
+  &__index {
+    font-family: Teko, sans-serif;
+    font-size: 1.25rem;
+    letter-spacing: 0.05em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  &__label {
+    display: block;
+    color: var(--tdbc-muted);
+    font-size: 0.85em;
+  }
+
+  // su telefono: indice sopra, precedente e successivo sotto, affiancati
+  @media (width < 600px) {
+    grid-template-columns: 1fr 1fr;
+
+    &__index {
+      grid-row: 1;
+      grid-column: 1 / -1;
+      text-align: center;
+    }
+  }
+}
+
+.libro-indice {
+  &__top {
+    display: grid;
+    align-items: start;
+    margin: 1rem 0 2rem;
+    grid-template-columns: minmax(9rem, 14rem) 1fr;
+    gap: 1.5rem 2rem;
+
+    @media (width < 600px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__cover,
+  &__top picture img {
+    display: block;
+    width: 100%;
+    max-width: 14rem;
+    height: auto;
+    margin: 0 auto;
+    border: 2px solid var(--tdbc-card-line, var(--tdbc-text));
+    border-radius: 3px;
+    box-shadow: 5px 5px 0 var(--tdbc-nav-mark);
+  }
+
+  &__intro p {
+    margin-top: 0;
+    line-height: 1.7;
+  }
+
+  &__actions {
+    margin: 1.25rem 0 0.75rem;
+  }
+
+  &__meta {
+    color: var(--tdbc-muted);
+    font-size: 0.92rem;
+  }
+
+  &__heading {
+    margin: 0 0 0.75rem;
+    font-family: Teko, sans-serif;
+    font-size: 1.8rem;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  &__toc {
+    margin: 0;
+    padding-left: 1.6rem;
+    line-height: 1.6;
+
+    li {
+      margin-bottom: 0.3rem;
+    }
+  }
+}

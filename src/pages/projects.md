@@ -33,7 +33,7 @@ lang: it-IT
         </div>
         <div class="post-card__body">
           {%- if progetto.data.subtitle %}<p class="post-card__kicker">{{ progetto.data.subtitle }}</p>{% endif %}
-          <h2 class="post-card__title"><a href="{{ progetto.url }}">{{ progetto.data.title }}</a></h2>
+          <h2 class="post-card__title"><a href="{{ progetto.data.link | default: progetto.url }}">{{ progetto.data.title }}</a></h2>
           {%- if progetto.data.sommario %}<p class="post-card__summary">{{ progetto.data.sommario }}</p>{% endif %}
         </div>
       </li>

@@ -1,0 +1,7 @@
+{#- Navigazione tra i capitoli di un saggio (in alto e in fondo): precedente,
+    indice, successivo. Usa libro, t, prevCh, nextCh impostati da libro-capitolo.njk -#}
+<nav class="libro-nav" aria-label="{{ t.contents }}">
+  <span class="libro-nav__prev">{% if prevCh %}<a href="{{ prevCh.url }}" rel="prev"><span class="libro-nav__label">{{ t.prev }}:</span> <span aria-hidden="true">←</span> {{ prevCh.data.title }}</a>{% endif %}</span>
+  <a class="libro-nav__index" href="{{ libro.url }}">{{ t.index }}</a>
+  <span class="libro-nav__next">{% if nextCh %}<a href="{{ nextCh.url }}" rel="next"><span class="libro-nav__label">{{ t.next }}:</span> {{ nextCh.data.title }} <span aria-hidden="true">→</span></a>{% endif %}</span>
+</nav>

@@ -1,0 +1,77 @@
+---
+layout: base.njk
+---
+{#- Pagina indice di un saggio: copertina, presentazione (il contenuto del
+    file index.md), capitoli, EPUB, licenza. Dati in _data/libri.js. -#}
+{%- set libro = libri[book] %}
+{%- set t = libri.ui.en if lang.startsWith('en') else libri.ui.it %}
+{%- set capitoli = collections.capitoliLibri | bookChapters(book) %}
+{%- set bookUrl = meta.url + libro.url %}
+{%- set twin = libri[libro.translation] %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": {{ (bookUrl + "#book") | dump | safe }},
+  "name": {{ libro.title | dump | safe }},
+  {%- if libro.subtitle %}
+  "alternativeHeadline": {{ libro.subtitle | dump | safe }},
+  {%- endif %}
+  "description": {{ sommario | dump | safe }},
+  "url": {{ bookUrl | dump | safe }},
+  "image": {{ (meta.url + libro.cover) | dump | safe }},
+  "inLanguage": {{ libro.lang | dump | safe }},
+  "datePublished": {{ libro.datePublished | dump | safe }},
+  "bookFormat": "https://schema.org/EBook",
+  "license": {{ libro.license.url | dump | safe }},
+  "isAccessibleForFree": true,
+  "author": { "@type": "Person", "@id": {{ (meta.url + "/#me") | dump | safe }}, "name": "Andrea Corinti", "url": {{ (meta.url + "/") | dump | safe }} },
+  "associatedMedia": { "@type": "MediaObject", "contentUrl": {{ (meta.url + libro.epub) | dump | safe }}, "encodingFormat": "application/epub+zip" },
+  {%- if twin.visibile %}
+  {%- if libro.translationOf %}
+  "translationOfWork": { "@id": {{ (meta.url + twin.url + "#book") | dump | safe }} },
+  {%- else %}
+  "workTranslation": { "@id": {{ (meta.url + twin.url + "#book") | dump | safe }} },
+  {%- endif %}
+  {%- endif %}
+  "hasPart": [
+    {%- for c in capitoli %}
+    { "@type": "Chapter", "position": {{ c.data.order }}, "name": {{ c.data.title | dump | safe }}, "url": {{ (meta.url + c.url) | dump | safe }} }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}
+</script>
+
+{% include 'sitenav.njk' %}
+
+<header class="tdbc-hero libro-hero">
+  <div class="tdbc-container">
+    <h1 class="tdbc-ink--primary tdbc-mb-none">{{ libro.title }}</h1>
+    {%- if libro.subtitle %}
+    <p class="libro-hero__subtitle">{{ libro.subtitle }}</p>
+    {%- endif %}
+    <p class="libro-hero__author">{{ t.by }} <a href="{% if lang.startsWith('en') %}/en/about/{% else %}/about/{% endif %}">Andrea Corinti</a></p>
+  </div>
+</header>
+
+<main id="main-content" class="tdbc-container">
+  <article class="libro libro--indice">
+    <div class="libro-indice__top">
+      <img class="libro-indice__cover" src="{{ libro.cover }}" alt="{{ libro.coverAlt }}" loading="eager">
+      <div class="libro-indice__intro">
+        {{ content | safe }}
+        <p class="libro-indice__actions">
+          <a class="cat-btn libro-indice__download" href="{{ libro.epub }}" download>{{ t.download }}</a>
+        </p>
+        <p class="libro-indice__meta">{{ t.license }}: <a href="{{ libro.license.url }}" rel="license">{{ libro.license.name }}</a>{% if twin.visibile %} · <a href="{{ twin.url }}" hreflang="{{ twin.lang }}" lang="{{ twin.lang }}">{{ t.otherLang }}</a>{% endif %}</p>
+      </div>
+    </div>
+
+    <h2 class="libro-indice__heading">{{ t.contents }}</h2>
+    <ol class="libro-indice__toc">
+      {%- for c in capitoli %}
+      <li><a href="{{ c.url }}">{{ c.data.title }}</a></li>
+      {%- endfor %}
+    </ol>
+  </article>
+</main>

@@ -140,6 +140,18 @@ module.exports = function (eleventyConfig) {
       .map((x) => x.p);
   });
 
+  // Saggi leggibili sul sito: tutti i capitoli (src/libri/ e src/books/,
+  // indici esclusi) in ordine; bookChapters filtra quelli di un libro.
+  // Stanno fuori da blog/feed/correlati (che leggono solo src/posts/), ma
+  // dentro collections.all, quindi nella sitemap.
+  eleventyConfig.addCollection("capitoliLibri", function(collection) {
+    return collection.getFilteredByGlob(["./src/libri/**/*.md", "./src/books/**/*.md"])
+      .filter((item) => item.data.book && item.data.order)
+      .sort((a, b) => a.data.order - b.data.order);
+  });
+  eleventyConfig.addFilter("bookChapters", (chapters, book) =>
+    (chapters || []).filter((c) => c.data.book === book));
+
   eleventyConfig.addCollection("progetti", function(collection) {
     return collection.getFilteredByGlob("./src/posts/progetti/*.md").reverse();
   });
@@ -158,6 +170,12 @@ module.exports = function (eleventyConfig) {
   // pagine nuove/modificate arrivino davvero da chi gestisce il sito.
   eleventyConfig.addPassthroughCopy("./src/77b6ed3475014a7298f5e2644ca5e8da.txt");
   eleventyConfig.addPassthroughCopy("./src/js");
+  // EPUB scaricabili dei saggi (finiscono in /libri/<libro>/ e /books/<libro>/);
+  // quelli dei libri in embargo (_data/libri.js, `visibile`) non escono
+  const libri = require("./src/_data/libri.js");
+  for (const [id, libro] of Object.entries(libri)) {
+    if (id !== "ui" && libro.visibile) eleventyConfig.addPassthroughCopy(`./src${libro.epub}`);
+  }
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
   // "Lv" della scheda personaggio in About (finestra stile Final Fantasy):
@@ -198,7 +216,8 @@ module.exports = function (eleventyConfig) {
   // come sono (niente download a ogni build); se un file manca, resta l'<img>.
   eleventyConfig.addTransform("ottimizza-immagini-post", async function (content) {
     const out = this.page.outputPath || "";
-    if (!out.endsWith(".html") || !this.page.url.startsWith("/posts/")) return content;
+    // post e saggi (/libri/, /books/): stesse immagini responsive
+    if (!out.endsWith(".html") || !/^\/(posts|libri|books)\//.test(this.page.url)) return content;
     const tags = content.match(/<img\b[^>]*>/g) || [];
     for (const tag of new Set(tags)) {
       const m = tag.match(/\ssrc="(\/img\/[^"]+)"/);

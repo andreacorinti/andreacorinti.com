@@ -31,6 +31,29 @@
     status = 301
     force = true
 
+  # I due saggi ora si leggono sul sito: le vecchie pagine progetto rimandano
+  # all'indice del libro (il file in src/posts/progetti/ resta per la card).
+  # Giochi Troppo! è in embargo (KDP Select) fino a fine gennaio 2027: finché
+  # le sue pagine non esistono, /libri/giochi-troppo/… porta (302) alla vecchia
+  # pagina progetto, che intanto resta online. Nessuno dei due è forzato:
+  # Netlify li applica solo se all'indirizzo non c'è un file, quindi quando il
+  # libro esce (primo deploy dopo il 1/2/2027) si invertono da soli.
+  [[redirects]]
+    from = "/projects/giochi-troppo/"
+    to = "/libri/giochi-troppo/"
+    status = 301
+
+  [[redirects]]
+    from = "/libri/giochi-troppo/*"
+    to = "/projects/giochi-troppo/"
+    status = 302
+
+  [[redirects]]
+    from = "/projects/troppo-social/"
+    to = "/libri/troppo-social/"
+    status = 301
+    force = true
+
   # "Fumettame" è stata unita a "Film & Serie" (ora "Film, Serie & Fumettame",
   # slug invariato film-serie). Le vecchie pagine finiscono sulla prima della
   # categoria unita, perché la numerazione delle pagine non corrisponde più.

@@ -39,4 +39,9 @@ Cose grosse o rischiose rimandate apposta, per tenerne traccia:
 - Molti link `target="_blank"` nei post più vecchi non hanno `rel="noopener"` (piccolo rischio di reverse tabnabbing). Sistemato nei template condivisi (`social.njk`, `about.md`), ma resta da fare un passaggio sui contenuti storici in `src/posts/`
 - Manca ancora una Content-Security-Policy in `netlify.toml`, lasciata fuori di proposito: un decennio di post embeddano iframe/immagini da decine di host diversi (Spotify, YouTube, Bandcamp, blogspot/tumblr/wordpress d'epoca), quindi richiederebbe un audit dei domini usati prima di poterla scrivere senza rompere vecchi post
 - Structured data (`BlogPosting`/`CreativeWork` JSON-LD) aggiunto su post e progetti — prossimo passo naturale sarebbe validarlo periodicamente con il [Rich Results Test](https://search.google.com/test/rich-results) di Google dopo il deploy
+- **Saggi online (`src/libri/`, `src/books/`)**:
+  - *Giochi Troppo!* (italiano) è in **embargo** fino al 1/2/2027 (`inLineaDal` in `src/_data/libri.js`) perché è in KDP Select fino a fine gennaio: nella build di produzione non escono le sue pagine né l'EPUB, e `/libri/giochi-troppo/…` porta (302) alla vecchia `/projects/giochi-troppo/`. **Dopo il 1/2/2027 basta un deploy qualsiasi** e il libro esce da solo (redirect e card si invertono). Da verificare prima che l'esclusiva KDP sia davvero chiusa
+  - Gli EPUB si rigenerano dagli originali con gli script di conversione/patch (non nel repo): licenza CC BY-NC 4.0, bio aggiornata, errori epubcheck corretti, 9 note del cap. 4 di *Too Much Gaming!* ricostruite dall'italiano
+  - *Too Much Gaming!* usa la stessa copertina dell'edizione italiana (titolo "Giochi Troppo!" nel fumetto)
+  - *Too Much Gaming!*, capitolo 1: 4 note in meno rispetto all'italiano, adattamento voluto
 - Varie ed eventuali
