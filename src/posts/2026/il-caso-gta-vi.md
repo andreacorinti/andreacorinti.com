@@ -41,9 +41,7 @@ Però la rivoluzione, quella vera, quella da cui passa tutto e con cui dovranno 
 
 Non dovrebbe essere insomma il solito Truman Show dove gli NPC "vivono" in funzione del giocatore che posa lo sguardo su di loro, ma un ecosistema di relazioni, società, ruoli e attività complesso e profondo, che non mini mai la sospensione d'incredulità.
 
-Su questo sono molto curioso di leggere le impressioni del buon [Archimed3](https://mastodon.social/@Archimed3), che ci sta giocando e che già dopo le prime ore lo inquadra come un _Red Dead Redemption 2_ potenziato x1000 da un ambiente urbano moderno, con il realismo che coinvolge ma a volte toglie, proprio perché troppo verosimile:
-
-<iframe src="https://mastodon.social/@Archimed3/117640921194625300/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+Su questo sono molto curioso di leggere le impressioni del buon [Archimed3](https://mastodon.social/@Archimed3), che ci sta giocando e che già dopo le prime ore lo inquadra come un _Red Dead Redemption 2_ potenziato x1000 da un ambiente urbano moderno, con il realismo che coinvolge ma a volte toglie, proprio perché troppo verosimile.
 
 ### La sfida
 
