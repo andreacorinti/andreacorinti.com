@@ -1,8 +1,10 @@
 ---
 layout: postita
 title: "Ted Lasso - Stagione 4"
+seoTitle: "Ted Lasso stagione 4: recensione, pregi e difetti"
 subtitle: "Football is life?"
 sommario: "Stranamente da queste parti non mi pare di aver mai scritto niente di Ted Lasso, nonostante sia oramai una serie di culto per tanta gente e abbia appassionato non poco anche il sottoscritto..."
+seoDescription: "Ted Lasso stagione 4: la squadra femminile del Richmond rinfresca la serie, ma product placement Apple, twist telefonato e finale frettoloso la frenano."
 immagine: /img/ted-lasso-stagione-4/ted-lasso-s4-cast.jpg
 tags: ["film-serie"]
 date: 2026-10-09

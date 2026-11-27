@@ -2,8 +2,10 @@
 layout: posteng
 tags: ["videogiochi"]
 title: "Morrowind with the Total Overhaul Mod List, on Linux Mint"
+seoTitle: "Morrowind Total Overhaul on Linux: OpenMW AppImages and umo"
 subtitle: "Scattered notes on the automatic install via OpenMW + umo"
 sommario: "A short guide on how I installed the \"Total Overhaul\" mod list from modding-openmw.com on Linux Mint, with the Steam version of Morrowind, the issues I ran into with the AppImages, and a few final tips on post processing."
+seoDescription: "How I installed the modding-openmw.com Total Overhaul list on Linux Mint with Steam Morrowind: OpenMW AppImages, umo, MOMW Configurator, common errors."
 immagine: /img/openMW/screenshot001.jpg
 date: 2026-09-11
 lang: en-US

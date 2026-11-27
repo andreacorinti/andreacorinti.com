@@ -3,8 +3,10 @@ layout: posteng
 tags: ["musica"]
 templateEngineOverride: njk,md
 title: "Metal bands: please do not sing exclusively in English."
+seoTitle: "Metal Bands, Please Sing in Your Own Language"
 subtitle: "Linguistic music dullness"
 sommario: "I truly enjoy English. Not only for its cultural significance and relevance in the era in which I was born and raised, but also for the limitless opportunities it provides for communication with individuals all over the world. I absolutely love how English sounds. But..."
+seoDescription: "Why non-English metal bands should sing in their own language: Haggard, Eluveitie, Korpiklaani, The HU and language as a musical instrument."
 immagine: /img/a-night-at-the-opera1.webp
 date: 2024-01-18
 lang: en-US
