@@ -41,9 +41,56 @@ footer {
   // Icone social del footer sempre affiancate, anche su mobile.
   .footer-social {
     display: flex;
-    gap: 1rem;
+    gap: 0.75rem;
     align-items: center;
     justify-content: center;
+  }
+
+  // Due blocchi: copyright a sinistra, link a destra (base.njk). Su mobile
+  // tutto centrato, prima i link e sotto il copyright.
+  .site-footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem 0;
+    gap: 1rem 2rem;
+
+    @media (width < 768px) {
+      flex-direction: column-reverse;
+      justify-content: center;
+      text-align: center;
+    }
+  }
+
+  .site-footer__copy {
+    margin: 0;
+    color: #a8a8a8;
+    font-size: 0.9rem;
+  }
+
+  .site-footer__links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem 1.25rem;
+  }
+
+
+  .site-footer__donate {
+    display: inline-flex;
+    opacity: 0.9;
+    line-height: 0;
+
+    &:hover,
+    &:focus-visible {
+      opacity: 1;
+    }
+
+    img {
+      display: block;
+    }
   }
 
   // Il footer resta sempre su sfondo nero (.tdbc-background--secondary),
